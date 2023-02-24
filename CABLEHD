@@ -15609,6 +15609,426 @@ http://190.149.66.90:16000/play/a02p/index.m3u8
 http://190.149.66.90:16000/play/a03f/index.m3u8
 #EXTINF:-1 group-title="45-vk-AMERICA CENTRAL 2" ,Warner
 http://190.149.66.90:16000/play/a032/index.m3u8
+#EXTINF:-1 group-title="45-VK-BRASIL" ,A&E
+http://206.1.95.2:8004/play/a03d
+#EXTINF:-1 group-title="45-VK-BRASIL" ,AMC
+http://206.1.95.2:8004/play/a00u
+#EXTINF:-1 group-title="45-VK-BRASIL" ,AXN
+http://206.1.95.2:8004/play/a02d
+#EXTINF:-1 group-title="45-VK-BRASIL" ,Animal Planet
+http://206.1.95.2:8004/play/a02y
+#EXTINF:-1 group-title="45-VK-BRASIL" ,Arte 1
+http://206.1.95.2:8004/play/a02h
+#EXTINF:-1 group-title="45-VK-BRASIL" ,Baby TV
+http://206.1.95.2:8004/play/a00n
+#EXTINF:-1 group-title="45-VK-BRASIL" ,Band News
+http://206.1.95.2:8004/play/a020
+#EXTINF:-1 group-title="45-VK-BRASIL" ,Band Sports
+http://206.1.95.2:8004/play/a01p
+#EXTINF:-1 group-title="45-VK-BRASIL" ,Bandeirantes
+http://206.1.95.2:8004/play/a051
+#EXTINF:-1 group-title="45-VK-BRASIL" ,Boa Vontade TV
+http://206.1.95.2:8004/play/a02a
+#EXTINF:-1 group-title="45-VK-BRASIL" ,Boa Vontade TV
+http://206.1.95.2:8004/play/a02p
+#EXTINF:-1 group-title="45-VK-BRASIL" ,CNN Brasil
+http://206.1.95.2:8004/play/a01e
+#EXTINF:-1 group-title="45-VK-BRASIL" ,CNN Espaæol
+http://206.1.95.2:8004/play/a02f
+#EXTINF:-1 group-title="45-VK-BRASIL" ,CNN Internacional
+http://206.1.95.2:8004/play/a04w
+#EXTINF:-1 group-title="45-VK-BRASIL" ,CNT
+http://206.1.95.2:8004/play/a00s
+#EXTINF:-1 group-title="45-VK-BRASIL" ,Canal Brasil
+http://206.1.95.2:8004/play/a00k
+#EXTINF:-1 group-title="45-VK-BRASIL" ,Canal EducaĿªo - MEC
+http://206.1.95.2:8004/play/a03q
+#EXTINF:-1 group-title="45-VK-BRASIL" ,Canal Rural
+http://206.1.95.2:8004/play/a03g
+#EXTINF:-1 group-title="45-VK-BRASIL" ,Canal Sony
+http://206.1.95.2:8004/play/a01s
+#EXTINF:-1 group-title="45-VK-BRASIL" ,Canal do Boi
+http://206.1.95.2:8004/play/a01d
+#EXTINF:-1 group-title="45-VK-BRASIL" ,CanĿªo Nova
+http://206.1.95.2:8004/play/a03t
+#EXTINF:-1 group-title="45-VK-BRASIL" ,Cartoon Network
+http://206.1.95.2:8004/play/a018
+#EXTINF:-1 group-title="45-VK-BRASIL" ,Cartoonito
+http://206.1.95.2:8004/play/a03f
+#EXTINF:-1 group-title="45-VK-BRASIL" ,Cinemax
+http://206.1.95.2:8004/play/a04l
+#EXTINF:-1 group-title="45-VK-BRASIL" ,Combate
+http://206.1.95.2:8004/play/a037
+#EXTINF:-1 group-title="45-VK-BRASIL" ,Comedy Central
+http://206.1.95.2:8004/play/a02x
+#EXTINF:-1 group-title="45-VK-BRASIL" ,Curta!
+http://206.1.95.2:8004/play/a030
+#EXTINF:-1 group-title="45-VK-BRASIL" ,DW (Deutsch+)
+http://206.1.95.2:8004/play/a04y
+#EXTINF:-1 group-title="45-VK-BRASIL" ,Discovery Channel
+http://206.1.95.2:8004/play/a00r
+#EXTINF:-1 group-title="45-VK-BRASIL" ,Discovery H&H
+http://206.1.95.2:8004/play/a01n
+#EXTINF:-1 group-title="45-VK-BRASIL" ,Discovery Kids
+http://206.1.95.2:8004/play/a04q
+#EXTINF:-1 group-title="45-VK-BRASIL" ,Discovery Turbo
+http://206.1.95.2:8004/play/a01w
+#EXTINF:-1 group-title="45-VK-BRASIL" ,Disney
+http://206.1.95.2:8004/play/a03h
+#EXTINF:-1 group-title="45-VK-BRASIL" ,E!
+http://206.1.95.2:8004/play/a02r
+#EXTINF:-1 group-title="45-VK-BRASIL" ,ESPN
+http://206.1.95.2:8004/play/a01o
+#EXTINF:-1 group-title="45-VK-BRASIL" ,ESPN 2
+http://206.1.95.2:8004/play/a027
+#EXTINF:-1 group-title="45-VK-BRASIL" ,ESPN 4
+http://206.1.95.2:8004/play/a015
+#EXTINF:-1 group-title="45-VK-BRASIL" ,FX
+http://206.1.95.2:8004/play/a01r
+#EXTINF:-1 group-title="45-VK-BRASIL" ,Fish TV
+http://206.1.95.2:8004/play/a03b
+#EXTINF:-1 group-title="45-VK-BRASIL" ,Food Network
+http://206.1.95.2:8004/play/a00e
+#EXTINF:-1 group-title="45-VK-BRASIL" ,Fox Sports 2
+http://206.1.95.2:8004/play/a024
+#EXTINF:-1 group-title="45-VK-BRASIL" ,GNT
+http://206.1.95.2:8004/play/a03a
+#EXTINF:-1 group-title="45-VK-BRASIL" ,Globo Minas
+http://206.1.95.2:8004/play/a055
+#EXTINF:-1 group-title="45-VK-BRASIL" ,Globo RJ
+http://206.1.95.2:8004/play/a054
+#EXTINF:-1 group-title="45-VK-BRASIL" ,GloboNews
+http://206.1.95.2:8004/play/a026
+#EXTINF:-1 group-title="45-VK-BRASIL" ,Gloob
+http://206.1.95.2:8004/play/a00o
+#EXTINF:-1 group-title="45-VK-BRASIL" ,Gloobinho
+http://206.1.95.2:8004/play/a04p
+#EXTINF:-1 group-title="45-VK-BRASIL" ,HBO
+http://206.1.95.2:8004/play/a00l
+#EXTINF:-1 group-title="45-VK-BRASIL" ,HBO Family
+http://206.1.95.2:8004/play/a03c
+#EXTINF:-1 group-title="45-VK-BRASIL" ,HBO MUNDI
+http://206.1.95.2:8004/play/a02u
+#EXTINF:-1 group-title="45-VK-BRASIL" ,HBO Signature
+http://206.1.95.2:8004/play/a02c
+#EXTINF:-1 group-title="45-VK-BRASIL" ,HBO XTREME
+http://206.1.95.2:8004/play/a04n
+#EXTINF:-1 group-title="45-VK-BRASIL" ,HBO2
+http://206.1.95.2:8004/play/a01q
+#EXTINF:-1 group-title="45-VK-BRASIL" ,History 2
+http://206.1.95.2:8004/play/a01u
+#EXTINF:-1 group-title="45-VK-BRASIL" ,I-SAT
+http://206.1.95.2:8004/play/a03n
+#EXTINF:-1 group-title="45-VK-BRASIL" ,ID - InvestigaĿªo Discovery
+http://206.1.95.2:8004/play/a01y
+#EXTINF:-1 group-title="45-VK-BRASIL" ,IDEAL TV
+http://206.1.95.2:8004/play/a019
+#EXTINF:-1 group-title="45-VK-BRASIL" ,MegaPix
+http://206.1.95.2:8004/play/a04m
+#EXTINF:-1 group-title="45-VK-BRASIL" ,Multishow
+http://206.1.95.2:8004/play/a02q
+#EXTINF:-1 group-title="45-VK-BRASIL" ,Music Box Brazil
+http://206.1.95.2:8004/play/a01a
+#EXTINF:-1 group-title="45-VK-BRASIL" ,NHK
+http://206.1.95.2:8004/play/a03o
+#EXTINF:-1 group-title="45-VK-BRASIL" ,National Geographic
+http://206.1.95.2:8004/play/a01x
+#EXTINF:-1 group-title="45-VK-BRASIL" ,Nick Jr
+http://206.1.95.2:8004/play/a03i
+#EXTINF:-1 group-title="45-VK-BRASIL" ,Nickelodeon
+http://206.1.95.2:8004/play/a01v
+#EXTINF:-1 group-title="45-VK-BRASIL" ,OFF
+http://206.1.95.2:8004/play/a00h
+#EXTINF:-1 group-title="45-VK-BRASIL" ,Paramount Network
+http://206.1.95.2:8004/play/a00g
+#EXTINF:-1 group-title="45-VK-BRASIL" ,Polishop TV
+http://206.1.95.2:8004/play/a03p
+#EXTINF:-1 group-title="45-VK-BRASIL" ,Polishop TV
+http://206.1.95.2:8004/play/a03u
+#EXTINF:-1 group-title="45-VK-BRASIL" ,Premiere 2
+http://206.1.95.2:8004/play/a021
+#EXTINF:-1 group-title="45-VK-BRASIL" ,Premiere 3
+http://206.1.95.2:8004/play/a038
+#EXTINF:-1 group-title="45-VK-BRASIL" ,Premiere 4
+http://206.1.95.2:8004/play/a03s
+#EXTINF:-1 group-title="45-VK-BRASIL" ,Premiere 5
+http://206.1.95.2:8004/play/a02l
+#EXTINF:-1 group-title="45-VK-BRASIL" ,Premiere 8
+http://206.1.95.2:8004/play/a00x
+#EXTINF:-1 group-title="45-VK-BRASIL" ,Premiere Clubes
+http://206.1.95.2:8004/play/a022
+#EXTINF:-1 group-title="45-VK-BRASIL" ,Prime Box Brazil
+http://206.1.95.2:8004/play/a02b
+#EXTINF:-1 group-title="45-VK-BRASIL" ,RAI
+http://206.1.95.2:8004/play/a04v
+#EXTINF:-1 group-title="45-VK-BRASIL" ,RBI
+http://206.1.95.2:8004/play/a03m
+#EXTINF:-1 group-title="45-VK-BRASIL" ,RBS TV Porto Alegre
+http://206.1.95.2:8004/play/a057
+#EXTINF:-1 group-title="45-VK-BRASIL" ,RECORDTV
+http://206.1.95.2:8004/play/a02i
+#EXTINF:-1 group-title="45-VK-BRASIL" ,RIT
+http://206.1.95.2:8004/play/a03l
+#EXTINF:-1 group-title="45-VK-BRASIL" ,Record News
+http://206.1.95.2:8004/play/a00q
+#EXTINF:-1 group-title="45-VK-BRASIL" ,Rede Brasil
+http://206.1.95.2:8004/play/a02g
+#EXTINF:-1 group-title="45-VK-BRASIL" ,Rede TV
+http://206.1.95.2:8004/play/a04u
+#EXTINF:-1 group-title="45-VK-BRASIL" ,Rede Vida
+http://206.1.95.2:8004/play/a02e
+#EXTINF:-1 group-title="45-VK-BRASIL" ,SBT
+http://206.1.95.2:8004/play/a023
+#EXTINF:-1 group-title="45-VK-BRASIL" ,SIC Internacional
+http://206.1.95.2:8004/play/a04x
+#EXTINF:-1 group-title="45-VK-BRASIL" ,STAR CHANNEL
+http://206.1.95.2:8004/play/a016
+#EXTINF:-1 group-title="45-VK-BRASIL" ,Space
+http://206.1.95.2:8004/play/a02s
+#EXTINF:-1 group-title="45-VK-BRASIL" ,SporTV
+http://206.1.95.2:8004/play/a00f
+#EXTINF:-1 group-title="45-VK-BRASIL" ,SporTV 2
+http://206.1.95.2:8004/play/a025
+#EXTINF:-1 group-title="45-VK-BRASIL" ,SporTV 2 Alternativo
+http://206.1.95.2:8004/play/a00y
+#EXTINF:-1 group-title="45-VK-BRASIL" ,SporTV 3
+http://206.1.95.2:8004/play/a04k
+#EXTINF:-1 group-title="45-VK-BRASIL" ,SporTV Alternativo
+http://206.1.95.2:8004/play/a050
+#EXTINF:-1 group-title="45-VK-BRASIL" ,Studio Universal
+http://206.1.95.2:8004/play/a02w
+#EXTINF:-1 group-title="45-VK-BRASIL" ,Syfy
+http://206.1.95.2:8004/play/a04o
+#EXTINF:-1 group-title="45-VK-BRASIL" ,TBS
+http://206.1.95.2:8004/play/a03e
+#EXTINF:-1 group-title="45-VK-BRASIL" ,TCM
+http://206.1.95.2:8004/play/a02v
+#EXTINF:-1 group-title="45-VK-BRASIL" ,TLC
+http://206.1.95.2:8004/play/a01z
+#EXTINF:-1 group-title="45-VK-BRASIL" ,TNT
+http://206.1.95.2:8004/play/a028
+#EXTINF:-1 group-title="45-VK-BRASIL" ,TNT SØries
+http://206.1.95.2:8004/play/a02z
+#EXTINF:-1 group-title="45-VK-BRASIL" ,TV Anhanguera GoiÐnia
+http://206.1.95.2:8004/play/a056
+#EXTINF:-1 group-title="45-VK-BRASIL" ,TV Aparecida
+http://206.1.95.2:8004/play/a04t
+#EXTINF:-1 group-title="45-VK-BRASIL" ,TV Brasil
+http://206.1.95.2:8004/play/a034
+#EXTINF:-1 group-title="45-VK-BRASIL" ,TV Brasil 2
+http://206.1.95.2:8004/play/a039
+#EXTINF:-1 group-title="45-VK-BRASIL" ,TV Cultura
+http://206.1.95.2:8004/play/a02o
+#EXTINF:-1 group-title="45-VK-BRASIL" ,TV CÐmara
+http://206.1.95.2:8004/play/a033
+#EXTINF:-1 group-title="45-VK-BRASIL" ,TV JustiĿa
+http://206.1.95.2:8004/play/a031
+#EXTINF:-1 group-title="45-VK-BRASIL" ,TV Novo Tempo
+http://206.1.95.2:8004/play/a04z
+#EXTINF:-1 group-title="45-VK-BRASIL" ,TV Novo Tempo
+http://206.1.95.2:8004/play/a053
+#EXTINF:-1 group-title="45-VK-BRASIL" ,TV RÆ tim bum
+http://206.1.95.2:8004/play/a03j
+#EXTINF:-1 group-title="45-VK-BRASIL" ,TV Senado
+http://206.1.95.2:8004/play/a032
+#EXTINF:-1 group-title="45-VK-BRASIL" ,TV Tem Bauru
+http://206.1.95.2:8004/play/a05a
+#EXTINF:-1 group-title="45-VK-BRASIL" ,TV Tem Sorocaba
+http://206.1.95.2:8004/play/a059
+#EXTINF:-1 group-title="45-VK-BRASIL" ,TV Tribuna Santos
+http://206.1.95.2:8004/play/a058
+#EXTINF:-1 group-title="45-VK-BRASIL" ,TV5 Monde
+http://206.1.95.2:8004/play/a02k
+#EXTINF:-1 group-title="45-VK-BRASIL" ,TVE
+http://206.1.95.2:8004/play/a01b
+#EXTINF:-1 group-title="45-VK-BRASIL" ,Telecine Action
+http://206.1.95.2:8004/play/a017
+#EXTINF:-1 group-title="45-VK-BRASIL" ,Telecine Cult
+http://206.1.95.2:8004/play/a029
+#EXTINF:-1 group-title="45-VK-BRASIL" ,Telecine Pipoca
+http://206.1.95.2:8004/play/a02t
+#EXTINF:-1 group-title="45-VK-BRASIL" ,Telecine Premium
+http://206.1.95.2:8004/play/a00i
+#EXTINF:-1 group-title="45-VK-BRASIL" ,Telecine Touch
+http://206.1.95.2:8004/play/a00j
+#EXTINF:-1 group-title="45-VK-BRASIL" ,Terra Viva
+http://206.1.95.2:8004/play/a03k
+#EXTINF:-1 group-title="45-VK-BRASIL" ,The History Channel
+http://206.1.95.2:8004/play/a04r
+#EXTINF:-1 group-title="45-VK-BRASIL" ,Tooncast
+http://206.1.95.2:8004/play/a00p
+#EXTINF:-1 group-title="45-VK-BRASIL" ,TruTV
+http://206.1.95.2:8004/play/a00m
+#EXTINF:-1 group-title="45-VK-BRASIL" ,Universal TV
+http://206.1.95.2:8004/play/a02j
+#EXTINF:-1 group-title="45-VK-BRASIL" ,Woohoo
+http://206.1.95.2:8004/play/a01t
+#EXTINF:-1 group-title="45-VK-BRASIL" ,ZooMoo
+http://206.1.95.2:8004/play/a00t
+#EXTINF:-1 group-title="45-VK-CHILE" ,002 Dos KIDS HD
+http://45.160.12.253:8000/play/002
+#EXTINF:-1 group-title="45-VK-CHILE" ,006 Disney Jr
+http://45.160.12.253:8000/play/006
+#EXTINF:-1 group-title="45-VK-CHILE" ,008 BabyFirst
+http://45.160.12.253:8000/play/008
+#EXTINF:-1 group-title="45-VK-CHILE" ,009 Cartoon Network
+http://45.160.12.253:8000/play/009
+#EXTINF:-1 group-title="45-VK-CHILE" ,010 Disney Channel
+http://45.160.12.253:8000/play/010
+#EXTINF:-1 group-title="45-VK-CHILE" ,014 Nickelodeon
+http://45.160.12.253:8000/play/014
+#EXTINF:-1 group-title="45-VK-CHILE" ,015 Nick Jr
+http://45.160.12.253:8000/play/015
+#EXTINF:-1 group-title="45-VK-CHILE" ,016 NTV
+http://45.160.12.253:8000/play/016
+#EXTINF:-1 group-title="45-VK-CHILE" ,017 HBO
+http://45.160.12.253:8000/play/017
+#EXTINF:-1 group-title="45-VK-CHILE" ,018 HBO Family
+http://45.160.12.253:8000/play/018
+#EXTINF:-1 group-title="45-VK-CHILE" ,019 HBO Plus
+http://45.160.12.253:8000/play/019
+#EXTINF:-1 group-title="45-VK-CHILE" ,020 HBO XTREME SD
+http://45.160.12.253:8000/play/020
+#EXTINF:-1 group-title="45-VK-CHILE" ,021 HBO 2
+http://45.160.12.253:8000/play/021
+#EXTINF:-1 group-title="45-VK-CHILE" ,024 Discovery Channel
+http://45.160.12.253:8000/play/024
+#EXTINF:-1 group-title="45-VK-CHILE" ,025 Animal Planet
+http://45.160.12.253:8000/play/025
+#EXTINF:-1 group-title="45-VK-CHILE" ,027 Nat Geo
+http://45.160.12.253:8000/play/027
+#EXTINF:-1 group-title="45-VK-CHILE" ,032 History Channel
+http://45.160.12.253:8000/play/032
+#EXTINF:-1 group-title="45-VK-CHILE" ,033 History 2 HD
+http://45.160.12.253:8000/play/033
+#EXTINF:-1 group-title="45-VK-CHILE" ,042 Enlace
+http://45.160.12.253:8000/play/042
+#EXTINF:-1 group-title="45-VK-CHILE" ,043 Red de Fe
+http://45.160.12.253:8000/play/043
+#EXTINF:-1 group-title="45-VK-CHILE" ,044 FTV
+http://45.160.12.253:8000/play/044
+#EXTINF:-1 group-title="45-VK-CHILE" ,045 Gracia TV
+http://45.160.12.253:8000/play/045
+#EXTINF:-1 group-title="45-VK-CHILE" ,052 24 HORAS
+http://45.160.12.253:8000/play/052
+#EXTINF:-1 group-title="45-VK-CHILE" ,054 CNN Chile
+http://45.160.12.253:8000/play/054
+#EXTINF:-1 group-title="45-VK-CHILE" ,062 La Red
+http://45.160.12.253:8000/play/062
+#EXTINF:-1 group-title="45-VK-CHILE" ,064 TVN
+http://45.160.12.253:8000/play/064
+#EXTINF:-1 group-title="45-VK-CHILE" ,065 MEGA HD
+http://45.160.12.253:8000/play/065HD
+#EXTINF:-1 group-title="45-VK-CHILE" ,066 CHV
+http://45.160.12.253:8000/play/066
+#EXTINF:-1 group-title="45-VK-CHILE" ,067 CANAL 13
+http://45.160.12.253:8000/play/067
+#EXTINF:-1 group-title="45-VK-CHILE" ,079 ID
+http://45.160.12.253:8000/play/079
+#EXTINF:-1 group-title="45-VK-CHILE" ,081 Warner
+http://45.160.12.253:8000/play/081
+#EXTINF:-1 group-title="45-VK-CHILE" ,083 STAR CHANNEL
+http://45.160.12.253:8000/play/083
+#EXTINF:-1 group-title="45-VK-CHILE" ,085 Sony
+http://45.160.12.253:8000/play/085
+#EXTINF:-1 group-title="45-VK-CHILE" ,087 AXN
+http://45.160.12.253:8000/play/087
+#EXTINF:-1 group-title="45-VK-CHILE" ,088 Universal
+http://45.160.12.253:8000/play/088
+#EXTINF:-1 group-title="45-VK-CHILE" ,093 FX
+http://45.160.12.253:8000/play/093
+#EXTINF:-1 group-title="45-VK-CHILE" ,098 Studio Universal
+http://45.160.12.253:8000/play/098
+#EXTINF:-1 group-title="45-VK-CHILE" ,100 Lifetime
+http://45.160.12.253:8000/play/100
+#EXTINF:-1 group-title="45-VK-CHILE" ,101 SyFy
+http://45.160.12.253:8000/play/101
+#EXTINF:-1 group-title="45-VK-CHILE" ,102 AE Mundo
+http://45.160.12.253:8000/play/102
+#EXTINF:-1 group-title="45-VK-CHILE" ,107 Cinecanal
+http://45.160.12.253:8000/play/107
+#EXTINF:-1 group-title="45-VK-CHILE" ,108 TNT Series HD
+http://45.160.12.253:8000/play/108
+#EXTINF:-1 group-title="45-VK-CHILE" ,109 TNT
+http://45.160.12.253:8000/play/109
+#EXTINF:-1 group-title="45-VK-CHILE" ,110 TCM
+http://45.160.12.253:8000/play/110
+#EXTINF:-1 group-title="45-VK-CHILE" ,112 Cinemax
+http://45.160.12.253:8000/play/112
+#EXTINF:-1 group-title="45-VK-CHILE" ,116 I-Sat
+http://45.160.12.253:8000/play/116
+#EXTINF:-1 group-title="45-VK-CHILE" ,119 Space
+http://45.160.12.253:8000/play/119
+#EXTINF:-1 group-title="45-VK-CHILE" ,120 MX FAMILY
+http://45.160.12.253:8000/play/120
+#EXTINF:-1 group-title="45-VK-CHILE" ,121 MX CLASSIC
+http://45.160.12.253:8000/play/121
+#EXTINF:-1 group-title="45-VK-CHILE" ,122 MX PRIME
+http://45.160.12.253:8000/play/122
+#EXTINF:-1 group-title="45-VK-CHILE" ,123 MX Old
+http://45.160.12.253:8000/play/123
+#EXTINF:-1 group-title="45-VK-CHILE" ,124 Canal Dos HD
+http://45.160.12.253:8000/play/124
+#EXTINF:-1 group-title="45-VK-CHILE" ,131 ViaX
+http://45.160.12.253:8000/play/131
+#EXTINF:-1 group-title="45-VK-CHILE" ,132 MTV
+http://45.160.12.253:8000/play/132
+#EXTINF:-1 group-title="45-VK-CHILE" ,133 Zona Latina
+http://45.160.12.253:8000/play/133
+#EXTINF:-1 group-title="45-VK-CHILE" ,134 Karavana TV
+http://45.160.12.253:8000/play/134
+#EXTINF:-1 group-title="45-VK-CHILE" ,135 Karavana Urbano
+http://45.160.12.253:8000/play/135
+#EXTINF:-1 group-title="45-VK-CHILE" ,137 Old Music
+http://45.160.12.253:8000/play/137
+#EXTINF:-1 group-title="45-VK-CHILE" ,138 Zoom back
+http://45.160.12.253:8000/play/138
+#EXTINF:-1 group-title="45-VK-CHILE" ,149 Telemundo
+http://45.160.12.253:8000/play/149
+#EXTINF:-1 group-title="45-VK-CHILE" ,151 Canal Estrellas
+http://45.160.12.253:8000/play/151
+#EXTINF:-1 group-title="45-VK-CHILE" ,153 TVE
+http://45.160.12.253:8000/play/153
+#EXTINF:-1 group-title="45-VK-CHILE" ,171 Discovery H&H HD
+http://45.160.12.253:8000/play/171
+#EXTINF:-1 group-title="45-VK-CHILE" ,172 TLC
+http://45.160.12.253:8000/play/172
+#EXTINF:-1 group-title="45-VK-CHILE" ,174 E Entertainment
+http://45.160.12.253:8000/play/174
+#EXTINF:-1 group-title="45-VK-CHILE" ,177 El Gourmet
+http://45.160.12.253:8000/play/177
+#EXTINF:-1 group-title="45-VK-CHILE" ,178 Mundo & Sabor
+http://45.160.12.253:8000/play/178
+#EXTINF:-1 group-title="45-VK-CHILE" ,179 On Tour
+http://45.160.12.253:8000/play/179
+#EXTINF:-1 group-title="45-VK-CHILE" ,207 Discovery Turbo
+http://45.160.12.253:8000/play/207
+#EXTINF:-1 group-title="45-VK-CHILE" ,209 Fox Sports 1
+http://45.160.12.253:8000/play/209
+#EXTINF:-1 group-title="45-VK-CHILE" ,210 Fox Sports 2
+http://45.160.12.253:8000/play/210
+#EXTINF:-1 group-title="45-VK-CHILE" ,211 Fox Sports 3
+http://45.160.12.253:8000/play/211
+#EXTINF:-1 group-title="45-VK-CHILE" ,212 ESPN
+http://45.160.12.253:8000/play/212
+#EXTINF:-1 group-title="45-VK-CHILE" ,214 ESPN 2
+http://45.160.12.253:8000/play/214
+#EXTINF:-1 group-title="45-VK-CHILE" ,216 ESPN 3
+http://45.160.12.253:8000/play/216
+#EXTINF:-1 group-title="45-VK-CHILE" ,218 ESPN 4
+http://45.160.12.253:8000/play/218
+#EXTINF:-1 group-title="45-VK-CHILE" ,230 Canal del Caballo
+http://45.160.12.253:8000/play/230
+#EXTINF:-1 group-title="45-VK-CHILE" ,231 Fitmaxx
+http://45.160.12.253:8000/play/231
+#EXTINF:-1 group-title="45-VK-CHILE" ,232 Sportext
+http://45.160.12.253:8000/play/232
+#EXTINF:-1 group-title="45-VK-CHILE" ,233 TNT Sports HD
+http://45.160.12.253:8000/play/233
+#EXTINF:-1 group-title="45-VK-CHILE" ,234 TNT SPORTS 2
+http://45.160.12.253:8000/play/234
+#EXTINF:-1 group-title="45-VK-CHILE" ,235 TNT SPORTS 3
+http://45.160.12.253:8000/play/235
 #EXTINF:-1 group-title="45-VK-ECUADOR" ,AE Mundo
 http://200.24.132.99:8000/play/a025
 #EXTINF:-1 group-title="45-VK-ECUADOR" ,AXN
