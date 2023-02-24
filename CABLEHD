@@ -1321,6 +1321,20 @@ http://162.19.67.213:49214/BEIN_SPORTS_2/hls/playlist.m3u8
 http://162.19.67.213:49214/BEIN_SPORTS_3/hls/playlist.m3u8
 #EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" ,MATH! - RUSIA
 http://193.33.240.8:8080/Match_HD/index.m3u8
+#EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" ,EUROSPORT 1 ESPAÑOL
+http://51.158.36.81:18000/Eurosport_1/hls/playlist.m3u8
+#EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" ,EUROSPORT 2 ESPAÑOL
+http://51.158.36.81:18000/Eurosport_2/hls/playlist.m3u8
+#EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" ,GOL PLAY
+http://51.158.36.81:18000/GOL/hls/playlist.m3u8
+#EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" ,DAZN 1 ESPAÑA
+http://51.158.36.81:18000/DAZN_1/hls/playlist.m3u8
+#EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" ,DAZN 2 ESPAÑA
+http://51.158.36.81:18000/DAZN_2/hls/playlist.m3u8
+#EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" ,DAZN 3 ESPAÑA
+http://51.158.36.81:18000/DAZN_3/hls/playlist.m3u8
+#EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" ,DAZN 4
+http://51.158.36.81:18000/DAZN_4/hls/playlist.m3u8
 #EXTINF:-1 group-title="02 DIRECTV" ,DIRECTV Sports Argentina HD ARG
 http://ultratv.one:2095/xMsGHAzQ/kYuckAK/99578
 #EXTINF:-1 group-title="02 DIRECTV" ,DIRECTV Sports 2 HD ARG
@@ -2019,6 +2033,14 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1732
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1827
 #EXTINF:0 group-title="04CINE Y SERIES" ,HBO
 http://143.244.60.30/HBO/index.m3u8
+#EXTINF:0 group-title="04CINE Y SERIES" ,TNT ESPAÑA
+http://51.158.36.81:18000/GOL/hls/playlist.m3u8
+#EXTINF:0 group-title="04CINE Y SERIES" ,AMC ESPAÑA
+http://51.158.36.81:18000/AMC/hls/playlist.m3u8
+#EXTINF:0 group-title="04CINE Y SERIES" ,AXN ESPAÑA
+http://51.158.36.81:18000/AXN/hls/playlist.m3u8
+#EXTINF:0 group-title="04CINE Y SERIES" ,SYFY ESPAÑA
+http://51.158.36.81:18000/SYFY/hls/playlist.m3u8
 #EXTINF:-1 group-title="05ENTRETENIMIENTO" tvg-logo="https://i.imgur.com/K3n7ECn.png" ,AFV
 https://linear-46.frequency.stream/dist/plex/46/hls/master/playlist.m3u8
 #EXTINF:0 group-title="05ENTRETENIMIENTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Antena_3_Internacional_logo_2017.svg/1200px-Antena_3_Internacional_logo_2017.svg.png" ,ANTENA 3 INTERNACIONAL
@@ -7653,6 +7675,34 @@ http://168.205.87.198:8555/live/1431/123456/201.ts
 http://168.205.87.198:8555/live/1431/123456/206.ts
 #EXTINF:-1 group-title="41-stb-BRASIL ALBROID" ,ZOOMOO
 http://168.205.87.198:8555/live/1431/123456/162.ts
+#EXTINF:-1 group-title="41-STB-BULGARIA" ,BG+
+http://62.176.77.22:9781/play/a00k
+#EXTINF:-1 group-title="41-STB-BULGARIA" ,BNT 4
+http://62.176.77.22:9781/play/a00b
+#EXTINF:-1 group-title="41-STB-BULGARIA" ,DISCOVERY SCIENCE
+http://62.176.77.22:9781/play/a00g
+#EXTINF:-1 group-title="41-STB-BULGARIA" ,DM SAT
+http://62.176.77.22:9781/play/a00c
+#EXTINF:-1 group-title="41-STB-BULGARIA" ,EVIL ANGEL
+http://62.176.77.22:9781/play/a00l
+#EXTINF:-1 group-title="41-STB-BULGARIA" ,EVROKOM
+http://62.176.77.22:9781/play/a00j
+#EXTINF:-1 group-title="41-STB-BULGARIA" ,HGTV
+http://62.176.77.22:9781/play/a00a
+#EXTINF:-1 group-title="41-STB-BULGARIA" ,MAX SPORT 3
+http://62.176.77.22:9781/play/a00i
+#EXTINF:-1 group-title="41-STB-BULGARIA" ,MOVIE STAR
+http://62.176.77.22:9781/play/a00f
+#EXTINF:-1 group-title="41-STB-BULGARIA" ,NOSTALGIA
+http://62.176.77.22:9781/play/a00h
+#EXTINF:-1 group-title="41-STB-BULGARIA" ,PASSION XXX
+http://62.176.77.22:9781/play/a00n
+#EXTINF:-1 group-title="41-STB-BULGARIA" ,TRAVEL CHANNEL
+http://62.176.77.22:9781/play/a00e
+#EXTINF:-1 group-title="41-STB-BULGARIA" ,TV 1000
+http://62.176.77.22:9781/play/a00d
+#EXTINF:-1 group-title="41-STB-BULGARIA" ,VIVID RED
+http://62.176.77.22:9781/play/a00m
 #EXTINF:-1 group-title="41-stb-Cogent Communications España - IRAQ Y COREA" ,AL ALAM SYRIA TV
 http://149.100.10.202:4234/bysid/323
 #EXTINF:-1 group-title="41-stb-Cogent Communications España - IRAQ Y COREA" ,AL ESHRAQ TV
