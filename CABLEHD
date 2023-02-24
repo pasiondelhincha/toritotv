@@ -1343,6 +1343,18 @@ http://77.207.0.25:4000/play/a03n
 http://77.207.0.25:4000/play/a038
 #EXTINF:-1 group-title="02 DEPORTE MUNDIAL VARIOS" ,RMC SPORT 2
 http://77.207.0.25:4000/play/a033
+#EXTINF:-1 group-title="02 DEPORTE MUNDIAL VARIOS" ,МАТЧ ПРЕМЬЕР HD
+http://79.124.21.251:9770/play/a005
+#EXTINF:-1 group-title="02 DEPORTE MUNDIAL VARIOS" ,МАТЧ! ФУТБОЛ 1 HD
+http://79.124.21.251:9770/play/a006
+#EXTINF:-1 group-title="02 DEPORTE MUNDIAL VARIOS" ,МАТЧ! ФУТБОЛ 2 HD
+http://79.124.21.251:9770/play/a003
+#EXTINF:-1 group-title="02 DEPORTE MUNDIAL VARIOS" ,МАТЧ! ФУТБОЛ 3 HD
+http://79.124.21.251:9770/play/a004
+#EXTINF:-1 group-title="02 DEPORTE MUNDIAL VARIOS" ,Первый канал HD
+http://79.124.21.251:9770/play/a00p
+#EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" ,BELARUS 5
+http://82.209.197.187:8080/udp/239.0.100.9:1234
 #EXTINF:-1 group-title="02 DIRECTV" ,DIRECTV Sports Argentina HD ARG
 http://ultratv.one:2095/xMsGHAzQ/kYuckAK/99578
 #EXTINF:-1 group-title="02 DIRECTV" ,DIRECTV Sports 2 HD ARG
@@ -7477,6 +7489,22 @@ http://37.17.12.124:8901/play/a006
 http://37.17.12.124:8901/play/a008
 #EXTINF:-1 group-title="41-stb-BELARUS" ,СТВ
 http://37.17.12.124:8901/play/a00a
+#EXTINF:-1 group-title="41-STB-BIELORRUSIA" ,Unknown_1
+http://82.209.197.187:8080/udp/239.0.100.3:1234
+#EXTINF:-1 group-title="41-STB-BIELORRUSIA" ,Unknown_2
+http://82.209.197.187:8080/udp/239.0.100.4:1234
+#EXTINF:-1 group-title="41-STB-BIELORRUSIA" ,Unknown_3
+http://82.209.197.187:8080/udp/239.0.100.5:1234
+#EXTINF:-1 group-title="41-STB-BIELORRUSIA" ,Unknown_4
+http://82.209.197.187:8080/udp/239.0.100.6:1234
+#EXTINF:-1 group-title="41-STB-BIELORRUSIA" ,Unknown_5
+http://82.209.197.187:8080/udp/239.0.100.7:1234
+#EXTINF:-1 group-title="41-STB-BIELORRUSIA" ,Unknown_6
+http://82.209.197.187:8080/udp/239.0.100.8:1234
+#EXTINF:-1 group-title="41-STB-BIELORRUSIA" ,Unknown_7
+http://82.209.197.187:8080/udp/239.0.100.9:1234
+#EXTINF:-1 group-title="41-STB-BIELORRUSIA" ,Unknown_8
+http://82.209.197.187:8080/udp/239.0.100.10:1234
 #EXTINF:-1 group-title="41-stb-BRASIL ALBROID" ,40 GRAUS TV
 http://168.205.87.198:8555/live/1431/123456/225.ts
 #EXTINF:-1 group-title="41-stb-BRASIL ALBROID" ,ADESSO TV
