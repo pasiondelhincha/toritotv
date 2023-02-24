@@ -11985,6 +11985,28 @@ http://217.174.225.146/hls/ch005_720/index.m3u8
 http://217.174.225.146/hls/ch006_720/index.m3u8
 #EXTINF:-1 group-title="41-stb-TURKMENISTAN" ,TURKMENISTAN TV
 http://217.174.225.146/hls/ch007_720/index.m3u8
+#EXTINF:-1 group-title="41-stb-TURQUIA" ,STAR TV
+http://195.155.98.170:5858/play/a09w
+#EXTINF:-1 group-title="41-stb-TURQUIA" ,STAR TV
+http://195.155.98.170:5858/play/a09z
+#EXTINF:-1 group-title="41-stb-TURQUIA" ,TRT 1
+http://195.155.98.170:5858/play/a09c
+#EXTINF:-1 group-title="41-stb-TURQUIA" ,TRT 1
+http://195.155.98.170:5858/play/a09j
+#EXTINF:-1 group-title="41-stb-TURQUIA" ,TRT 2
+http://195.155.98.170:5858/play/a09p
+#EXTINF:-1 group-title="41-stb-TURQUIA" ,TRT BELGESEL
+http://195.155.98.170:5858/play/a09o
+#EXTINF:-1 group-title="41-stb-TURQUIA" ,TRT COKUK
+http://195.155.98.170:5858/play/a09n
+#EXTINF:-1 group-title="41-stb-TURQUIA" ,TRT HABER
+http://195.155.98.170:5858/play/a09k
+#EXTINF:-1 group-title="41-stb-TURQUIA" ,TRT MUZIK
+http://195.155.98.170:5858/play/a09h
+#EXTINF:-1 group-title="41-stb-TURQUIA" ,TRT SPOR 1
+http://195.155.98.170:5858/play/a09u
+#EXTINF:-1 group-title="41-stb-TURQUIA" ,TRT SPOR 3
+http://195.155.98.170:5858/play/a09m
 #EXTINF:-1 group-title="41-stb-VENEZUELA COLOMBIA CUBA" ,AXN
 http://152.200.181.236:15000/play/a01z
 #EXTINF:-1 group-title="41-stb-VENEZUELA COLOMBIA CUBA" ,BABY FIRST
@@ -15587,6 +15609,128 @@ http://190.149.66.90:16000/play/a02p/index.m3u8
 http://190.149.66.90:16000/play/a03f/index.m3u8
 #EXTINF:-1 group-title="45-vk-AMERICA CENTRAL 2" ,Warner
 http://190.149.66.90:16000/play/a032/index.m3u8
+#EXTINF:-1 group-title="45-VK-ECUADOR" ,AE Mundo
+http://200.24.132.99:8000/play/a025
+#EXTINF:-1 group-title="45-VK-ECUADOR" ,AXN
+http://200.24.132.99:8000/play/a02p
+#EXTINF:-1 group-title="45-VK-ECUADOR" ,Animal Planet
+http://200.24.132.99:8000/play/a01y
+#EXTINF:-1 group-title="45-VK-ECUADOR" ,CNN Espanol
+http://200.24.132.99:8000/play/a01q
+#EXTINF:-1 group-title="45-VK-ECUADOR" ,Canal Estrellas
+http://200.24.132.99:8000/play/a027
+#EXTINF:-1 group-title="45-VK-ECUADOR" ,Cartoon Network
+http://200.24.132.99:8000/play/a01m
+#EXTINF:-1 group-title="45-VK-ECUADOR" ,Cinecanal
+http://200.24.132.99:8000/play/a01f
+#EXTINF:-1 group-title="45-VK-ECUADOR" ,Cinemax
+http://200.24.132.99:8000/play/a02n
+#EXTINF:-1 group-title="45-VK-ECUADOR" ,Discovery Channel
+http://200.24.132.99:8000/play/a01x
+#EXTINF:-1 group-title="45-VK-ECUADOR" ,Discovery Kids
+http://200.24.132.99:8000/play/a01s
+#EXTINF:-1 group-title="45-VK-ECUADOR" ,Discovery Turbo
+http://200.24.132.99:8000/play/a02u
+#EXTINF:-1 group-title="45-VK-ECUADOR" ,Disney Channel
+http://200.24.132.99:8000/play/a01w
+#EXTINF:-1 group-title="45-VK-ECUADOR" ,Disney Jr
+http://200.24.132.99:8000/play/a01u
+#EXTINF:-1 group-title="45-VK-ECUADOR" ,E Entertainment
+http://200.24.132.99:8000/play/a020
+#EXTINF:-1 group-title="45-VK-ECUADOR" ,ECTV HD
+http://200.24.132.99:8000/play/a00f
+#EXTINF:-1 group-title="45-VK-ECUADOR" ,ECTV SD
+http://200.24.132.99:8000/play/a00j
+#EXTINF:-1 group-title="45-VK-ECUADOR" ,ESPN
+http://200.24.132.99:8000/play/a022
+#EXTINF:-1 group-title="45-VK-ECUADOR" ,ESPN 2
+http://200.24.132.99:8000/play/a01v
+#EXTINF:-1 group-title="45-VK-ECUADOR" ,ESPN 2 Latin
+http://200.24.132.99:8000/play/a021
+#EXTINF:-1 group-title="45-VK-ECUADOR" ,ESPN 3
+http://200.24.132.99:8000/play/a02w
+#EXTINF:-1 group-title="45-VK-ECUADOR" ,ESPN CO
+http://200.24.132.99:8000/play/a02m
+#EXTINF:-1 group-title="45-VK-ECUADOR" ,Ecuador TV
+http://200.24.132.99:8000/play/a02g
+#EXTINF:-1 group-title="45-VK-ECUADOR" ,Ecuavisa
+http://200.24.132.99:8000/play/a02k
+#EXTINF:-1 group-title="45-VK-ECUADOR" ,Ecuavisa HD
+http://200.24.132.99:8000/play/a012
+#EXTINF:-1 group-title="45-VK-ECUADOR" ,Ecuavisa SD
+http://200.24.132.99:8000/play/a013
+#EXTINF:-1 group-title="45-VK-ECUADOR" ,Enlace
+http://200.24.132.99:8000/play/a01o
+#EXTINF:-1 group-title="45-VK-ECUADOR" ,Esne TV
+http://200.24.132.99:8000/play/a02v
+#EXTINF:-1 group-title="45-VK-ECUADOR" ,FX
+http://200.24.132.99:8000/play/a02r
+#EXTINF:-1 group-title="45-VK-ECUADOR" ,Fox Sports 1
+http://200.24.132.99:8000/play/a02f
+#EXTINF:-1 group-title="45-VK-ECUADOR" ,Fox Sports 2
+http://200.24.132.99:8000/play/a028
+#EXTINF:-1 group-title="45-VK-ECUADOR" ,Fox Sports 3
+http://200.24.132.99:8000/play/a029
+#EXTINF:-1 group-title="45-VK-ECUADOR" ,France 24
+http://200.24.132.99:8000/play/a02c
+#EXTINF:-1 group-title="45-VK-ECUADOR" ,GOL TV
+http://200.24.132.99:8000/play/a023
+#EXTINF:-1 group-title="45-VK-ECUADOR" ,GamaTV
+http://200.24.132.99:8000/play/a02h
+#EXTINF:-1 group-title="45-VK-ECUADOR" ,History Channel
+http://200.24.132.99:8000/play/a01e
+#EXTINF:-1 group-title="45-VK-ECUADOR" ,HomeandHealth
+http://200.24.132.99:8000/play/a02e
+#EXTINF:-1 group-title="45-VK-ECUADOR" ,I-Sat
+http://200.24.132.99:8000/play/a01h
+#EXTINF:-1 group-title="45-VK-ECUADOR" ,MTV
+http://200.24.132.99:8000/play/a01i
+#EXTINF:-1 group-title="45-VK-ECUADOR" ,Nat Geo
+http://200.24.132.99:8000/play/a01d
+#EXTINF:-1 group-title="45-VK-ECUADOR" ,Nick Jr
+http://200.24.132.99:8000/play/a02t
+#EXTINF:-1 group-title="45-VK-ECUADOR" ,Nickelodeon
+http://200.24.132.99:8000/play/a01b
+#EXTINF:-1 group-title="45-VK-ECUADOR" ,RCN Novelas
+http://200.24.132.99:8000/play/a02b
+#EXTINF:-1 group-title="45-VK-ECUADOR" ,RTS
+http://200.24.132.99:8000/play/a02s
+#EXTINF:-1 group-title="45-VK-ECUADOR" ,RTS HD
+http://200.24.132.99:8000/play/a004
+#EXTINF:-1 group-title="45-VK-ECUADOR" ,Sony
+http://200.24.132.99:8000/play/a02o
+#EXTINF:-1 group-title="45-VK-ECUADOR" ,Space
+http://200.24.132.99:8000/play/a02q
+#EXTINF:-1 group-title="45-VK-ECUADOR" ,TBS
+http://200.24.132.99:8000/play/a02d
+#EXTINF:-1 group-title="45-VK-ECUADOR" ,TC HD
+http://200.24.132.99:8000/play/a008
+#EXTINF:-1 group-title="45-VK-ECUADOR" ,TC Television
+http://200.24.132.99:8000/play/a02j
+#EXTINF:-1 group-title="45-VK-ECUADOR" ,TCM
+http://200.24.132.99:8000/play/a01k
+#EXTINF:-1 group-title="45-VK-ECUADOR" ,TELEAMAZONAS HD
+http://200.24.132.99:8000/play/a006
+#EXTINF:-1 group-title="45-VK-ECUADOR" ,TNT
+http://200.24.132.99:8000/play/a01n
+#EXTINF:-1 group-title="45-VK-ECUADOR" ,TVE
+http://200.24.132.99:8000/play/a01p
+#EXTINF:-1 group-title="45-VK-ECUADOR" ,Tc Television SD
+http://200.24.132.99:8000/play/a00m
+#EXTINF:-1 group-title="45-VK-ECUADOR" ,Teleamazonas
+http://200.24.132.99:8000/play/a02l
+#EXTINF:-1 group-title="45-VK-ECUADOR" ,Teleamazonas SD
+http://200.24.132.99:8000/play/a00n
+#EXTINF:-1 group-title="45-VK-ECUADOR" ,Telemundo
+http://200.24.132.99:8000/play/a02a
+#EXTINF:-1 group-title="45-VK-ECUADOR" ,TyC
+http://200.24.132.99:8000/play/a024
+#EXTINF:-1 group-title="45-VK-ECUADOR" ,Universal
+http://200.24.132.99:8000/play/a01g
+#EXTINF:-1 group-title="45-VK-ECUADOR" ,Warner
+http://200.24.132.99:8000/play/a01z
+#EXTINF:-1 group-title="45-VK-ECUADOR" ,Zona Latina
+http://200.24.132.99:8000/play/a01j
 #EXTINF:-1 group-title="52 VK VENEZUELA - COLOMBIA" ,123 TV
 http://latam.tucine.tv:8080/live/Jellyfin/Jelly.4563*/13346.m3u8
 #EXTINF:-1 group-title="52 VK VENEZUELA - COLOMBIA" ,123 TV
