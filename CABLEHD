@@ -1389,36 +1389,82 @@ http://88.99.216.157:5080/WebRTCApp/streams/SSC3.m3u8
 http://88.99.216.157:5080/WebRTCApp/streams/SSC4.m3u8
 #EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" ,SSC5
 http://88.99.216.157:5080/WebRTCApp/streams/SSC5.m3u8
-#EXTINF:-1 group-title="02 DIRECTV" ,DIRECTV Sports Argentina HD ARG
-http://ultratv.one:2095/xMsGHAzQ/kYuckAK/99578
-#EXTINF:-1 group-title="02 DIRECTV" ,DIRECTV Sports 2 HD ARG
-http://ultratv.one:2095/xMsGHAzQ/kYuckAK/99580
-#EXTINF:-1 group-title="02 DIRECTV" ,DIRECTV Sports + HD ARG
-http://ultratv.one:2095/xMsGHAzQ/kYuckAK/99579
-#EXTINF:-1 group-title="02 DIRECTV" ,OnDIRECTV HD ARG
-http://ultratv.one:2095/xMsGHAzQ/kYuckAK/99524
-#EXTINF:-1 group-title="02 DIRECTV" ,DIRECTV Sports CHL
-http://ultratv.one:2095/xMsGHAzQ/kYuckAK/72204
-#EXTINF:-1 group-title="02 DIRECTV" ,DIRECTV Eventos 2 HD CHL
-http://ultratv.one:2095/xMsGHAzQ/kYuckAK/117871
-#EXTINF:-1 group-title="02 DIRECTV" ,DIRECTV Sports 2 HD CHL
-http://ultratv.one:2095/xMsGHAzQ/kYuckAK/99038
-#EXTINF:-1 group-title="02 DIRECTV" ,DIRECTV Eventos 3 HD CHL
-http://ultratv.one:2095/xMsGHAzQ/kYuckAK/117872
-#EXTINF:-1 group-title="02 DIRECTV" ,DIRECTV Eventos 5 HD CHL
-http://ultratv.one:2095/xMsGHAzQ/kYuckAK/191677
-#EXTINF:-1 group-title="02 DIRECTV" ,DIRECTV Sports + HD CHL
-http://ultratv.one:2095/xMsGHAzQ/kYuckAK/99037
-#EXTINF:-1 group-title="02 DIRECTV" ,DIRECTV SPORTS 1 CO
-http://ultratv.one:2095/xMsGHAzQ/kYuckAK/72219
-#EXTINF:-1 group-title="02 DIRECTV" ,DIRECTV SPORTS 2 CO
-http://ultratv.one:2095/xMsGHAzQ/kYuckAK/72218
-#EXTINF:-1 group-title="02 DIRECTV" ,DIRECTV SPORTS PLUS CO
-http://ultratv.one:2095/xMsGHAzQ/kYuckAK/72217
-#EXTINF:-1 group-title="02 DIRECTV" ,Directv Sports 2 EC
-http://ultratv.one:2095/xMsGHAzQ/kYuckAK/72239
-#EXTINF:-1 group-title="02 DIRECTV" ,Directv Sports HD UY
-http://ultratv.one:2095/xMsGHAzQ/kYuckAK/146743
+#EXTINF:-1 group-title="02 DIRECTV" ,OPCION 1
+https://epg.pw/stream/8eac27160461ca1f12d59cade7e358bbb54ff9803a1e9f39aa88d39d99f1dc9a.ctv
+#EXTINF:-1 group-title="02 DIRECTV" ,OPCION 2
+https://epg.pw/stream/946f55e3ec974f0913b115560a52604e8498fdc454f93bcf26d294c41dc80905.ctv
+#EXTINF:-1 group-title="02 DIRECTV" ,OPCION 3
+https://epg.pw/stream/f45b9c4e96ae1a64f4661c7c3abd1668d6ecabae7913a0e26cdb6c378231d68a.ctv
+#EXTINF:-1 group-title="02 DIRECTV" ,OPCION 4
+https://epg.pw/stream/59da5705d11f0ea63df1480385b94b90d1cb40e8895b26694f0cd4be54858259.ctv
+#EXTINF:-1 group-title="02 DIRECTV" ,OPCION 5
+https://epg.pw/stream/892cd5b6571cb78cfbf85ec6562dbc154b2ad54747e4b2becaa857e6e5f7515d.ctv
+#EXTINF:-1 group-title="02 DIRECTV" ,OPCION 6
+https://epg.pw/stream/7e2248c84110e525cfd757f2274aa085c3b00558741fb642c5445577c7155552.ctv
+#EXTINF:-1 group-title="02 DIRECTV" ,OPCION 7
+https://epg.pw/stream/cb03609851411668059785d99339f315edd0f556ffeaa483ee9410c0d2b3f623.ctv
+#EXTINF:-1 group-title="02 DIRECTV" ,OPCION 8
+https://epg.pw/stream/962c4d03f7cf1c456d12a37a90ea32556cfb00b14ffb211ac074432706b15128.ctv
+#EXTINF:-1 group-title="02 DIRECTV" ,OPCION 9
+https://epg.pw/stream/332ca07e08f2e617f271d4ef955ee001145951a568b65c90ac7308ad0adaeeb5.ctv
+#EXTINF:-1 group-title="02 DIRECTV" ,OPCION 10
+https://epg.pw/stream/f08726b8e97f7d773b064098c5adb7cad317372d6bbb809415917f14bf39120c.ctv
+#EXTINF:-1 group-title="02 DIRECTV" ,OPCION 11
+https://epg.pw/stream/38326c6c2b50b1f8604e2d7070203f92c6df0f5c628fc7f164eebcdb5ad5bfea.ctv
+#EXTINF:-1 group-title="02 DIRECTV" ,OPCION 12
+https://epg.pw/stream/30d46241cdd8cdb09110f6d37b35bb1cba058a4dd7baf89890f77f2f6921667e.ctv
+#EXTINF:-1 group-title="02 DIRECTV" ,OPCION 13
+https://epg.pw/stream/71c7464bab4d772971ab2cae1e281182c4dbec487ff201cf777e55e95d07433a.ctv
+#EXTINF:-1 group-title="02 DIRECTV" ,OPCION 14
+https://epg.pw/stream/953d6efaa89597500c696dd97167f17c3033ac0fc9652cb1cf2dae0a427c4e9e.ctv
+#EXTINF:-1 group-title="02 DIRECTV" ,OPCION 15
+https://epg.pw/stream/a931d83d0d2e1e9021591b0da2a48d152da2ba456fa4ebb17874ee99a3afd783.ctv
+#EXTINF:-1 group-title="02 DIRECTV" ,OPCION 16
+https://epg.pw/stream/5fabe23264edee93d63d3218a80435339bf6ec3c2cb9857c1f3097a06631bf1c.ctv
+#EXTINF:-1 group-title="02 DIRECTV" ,OPCION 17
+https://epg.pw/stream/36902176c269c0ca08862afb06545cc7304e961f695b8c1028bf657395f9d247.ctv
+#EXTINF:-1 group-title="02 DIRECTV" ,OPCION 18
+https://epg.pw/stream/a7398758009ed4150c75321ae124e8e269ede817b69b9636d01941a0cff0ebf8.ctv
+#EXTINF:-1 group-title="02 DIRECTV" ,OPCION 19
+https://epg.pw/stream/2c8069edc219d1ad443bc1698134dc1d88dcba71c97f1ff3eac8e922b2d29c16.ctv
+#EXTINF:-1 group-title="02 DIRECTV" ,OPCION 20
+https://epg.pw/stream/edcef67485c16bfebfe2902705930e1eb2c742788d360196004224beaef83144.ctv
+#EXTINF:-1 group-title="02 DIRECTV" ,OPCION 21
+https://epg.pw/stream/cc073eecfea917c42023f951f9439899fe9f4140b4ea2dd64a3090a87e98de17.ctv
+#EXTINF:-1 group-title="02 DIRECTV" ,OPCION 22
+https://epg.pw/stream/0db9ecfd0da351ddb8891313178c7ca2f1f979cd68b9d57d1d5773a4e766cfad.ctv
+#EXTINF:-1 group-title="02 DIRECTV" ,OPCION 23
+https://epg.pw/stream/5a81bbec280ebe14dc2c5a6b1cc90e231cc0276c912d73c1efa72b7cac5348c2.ctv
+#EXTINF:-1 group-title="02 DIRECTV" ,OPCION 24
+https://epg.pw/stream/c5f83c3c66920bef2e04ed4830a25d7fe3e0cebed704762d7b613ea07735d5d4.ctv
+#EXTINF:-1 group-title="02 DIRECTV" ,OPCION 25
+https://epg.pw/stream/08bff6502802736a2ea094d7359c87854aa11a16fc891e784734c1c6c0c04de5.ctv
+#EXTINF:-1 group-title="02 DIRECTV" ,OPCION 26
+https://epg.pw/stream/448f7fade20b5de7e1f933dbd7e797492babadfb2da7bd9e23092dad7b8fa8a1.ctv
+#EXTINF:-1 group-title="02 DIRECTV" ,OPCION 27
+https://epg.pw/stream/4993dcf58fb0127b504f1e0f96b0f35198825305e38c34b03dc85166e505f4ce.ctv
+#EXTINF:-1 group-title="02 DIRECTV" ,OPCION 28
+https://epg.pw/stream/3335793a14c28c39941f19fbc0090ef4087fd37782fdbc98e615a952016c0f8d.ctv
+#EXTINF:-1 group-title="02 DIRECTV" ,OPCION 29
+https://epg.pw/stream/111818c4cedff1f8b2489902bd50763fee9e0cfdbb9dba029d9d9d67f92735c9.ctv
+#EXTINF:-1 group-title="02 DIRECTV" ,OPCION 30
+https://epg.pw/stream/e0c7e1191e0cf2a534c73423dce744dd4edb7749089f8f024faa93e1bf79607c.ctv
+#EXTINF:-1 group-title="02 DIRECTV" ,OPCION 31
+https://epg.pw/stream/85b8de7f1a4f2587ddb1ff15014b4150dd3f25e628e9b51c518965dd5e34b5bd.ctv
+#EXTINF:-1 group-title="02 DIRECTV" ,OPCION 32
+https://epg.pw/stream/cbac892dae6cd869d8a9fdba0a2a34c4cccf4701b2dc8ba4a7f9e6427d3e3666.ctv
+#EXTINF:-1 group-title="02 DIRECTV" ,OPCION 33
+https://epg.pw/stream/bf8dd50ac81baecaff794a07bf0df064fa59c79e54d8293558a5fc2bf39eb27b.ctv
+#EXTINF:-1 group-title="02 DIRECTV" ,OPCION 34
+https://epg.pw/stream/bc0231b77b18ec5c34eb100a90ec7e6949b66e8b37f6ddd8c45e6103424d4e53.ctv
+#EXTINF:-1 group-title="02 DIRECTV" ,OPCION 35
+https://epg.pw/stream/671a9bdb871957c37cc9601aa9237352a5e9bdf91791d946168b8b7f1ce502a4.ctv
+#EXTINF:-1 group-title="02 DIRECTV" ,OPCION 36
+https://epg.pw/stream/0441c49635567e181d3f4490888c25188e366d5d6dba2df53a4853ce2f51d85b.ctv
+#EXTINF:-1 group-title="02 DIRECTV" ,OPCION 37
+https://epg.pw/stream/b7c56a8846e1e1ae16745e25d0abbfd19b9e2becc3360403853f9d43954b622e.m3u8
+#EXTINF:-1 group-title="02 DIRECTV" ,OPCION 38
+https://epg.pw/stream/d2b08d424a69f1e404f13bf91e361c446fe66d13b2ad4f1268df71be1ce14a72.m3u8
 #EXTINF:0 group-title="02 FUTBOL BRASIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ESPN_Brasil_logo.svg/1200px-ESPN_Brasil_logo.svg.png" ,ESPN
 http://xcui.vitvabc.xyz:8880/287994016392/287994016392/16748
 #EXTINF:0 group-title="02 FUTBOL BRASIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ESPN_Brasil_logo.svg/1200px-ESPN_Brasil_logo.svg.png" ,ESPN 2
