@@ -48,7 +48,7 @@ https://heroeip.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/em
 #EXTINF:-1 group-title="01LOCAL" tvg-logo="https://pbs.twimg.com/profile_images/892399209525243905/RScqjMaJ_400x400.jpg" ,24-CIUDAD MAGAZINE
 https://epg.pw/stream/5533952d87c125a45bea4ec0e9f34f622cbc049a2d42acd4ed04242882e2825d.ctv
 #EXTINF:0 group-title="01LOCAL" tvg-logo="https://i.imgur.com/HFGGwWi.png" ,25-KZO
-https://youtu.be/TsT6noTbVaAhttps://heroeip.herokuapp.com/iptv-query?streaming-ip=https://youtu.be/embed/TsT6noTbVaA
+https://www.youtube.com/get_video_info?video_id=TsT6noTbVaA&jsurl=https:%2F%2Fwww.youtube.com%2Fs%2Fplayer%2F9419f2ea%2Fplayer_ias.vflset%2Fes_MX%2Fbase.js
 #EXTINF:-1 group-title="01LOCAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqgxcpPffiTk7fbR6N6dqYgByad1NID3VB4wsdtYCxjquYl34XXd_P28EaBZ9OP2CwfBM&usqp=CAU" ,26-ARGENTINISIMA SATELITAL
 http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/playlist.m3u8
 #EXTINF:-1 group-title="01LOCAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfb0YmpKDI7clw7lPEGGw3STNKx4-Z72ty2MACeliX6BUIBGGNW7ppMre1DISbuG8CRgM&usqp=CAU" ,27-CHACRA TV
