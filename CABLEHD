@@ -45,8 +45,6 @@ https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
 https://delivery.cdn.rcs.net.ar/mnp/encuentro/output.mpd
 #EXTINF:0 group-title="01LOCAL" tvg-logo="https://pbs.twimg.com/profile_images/1088570060887810048/IAlLnIgQ.jpg" ,23-CANAL DE LA CIUDAD
 https://heroeip.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/embed/uk6btTpO5IY
-#EXTINF:0 group-title="01LOCAL" tvg-logo="https://pbs.twimg.com/profile_images/1148265181090320384/f9ieXgQL_400x400.png" ,24 HS ESPAÑA
-https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTINF:-1 group-title="01LOCAL" tvg-logo="https://pbs.twimg.com/profile_images/892399209525243905/RScqjMaJ_400x400.jpg" ,24-CIUDAD MAGAZINE
 https://epg.pw/stream/5533952d87c125a45bea4ec0e9f34f622cbc049a2d42acd4ed04242882e2825d.ctv
 #EXTINF:0 group-title="01LOCAL" tvg-logo="https://i.imgur.com/HFGGwWi.png" ,25-KZO
@@ -125,6 +123,18 @@ http://51.89.98.62:8080/wilkerson/12345678/20308
 https://rede-muhler-recordnews-1-br.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 group-title="01LOCAL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/aa/Globo_Internacional_2014.png/revision/latest?cb=20200812160256&path-prefix=es" ,61-GLOBO - BRASIL
 http://168.205.87.198:8555/live/4700/123456/70.ts
+#EXTINF:0 group-title="01LOCAL" tvg-logo="https://pbs.twimg.com/profile_images/1148265181090320384/f9ieXgQL_400x400.png" ,62-24 HS ESPAÑA
+https://ztnr.rtve.es/ztnr/1694255.m3u8
+#EXTINF:0 group-title="01LOCAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/TVE.svg" ,63-TVE - ESPAÑA
+http://200.24.159.179:8500/play/a00l
+#EXTINF:-1 group-title="01LOCAL" tvg-logo="https://grupocadenamediatv.com/img/logo.png" ,64-GRUPO CADENA MEDIA - ESPAÑA
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1254
+#EXTINF:-1 group-title="01LOCAL" tvg-logo="https://lh3.googleusercontent.com/OyA9keJjeQJbicYDZYc3bVN7C5NuscwQHK5PXgGV5h716gxSc7U5TnxiDukLs5cSvG54SG2bXEGr1cQaKtARdWkn=h200" ,65-GCM - ESPAÑA
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1255
+#EXTINF:-1 group-title="01LOCAL" tvg-logo="https://cdn.mitvstatic.com/channels/ar_galicia-tv_m.png" ,66-Galicia TV
+http://america-crtvg.flumotion.com/crtvg/america_high/chunks.m3u8
+#EXTINF:-1 group-title="01LOCAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/640px-Televisi%C3%B3n_de_Galicia_Logo.svg.png" ,67-GALICIA TV 2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1251
 #EXTINF:-1 group-title="01LOCAL" tvg-logo="https://i.imgur.com/5CVl5EF.png" ,ABC - AUSTRALIA
 https://c.mjh.nz/101002210221/
 #EXTINF:-1 group-title="01LOCAL" tvg-logo="https://i.imgur.com/gBh54wY.png" ,ABC Me - AUSTRALIA
@@ -183,16 +193,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1392
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/254272
 #EXTINF:-1 group-title="01LOCAL" tvg-logo="https://1.bp.blogspot.com/-5mUTEGKBGV0/YPgpC8lNyyI/AAAAAAAAP9c/1oriOCRImWE03sDnDc5x2s8lEesFOc56ACLcBGAsYHQ/s162/Elias%2BPi%25C3%25B1a%2BTV-crop.png" ,FUEGO TV - REPUBLICA DOMINICANA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1549
-#EXTINF:-1 group-title="01LOCAL" tvg-logo="https://cdn.mitvstatic.com/channels/ar_galicia-tv_m.png" ,Galicia TV
-http://america-crtvg.flumotion.com/crtvg/america_high/chunks.m3u8
-#EXTINF:-1 group-title="01LOCAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/640px-Televisi%C3%B3n_de_Galicia_Logo.svg.png" ,GALICIA TV
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1251
-#EXTINF:-1 group-title="01LOCAL" tvg-logo="https://nowsat.info/wp-content/uploads/TV-Galicia-1.png" ,GALICIA TV HD
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1249
-#EXTINF:-1 group-title="01LOCAL" tvg-logo="https://lh3.googleusercontent.com/OyA9keJjeQJbicYDZYc3bVN7C5NuscwQHK5PXgGV5h716gxSc7U5TnxiDukLs5cSvG54SG2bXEGr1cQaKtARdWkn=h200" ,GCM - ESPAÑA
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1255
-#EXTINF:-1 group-title="01LOCAL" tvg-logo="https://grupocadenamediatv.com/img/logo.png" ,GRUPO CADENA MEDIA - ESPAÑA
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1254
 #EXTINF:-1 group-title="01LOCAL" tvg-logo="data:image/png;base64,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" ,GUATEVISION
 http://190.122.96.187:8888/http/002
 #EXTINF:-1 group-title="01LOCAL" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/559c38874d0ba37800d727925e1654b4.webp" ,Hispan TV  - IRAN
@@ -243,8 +243,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1460
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
 #EXTINF:-1 group-title="01LOCAL" tvg-logo="https://1.bp.blogspot.com/-WYepFcQLrXc/XQka9TmZ0uI/AAAAAAAAHz8/eTOqew4vGoocd66uqlPHccAeYN74huzmgCLcBGAs/s1600/TEN%2BCanal%2B10.png" ,TEN TV CANAL 10 - HONDURAS
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1653
-#EXTINF:0 group-title="01LOCAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/TVE.svg" ,TVE - ESPAÑA
-http://200.24.159.179:8500/play/a00l
 #EXTINF:0 group-title="01LOCAL" tvg-logo="https://i.imgur.com/mt3YmuP.png" ,TVGE INTERNACIONAL
 http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/master.m3u8?fluxustv.m3u8
 #EXTINF:0 group-title="01LOCAL" tvg-logo="https://yt3.googleusercontent.com/t5kUCDeNtJgGP3eyGw-mKNM5wJtwj6kboSSCCg4JdG3avJNk8LXDZPwKsTWZTfmvWWBHPUNuXJY=s900-c-k-c0x00ffffff-no-rj" ,TVM - EL SALVADOR
@@ -261,6 +259,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1095
 http://190.122.96.187:8888/http/006
 #EXTINF:-1 group-title="01LOCAL" tvg-logo="https://www.worldnewsenespanol.com/wp-content/uploads/2020/05/logo-wnenespanol.jpg" ,WORLDNEWS EN ESPAÑOL
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1401
+#EXTINF:0 group-title="01LOCAL" ,PRUEBA LN+ YT
+https://www.youtube.com/get_video_info?video_id=0ib0IQf3_8M&jsurl=https:%2F%2Fwww.youtube.com%2Fs%2Fplayer%2F9419f2ea%2Fplayer_ias.vflset%2Fes_MX%2Fbase.js
 #EXTINF:0 group-title="02 CANCH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8d/CANCH_Oficial.png" ,AM 1290 INTERACTIVA
 https://01.solumedia.com.ar:8174/stream
 #EXTINF:0 group-title="02 CANCH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8d/CANCH_Oficial.png" ,AM 1440 - IMPACTO
@@ -982,8 +982,6 @@ http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadi
 #EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" ,MATH! - RUSIA
 http://193.33.240.8:8080/Match_HD/index.m3u8
 #EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/mauritania_sport.jpg?v=6" ,MAURITANIA - ARRIADIA
-https://elahmad.ipslow.com/tv187_www.elahmad.com_mauritanie_sport/tracks-v1a1/mono.m3u8?token=896f7bab3a546e3d9d79a44451bacd8278877e3a-3f9bc11db85e2f7dde1aaf01dd63699b-1676796387-1676785587
-#EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" ,MAURITANIE SPORT
 https://elahmad.ipslow.com/tv187_www.elahmad.com_mauritanie_sport/tracks-v1a1/mono.m3u8?token=20fd48e8bde00dd15d29c6c23179b0da555a16b6-e7c006cc9c5c541c9cc08e170ee39cff-1677300814-1677290014
 #EXTINF:-1 group-title="02 DEPORTE MUNDIAL VARIOS" ,MAVTV SELECT
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/611468532f5f180007fbbc9c/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5bb1ac3e268cae539bcedb07&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=970&terminate=false&userId=
@@ -2025,6 +2023,8 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fcea359e533cb00072
 https://delivery.cdn.rcs.net.ar/mnp/fx/output.mpd
 #EXTINF:-1 group-title="04CINE Y SERIES" tvg-logo="https://images.pluto.tv/channels/5e3ddd1a3ef73b00091d5779/colorLogoPNG.png" ,FÚTBOL PARA FANS
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e3ddd1a3ef73b00091d5779/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1d533-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=04baab3a-5f85-4e2b-9112-e0c2b16014ce&userId=&serverSideAds=true
+#EXTINF:0 group-title="04CINE Y SERIES" ,HALLMARK
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1735
 #EXTINF:-1 group-title="04CINE Y SERIES" tvg-logo="https://telefullenvivo.com/logos/hbo.png" ,HBO
 https://delivery.cdn.rcs.net.ar/mnp/hbo/output.mpd
 #EXTINF:0 group-title="04CINE Y SERIES" ,HBO
