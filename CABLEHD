@@ -266,7 +266,7 @@ https://corsproxy.io/?http://heroem3u.epizy.com/youtube/UCnx743KuO_16sCMIbEg7Y7Q
 #EXTINF:0 group-title="02 DEPORTE LOCAL" tvg-logo="https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8" ,BAYRES TV
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 #EXTINF:0 group-title="02 DEPORTE LOCAL" ,BEIN Ñ EXTRA
-http://tv.teleclub.xyz/stream/Deportes/BEING_SPORTS/index.m3u8
+https://v-fn.mybtv.net/live/948.m3u8
 #EXTINF:0 group-title="02 DEPORTE LOCAL" tvg-logo="https://monkeypro.cl/wp-content/uploads/2017/06/logo-cdo.png" ,CHILE - CDO BASICO
 http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/3607
 #EXTINF:0 group-title="02 DEPORTE LOCAL" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-estadio-tnt-sports-2559.png" ,CHILE - ESTADIO TNT
@@ -511,6 +511,8 @@ https://epg.pw/stream/7cdf68872090c83f2a7558cf7e3822755089be13a3b6268187b70986d5
 https://epg.pw/stream/6905482715009167f47b9542246bea050b1110b5ab5593b2f168577e9b8a4a84.ctv
 #EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" ,ARMENIA - PREMIUM ARMENIA TV
 http://2342512b.ucomist.net/iptv/AACXKHBLQUH7G7/273/index.m3u8
+#EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" ,ARRYADIA - MARRUECOS
+http://185.236.229.50:8000/play/a01t
 #EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" ,ASIANET PLUS
 http://pakin2.worldtvip.co:9090/my_asianet_plus/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="02 DEPORTE MUNDIAL VARIOS" ,ASTRAK RUS HD 🇷🇺
@@ -871,6 +873,8 @@ https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/in
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff334c2-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dffc36b9-57c6-4973-9903-2f83d465ac40&userId=&serverSideAds=true
 #EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" ,FRANCIA - L EQUIPE
 http://162.19.67.213:49214/L_EQUIPE/hls/playlist.m3u8
+#EXTINF:-1 group-title="02 DEPORTE MUNDIAL VARIOS" tvg-logo="https://i.imgur.com/0O8xAZy.png" ,GALATASARAY TV HD
+https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
 #EXTINF:-1 group-title="02 DEPORTE MUNDIAL VARIOS" ,GLORY KICKBOXING TV
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c6dcb00-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d92192c8-c5c3-4bd8-b547-f8e655b4e974&userId=&serverSideAds=true
 #EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" ,GOL PLAY
@@ -1267,6 +1271,8 @@ http://103.145.13.31/5/index.m3u8
 http://103.145.13.31/6/index.m3u8
 #EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" ,STARZ PLAY SPORTS ARABE 2
 http://103.145.13.31/7/index.m3u8
+#EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" ,SUDAN SPORT
+https://epg.pw/stream/24a0f27ab8eb78e8d890c05574944d21ae73e439b3fe8565934160d71342cf43.ctv
 #EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" tvg-logo="data:image/png;base64,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" ,SUECIA - C MORE FOTBOLL
 https://epg.pw/stream/1c67b9d36b0803d05fb42d32b327084ae7934f78ecd5aacc46b7f04690c817bc.ctv
 #EXTINF:-1 group-title="02 DEPORTE MUNDIAL VARIOS" ,Super Soccer TV
@@ -1459,8 +1465,6 @@ http://79.124.21.251:9770/play/a003
 http://79.124.21.251:9770/play/a004
 #EXTINF:-1 group-title="02 DEPORTE MUNDIAL VARIOS" ,Первый канал HD
 http://79.124.21.251:9770/play/a00p
-#EXTINF:-1 group-title="02 DEPORTE MUNDIAL VARIOS" tvg-logo="https://i.imgur.com/0O8xAZy.png" ,GALATASARAY TV HD
-https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
 #EXTINF:-1 group-title="02 DIRECTV" ,OPCION 1
 https://epg.pw/stream/8eac27160461ca1f12d59cade7e358bbb54ff9803a1e9f39aa88d39d99f1dc9a.ctv
 #EXTINF:-1 group-title="02 DIRECTV" ,OPCION 10
@@ -2741,6 +2745,8 @@ http://iptv.prosto.tv:7000/ch002/video.m3u8
 https://freespeech.akamaized.net/hls/live/2024573/live2/playlist.m3u8
 #EXTINF:-1 group-title="10INTERNACIONALES" tvg-logo="https://rndserv.xyz/images/lawncrime.png" ,LAW AND CRIME - USA
 https://lawcrime.s.llnwi.net/h24/lawcrimech1/playlist.m3u8
+#EXTINF:0 group-title="10INTERNACIONALES" ,MAURITANIA TV
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1677362057/ei/KC_6Y9X2NoGqlu8Pm9aW6Ag/ip/52.15.118.168/id/sTuFJ1anOFs.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgWMILXSSwrsUdHcb-Cjof_Deoo_jYx1-OoirsEYxtSLwCIG5NoRbEF27wr6gJABj6RHvzBrDzOsBrzS3DS79X01xy/file/index.m3u8
 #EXTINF:-1 group-title="10INTERNACIONALES" tvg-logo="https://rndserv.xyz/images/milenio.png" ,MILENIO - MEXICO
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 #EXTINF:-1 group-title="10INTERNACIONALES" tvg-logo="https://rndserv.xyz/images/nbc.png" ,NBC NEWS - USA
