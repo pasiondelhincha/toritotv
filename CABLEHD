@@ -44,11 +44,11 @@ https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
 #EXTINF:-1 group-title="01LOCAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Canal_encuentro_2020.png/480px-Canal_encuentro_2020.png" ,22-ENCUENTRO
 https://delivery.cdn.rcs.net.ar/mnp/encuentro/output.mpd
 #EXTINF:0 group-title="01LOCAL" tvg-logo="https://pbs.twimg.com/profile_images/1088570060887810048/IAlLnIgQ.jpg" ,23-CANAL DE LA CIUDAD
-https://heroeip.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/embed/uk6btTpO5IY
+https://corsproxy.io/?http://heroem3u.epizy.com/youtube/UCOV_Vx1baZJY9Tfvgm-UI3w.m3u8
 #EXTINF:-1 group-title="01LOCAL" tvg-logo="https://pbs.twimg.com/profile_images/892399209525243905/RScqjMaJ_400x400.jpg" ,24-CIUDAD MAGAZINE
 https://epg.pw/stream/5533952d87c125a45bea4ec0e9f34f622cbc049a2d42acd4ed04242882e2825d.ctv
 #EXTINF:0 group-title="01LOCAL" tvg-logo="https://i.imgur.com/HFGGwWi.png" ,25-KZO
-https://www.youtube.com/get_video_info?video_id=TsT6noTbVaA&jsurl=https:%2F%2Fwww.youtube.com%2Fs%2Fplayer%2F9419f2ea%2Fplayer_ias.vflset%2Fes_MX%2Fbase.js
+https://corsproxy.io/?http://heroem3u.epizy.com/youtube/UCv0zRACOVWmhu1Ilufm40-w.m3u8
 #EXTINF:-1 group-title="01LOCAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqgxcpPffiTk7fbR6N6dqYgByad1NID3VB4wsdtYCxjquYl34XXd_P28EaBZ9OP2CwfBM&usqp=CAU" ,26-ARGENTINISIMA SATELITAL
 http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/playlist.m3u8
 #EXTINF:-1 group-title="01LOCAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfb0YmpKDI7clw7lPEGGw3STNKx4-Z72ty2MACeliX6BUIBGGNW7ppMre1DISbuG8CRgM&usqp=CAU" ,27-CHACRA TV
@@ -135,6 +135,42 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1255
 http://america-crtvg.flumotion.com/crtvg/america_high/chunks.m3u8
 #EXTINF:-1 group-title="01LOCAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/640px-Televisi%C3%B3n_de_Galicia_Logo.svg.png" ,67-GALICIA TV 2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1251
+#EXTINF:0 group-title="01LOCAL" ,68-TELEMADRID
+https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/index.m3u8
+#EXTINF:0 group-title="01LOCAL" ,69-ANTENA 3
+https://nodep002.service.openstream.es/SVoriginOperatorEdge3/smil:7_HD.smil/manifest.m3u8
+#EXTINF:0 group-title="01LOCAL" ,70-ANTENA 3 INTERNACIONAL
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/197426
+#EXTINF:-1 group-title="01LOCAL" tvg-logo="https://rndserv.xyz/images/rt.png" ,71-RT RUSSIAN TODAY - ESPAÑOL
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+#EXTINF:-1 group-title="01LOCAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/CGTN_Espanol.png" ,72-CGTN Español - CHINA
+https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
+#EXTINF:-1 group-title="01LOCAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/2560px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" ,73-CNN EN ESPAÑOL
+http://181.189.246.86:58003/play/a007/index.m3u8
+#EXTINF:-1 group-title="01LOCAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png" ,74-DEUTSCHE WELLE EN ESPAÑOL
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
+#EXTINF:0 group-title="01LOCAL" tvg-logo="https://photos.live-tv-channels.org/tv-logo/fr-euronews-english-5525.jpg" ,75-EURONEWS - ESPAÑOL
+https://39997b2f529e4793961899e546833a75.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_EuroNewsLive/playlist.m3u8
+#EXTINF:0 group-title="01LOCAL" tvg-logo="https://cdn-profiles.tunein.com/s303640/images/logog.png?t=151602" ,76-FRANCE 24 ESPAÑOL
+http://181.78.12.119:16123/play/ch43/12079846.m3u8
+#EXTINF:-1 group-title="01LOCAL" tvg-logo="https://www.worldnewsenespanol.com/wp-content/uploads/2020/05/logo-wnenespanol.jpg" ,77-WORLDNEWS EN ESPAÑOL
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1401
+#EXTINF:0 group-title="01LOCAL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/13/Noticieros_Televisa_Logo_%281998-2001%3B_Variant%29.png/revision/latest/scale-to-width-down/250?cb=20210718222552" ,78-TELEVISA NEWS
+https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
+#EXTINF:0 group-title="01LOCAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Canal_2_%28Las_Estrellas_2017%29.svg" ,79-CANAL DE LAS ESTRELLAS
+http://bulltv.us:2999/darlin/darlin/33
+#EXTINF:-1 group-title="01LOCAL" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/559c38874d0ba37800d727925e1654b4.webp" ,80-Hispan TV  - IRAN
+https://live1.presstv.ir/live/hispan.m3u8
+#EXTINF:-1 group-title="01LOCAL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/94/Cubavision2008.png/revision/latest?cb=20171219213901" ,81-CUBAVISION INTERNACIONAL
+http://152.200.181.236:15000/play/a01q
+#EXTINF:-1 group-title="01LOCAL" tvg-logo="data:image/png;base64,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" ,82-GUATEVISION
+http://181.189.246.86:58003/play/a00d/index.m3u8
+#EXTINF:-1 group-title="01LOCAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png" ,83-TELEMUNDO INTERNACIONAL
+http://200.24.159.179:8500/play/a01p
+#EXTINF:-1 group-title="01LOCAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Rai_News_24_logo_%282022%29.svg/2560px-Rai_News_24_logo_%282022%29.svg.png" ,84-Rai News24 CTV - CABA
+https://streamcdnc3-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/rainews_2400/chunklist.m3u8
+#EXTINF:0 group-title="01LOCAL" tvg-logo="https://i.imgur.com/mt3YmuP.png" ,85-TVGE INTERNACIONAL
+http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/master.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="01LOCAL" tvg-logo="https://i.imgur.com/5CVl5EF.png" ,ABC - AUSTRALIA
 https://c.mjh.nz/101002210221/
 #EXTINF:-1 group-title="01LOCAL" tvg-logo="https://i.imgur.com/gBh54wY.png" ,ABC Me - AUSTRALIA
@@ -143,10 +179,6 @@ https://c.mjh.nz/101002210224/
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 #EXTINF:0 group-title="01LOCAL" tvg-logo="https://i2.paste.pics/6074e29d2a3241e1f3b3051144274188.png" ,AMX NOTICIAS - MEXICO
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="01LOCAL" ,Antena3int FHD
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1103
-#EXTINF:-1 group-title="01LOCAL" tvg-logo="https://scontent.ffdo4-1.fna.fbcdn.net/v/t1.6435-9/178716623_748408309176131_4611574034328422242_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=-b0myXqcelIAX8O2UOV&_nc_ht=scontent.ffdo4-1.fna&oh=00_AT8Mh4TSM6ONHNHqdMawDGkNNRFXVzJfNiRFPMKY3v7NLw&oe=63051AF5" ,AREA TEN - NIGERIA
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1728
 #EXTINF:-1 group-title="01LOCAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHBKEhqhJLqCKPNucstzmX2mhqAUeyuwRSoTaXqkPiPtLTj3QvwHcnlHeax6_pWADJ7_Y&usqp=CAU" ,BELLAVISION - REPUBLICA DOMINICANA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1463
 #EXTINF:-1 group-title="01LOCAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/CampusTv_logo.png/800px-CampusTv_logo.png" ,CAMPUS TV - HONDURAS
@@ -159,64 +191,30 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1465
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1043
 #EXTINF:-1 group-title="01LOCAL" ,CANAL 8 - REPUBLICA DOMINICANA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1461
-#EXTINF:0 group-title="01LOCAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Canal_2_%28Las_Estrellas_2017%29.svg" ,CANAL DE LAS ESTRELLAS
-http://bulltv.us:2999/darlin/darlin/33
 #EXTINF:0 group-title="01LOCAL" tvg-logo="http://plus.canalsur.com/img/header/logo.png" ,CANAL SUR
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1107
 #EXTINF:-1 group-title="01LOCAL" tvg-logo="https://image.roku.com/developer_channels/prod/95dcad8a035461c358f340b30b669a51f235dbb4223e3510e4c59c7069f2ccfd.png" ,CANELA NEWS
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1731
-#EXTINF:0 group-title="01LOCAL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/CaracolInternacional2002.png/revision/latest?cb=20210218130202&path-prefix=es" ,CARACOL INTERNACIONAL
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1042
 #EXTINF:-1 group-title="01LOCAL" tvg-logo="https://www.caribbeanonetv.com/themes/custom/cone/caribbean_one/logo.jpg" ,CARIBBEAN ONE TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1675
-#EXTINF:-1 group-title="01LOCAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/CGTN_Espanol.png" ,CGTN Español - CHINA
-https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
 #EXTINF:0 group-title="01LOCAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBFczd4iTlxBosHlL8xykd6dJRww-eCpQmfAl5KlYLXfujKGana8qTp_FNsPGI7h442UI&usqp=CAU" ,CM TV - PORTUGAL
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/68965
-#EXTINF:-1 group-title="01LOCAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/2560px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" ,CNN EN ESPAÑOL
-https://linear-358.frequency.stream/dist/localnow/358/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="01LOCAL" tvg-logo="https://play-lh.googleusercontent.com/-VYTj4zZWS4izprdriku6DC9tCBMZ7sd2V4H0LPesvU6JXV4McVTmhcGzsd1WLnV0ip6" ,CROM TV - REPUBLICA DOMINICANA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1190
-#EXTINF:-1 group-title="01LOCAL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/94/Cubavision2008.png/revision/latest?cb=20171219213901" ,CUBAVISION
-http://bulltv.us:2999/darlin/darlin/275
-#EXTINF:-1 group-title="01LOCAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png" ,DW Español CTV - ALEMANIA
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
 #EXTINF:-1 group-title="01LOCAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Pinguino_TV.png" ,EL PINGUINO TV - PUNTA ARENAS -  CHILE
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1650
 #EXTINF:-1 group-title="01LOCAL" tvg-logo="https://pbs.twimg.com/profile_images/2257702569/LOGO-ENNTI2_400x400.png" ,ENNTIVISION - REPUBLICA DOMINICANA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1184
-#EXTINF:0 group-title="01LOCAL" tvg-logo="https://photos.live-tv-channels.org/tv-logo/fr-euronews-english-5525.jpg" ,EURONEWS - ESPAÑOL
-https://39997b2f529e4793961899e546833a75.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_EuroNewsLive/playlist.m3u8
-#EXTINF:0 group-title="01LOCAL" tvg-logo="https://photos.live-tv-channels.org/tv-logo/fr-euronews-english-5525.jpg" ,EURONEWS ESPAÑOL OPC
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1392
-#EXTINF:0 group-title="01LOCAL" tvg-logo="https://cdn-profiles.tunein.com/s303640/images/logog.png?t=151602" ,FRANCE 24 ESPAÑOL
-http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/254272
 #EXTINF:-1 group-title="01LOCAL" tvg-logo="https://1.bp.blogspot.com/-5mUTEGKBGV0/YPgpC8lNyyI/AAAAAAAAP9c/1oriOCRImWE03sDnDc5x2s8lEesFOc56ACLcBGAsYHQ/s162/Elias%2BPi%25C3%25B1a%2BTV-crop.png" ,FUEGO TV - REPUBLICA DOMINICANA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1549
-#EXTINF:-1 group-title="01LOCAL" tvg-logo="data:image/png;base64,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" ,GUATEVISION
-http://190.122.96.187:8888/http/002
-#EXTINF:-1 group-title="01LOCAL" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/559c38874d0ba37800d727925e1654b4.webp" ,Hispan TV  - IRAN
-https://live1.presstv.ir/live/hispan.m3u8
-#EXTINF:-1 group-title="01LOCAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Hispan_Tv_logo.svg/2560px-Hispan_Tv_logo.svg.png" ,HISPAN TV - IRAN
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1474
 #EXTINF:0 group-title="01LOCAL" tvg-logo="https://pbs.twimg.com/profile_images/1311309992721616896/8Lyz-9f6_400x400.jpg" ,MEGAVISION - REPUBLICA DOMINICANA
 http://stream3.prostudionetwork.com:1943/megavision/MV/playlist.m3u8
 #EXTINF:-1 group-title="01LOCAL" tvg-logo="https://miamitvhd.com/assets/miamitvlatino-a0a662e0cef788009ad389105e7263d585707570b055e46e3b9b7eb5329775aa.png" ,MIAMI TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1453
-#EXTINF:-1 group-title="01LOCAL" tvg-logo="https://miamitvhd.com/assets/miamitvlatino-a0a662e0cef788009ad389105e7263d585707570b055e46e3b9b7eb5329775aa.png" ,MIAMI TV
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1456
-#EXTINF:-1 group-title="01LOCAL" tvg-logo="https://miamitvhd.com/assets/miamitvlatino-a0a662e0cef788009ad389105e7263d585707570b055e46e3b9b7eb5329775aa.png" ,MIAMI TV REPLAY
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1457
 #EXTINF:0 group-title="01LOCAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX3JCjoBIH3N-Qq-ClyWXxGqZxcuxwUZ2ag6apQHvIxm8D-QkZJZXurZme8EUDcZq2QUw&usqp=CAU" ,NTN24  - EL SALVADOR
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1109
 #EXTINF:-1 group-title="01LOCAL" ,PASAN PROGRAMAS CULTURALES ARGENTINA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1458
-#EXTINF:-1 group-title="01LOCAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Rai_News_24_logo_%282022%29.svg/2560px-Rai_News_24_logo_%282022%29.svg.png" ,Rai News24 CTV - CABA
-https://streamcdnc3-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/rainews_2400/chunklist.m3u8
-#EXTINF:0 group-title="01LOCAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/Logo_del_canal_rcn.JPG" ,RCN COLOMBIA
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1110
-#EXTINF:-1 group-title="01LOCAL" tvg-logo="https://rndserv.xyz/images/rt.png" ,RT RUSSIAN TODAY - ESPAÑOL
-https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 #EXTINF:0 group-title="01LOCAL" tvg-logo="https://i.imgur.com/kJCjeQ4.png" ,RTVA ANDORRA
 http://videos.rtva.ad:1935/live/web/playlist.m3u8
 #EXTINF:-1 group-title="01LOCAL" tvg-logo="https://sanisidrotv.com/wp-content/uploads/2020/10/logo-san-isidro-tv-png-1.png" ,SAN ISIDRO TV - HONDURAS
@@ -225,26 +223,18 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1187
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/68963
 #EXTINF:-1 group-title="01LOCAL" tvg-logo="https://pbs.twimg.com/profile_images/1071142748562935809/IbeZk8uU_400x400.jpg" ,SUPER CANAL - REPUBLICA DOMINICANA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1181
-#EXTINF:-1 group-title="01LOCAL" tvg-logo="https://play-lh.googleusercontent.com/bgaob_ykQPn5LEDqTyXfGC_BI3dbSFWKsJ-pewmjImooeS3ntewwGaGGYQ2IXt22h8w" ,TDI COLOMBIA
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1267
 #EXTINF:0 group-title="01LOCAL" tvg-logo="https://teleoriental.com.do/wp-content/uploads/2021/03/cropped-teleoriental.jpg" ,TELE ORIENTAL - REPUBLICA DOMINICANA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1217
 #EXTINF:-1 group-title="01LOCAL" tvg-logo="https://dominicanchannels.com/wp-content/uploads/teleradio-norte.jpg" ,TELE RADIO NORTE - REPUBLICA DOMINICANA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1218
 #EXTINF:-1 group-title="01LOCAL" tvg-logo="https://dominicanchannels.com/wp-content/uploads/2014/09/telecanal12.jpeg" ,TELECANAL 12 - REPUBLICA DOMINICANA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1188
-#EXTINF:-1 group-title="01LOCAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png" ,TELEMUNDO INTERNACIONAL
-http://200.24.159.179:8500/play/a01p
 #EXTINF:-1 group-title="01LOCAL" tvg-logo="https://www.kolbi.cr/wps/wcm/connect/www.kolbi.cr/8a7cd47f-dbd7-4f2c-88bf-8dc09b9bf2c1/TELESISTEMA+180X180.png?MOD=AJPERES&CACHEID=ROOTWORKSPACE.Z18_GG1AHCC0P8VB70QI79ARQL0000-8a7cd47f-dbd7-4f2c-88bf-8dc09b9bf2c1-njvPChT" ,TELESISTEMA - COSTA RICA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1246
 #EXTINF:-1 group-title="01LOCAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkA3qKqXVHY6_1Mtjs6fWtRxQnB5ZT30v9omweGRSj53CL7MydY70mRApP9hkqY_Aob4c&usqp=CAU" ,TELEUNIVERSO - REPUBLICA DOMINICANA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1460
-#EXTINF:0 group-title="01LOCAL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/13/Noticieros_Televisa_Logo_%281998-2001%3B_Variant%29.png/revision/latest/scale-to-width-down/250?cb=20210718222552" ,TELEVISA NEWS
-https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
 #EXTINF:-1 group-title="01LOCAL" tvg-logo="https://1.bp.blogspot.com/-WYepFcQLrXc/XQka9TmZ0uI/AAAAAAAAHz8/eTOqew4vGoocd66uqlPHccAeYN74huzmgCLcBGAs/s1600/TEN%2BCanal%2B10.png" ,TEN TV CANAL 10 - HONDURAS
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1653
-#EXTINF:0 group-title="01LOCAL" tvg-logo="https://i.imgur.com/mt3YmuP.png" ,TVGE INTERNACIONAL
-http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/master.m3u8?fluxustv.m3u8
 #EXTINF:0 group-title="01LOCAL" tvg-logo="https://yt3.googleusercontent.com/t5kUCDeNtJgGP3eyGw-mKNM5wJtwj6kboSSCCg4JdG3avJNk8LXDZPwKsTWZTfmvWWBHPUNuXJY=s900-c-k-c0x00ffffff-no-rj" ,TVM - EL SALVADOR
 http://168.227.22.18:1935/tvm/tvm.stream/playlist.m3u8
 #EXTINF:0 group-title="01LOCAL" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/042021/tvm-0.png?ahKbEkmshnBRmu8as8qDS_ftOrtpBawJ&itok=F7sPvclr" ,TVM - MOZAMBIQUE
@@ -257,10 +247,8 @@ https://bcovlive-a.akamaihd.net/2f670e324b9b46bba7582e919ed90924/us-east-1/60580
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1095
 #EXTINF:0 group-title="01LOCAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/Ve_Plus_Logo_2019.png" ,VENEVISION PLUS
 http://190.122.96.187:8888/http/006
-#EXTINF:-1 group-title="01LOCAL" tvg-logo="https://www.worldnewsenespanol.com/wp-content/uploads/2020/05/logo-wnenespanol.jpg" ,WORLDNEWS EN ESPAÑOL
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1401
-#EXTINF:0 group-title="01LOCAL" ,PRUEBA LN+ YT
-https://www.youtube.com/get_video_info?video_id=0ib0IQf3_8M&jsurl=https:%2F%2Fwww.youtube.com%2Fs%2Fplayer%2F9419f2ea%2Fplayer_ias.vflset%2Fes_MX%2Fbase.js
+#EXTINF:-1 group-title="01LOCAL" tvg-logo="https://rndserv.xyz/images/y24.png" ,Украина 24 - UCRANIA
+http://iptv.prosto.tv:7000/ch179/video.m3u8
 #EXTINF:0 group-title="02 CANCH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8d/CANCH_Oficial.png" ,AM 1290 INTERACTIVA
 https://01.solumedia.com.ar:8174/stream
 #EXTINF:0 group-title="02 CANCH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8d/CANCH_Oficial.png" ,AM 1440 - IMPACTO
@@ -274,7 +262,7 @@ https://stream.radiosmundiales.com/8414/stream
 #EXTINF:0 group-title="02 CANCH" tvg-logo="https://blogs.infobae.com/ascenso-rock/files/2015/03/dvd.jpg" ,TORAZO - LA PELICULA
 https://archive.org/download/torazo_202204/TORAZO.mp4
 #EXTINF:0 group-title="02 DEPORTE LOCAL" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTp2xotD_O3U25klqBdcON1UX2ysytysUZBtWZ_=s48-c-k-c0x00ffffff-no-rj" ,AMERICA SPORTS
-https://www.youtube.com/watch?v=PD4awtTH58A
+https://corsproxy.io/?http://heroem3u.epizy.com/youtube/UCnx743KuO_16sCMIbEg7Y7Q.m3u8
 #EXTINF:0 group-title="02 DEPORTE LOCAL" tvg-logo="https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8" ,BAYRES TV
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 #EXTINF:0 group-title="02 DEPORTE LOCAL" ,BEIN Ñ EXTRA
@@ -2811,10 +2799,6 @@ https://thefirst-oando.amagi.tv/playlist.m3u8
 https://rakuten-guardian-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="10INTERNACIONALES" tvg-logo="https://rndserv.xyz/images/tmz.png" ,TMZ - USA
 https://csm-e-cetubiausw2live204-08d0202ddb0ea6c41.csm.tubi.video/csm/extlive/tubiprd01,TMZ.m3u8?yo.oh=Y3NtLWUtZWIuY3NtLnR1YmkudmlkZW8=
-#EXTINF:-1 group-title="10INTERNACIONALES" tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" ,TN23 - GUATEMALA
-https://linear-259.frequency.stream/dist/localnow/259/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="10INTERNACIONALES" tvg-logo="https://www.zap.co.ao/media/cache/movie_thumb/uploads/ao/channels/5762b5256aff3.png" ,TPA 1 - ANGOLA
-https://q-s-l4n3sh4d0w.onrender.com/iptv-query?streaming-ip=https://livestream.com/accounts/30360708/events/9496693/player
 #EXTINF:-1 group-title="10INTERNACIONALES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/1200px-TRT_1_logo_%282021-%29.svg.png" ,TRT 1 - TURQUIA
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="10INTERNACIONALES" tvg-logo="https://media-exp1.licdn.com/dms/image/C560BAQHkTaghjFg5HQ/company-logo_200_200/0/1562658737877?e=2147483647&v=beta&t=b2gn8Y-J1ZU8_E2mBTesvAWOINsSVh2FHKtJv8Z_Knw" ,TRT ARABI - TURQUIA
@@ -2861,8 +2845,6 @@ https://yahoo-samsung.amagi.tv/playlist.m3u8
 https://content.uplynk.com/channel/411ba7ca8cb6403a9e73509e49c3a77b.m3u8
 #EXTINF:0 group-title="10INTERNACIONALES" ,ZNSTV BAHAMAS
 https://5eb3359c4798d.streamlock.net/znstv/smil:znstv_streams.smil/playlist.m3u8
-#EXTINF:-1 group-title="10INTERNACIONALES" tvg-logo="https://rndserv.xyz/images/y24.png" ,Украина 24 - UCRANIA
-http://iptv.prosto.tv:7000/ch179/video.m3u8
 #EXTINF:-1 group-title="11ANIME - TEEN" tvg-logo="https://images.pluto.tv/channels/6054acc871ec430007f54c7d/colorLogoPNG.png" ,ANIME CLASICO
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6054acc871ec430007f54c7d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 group-title="11ANIME - TEEN" tvg-logo="https://images.pluto.tv/channels/5f1aa7aab66c76000790ee7e/colorLogoPNG.png" ,BIG TIME RUSH
@@ -13023,6 +13005,176 @@ http://191.97.56.146:8000/play/a06f/index.m3u8
 http://191.97.56.146:8000/play/a09c/index.m3u8
 #EXTINF:-1 group-title="45 VK COLOMBIA" ,Warner Channel HD
 http://191.97.56.146:8000/play/a05p/index.m3u8
+#EXTINF:-1 group-title="45 VK COLOMBIA Y VENEZUELA" ,AGROTENDENCIA
+http://181.78.12.119:16123/play/ch31/index.m3u8
+#EXTINF:-1 group-title="45 VK COLOMBIA Y VENEZUELA" ,AMC HD
+http://181.78.12.119:16123/play/ch13/index.m3u8
+#EXTINF:-1 group-title="45 VK COLOMBIA Y VENEZUELA" ,Animal Planet HD
+http://181.78.12.119:16123/play/ch29/index.m3u8
+#EXTINF:-1 group-title="45 VK COLOMBIA Y VENEZUELA" ,Baby TV
+http://181.78.12.119:16123/play/ch01/index.m3u8
+#EXTINF:-1 group-title="45 VK COLOMBIA Y VENEZUELA" ,CANAL CAPITAL
+http://181.78.12.119:16123/play/ch70/index.m3u8
+#EXTINF:-1 group-title="45 VK COLOMBIA Y VENEZUELA" ,CANAL UNO
+http://181.78.12.119:16123/play/ch63/index.m3u8
+#EXTINF:-1 group-title="45 VK COLOMBIA Y VENEZUELA" ,Caracol HD
+http://181.78.12.119:16123/play/ch58/index.m3u8
+#EXTINF:-1 group-title="45 VK COLOMBIA Y VENEZUELA" ,Cartoon Network HD
+http://181.78.12.119:16123/play/ch09/index.m3u8
+#EXTINF:-1 group-title="45 VK COLOMBIA Y VENEZUELA" ,CGTN
+http://181.78.12.119:16123/play/ch32/index.m3u8
+#EXTINF:-1 group-title="45 VK COLOMBIA Y VENEZUELA" ,CINE FAMILIAR
+http://181.78.12.119:16123/play/ch52/index.m3u8
+#EXTINF:-1 group-title="45 VK COLOMBIA Y VENEZUELA" ,CINE HISPANO
+http://181.78.12.119:16123/play/ch51/index.m3u8
+#EXTINF:-1 group-title="45 VK COLOMBIA Y VENEZUELA" ,CINE PREMIUM
+http://181.78.12.119:16123/play/ch49/index.m3u8
+#EXTINF:-1 group-title="45 VK COLOMBIA Y VENEZUELA" ,Cinecanal HD
+http://181.78.12.119:16123/play/ch10/index.m3u8
+#EXTINF:-1 group-title="45 VK COLOMBIA Y VENEZUELA" ,CITY TV
+http://181.78.12.119:16123/play/ch42/index.m3u8
+#EXTINF:-1 group-title="45 VK COLOMBIA Y VENEZUELA" ,CONEXION TV
+http://181.78.12.119:16123/play/ch15/index.m3u8
+#EXTINF:-1 group-title="45 VK COLOMBIA Y VENEZUELA" ,CONEXION TV (srt)
+http://181.78.12.119:16123/play/ch15a/index.m3u8
+#EXTINF:-1 group-title="45 VK COLOMBIA Y VENEZUELA" ,CONGRESO
+http://181.78.12.119:16123/play/ch69/index.m3u8
+#EXTINF:-1 group-title="45 VK COLOMBIA Y VENEZUELA" ,Cristovisiðn
+http://181.78.12.119:16123/play/ch39/index.m3u8
+#EXTINF:-1 group-title="45 VK COLOMBIA Y VENEZUELA" ,DHE HD
+http://181.78.12.119:16123/play/ch14/index.m3u8
+#EXTINF:-1 group-title="45 VK COLOMBIA Y VENEZUELA" ,Discovery
+http://181.78.12.119:16123/play/ch22/index.m3u8
+#EXTINF:-1 group-title="45 VK COLOMBIA Y VENEZUELA" ,Discovery H&H HD
+http://181.78.12.119:16123/play/ch25/index.m3u8
+#EXTINF:-1 group-title="45 VK COLOMBIA Y VENEZUELA" ,Discovery Kids HD
+http://181.78.12.119:16123/play/ch02/index.m3u8
+#EXTINF:-1 group-title="45 VK COLOMBIA Y VENEZUELA" ,Discovery Turbo
+http://181.78.12.119:16123/play/ch24/index.m3u8
+#EXTINF:-1 group-title="45 VK COLOMBIA Y VENEZUELA" ,Disney HD
+http://181.78.12.119:16123/play/ch03/index.m3u8
+#EXTINF:-1 group-title="45 VK COLOMBIA Y VENEZUELA" ,DISNEY JR
+http://181.78.12.119:16123/play/ch05/index.m3u8
+#EXTINF:-1 group-title="45 VK COLOMBIA Y VENEZUELA" ,DPELICULA
+http://181.78.12.119:16123/play/ch57/index.m3u8
+#EXTINF:-1 group-title="45 VK COLOMBIA Y VENEZUELA" ,El Gourmet HD
+http://181.78.12.119:16123/play/ch27/index.m3u8
+#EXTINF:-1 group-title="45 VK COLOMBIA Y VENEZUELA" ,Enlace
+http://181.78.12.119:16123/play/ch38/index.m3u8
+#EXTINF:-1 group-title="45 VK COLOMBIA Y VENEZUELA" ,ESPN 2 HD
+http://181.78.12.119:16123/play/ch17/index.m3u8
+#EXTINF:-1 group-title="45 VK COLOMBIA Y VENEZUELA" ,ESPN 3 HD
+http://181.78.12.119:16123/play/ch18/index.m3u8
+#EXTINF:-1 group-title="45 VK COLOMBIA Y VENEZUELA" ,ESPN 4 HD
+http://181.78.12.119:16123/play/ch19/index.m3u8
+#EXTINF:-1 group-title="45 VK COLOMBIA Y VENEZUELA" ,ESPN EXTRA HD
+http://181.78.12.119:16123/play/ch90/index.m3u8
+#EXTINF:-1 group-title="45 VK COLOMBIA Y VENEZUELA" ,ESPN HD
+http://181.78.12.119:16123/play/ch16/index.m3u8
+#EXTINF:-1 group-title="45 VK COLOMBIA Y VENEZUELA" ,EWTN
+http://181.78.12.119:16123/play/ch40/index.m3u8
+#EXTINF:-1 group-title="45 VK COLOMBIA Y VENEZUELA" ,Film&Arts
+http://181.78.12.119:16123/play/ch11/index.m3u8
+#EXTINF:-1 group-title="45 VK COLOMBIA Y VENEZUELA" ,Food Network HD
+http://181.78.12.119:16123/play/ch28/index.m3u8
+#EXTINF:-1 group-title="45 VK COLOMBIA Y VENEZUELA" ,FOX Sports 2 HD
+http://181.78.12.119:16123/play/ch20/index.m3u8
+#EXTINF:-1 group-title="45 VK COLOMBIA Y VENEZUELA" ,Fox Sports 3 HD
+http://181.78.12.119:16123/play/ch21/index.m3u8
+#EXTINF:-1 group-title="45 VK COLOMBIA Y VENEZUELA" ,France 24 HD
+http://181.78.12.119:16123/play/ch43/index.m3u8
+#EXTINF:-1 group-title="45 VK COLOMBIA Y VENEZUELA" ,FX HD
+http://181.78.12.119:16123/play/ch08/index.m3u8
+#EXTINF:-1 group-title="45 VK COLOMBIA Y VENEZUELA" ,GLITZ
+http://181.78.12.119:16123/play/ch34/index.m3u8
+#EXTINF:-1 group-title="45 VK COLOMBIA Y VENEZUELA" ,Golden Edge
+http://181.78.12.119:16123/play/ch47/index.m3u8
+#EXTINF:-1 group-title="45 VK COLOMBIA Y VENEZUELA" ,Golden HD
+http://181.78.12.119:16123/play/ch46/index.m3u8
+#EXTINF:-1 group-title="45 VK COLOMBIA Y VENEZUELA" ,HTV
+http://181.78.12.119:16123/play/a08x/index.m3u8
+#EXTINF:-1 group-title="45 VK COLOMBIA Y VENEZUELA" ,ID HD
+http://181.78.12.119:16123/play/ch23/index.m3u8
+#EXTINF:-1 group-title="45 VK COLOMBIA Y VENEZUELA" ,INFANTIL
+http://181.78.12.119:16123/play/ch06/index.m3u8
+#EXTINF:-1 group-title="45 VK COLOMBIA Y VENEZUELA" ,INSTITUCIONAL
+http://181.78.12.119:16123/play/ch62/index.m3u8
+#EXTINF:-1 group-title="45 VK COLOMBIA Y VENEZUELA" ,ISAT
+http://181.78.12.119:16123/play/ch77/index.m3u8
+#EXTINF:-1 group-title="45 VK COLOMBIA Y VENEZUELA" ,LA KALLE
+http://181.78.12.119:16123/play/ch41/index.m3u8
+#EXTINF:-1 group-title="45 VK COLOMBIA Y VENEZUELA" ,Las Estrellas  (clone)
+http://181.78.12.119:16123/play/ch44a/index.m3u8
+#EXTINF:-1 group-title="45 VK COLOMBIA Y VENEZUELA" ,Las Estrellas HD
+http://181.78.12.119:16123/play/ch44/index.m3u8
+#EXTINF:-1 group-title="45 VK COLOMBIA Y VENEZUELA" ,Love Nature HD
+http://181.78.12.119:16123/play/ch50/index.m3u8
+#EXTINF:-1 group-title="45 VK COLOMBIA Y VENEZUELA" ,Mas Chic
+http://181.78.12.119:16123/play/ch33/index.m3u8
+#EXTINF:-1 group-title="45 VK COLOMBIA Y VENEZUELA" ,MI MUSICA POPULAR
+http://181.78.12.119:16123/play/ch56/index.m3u8
+#EXTINF:-1 group-title="45 VK COLOMBIA Y VENEZUELA" ,MI MUSICA REGGAETON
+http://181.78.12.119:16123/play/ch53/index.m3u8
+#EXTINF:-1 group-title="45 VK COLOMBIA Y VENEZUELA" ,MI MUSICA ROMANTICA
+http://181.78.12.119:16123/play/ch54/index.m3u8
+#EXTINF:-1 group-title="45 VK COLOMBIA Y VENEZUELA" ,MI MUSICA SALSA
+http://181.78.12.119:16123/play/ch55/index.m3u8
+#EXTINF:-1 group-title="45 VK COLOMBIA Y VENEZUELA" ,Nat Geo HD
+http://181.78.12.119:16123/play/ch30/index.m3u8
+#EXTINF:-1 group-title="45 VK COLOMBIA Y VENEZUELA" ,Pasiones HD
+http://181.78.12.119:16123/play/ch35/index.m3u8
+#EXTINF:-1 group-title="45 VK COLOMBIA Y VENEZUELA" ,RCN
+http://181.78.12.119:16123/play/ch59a/index.m3u8
+#EXTINF:-1 group-title="45 VK COLOMBIA Y VENEZUELA" ,RCN HD
+http://181.78.12.119:16123/play/ch59/index.m3u8
+#EXTINF:-1 group-title="45 VK COLOMBIA Y VENEZUELA" ,SENAL COLOMBIA
+http://181.78.12.119:16123/play/ch61/index.m3u8
+#EXTINF:-1 group-title="45 VK COLOMBIA Y VENEZUELA" ,Space HD
+http://181.78.12.119:16123/play/ch200/index.m3u8
+#EXTINF:-1 group-title="45 VK COLOMBIA Y VENEZUELA" ,STAR CHANNEL HD
+http://181.78.12.119:16123/play/ch07/index.m3u8
+#EXTINF:-1 group-title="45 VK COLOMBIA Y VENEZUELA" ,Sun Channel HD
+http://181.78.12.119:16123/play/ch48/index.m3u8
+#EXTINF:-1 group-title="45 VK COLOMBIA Y VENEZUELA" ,TBS Very Funny HD
+http://181.78.12.119:16123/play/ch12/index.m3u8
+#EXTINF:-1 group-title="45 VK COLOMBIA Y VENEZUELA" ,TCM SD
+http://181.78.12.119:16123/play/a08q/index.m3u8
+#EXTINF:-1 group-title="45 VK COLOMBIA Y VENEZUELA" ,TELE MEDELLIN
+http://181.78.12.119:16123/play/ch73/index.m3u8
+#EXTINF:-1 group-title="45 VK COLOMBIA Y VENEZUELA" ,TELEANTIOQUIA
+http://181.78.12.119:16123/play/ch65/index.m3u8
+#EXTINF:-1 group-title="45 VK COLOMBIA Y VENEZUELA" ,TELECAFE
+http://181.78.12.119:16123/play/ch67/index.m3u8
+#EXTINF:-1 group-title="45 VK COLOMBIA Y VENEZUELA" ,TELECARIBE
+http://181.78.12.119:16123/play/ch60/index.m3u8
+#EXTINF:-1 group-title="45 VK COLOMBIA Y VENEZUELA" ,TELEISLAS
+http://181.78.12.119:16123/play/ch37/index.m3u8
+#EXTINF:-1 group-title="45 VK COLOMBIA Y VENEZUELA" ,Telenovelas
+http://181.78.12.119:16123/play/ch45/index.m3u8
+#EXTINF:-1 group-title="45 VK COLOMBIA Y VENEZUELA" ,TELEPACIFICO
+http://181.78.12.119:16123/play/ch66/index.m3u8
+#EXTINF:-1 group-title="45 VK COLOMBIA Y VENEZUELA" ,TLC
+http://181.78.12.119:16123/play/ch26/index.m3u8
+#EXTINF:-1 group-title="45 VK COLOMBIA Y VENEZUELA" ,TNT HD
+http://181.78.12.119:16123/play/a08i/index.m3u8
+#EXTINF:-1 group-title="45 VK COLOMBIA Y VENEZUELA" ,TNT Series HD
+http://181.78.12.119:16123/play/ch201/index.m3u8
+#EXTINF:-1 group-title="45 VK COLOMBIA Y VENEZUELA" ,Tooncast
+http://181.78.12.119:16123/play/ch203/index.m3u8
+#EXTINF:-1 group-title="45 VK COLOMBIA Y VENEZUELA" ,TRECE
+http://181.78.12.119:16123/play/ch64/index.m3u8
+#EXTINF:-1 group-title="45 VK COLOMBIA Y VENEZUELA" ,TRO
+http://181.78.12.119:16123/play/ch68/index.m3u8
+#EXTINF:-1 group-title="45 VK COLOMBIA Y VENEZUELA" ,TRUTV HD
+http://181.78.12.119:16123/play/ch75/index.m3u8
+#EXTINF:-1 group-title="45 VK COLOMBIA Y VENEZUELA" ,Venevision Plus
+http://181.78.12.119:16123/play/ch36/index.m3u8
+#EXTINF:-1 group-title="45 VK COLOMBIA Y VENEZUELA" ,Win Sports+ HD
+http://181.78.12.119:16123/play/a041/index.m3u8
+#EXTINF:-1 group-title="45 VK COLOMBIA Y VENEZUELA" ,ZOOM
+http://181.78.12.119:16123/play/ch71/index.m3u8
+#EXTINF:-1 group-title="45 VK COLOMBIA Y VENEZUELA" ,ZOOMOO
+http://181.78.12.119:16123/play/ch04/index.m3u8
 #EXTINF:-1 group-title="45 VK INDIA PAKISTAN" ,&flix HD-Rs19
 http://180.178.188.152:8000/play/a00p
 #EXTINF:-1 group-title="45 VK INDIA PAKISTAN" ,&pictures HD -Rs19
@@ -19959,3 +20111,11 @@ https://linear-314.frequency.stream/314/hls/master/playlist.m3u8
 https://linear-388.frequency.stream/388/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="ViX" ,VEVO Reggaeton y Trap
 https://linear-389.frequency.stream/389/hls/master/playlist.m3u8
+#EXTINF:0 group-title="ZZBACKUPS" tvg-logo="https://photos.live-tv-channels.org/tv-logo/fr-euronews-english-5525.jpg" ,EURONEWS ESPAÑOL OPC
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1392
+#EXTINF:-1 group-title="ZZBACKUPS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Hispan_Tv_logo.svg/2560px-Hispan_Tv_logo.svg.png" ,HISPAN TV - IRAN
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1474
+#EXTINF:-1 group-title="ZZBACKUPS" tvg-logo="https://miamitvhd.com/assets/miamitvlatino-a0a662e0cef788009ad389105e7263d585707570b055e46e3b9b7eb5329775aa.png" ,MIAMI TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1456
+#EXTINF:-1 group-title="ZZBACKUPS" tvg-logo="https://miamitvhd.com/assets/miamitvlatino-a0a662e0cef788009ad389105e7263d585707570b055e46e3b9b7eb5329775aa.png" ,MIAMI TV REPLAY
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1457
