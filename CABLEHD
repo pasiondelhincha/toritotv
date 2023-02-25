@@ -445,8 +445,6 @@ http://190.149.66.90:16000/play/a009/index.m3u8
 http://143.244.60.30/FOXDEPORTES/index.m3u8
 #EXTINF:0 group-title="02 DEPORTE LOCAL" ,CLARO SPORTS
 https://d3q84yclyte826.cloudfront.net/out/v1/47af0926366f47cea7661fa9c13ff203/index.m3u8
-#EXTINF:-1 group-title="02 DEPORTE MUNDIAL VARIOS" ,2 SPORT HUNGRIA 🇭🇺
-https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
 #EXTINF:-1 group-title="02 DEPORTE MUNDIAL VARIOS" ,ACTION SPORTS
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5db867744f229f0009266784/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff334c2-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dffc36b9-57c6-4973-9903-2f83d465ac40&userId=&serverSideAds=true
 #EXTINF:-1 group-title="02 DEPORTE MUNDIAL VARIOS" ,ACTION SPORTS
@@ -903,8 +901,6 @@ http://ku3.worldtvip.co/uk_bt_sports_3_hd/index.m3u8?token=924ea83b1945763373380
 http://195.154.179.234:1234/stream/btsport4/stream.m3u8
 #EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" ,SKY SPORTS CRICKET
 http://ku3.worldtvip.co/uk_sky_sports_cricket_hd/index.m3u8
-#EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" ,PAKISTAN - TEN SPORTS
-http://208.86.19.13:81/711.stream/index.m3u8
 #EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" ,PAKISTAN - ASPORTS
 http://212.224.84.217:2200/R-EX/PAK_ASPORT-HD-in/tracks-v1a1/mono.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo
 #EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" ,PAKISTAN - PTV SPORTS
@@ -917,8 +913,6 @@ http://212.224.84.217:2200/R-EX/SPORTS_STAR_SPORTS_1_ENGLISH_HD-in/tracks-v1a1/m
 http://212.224.84.217:2200/AFR-EX/SuperSport_Action_FHD-dstv/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
 #EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" ,INDIA - DD SPORTS
 http://212.224.84.217:2200/R-EX/SPORTS_DD_SPORTS-in/index.m3u8?token=egBlCndpe3ZiDXBgN3JjewVhf3FmenNhfnAXeHItenVmfXJne3Blfg==
-#EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" ,INDIA - SONY TEN SPORTS
-http://208.86.19.13:81/711.stream/index.m3u8
 #EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" ,SKY SPORTS MIX
 http://212.224.84.217:2200/EX/Sky_Sports_Mix_HD-uk/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659|User-agent=REDLINECLIENT
 #EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_P2Mc_IFH2yKjEKNBsVp6JX1yDMdZ3G7MQMDC3bsctDqh0aqH8NRiuUsom6L2LnuUBfo&usqp=CAU" ,DAZN 1
@@ -1417,6 +1411,34 @@ http://boomtivi.xyz/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e8knmYox6b33Bu
 http://iptv.prosto.tv:7000/ch109/video.m3u8
 #EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" ,SPORTS TV
 http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
+#EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" ,SCTV SPORTS - VIETNAM
+http://vtsstr4.sctv.vn:1935/live/SCTV_HD_TheThao_new.smil/CDAM.m3u8
+#EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" ,BTV5 - VIETNAM
+http://vtsstr4.tv24.vn:1935/live/btv5_HD_new.smil/playlist.m3u8
+#EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" ,TVRI SPORTS
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+#EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" ,TSPORTS - BANGLADESH
+https://live.tsports.com/live/tsports_live_720/index.m3u8
+#EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" ,LA LIGA
+https://s@ecloud1.izqhjzepxsrvrwl.sbs/cdn/hIER0xdlRlY/mono.m3u8
+#EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" ,LA LIGA
+https://ecloud1.izqhjzepxsrvrwl.sbs/cdn/hIER0xdlRlY/mono.m3u8
+#EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" ,WOW TV - EL SALVADOR
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
+#EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" ,SWISS SPORT TV
+https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist_w1922077967_b2628000.m3u8
+#EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" ,TVN SPORTS - COREA
+https://cdn-us-154.cloudrsst.com/live/olivetv_540/playlist.m3u8
+#EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" ,VIAPLAY  XTRA
+https://d3j7ofexbkp7q4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/master.m3u8
+#EXTINF:-1 group-title="02 DEPORTE MUNDIAL VARIOS" ,ONE GOLF
+http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
+#EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" ,BEIN SPORTS 1 PREMIUM
+http://62.182.82.104/L_1_PREMIUM/index.m3u8?token=test
+#EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" ,BEIN SPORTS 2 PREMIUM
+http://62.182.82.104/L_2_PREMIUM/index.m3u8?token=test
+#EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" ,BEIN SPORTS 3 PREMIUM
+http://62.182.82.104/L_3_PREMIUM/index.m3u8?token=test
 #EXTINF:-1 group-title="02 DIRECTV" ,OPCION 1
 https://epg.pw/stream/8eac27160461ca1f12d59cade7e358bbb54ff9803a1e9f39aa88d39d99f1dc9a.ctv
 #EXTINF:-1 group-title="02 DIRECTV" ,OPCION 2
@@ -3719,15 +3741,19 @@ http://yusf.ddns.net:5080/WebRTCApp/streams/Bein7.m3u8
 http://yusf.ddns.net:5080/WebRTCApp/streams/KSA1.m3u8
 #EXTINF:-1 group-title="32 BEIN Y ARABES" ,KSA 2
 http://yusf.ddns.net:5080/WebRTCApp/streams/Ksa2.m3u8
+#EXTINF:0 group-title="32 BEIN Y ARABES" ,SSC 1
+http://yusf.ddns.net:5080/WebRTCApp/streams/SSC1.m3u8
 #EXTINF:-1 group-title="32 BEIN Y ARABES" ,SSC1 EXTRA
 http://yusf.ddns.net:5080/WebRTCApp/streams/SSC1_Extra.m3u8
-#EXTINF:-1 group-title="32 BEIN Y ARABES" ,SSC2
+#EXTINF:-1 group-title="32 BEIN Y ARABES" ,SSC 2
 http://yusf.ddns.net:5080/WebRTCApp/streams/SSC2.m3u8
-#EXTINF:-1 group-title="32 BEIN Y ARABES" ,SSC3
+#EXTINF:0 group-title="32 BEIN Y ARABES" ,SSC 2 EXTRA
+http://yusf.ddns.net:5080/WebRTCApp/streams/SSC2_Extra.m3u8
+#EXTINF:-1 group-title="32 BEIN Y ARABES" ,SSC 3
 http://yusf.ddns.net:5080/WebRTCApp/streams/SSC3.m3u8
-#EXTINF:-1 group-title="32 BEIN Y ARABES" ,SSC4
+#EXTINF:-1 group-title="32 BEIN Y ARABES" ,SSC 4
 http://yusf.ddns.net:5080/WebRTCApp/streams/SSC4.m3u8
-#EXTINF:-1 group-title="32 BEIN Y ARABES" ,SSC5
+#EXTINF:-1 group-title="32 BEIN Y ARABES" ,SSC 5
 http://yusf.ddns.net:5080/WebRTCApp/streams/SSC5.m3u8
 #EXTINF:-1 group-title="32 BUNDESLIGA" ,01
 https://epg.pw/stream/fdbbccfebcd93ef8bdf8a75ddc28ce71b93863c84b4f4e3479ac0cca21cb4e64.ctv
@@ -18481,8 +18507,6 @@ https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/chunk_u5
 https://rtmlive05tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
 #EXTINF:-1 group-title="77 INDONESIA-MALASIA" ,OMAN SPORT
 https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8
-#EXTINF:-1 group-title="77 INDONESIA-MALASIA" ,ONE GOLF
-http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 #EXTINF:-1 group-title="77 INDONESIA-MALASIA" ,ONE HD
 http://rtmp.one.by:1300
 #EXTINF:-1 group-title="77 INDONESIA-MALASIA" ,PAL TV
