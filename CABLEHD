@@ -8939,6 +8939,22 @@ http://185.59.221.131:8081/live/rti1/playlist.m3u8
 http://185.59.221.131:8081/live/rti2/playlist.m3u8
 #EXTINF:-1 group-title="41-stb-COSTA DE MARFIL" ,RTI 3
 http://185.59.221.131:8081/live/rti3/playlist.m3u8
+#EXTINF:-1 group-title="41-stb-CROACIA" ,01 HTV1 HD
+http://192.168.166.250:4241/bysid/1001
+#EXTINF:-1 group-title="41-stb-CROACIA" ,02 HTV2 HD
+http://192.168.166.250:4241/bysid/1002
+#EXTINF:-1 group-title="41-stb-CROACIA" ,03 HRT3 HD
+http://192.168.166.250:4241/bysid/1005
+#EXTINF:-1 group-title="41-stb-CROACIA" ,04 HRT4 HD
+http://192.168.166.250:4241/bysid/1006
+#EXTINF:-1 group-title="41-stb-CROACIA" ,05 Doma TV HD
+http://192.168.166.250:4241/bysid/1008
+#EXTINF:-1 group-title="41-stb-CROACIA" ,06 NOVA TV HD
+http://192.168.166.250:4241/bysid/1004
+#EXTINF:-1 group-title="41-stb-CROACIA" ,07 RTL HD
+http://192.168.166.250:4241/bysid/1003
+#EXTINF:-1 group-title="41-stb-CROACIA" ,08 RTL 2  HD
+http://192.168.166.250:4241/bysid/1007
 #EXTINF:-1 group-title="41-STB-DINAMARCA" ,CHANNEL 9
 http://195.222.7.26:7001/play/a02f
 #EXTINF:-1 group-title="41-STB-DINAMARCA" ,CNBC
