@@ -435,33 +435,37 @@ http://disfruta.net:80/tvlatvgo152728e/XfnGyhSif8/2745
 http://disfruta.net:80/tvlatvgo152728e/XfnGyhSif8/1415
 #EXTINF:0 group-title="02 DEPORTE LOCAL" tvg-logo="https://bolavip.com/__export/1580751109215/sites/bolavip/img/2020/02/03/win_crop1580751108551.png_267849830.png" ,WINSPORTS +
 http://disfruta.net:80/tvlatvgo152728e/XfnGyhSif8/1417
-#EXTINF:-1 group-title="02 DEPORTE MUNDIAL VARIOS" ,#VAMOS
+#EXTINF:-1 group-title="02 DEPORTE MUNDIAL VARIOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Vamos_por_Movistar_Plus%2B_2022_logo.svg/1200px-Vamos_por_Movistar_Plus%2B_2022_logo.svg.png" ,#VAMOS
 https://srv1.exyu.cc/live/stevica/stevica1234/1446.m3u8
-#EXTINF:-1 group-title="02 DEPORTE MUNDIAL VARIOS" ,+FOOT
+#EXTINF:-1 group-title="02 DEPORTE MUNDIAL VARIOS" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/2/29/Foot%2B_2011.svg/1200px-Foot%2B_2011.svg.png" ,+FOOT
 http://204.12.247.162:8080/premium463/mono.m3u8
-#EXTINF:-1 group-title="02 DEPORTE MUNDIAL VARIOS" ,ACTION SPORTS
+#EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png" ,ABU DHABI SPORT 1
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
+#EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" tvg-logo="https://i.imgur.com/9q8gFsq.png" ,ABU DHABI SPORTS 2
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
+#EXTINF:-1 group-title="02 DEPORTE MUNDIAL VARIOS" tvg-logo="https://yt3.googleusercontent.com/ytc/AMLnZu9SV5OGgGTQmH8NGWZkHoU0KIGVschv-lJMu0l-=s900-c-k-c0x00ffffff-no-rj" ,ACTION SPORTS
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5db867744f229f0009266784/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff334c2-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dffc36b9-57c6-4973-9903-2f83d465ac40&userId=&serverSideAds=true
-#EXTINF:-1 group-title="02 DEPORTE MUNDIAL VARIOS" ,ACTION SPORTS
+#EXTINF:-1 group-title="02 DEPORTE MUNDIAL VARIOS" tvg-logo="https://yt3.googleusercontent.com/ytc/AMLnZu9SV5OGgGTQmH8NGWZkHoU0KIGVschv-lJMu0l-=s900-c-k-c0x00ffffff-no-rj" ,ACTION SPORTS
 https://linear-36.frequency.stream/dist/localnow/36/hls/master/playlist.m3u8
-#EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" ,ADSPORT 1
+#EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvAh4R9H3cMQwFEXzfmqNoJH8x8tanO9COjqjTrIpY0VD09VjrKsO9ZWs3x-Ty7NvRbgY&usqp=CAU" ,ADSPORT 1
 https://nimplus6.giniko.com/adsport1/adsport1/chunklist_w1183641331.m3u8?nimblesessionid=496628&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNS8yMDIzIDE6NTY6NTggQU0maGFzaF92YWx1ZT1oQ3orNmtVdk9wL3F2QzRrSkhSK0RRPT0mdmFsaWRtaW51dGVzPTI4ODA=
-#EXTINF:-1 group-title="02 DEPORTE MUNDIAL VARIOS" ,Adventure Sports Network
+#EXTINF:-1 group-title="02 DEPORTE MUNDIAL VARIOS" tvg-logo="https://play-lh.googleusercontent.com/EYW9HxVrbwZ-nRnuReGW8avfRjjLLX63s78gOv0rqTCtGqDB-di02DSqxCkMXHnJ2g" ,Adventure Sports Network
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/768x432_1200000/index.m3u8
-#EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" ,AL RABIAA 1 - IRAQ
+#EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-rabiaa-sport-tv-iq.png" ,AL RABIAA SPORT 1 - IRAQ
+http://149.62.177.100:25461/live/rawlll2/rawlll2/86.ts
+#EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-rabiaa-sport-tv-iq.png" ,AL RABIAA SPORT 1 - IRAQ
 https://cllive.itworkscdn.net/alrabiaatvnewslive/token=nva=1677304426~dirs=1~hash=0315eaf2c6c7fb85f3642/alrabiaatv.smil/alrabiaatv_source_chunks.m3u8
-#EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" ,AL RABIAA 2 - IRAQ
+#EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-rabiaa-sport-tv-iq.png" ,AL RABIAA SPORT 2 - IRAQ
 https://cllive.itworkscdn.net/alrabiaatvnewslive/token=nva=1677304488~dirs=1~hash=0b0274a390d4c90e4cdde/alrabiaatv2.smil/alrabiaatv2_chunks.m3u8
 #EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" tvg-logo="https://i5.satexpat.com/cha/al/tring-468x144.png" ,ALBANIA - TRING SPORT 1
 https://epg.pw/stream/8872935cda7344d9637eaceffbe528f28a55c867cc36d9684214e15c263b051f.ctv
 #EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" tvg-logo="https://i5.satexpat.com/cha/al/tring-468x144.png" ,ALBANIA - TRING SPORT 2
 https://epg.pw/stream/8cbae35429f160c8dc76428511a0ceafb0e1185ea5a7892a277708feba8f4b08.ctv
-#EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" ,ALIRAQYA SPORT - IRAQ
+#EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" tvg-logo="https://i.goalzz.com/?i=logo_sport%2Firaqsport.jpg" ,ALIRAQYA SPORT - IRAQ
 https://elahmad.ipslow.com/tv187_www.elahmad.com_iraq_sport/tracks-v1a1/mono.m3u8?token=f9a0bad28c506fbf9e3ba54117cd072674352f98-d5b58e887e183140824b7198d249d154-1677300666-1677289866
-#EXTINF:-1 group-title="02 DEPORTE MUNDIAL VARIOS" ,All Sports
+#EXTINF:-1 group-title="02 DEPORTE MUNDIAL VARIOS" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/37a7f2bbd24082bb8f947686020c3e82.webp" ,All Sports - BRASIL
 https://2-fss-2.streamhoster.com/pl_120/amlst:203932-1476320/playlist.m3u8
-#EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-rabiaa-sport-tv-iq.png" ,ALRABIAA SPORT - IRAQ
-http://149.62.177.100:25461/live/rawlll2/rawlll2/86.ts
-#EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" ,AMAZON PRIME VIDEO FRANCES
+#EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Amazon_Prime_Video_logo.svg/1200px-Amazon_Prime_Video_logo.svg.png" ,AMAZON PRIME VIDEO FRANCES
 https://epg.pw/stream/287c097a05aa0b2655b4eef79e9ad49a8da6676945afaefcfc9e2eb489a80162.ctv
 #EXTINF:-1 group-title="02 DEPORTE MUNDIAL VARIOS" ,ARENA 1 PREMIUM
 http://204.12.247.162:8080/premium582/mono.m3u8
@@ -963,6 +967,8 @@ https://kwmedia.hibridcdn.net/kwmedia/kwtvsports_abr/kwmedia/kwtvsports_480p/chu
 https://kwmedia.hibridcdn.net/kwmedia/kwtvsportsplus_abr/kwmedia/kwtvsportsplus_480p/chunks.m3u8?p=57&s=1677288016&e=1677374416&cf=1677374416&h=ed49c22602c6ed4a6cc23c48b86491a7&hs=3121807912
 #EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Logo-lequipe.svg" ,L EQUIPE
 http://livetv.ktv.zone/23/play.m3u8
+#EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" ,L EQUIPE
+https://s13.tntendirect.com/lequipe21/live/chunks.m3u8
 #EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" ,LA LIGA
 https://s@ecloud1.izqhjzepxsrvrwl.sbs/cdn/hIER0xdlRlY/mono.m3u8
 #EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" ,LA LIGA
@@ -1491,8 +1497,6 @@ http://79.124.21.251:9770/play/a003
 http://79.124.21.251:9770/play/a004
 #EXTINF:-1 group-title="02 DEPORTE MUNDIAL VARIOS" ,Первый канал HD
 http://79.124.21.251:9770/play/a00p
-#EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" ,ABU DHABI SPORTS 2
-http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
 #EXTINF:-1 group-title="02 DIRECTV" ,OPCION 1
 https://epg.pw/stream/8eac27160461ca1f12d59cade7e358bbb54ff9803a1e9f39aa88d39d99f1dc9a.ctv
 #EXTINF:-1 group-title="02 DIRECTV" ,OPCION 10
@@ -2811,6 +2815,8 @@ http://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_240
 https://d2jiqiw4g5lj5k.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/AmericasVoiceChannel-prod/AVSamsung/AVSamsung.m3u8
 #EXTINF:-1 group-title="10INTERNACIONALES" tvg-logo="https://rndserv.xyz/images/reuters.png" ,REUTTERS NOW
 https://reuters-reutersnow-1-us.plex.wurl.tv/playlist.m3u8
+#EXTINF:0 group-title="10INTERNACIONALES" ,RTNC 1 CONGO
+http://51.15.3.133:8080/RTNC1/index.m3u8
 #EXTINF:-1 group-title="10INTERNACIONALES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Sky-news-logo.svg/2560px-Sky-news-logo.svg.png" ,SKY NEWS
 https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
 #EXTINF:-1 group-title="10INTERNACIONALES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmt5n9J5g-unMod6SegszBZDFxeCJfOO1thIRsSbG1f0g6lS59TNQipto0EAXGG5KNmbU&usqp=CAU" ,SKY NEWS EXTRA 01 - AUSTRALIA
@@ -2879,8 +2885,6 @@ https://yahoo-samsung.amagi.tv/playlist.m3u8
 https://content.uplynk.com/channel/411ba7ca8cb6403a9e73509e49c3a77b.m3u8
 #EXTINF:0 group-title="10INTERNACIONALES" ,ZNSTV BAHAMAS
 https://5eb3359c4798d.streamlock.net/znstv/smil:znstv_streams.smil/playlist.m3u8
-#EXTINF:0 group-title="10INTERNACIONALES" ,RTNC 1 CONGO
-http://51.15.3.133:8080/RTNC1/index.m3u8
 #EXTINF:-1 group-title="11ANIME - TEEN" tvg-logo="https://images.pluto.tv/channels/6054acc871ec430007f54c7d/colorLogoPNG.png" ,ANIME CLASICO
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6054acc871ec430007f54c7d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 group-title="11ANIME - TEEN" tvg-logo="https://images.pluto.tv/channels/5f1aa7aab66c76000790ee7e/colorLogoPNG.png" ,BIG TIME RUSH
