@@ -534,13 +534,13 @@ http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8
 #EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" ,ASTRO CRICKET
 http://asu.worldtvip.co/astrocricket/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" ,ASTRO SUPERSPORT 1
-https://epg.pw/stream/bad6acf370271434c620061278b87fcc78d1e6bdd9fb23d0e1155d31f57cf3a9.ctv
+http://directiptvfhd.com:8080/1eae94e3/e22181ebb2/146068
 #EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" ,ASTRO SUPERSPORT 2
-https://epg.pw/stream/0cec8852c5766e9258375a84e657428f205c7cd1ec13813ec78ac72a95b96932.ctv
+http://directiptvfhd.com:8080/1eae94e3/e22181ebb2/157556
 #EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" ,ASTRO SUPERSPORT 3
-https://epg.pw/stream/c8b933207b43137c9ffa8ef1494f153f654c9c4890d596d2571bbbef67039eb9.ctv
+http://directiptvfhd.com:8080/1eae94e3/e22181ebb2/157557
 #EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" ,ASTRO SUPERSPORT 4
-https://epg.pw/stream/c05f8204018b7291e72aa6440ba5505b261dfea7fd61bc41de56af84214130b9.ctv
+http://directiptvfhd.com:8080/1eae94e3/e22181ebb2/157558
 #EXTINF:-1 group-title="02 DEPORTE MUNDIAL VARIOS" ,ATG - SUECIA
 https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
 #EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" ,AUTO MOTOR SPORT CHANNEL
@@ -19811,3 +19811,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1457
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1095
 #EXTINF:0 group-title="ZZBACKUPS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/Ve_Plus_Logo_2019.png" ,VENEVISION PLUS
 http://190.122.96.187:8888/http/006
+#EXTINF:0 group-title="ZZBACKUPS" ,DIRECTV SPORTS
+http://directiptvfhd.com:8080/1eae94e3/e22181ebb2/67721
+#EXTINF:0 group-title="ZZBACKUPS" ,DIRECTV SPORTS 2
+http://directiptvfhd.com:8080/1eae94e3/e22181ebb2/31645
+#EXTINF:0 group-title="ZZBACKUPS" ,DIRECTV SPORTS +
+http://directiptvfhd.com:8080/1eae94e3/e22181ebb2/65750
