@@ -263,36 +263,36 @@ https://archive.org/download/torazo_202204/TORAZO.mp4
 https://corsproxy.io/?http://heroem3u.epizy.com/youtube/UCnx743KuO_16sCMIbEg7Y7Q.m3u8
 #EXTINF:0 group-title="02 DEPORTE LOCAL" tvg-logo="https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8" ,BAYRES TV
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
-#EXTINF:0 group-title="02 DEPORTE LOCAL" ,BEIN Ñ EXTRA
+#EXTINF:0 group-title="02 DEPORTE LOCAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8F1fo2xp2pqfYqrAsLwkviZboNkSRiLc8ARdKTGwrydJaaWZEJOJN6bTtRsbWNT4omE0&usqp=CAU" ,BEIN Ñ EXTRA
 https://v-fn.mybtv.net/live/948.m3u8
-#EXTINF:0 group-title="02 DEPORTE LOCAL" tvg-logo="https://monkeypro.cl/wp-content/uploads/2017/06/logo-cdo.png" ,CHILE - CDO BASICO
-http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/3607
-#EXTINF:0 group-title="02 DEPORTE LOCAL" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-estadio-tnt-sports-2559.png" ,CHILE - ESTADIO TNT
-http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/6979
+#EXTINF:0 group-title="02 DEPORTE LOCAL" tvg-logo="https://i.imgur.com/9vIITVq.png" ,CHILE - CDO BASICO
+http://nubiatv.live:80/live/zero514/zero514/529.ts
+#EXTINF:0 group-title="02 DEPORTE LOCAL" tvg-logo="https://i.imgur.com/9vIITVq.png" ,CHILE - CDO PREMIUM
+http://nubiatv.live:80/live/zero514/zero514/23514.ts
+#EXTINF:0 group-title="02 DEPORTE LOCAL" tvg-logo="https://www.tigosports.com.bo/sites/default/files/tigosports-app-icon_0.png" ,TIGO SPORTS PARAGUAY
+http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/7435
 #EXTINF:0 group-title="02 DEPORTE LOCAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TNT_Sports_Chile.svg/2560px-TNT_Sports_Chile.svg.png" ,CHILE - TNT SPORTS
-http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/16138
-#EXTINF:0 group-title="02 DEPORTE LOCAL" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_01/large.logo_tntsports_3_blanco.png.d74baab65acb6c906a59f093dbba0fb9.png" ,CHILE - TNT SPORTS 3
-http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/1068349
+http://8.242.179.183:58001/play/a06q/index.m3u8
+#EXTINF:0 group-title="02 DEPORTE LOCAL" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_01/large.logo_tntsports_3_blanco.png.d74baab65acb6c906a59f093dbba0fb9.png" ,CHILE - TNT SPORTS 2
+http://190.131.228.59:8000/play/a059/index.m3u8
 #EXTINF:0 group-title="02 DEPORTE LOCAL" tvg-logo="https://i2.paste.pics/c767dc0905ee282c6ea1b565625e7ca7.png" ,CITY SPORTS
 https://videosenlared.fullstreaming.ar:3697/live/contenidos34live.m3u8?
-#EXTINF:0 group-title="02 DEPORTE LOCAL" ,CLARO SPORTS
+#EXTINF:0 group-title="02 DEPORTE LOCAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9DRxKY6hLFWlx7CX2Ec26rsbsCTfeLfEmqTgnnMisy_qySBYz2Z_JAyQ9X4PAWxAkP7E&usqp=CAU" ,CLARO SPORTS
 https://d3q84yclyte826.cloudfront.net/out/v1/47af0926366f47cea7661fa9c13ff203/index.m3u8
-#EXTINF:0 group-title="02 DEPORTE LOCAL" ,CLARO SPORTS 1
+#EXTINF:0 group-title="02 DEPORTE LOCAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9DRxKY6hLFWlx7CX2Ec26rsbsCTfeLfEmqTgnnMisy_qySBYz2Z_JAyQ9X4PAWxAkP7E&usqp=CAU" ,CLARO SPORTS 1
 http://190.149.66.90:16000/play/a008/index.m3u8
-#EXTINF:0 group-title="02 DEPORTE LOCAL" ,CLARO SPORTS 2
+#EXTINF:0 group-title="02 DEPORTE LOCAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9DRxKY6hLFWlx7CX2Ec26rsbsCTfeLfEmqTgnnMisy_qySBYz2Z_JAyQ9X4PAWxAkP7E&usqp=CAU" ,CLARO SPORTS 2
 http://190.149.66.90:16000/play/a009/index.m3u8
-#EXTINF:0 group-title="02 DEPORTE LOCAL" ,DAZN ESPAÑA 3
-https://epg.pw/stream/d8bf2c093239caeb5cd7fe68671940bc930e91b1c02dbef074691c526addada9.ctv
 #EXTINF:0 group-title="02 DEPORTE LOCAL" ,DAZN LA LIGA 1
-http://212.224.84.217:2200/NL/daznlaliga1-esp/index.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo
-#EXTINF:0 group-title="02 DEPORTE LOCAL" ,DAZN LA LIGA 1
-http://212.224.84.217:2200/NL/daznlaliga1-esp/tracks-v1a1/mono.m3u8?token=fwBlCndpe3ZiDXBiN3VjewVhf3FmenNhfnAXeHAtenVmfXtoenNieA%3D%3D
+http://204.12.247.162:8080/premium445/mono.m3u8
 #EXTINF:0 group-title="02 DEPORTE LOCAL" ,DAZN LA LIGA 2
-http://212.224.84.217:2200/NL/daznlaliga2-esp/index.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo
+http://51.158.36.81:18000/DAZN_2/hls/playlist.m3u8
+#EXTINF:0 group-title="02 DEPORTE LOCAL" ,DAZN F1
+http://nubiatv.live:80/live/zero514/zero514/44832.ts
 #EXTINF:-1 group-title="02 DEPORTE LOCAL" tvg-logo="https://i.postimg.cc/3xg7kw7j/DEPORTV.png" ,DEPORTV
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/chunklist_w1909906624.m3u8
 #EXTINF:0 group-title="02 DEPORTE LOCAL" tvg-logo="https://i.postimg.cc/3xg7kw7j/DEPORTV.png" ,DEPORTV OPC
-http://disfruta.net:80/tvlatvgo152728e/XfnGyhSif8/356
+http://nubiatv.live:80/live/zero514/zero514/182937.ts
 #EXTINF:0 group-title="02 DEPORTE LOCAL" ,DIRECTV ESPAÑA
 https://epg.pw/stream/6a130d56eb4ed564129c61980b2fa11417bfa2e3751358924de12922df764989.ctv
 #EXTINF:0 group-title="02 DEPORTE LOCAL" ,DIRECTV SPORTS
@@ -302,13 +302,13 @@ http://budtvlight.com:25461/budtvsports/wTu27rKVNU/21794
 #EXTINF:0 group-title="02 DEPORTE LOCAL" ,DIRECTV SPORTS + (ascenso)
 https://epg.pw/stream/111818c4cedff1f8b2489902bd50763fee9e0cfdbb9dba029d9d9d67f92735c9.ctv
 #EXTINF:-1 group-title="02 DEPORTE LOCAL" tvg-logo="https://www.mzldeportes.com/media/noticias/pop_formato-primera-nacional-est-listo_14572.jpg" ,DIRECTV SPORTS - ASCENSO
-http://ultratv.one:2095/xMsGHAzQ/kYuckAK/72218
+http://directiptvfhd.com:8080/1eae94e3/e22181ebb2/65750
 #EXTINF:0 group-title="02 DEPORTE LOCAL" tvg-id="http://583027113626314198.discoveryapp.xyz:80/play/vv01032/3469675/314198.ts" tvg-logo="https://1.bp.blogspot.com/-f5u2OnKyA8A/XazFPWIst9I/AAAAAAAAAlU/H15BTBiKOu4UhFg3Js1-NMLwNcx_HCC9QCLcBGAsYHQ/s200/20.png" ,DIRECTV SPORTS 1
-http://disfruta.net:80/tvlatvgo152728e/XfnGyhSif8/1059
+https://epg.pw/stream/4993dcf58fb0127b504f1e0f96b0f35198825305e38c34b03dc85166e505f4ce.ctv
 #EXTINF:0 group-title="02 DEPORTE LOCAL" tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s86a1480785a470a0/image/iaafa0ecbf64a81e7/version/1621923200/image.png" ,DIRECTV SPORTS 2
-http://disfruta.net:80/tvlatvgo152728e/XfnGyhSif8/1205
+http://nubiatv.live:80/live/zero514/zero514/594441.ts
 #EXTINF:0 group-title="02 DEPORTE LOCAL" tvg-logo="https://2.bp.blogspot.com/-VucBrUNMqPI/XNw3tBcfNOI/AAAAAAAAReE/t7xurwgz2rg5HUWw6Xl1DMCdt_vS32hfACK4BGAYYCw/s400/Copa%2BMundial%2BQatar%2B2022256x.png" ,ECDF EL CANAL DEL FUTBOL
-http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/1086208
+http://nubiatv.live:80/live/zero514/zero514/379033.ts
 #EXTINF:0 group-title="02 DEPORTE LOCAL" ,ECDF EL CANAL DEL FUTBOL OPC2
 https://epg.pw/stream/1db152f7f70659f3170e8f2b115ef646d4cc0f30f9999ee90d4236e40fc27867.ctv
 #EXTINF:-1 group-title="02 DEPORTE LOCAL" tvg-logo="https://w7.pngwing.com/pngs/318/371/png-transparent-espn-television-espn-extra-high-definition-video-lam-radio-hd-television-text-logo.png" ,ESPN 1 HD
@@ -327,7 +327,7 @@ https://delivery.cdn.rcs.net.ar/mnp/espnpremium/output.mpd
 https://router.cdn.rcs.net.ar/mnp/espnpremium/output.mpd
 #EXTINF:0 group-title="02 DEPORTE LOCAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1200px-ESPN_Premium_logo.svg.png" ,ESPN PREMIUM OPC 3
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN_Premium/SA_HLS/ESPN_Premium.m3u8
-#EXTINF:0 group-title="02 DEPORTE LOCAL" ,FOX DEPORTES
+#EXTINF:0 group-title="02 DEPORTE LOCAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/FOX_Deportes_logo.svg/1200px-FOX_Deportes_logo.svg.png" ,FOX DEPORTES
 http://143.244.60.30/FOXDEPORTES/index.m3u8
 #EXTINF:-1 group-title="02 DEPORTE LOCAL" tvg-logo="https://i.postimg.cc/sx3NsL2J/FOX-SPORTS.png" ,FOX SPORTS
 https://router.cdn.rcs.net.ar/mnp/fox_sport/output.mpd
@@ -347,19 +347,15 @@ http://disfruta.net:80/tvlatvgo152728e/XfnGyhSif8/1073
 http://disfruta.net:80/tvlatvgo152728e/XfnGyhSif8/1077
 #EXTINF:0 group-title="02 DEPORTE LOCAL" tvg-logo="https://i.postimg.cc/sx3NsL2J/FOX-SPORTS.png" ,FOX SPORTS OPC
 https://delivery.cdn.rcs.net.ar/mnp/fox_sport/output.mpd
-#EXTINF:0 group-title="02 DEPORTE LOCAL" ,FOZ SPORTS MX PREMIUM
+#EXTINF:0 group-title="02 DEPORTE LOCAL" tvg-logo="https://i.blogs.es/61a41c/fox-sports-premium-230322-1200x675-1/1366_2000.jpg" ,FOZ SPORTS MX PREMIUM
 http://166.0.208.24:3473/evento3/bodega/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:0 group-title="02 DEPORTE LOCAL" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhIoXN16BTxDzxejGVdaCgjFpymeM_0Dc7AL36w=s900-c-k-c0x00ffffff-no-rj" ,GOL TV ECUADOR
-http://disfruta.net:80/tvlatvgo152728e/XfnGyhSif8/1214
+http://45.225.95.170:8000/play/a0j9/index.m3u8
 #EXTINF:0 group-title="02 DEPORTE LOCAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/LOGO_oficial.jpg/480px-LOGO_oficial.jpg" ,GOLPERU
-http://disfruta.net:80/tvlatvgo152728e/XfnGyhSif8/1215
+http://45.225.95.170:8000/play/a0ir/index.m3u8
 #EXTINF:0 group-title="02 DEPORTE LOCAL" tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJU_hwBszGHckiMrv0I1U4M29RArElhoZWmoQcUVlQ=s900-c-k-c0x00ffffff-no-rj" ,HIPODROMO DE PALERMO
 https://corsproxy.io/?http://heroem3u.epizy.com/youtube/UCBQnpH3GKOKRGg4O8PpqQSw.m3u8
-#EXTINF:0 group-title="02 DEPORTE LOCAL" ,LA LIGA
-https://ttcast.gpwpaqnxpwhqufz.sbs/cdn/BXaQAanLKPZ/mono.m3u8
-#EXTINF:0 group-title="02 DEPORTE LOCAL" ,LA LIGA 2
-https://ttcast.gpwpaqnxpwhqufz.sbs/cdn/csR9kpyiTIi0/index.m3u8?
-#EXTINF:0 group-title="02 DEPORTE LOCAL" ,LA PODEROSA TV
+#EXTINF:0 group-title="02 DEPORTE LOCAL" tvg-logo="https://yt3.googleusercontent.com/wxjHFLd2_v7GUWxgNZVmr9KE95tpx8b09POCileabnx8l9AF0cadr_srMNl58htYK7N-nkLP=s900-c-k-c0x00ffffff-no-rj" ,LA PODEROSA TV
 https://videostream.shockmedia.com.ar:19360/fmlapoderosaavellaneda01/fmlapoderosaavellaneda01.m3u8
 #EXTINF:0 group-title="02 DEPORTE LOCAL" tvg-logo="https://espnpressroom.com/mexico/files/2009/11/ESPN_Mexico_BW_Neg.jpg" ,MX ESPN 1
 http://disfruta.net:80/tvlatvgo152728e/XfnGyhSif8/1079
@@ -381,8 +377,6 @@ http://disfruta.net:80/tvlatvgo152728e/XfnGyhSif8/2680
 http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/18594
 #EXTINF:0 group-title="02 DEPORTE LOCAL" ,TIGO SPORTS EL SALVADOR
 http://moontools.me:8080/zapata35/quUMpNjHqtuz/1130189
-#EXTINF:0 group-title="02 DEPORTE LOCAL" tvg-logo="https://www.tigosports.com.bo/sites/default/files/tigosports-app-icon_0.png" ,TIGO SPORTS PARAGUAY
-http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/7435
 #EXTINF:0 group-title="02 DEPORTE LOCAL" tvg-logo="https://www.tigosports.com.bo/sites/default/files/tigosports-app-icon_0.png" ,TIGO SPORTS PARAGUAY 2
 http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/7450
 #EXTINF:0 group-title="02 DEPORTE LOCAL" tvg-logo="https://www.tigosports.com.bo/sites/default/files/tigosports-app-icon_0.png" ,TIGO SPORTS PARAGUAY HD
@@ -428,9 +422,9 @@ https://dhmxbo9piuo21.cloudfront.net/out/v1/84ee2b0cce384a30abd70b05562ddd91/ind
 #EXTINF:0 group-title="02 DEPORTE LOCAL" ,TYC SPORTS PLAY 14
 https://d107yb993altze.cloudfront.net/out/v1/772e0b0193134726ad84693b7baca6c6/index.m3u8
 #EXTINF:0 group-title="02 DEPORTE LOCAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Logo_VTV_nuevo.png/1200px-Logo_VTV_nuevo.png" ,VTV
-http://disfruta.net:80/tvlatvgo152728e/XfnGyhSif8/2744
+https://epg.pw/stream/c2149ae4bd191565dc37d238de4dc261b8e6054ab83bffc5699ff1b31ca7978c.ctv
 #EXTINF:0 group-title="02 DEPORTE LOCAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_VTV_Plus_nuevo.png" ,VTV PLUS
-http://disfruta.net:80/tvlatvgo152728e/XfnGyhSif8/2745
+http://nubiatv.live:80/live/zero514/zero514/5615.ts
 #EXTINF:0 group-title="02 DEPORTE LOCAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Win_Sport_logo.png" ,WINSPORTS
 http://disfruta.net:80/tvlatvgo152728e/XfnGyhSif8/1415
 #EXTINF:0 group-title="02 DEPORTE LOCAL" tvg-logo="https://bolavip.com/__export/1580751109215/sites/bolavip/img/2020/02/03/win_crop1580751108551.png_267849830.png" ,WINSPORTS +
@@ -685,8 +679,6 @@ https://cdn-us-154.cloudrsst.com/live/olivetv_540/playlist.m3u8
 https://tv.dashacomedia.com:3960/live/dashacomedia2live.m3u8
 #EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_P2Mc_IFH2yKjEKNBsVp6JX1yDMdZ3G7MQMDC3bsctDqh0aqH8NRiuUsom6L2LnuUBfo&usqp=CAU" ,DAZN 01
 https://epg.pw/stream/f650ad30dca6ccb9740454490ef5843ae748cfc1159c15e6ce4f3c7e0ef3dc49.ctv
-#EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_P2Mc_IFH2yKjEKNBsVp6JX1yDMdZ3G7MQMDC3bsctDqh0aqH8NRiuUsom6L2LnuUBfo&usqp=CAU" ,DAZN 1
-http://212.224.84.217:2200/NL/dazn1hd-esp/tracks-v1a1/mono.m3u8?token=RED_NDU5ZUlZYP4YL1zyvtx1zA==,1655893751.3265758464|User-agent=REDLINECLIENT
 #EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" ,DAZN 1
 http://204.12.247.162:8080/premium426/mono.m3u8
 #EXTINF:-1 group-title="02 DEPORTE MUNDIAL VARIOS" ,DAZN 1
@@ -703,8 +695,6 @@ https://epg.pw/stream/329a20c8df4268a2e33ca535a7fdd9d286ba657621b6a4b2ec26722863
 http://212.224.84.217:2200/NL/dazn2hd-esp/tracks-v1a1/mono.m3u8?token=RED_NDU5ZUlZYP4YL1zyvtx1zA==,1655893751.3265758464|User-agent=REDLINECLIENT
 #EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" ,DAZN 2
 http://204.12.247.162:8080/premium427/mono.m3u8
-#EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" ,DAZN 2
-http://51.178.36.235:49214/DAZN_2/hls/playlist.m3u8
 #EXTINF:-1 group-title="02 DEPORTE MUNDIAL VARIOS" ,DAZN 2 - ALEMAN
 http://204.12.247.162:8080/premium427/mono.m3u8
 #EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" ,DAZN 2 ESPAÑA
@@ -19817,3 +19807,7 @@ http://directiptvfhd.com:8080/1eae94e3/e22181ebb2/67721
 http://directiptvfhd.com:8080/1eae94e3/e22181ebb2/31645
 #EXTINF:0 group-title="ZZBACKUPS" ,DIRECTV SPORTS +
 http://directiptvfhd.com:8080/1eae94e3/e22181ebb2/65750
+#EXTINF:0 group-title="ZZBACKUPS" ,DAZN 1
+http://51.158.36.81:18000/DAZN_1/hls/playlist.m3u8
+#EXTINF:0 group-title="ZZBACKUPS" ,DAZN F1
+http://51.158.36.81:18000/DAZN_F1/hls/playlist.m3u8
