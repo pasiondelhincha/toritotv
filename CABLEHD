@@ -269,8 +269,6 @@ https://v-fn.mybtv.net/live/948.m3u8
 http://nubiatv.live:80/live/zero514/zero514/529.ts
 #EXTINF:0 group-title="02 DEPORTE LOCAL" tvg-logo="https://i.imgur.com/9vIITVq.png" ,CHILE - CDO PREMIUM
 http://nubiatv.live:80/live/zero514/zero514/23514.ts
-#EXTINF:0 group-title="02 DEPORTE LOCAL" tvg-logo="https://www.tigosports.com.bo/sites/default/files/tigosports-app-icon_0.png" ,TIGO SPORTS PARAGUAY
-http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/7435
 #EXTINF:0 group-title="02 DEPORTE LOCAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TNT_Sports_Chile.svg/2560px-TNT_Sports_Chile.svg.png" ,CHILE - TNT SPORTS
 http://8.242.179.183:58001/play/a06q/index.m3u8
 #EXTINF:0 group-title="02 DEPORTE LOCAL" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_01/large.logo_tntsports_3_blanco.png.d74baab65acb6c906a59f093dbba0fb9.png" ,CHILE - TNT SPORTS 2
@@ -283,12 +281,12 @@ https://d3q84yclyte826.cloudfront.net/out/v1/47af0926366f47cea7661fa9c13ff203/in
 http://190.149.66.90:16000/play/a008/index.m3u8
 #EXTINF:0 group-title="02 DEPORTE LOCAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9DRxKY6hLFWlx7CX2Ec26rsbsCTfeLfEmqTgnnMisy_qySBYz2Z_JAyQ9X4PAWxAkP7E&usqp=CAU" ,CLARO SPORTS 2
 http://190.149.66.90:16000/play/a009/index.m3u8
+#EXTINF:0 group-title="02 DEPORTE LOCAL" ,DAZN F1
+http://nubiatv.live:80/live/zero514/zero514/44832.ts
 #EXTINF:0 group-title="02 DEPORTE LOCAL" ,DAZN LA LIGA 1
 http://204.12.247.162:8080/premium445/mono.m3u8
 #EXTINF:0 group-title="02 DEPORTE LOCAL" ,DAZN LA LIGA 2
 http://51.158.36.81:18000/DAZN_2/hls/playlist.m3u8
-#EXTINF:0 group-title="02 DEPORTE LOCAL" ,DAZN F1
-http://nubiatv.live:80/live/zero514/zero514/44832.ts
 #EXTINF:-1 group-title="02 DEPORTE LOCAL" tvg-logo="https://i.postimg.cc/3xg7kw7j/DEPORTV.png" ,DEPORTV
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/chunklist_w1909906624.m3u8
 #EXTINF:0 group-title="02 DEPORTE LOCAL" tvg-logo="https://i.postimg.cc/3xg7kw7j/DEPORTV.png" ,DEPORTV OPC
@@ -377,6 +375,8 @@ http://disfruta.net:80/tvlatvgo152728e/XfnGyhSif8/2680
 http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/18594
 #EXTINF:0 group-title="02 DEPORTE LOCAL" ,TIGO SPORTS EL SALVADOR
 http://moontools.me:8080/zapata35/quUMpNjHqtuz/1130189
+#EXTINF:0 group-title="02 DEPORTE LOCAL" tvg-logo="https://www.tigosports.com.bo/sites/default/files/tigosports-app-icon_0.png" ,TIGO SPORTS PARAGUAY
+http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/7435
 #EXTINF:0 group-title="02 DEPORTE LOCAL" tvg-logo="https://www.tigosports.com.bo/sites/default/files/tigosports-app-icon_0.png" ,TIGO SPORTS PARAGUAY 2
 http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/7450
 #EXTINF:0 group-title="02 DEPORTE LOCAL" tvg-logo="https://www.tigosports.com.bo/sites/default/files/tigosports-app-icon_0.png" ,TIGO SPORTS PARAGUAY HD
@@ -749,6 +749,8 @@ http://204.12.247.162:8080/premium467/mono.m3u8
 https://epg.pw/stream/51a5b550a0fbe44b13f211f0777ea4a2407c2803b03641f9e73648815ab08326.ctv
 #EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" tvg-logo="https://upload.wikimedia.org/wikipedia/ro/thumb/3/34/Digi_Sport_logo.svg/1200px-Digi_Sport_logo.svg.png" ,DIGI SPORT 1
 http://88c0ad0b.ottrast.com/iptv/7VZGY6DT5243AH/2523/index.m3u8
+#EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" ,DIGI SPORT 1
+http://50.7.89.130/co3k2z/video.m3u8?token=ZKF89T31BF
 #EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" ,DIGI SPORT 2
 https://epg.pw/stream/faf0bc393418d1765097ca2cd049ce0960740950402308fb10d99fd16fe40892.ctv
 #EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" tvg-logo="https://upload.wikimedia.org/wikipedia/ro/thumb/3/34/Digi_Sport_logo.svg/1200px-Digi_Sport_logo.svg.png" ,DIGI SPORT 2
@@ -987,6 +989,8 @@ https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8
 #EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" ,MATH! - RUSIA
 http://193.33.240.8:8080/Match_HD/index.m3u8
+#EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" ,MATH! - RUSIA
+http://bl.uma.media/live/126866/HLS/6866944_4/2/1/playlist.m3u8
 #EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/mauritania_sport.jpg?v=6" ,MAURITANIA - ARRIADIA
 https://elahmad.ipslow.com/tv187_www.elahmad.com_mauritanie_sport/tracks-v1a1/mono.m3u8?token=20fd48e8bde00dd15d29c6c23179b0da555a16b6-e7c006cc9c5c541c9cc08e170ee39cff-1677300814-1677290014
 #EXTINF:-1 group-title="02 DEPORTE MUNDIAL VARIOS" ,MAVTV SELECT
@@ -19787,6 +19791,16 @@ https://linear-314.frequency.stream/314/hls/master/playlist.m3u8
 https://linear-388.frequency.stream/388/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="ViX" ,VEVO Reggaeton y Trap
 https://linear-389.frequency.stream/389/hls/master/playlist.m3u8
+#EXTINF:0 group-title="ZZBACKUPS" ,DAZN 1
+http://51.158.36.81:18000/DAZN_1/hls/playlist.m3u8
+#EXTINF:0 group-title="ZZBACKUPS" ,DAZN F1
+http://51.158.36.81:18000/DAZN_F1/hls/playlist.m3u8
+#EXTINF:0 group-title="ZZBACKUPS" ,DIRECTV SPORTS
+http://directiptvfhd.com:8080/1eae94e3/e22181ebb2/67721
+#EXTINF:0 group-title="ZZBACKUPS" ,DIRECTV SPORTS +
+http://directiptvfhd.com:8080/1eae94e3/e22181ebb2/65750
+#EXTINF:0 group-title="ZZBACKUPS" ,DIRECTV SPORTS 2
+http://directiptvfhd.com:8080/1eae94e3/e22181ebb2/31645
 #EXTINF:0 group-title="ZZBACKUPS" tvg-logo="https://photos.live-tv-channels.org/tv-logo/fr-euronews-english-5525.jpg" ,EURONEWS ESPAÑOL OPC
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1392
 #EXTINF:0 group-title="ZZBACKUPS" ,HECHOS ECUADOR
@@ -19801,13 +19815,3 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1457
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1095
 #EXTINF:0 group-title="ZZBACKUPS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/Ve_Plus_Logo_2019.png" ,VENEVISION PLUS
 http://190.122.96.187:8888/http/006
-#EXTINF:0 group-title="ZZBACKUPS" ,DIRECTV SPORTS
-http://directiptvfhd.com:8080/1eae94e3/e22181ebb2/67721
-#EXTINF:0 group-title="ZZBACKUPS" ,DIRECTV SPORTS 2
-http://directiptvfhd.com:8080/1eae94e3/e22181ebb2/31645
-#EXTINF:0 group-title="ZZBACKUPS" ,DIRECTV SPORTS +
-http://directiptvfhd.com:8080/1eae94e3/e22181ebb2/65750
-#EXTINF:0 group-title="ZZBACKUPS" ,DAZN 1
-http://51.158.36.81:18000/DAZN_1/hls/playlist.m3u8
-#EXTINF:0 group-title="ZZBACKUPS" ,DAZN F1
-http://51.158.36.81:18000/DAZN_F1/hls/playlist.m3u8
