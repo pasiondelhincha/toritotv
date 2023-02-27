@@ -435,12 +435,10 @@ https://archive.org/download/ver-karate-kid-ii-1986-online-latino-hd-pelisplus-m
 https://archive.org/download/karate-kid-iii.-el-desafio-final-1989/Karate%20Kid%20III.%20El%20desaf%C3%ADo%20final%20%281989%29.mp4
 #EXTINF:-1 group-title="CHONA" tvg-logo="https://m.media-amazon.com/images/I/71YsqcHPa6L._SL1326_.jpg" ,LA CIUDAD DE LA ALEGRIA
 https://seed-us2.gloria.tv/4xeC19PyKNuaBXe3vxFhAQsmN/,2ngdjyo3p1rvl8vth6psbzytirg0373o54bw76c,mbw9jbzcbdc6nsj9d623klaettoj1mqjxaksw1y,.mp4.urlset/master.m3u8
-#EXTINF:-1 group-title="CHONA" tvg-logo="https://kriomag.com/wp-content/uploads/2019/01/la-leccion-de-piano-harvey-keitel-dvd-original-D_NQ_NP_847027-MLA27417330323_052018-F.jpg" ,LA LECCION DE PIANO
-https://www1742.ff-04.com/token=FNXs82k1bD7ZXNRDukp9_Q/1650214733/2800:810::/186/5/8a/d8cf7255ef3a346b9fe45c4f6a29c8a5-480p.mp4
 #EXTINF:-1 group-title="CHONA" tvg-logo="https://kriomag.com/wp-content/uploads/2019/01/la-leccion-de-piano-harvey-keitel-dvd-original-D_NQ_NP_847027-MLA27417330323_052018-F.jpg" ,LA LECCION DE PIANO ESPAÑOL
 https://archive.org/download/la-leccion-de-piano-espan-ol/LA%20LECCION%20DE%20PIANO%20ESPA%C3%91OL.mp4
-#EXTINF:-1 group-title="CHONA" tvg-logo="https://resize-media.festival-cannes.com/fit-in/293x397/film_film/0001/95/4687c672f922209cbeed83770a82beba6a35e3f6.jpeg" ,LILI (1953)
-https://archive.org/download/lili-1953-en-espanol/lili-1953-en-espa%C3%B1ol.mp4
+#EXTINF:0 group-title="CHONA" tvg-logo="https://resize-media.festival-cannes.com/fit-in/293x397/film_film/0001/95/4687c672f922209cbeed83770a82beba6a35e3f6.jpeg" ,LILI 1953
+https://ia804700.us.archive.org/4/items/lili-1953-en-espanol/lili-1953-en-espa%C3%B1ol.mp4
 #EXTINF:-1 group-title="CHONA" tvg-logo="https://img.discogs.com/HshlzQSfA3nTQ4PwDRdwuZt6di8=/fit-in/400x400/filters:strip_icc():format(webp):mode_rgb():quality(90)/discogs-images/R-2865457-1304646989.jpeg.jpg" ,SANDRO - BIOGRAFIA
 https://archive.org/download/anteojito-y-antifaz-mil-intentos-y-un-invento-version-original-de-1972/BIOGRAFIA%20%281996%29.mp4
 #EXTINF:-1 group-title="CHONA" tvg-logo="https://www.covercaratulas.com/mini-frontal-divx-Destino_De_Un_Capricho_Por_Jonymas-19250.jpg" ,SANDRO - DESTINO DE UN CAPRICHO
@@ -24275,7 +24273,7 @@ http://144.217.70.79/VODS-M/1080P/Unhinged%202020.mkv
 http://144.217.70.79/VODS-M/1080P/Unicorn%20store%202017.mp4
 #EXTINF:-1 group-title="ZZPELICULAS GLOBAL 01" ,United 93 2006
 http://144.217.70.79/VODS-M/1080P/United%2093%202006.mkv
-#EXTINF:-1 group-title="ZZPELICULAS GLOBAL 01" ,Universal Soldier (1992)
+#EXTINF:-1 group-title="ZZPELICULAS GLOBAL 01" ,Universal Soldier 1992
 http://144.217.70.79/VODS-M/1080P/Universal%20Soldier%201992.mkv
 #EXTINF:-1 group-title="ZZPELICULAS GLOBAL 01" ,Unlocked 2017
 http://144.217.70.79/VODS-M/1080P/Unlocked%202017.mp4
