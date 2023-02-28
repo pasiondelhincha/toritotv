@@ -267,14 +267,18 @@ https://corsproxy.io/?http://heroem3u.epizy.com/youtube/UCnx743KuO_16sCMIbEg7Y7Q
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 #EXTINF:0 group-title="02 DEPORTE LOCAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8F1fo2xp2pqfYqrAsLwkviZboNkSRiLc8ARdKTGwrydJaaWZEJOJN6bTtRsbWNT4omE0&usqp=CAU" ,BEIN Ñ EXTRA
 https://v-fn.mybtv.net/live/948.m3u8
+#EXTINF:0 group-title="02 DEPORTE LOCAL" tvg-logo="https://1.bp.blogspot.com/-IYyIkZTqbGc/XGlXRSFvKOI/AAAAAAAAHXE/zjVrB4OyWwwEgg9Vg7WYdqXY9XihVOdCACLcBGAs/s1600/Bolivia%2BTV%2BDeportes%2Ben%2Bvivo.png" ,BOLIVIA DEPORTES
+https://video1.getstreamhosting.com:1936/8224/8224/chunklist_w376273250.m3u8
 #EXTINF:0 group-title="02 DEPORTE LOCAL" tvg-logo="https://i.imgur.com/9vIITVq.png" ,CHILE - CDO BASICO
 http://nubiatv.live:80/live/zero514/zero514/529.ts
 #EXTINF:0 group-title="02 DEPORTE LOCAL" tvg-logo="https://i.imgur.com/9vIITVq.png" ,CHILE - CDO PREMIUM
 http://nubiatv.live:80/live/zero514/zero514/23514.ts
 #EXTINF:0 group-title="02 DEPORTE LOCAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TNT_Sports_Chile.svg/2560px-TNT_Sports_Chile.svg.png" ,CHILE - TNT SPORTS
 http://8.242.179.183:58001/play/a06q/index.m3u8
-#EXTINF:0 group-title="02 DEPORTE LOCAL" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_01/large.logo_tntsports_3_blanco.png.d74baab65acb6c906a59f093dbba0fb9.png" ,CHILE - TNT SPORTS 2
+#EXTINF:0 group-title="02 DEPORTE LOCAL" tvg-logo="https://i.imgur.com/S7iqiZF.png" ,CHILE - TNT SPORTS 2
 http://190.131.228.59:8000/play/a059/index.m3u8
+#EXTINF:0 group-title="02 DEPORTE LOCAL" tvg-logo="https://i.imgur.com/sOCPelt.png" ,CHILE - TNT SPORTS 3
+http://nubiatv.live:80/live/zero514/zero514/528.ts
 #EXTINF:0 group-title="02 DEPORTE LOCAL" tvg-logo="https://i2.paste.pics/c767dc0905ee282c6ea1b565625e7ca7.png" ,CITY SPORTS
 https://videosenlared.fullstreaming.ar:3697/live/contenidos34live.m3u8?
 #EXTINF:0 group-title="02 DEPORTE LOCAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9DRxKY6hLFWlx7CX2Ec26rsbsCTfeLfEmqTgnnMisy_qySBYz2Z_JAyQ9X4PAWxAkP7E&usqp=CAU" ,CLARO SPORTS
@@ -283,33 +287,33 @@ https://d3q84yclyte826.cloudfront.net/out/v1/47af0926366f47cea7661fa9c13ff203/in
 http://190.149.66.90:16000/play/a008/index.m3u8
 #EXTINF:0 group-title="02 DEPORTE LOCAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9DRxKY6hLFWlx7CX2Ec26rsbsCTfeLfEmqTgnnMisy_qySBYz2Z_JAyQ9X4PAWxAkP7E&usqp=CAU" ,CLARO SPORTS 2
 http://190.149.66.90:16000/play/a009/index.m3u8
-#EXTINF:0 group-title="02 DEPORTE LOCAL" ,DAZN F1
+#EXTINF:0 group-title="02 DEPORTE LOCAL" tvg-logo="https://i.imgur.com/iEU6n44.png" ,DAZN F1
 http://nubiatv.live:80/live/zero514/zero514/44832.ts
-#EXTINF:0 group-title="02 DEPORTE LOCAL" ,DAZN LA LIGA 1
+#EXTINF:0 group-title="02 DEPORTE LOCAL" tvg-logo="https://i.imgur.com/iEU6n44.png" ,DAZN LA LIGA 1
 http://204.12.247.162:8080/premium445/mono.m3u8
-#EXTINF:0 group-title="02 DEPORTE LOCAL" ,DAZN LA LIGA 2
+#EXTINF:0 group-title="02 DEPORTE LOCAL" tvg-logo="https://i.imgur.com/iEU6n44.png" ,DAZN LA LIGA 2
 http://51.158.36.81:18000/DAZN_2/hls/playlist.m3u8
 #EXTINF:-1 group-title="02 DEPORTE LOCAL" tvg-logo="https://i.postimg.cc/3xg7kw7j/DEPORTV.png" ,DEPORTV
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/chunklist_w1909906624.m3u8
 #EXTINF:0 group-title="02 DEPORTE LOCAL" tvg-logo="https://i.postimg.cc/3xg7kw7j/DEPORTV.png" ,DEPORTV OPC
 http://nubiatv.live:80/live/zero514/zero514/182937.ts
-#EXTINF:0 group-title="02 DEPORTE LOCAL" ,DIRECTV SPORTS
+#EXTINF:0 group-title="02 DEPORTE LOCAL" tvg-logo="http://streamingprotv.com:8000/images/a14ac55a4f27472c5d894ec1c3c743d2.png" ,DIRECTV SPORTS
 http://budtvlight.com:25461/budtvsports/wTu27rKVNU/37839
 #EXTINF:0 group-title="02 DEPORTE LOCAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png" ,DIRECTV SPORTS +
 http://budtvlight.com:25461/budtvsports/wTu27rKVNU/21794
 #EXTINF:0 group-title="02 DEPORTE LOCAL" tvg-logo="http://streamingprotv.com:8000/images/a14ac55a4f27472c5d894ec1c3c743d2.png" ,DIRECTV SPORTS +
 http://streamingprotv.com:8000/iptvkingpremiumultrax/Ig9L0fKOP2/234329
-#EXTINF:0 group-title="02 DEPORTE LOCAL" ,DIRECTV SPORTS + (ascenso)
+#EXTINF:0 group-title="02 DEPORTE LOCAL" tvg-logo="https://www.mzldeportes.com/media/noticias/pop_formato-primera-nacional-est-listo_14572.jpg" ,DIRECTV SPORTS + (ascenso)
 https://epg.pw/stream/111818c4cedff1f8b2489902bd50763fee9e0cfdbb9dba029d9d9d67f92735c9.ctv
 #EXTINF:-1 group-title="02 DEPORTE LOCAL" tvg-logo="https://www.mzldeportes.com/media/noticias/pop_formato-primera-nacional-est-listo_14572.jpg" ,DIRECTV SPORTS - ASCENSO
 http://directiptvfhd.com:8080/1eae94e3/e22181ebb2/65750
-#EXTINF:0 group-title="02 DEPORTE LOCAL" tvg-id="http://583027113626314198.discoveryapp.xyz:80/play/vv01032/3469675/314198.ts" tvg-logo="https://1.bp.blogspot.com/-f5u2OnKyA8A/XazFPWIst9I/AAAAAAAAAlU/H15BTBiKOu4UhFg3Js1-NMLwNcx_HCC9QCLcBGAsYHQ/s200/20.png" ,DIRECTV SPORTS 1
+#EXTINF:0 group-title="02 DEPORTE LOCAL" tvg-id="http://583027113626314198.discoveryapp.xyz:80/play/vv01032/3469675/314198.ts" tvg-logo="http://streamingprotv.com:8000/images/a14ac55a4f27472c5d894ec1c3c743d2.png" ,DIRECTV SPORTS 1
 https://epg.pw/stream/4993dcf58fb0127b504f1e0f96b0f35198825305e38c34b03dc85166e505f4ce.ctv
 #EXTINF:0 group-title="02 DEPORTE LOCAL" tvg-logo="http://streamingprotv.com:8000/images/a14ac55a4f27472c5d894ec1c3c743d2.png" ,DIRECTV SPORTS 1
 http://streamingprotv.com:8000/iptvkingpremiumultrax/Ig9L0fKOP2/234324
 #EXTINF:0 group-title="02 DEPORTE LOCAL" tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s86a1480785a470a0/image/iaafa0ecbf64a81e7/version/1621923200/image.png" ,DIRECTV SPORTS 2
 http://nubiatv.live:80/live/zero514/zero514/594441.ts
-#EXTINF:0 group-title="02 DEPORTE LOCAL" ,DIRECTV SPORTS 2
+#EXTINF:0 group-title="02 DEPORTE LOCAL" tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s86a1480785a470a0/image/iaafa0ecbf64a81e7/version/1621923200/image.png" ,DIRECTV SPORTS 2
 http://streamingprotv.com:8000/iptvkingpremiumultrax/Ig9L0fKOP2/234327
 #EXTINF:0 group-title="02 DEPORTE LOCAL" tvg-logo="https://www.xtrim.tv/images/xtr-vod-item-logo-ecdf.png" ,ECDF EL CANAL DEL FUTBOL
 http://streamingprotv.com:8000/iptvkingpremiumultrax/Ig9L0fKOP2/144346
@@ -347,7 +351,7 @@ https://delivery.cdn.rcs.net.ar/mnp/fox_sport3/output.mpd
 http://disfruta.net:80/tvlatvgo152728e/XfnGyhSif8/1074
 #EXTINF:-1 group-title="02 DEPORTE LOCAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOSLF4Do5skmlsu0UXE7m4hO-hU8JOACx3WGF4SvaRxK6zpDtqSu2603XyB49wkfdFlLY&usqp=CAU" ,FOX SPORTS MX 2
 http://disfruta.net:80/tvlatvgo152728e/XfnGyhSif8/1073
-#EXTINF:0 group-title="02 DEPORTE LOCAL" tvg-logo="http://892017113243287141.discoveryapp.xyz:80/play/vv01032/3469675/287141.ts" ,FOX SPORTS MX 3
+#EXTINF:0 group-title="02 DEPORTE LOCAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOSLF4Do5skmlsu0UXE7m4hO-hU8JOACx3WGF4SvaRxK6zpDtqSu2603XyB49wkfdFlLY&usqp=CAU" ,FOX SPORTS MX 3
 http://disfruta.net:80/tvlatvgo152728e/XfnGyhSif8/1077
 #EXTINF:0 group-title="02 DEPORTE LOCAL" tvg-logo="https://i.blogs.es/61a41c/fox-sports-premium-230322-1200x675-1/1366_2000.jpg" ,FOZ SPORTS MX PREMIUM
 http://166.0.208.24:3473/evento3/bodega/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
@@ -371,32 +375,32 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/canalshowsport
 #EXTINF:0 group-title="02 DEPORTE LOCAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" ,TELEFE DEPORTES
 https://siloh-latam-aka.plutotv.net/lilo/production/CopaLibertadores/ARG/24-7/master_1.m3u8
-#EXTINF:0 group-title="02 DEPORTE LOCAL" tvg-logo="https://www.tigosports.com.bo/sites/default/files/tigosports-app-icon_0.png" ,TIGO SPORTS + HD PARAGUAY
-http://45.160.33.130:8000/play/a007/index.m3u8
-#EXTINF:0 group-title="02 DEPORTE LOCAL" ,TIGO SPORTS BOLIVIA 4 EVENTOS
+#EXTINF:0 group-title="02 DEPORTE LOCAL" tvg-logo="https://i.postimg.cc/FK56jjC8/BOLIVIA.png" ,TIGO SPORTS BOLIVIA
+http://moontools.me:8080/zapata35/quUMpNjHqtuz/1124448
+#EXTINF:0 group-title="02 DEPORTE LOCAL" tvg-logo="https://i.postimg.cc/FK56jjC8/BOLIVIA.png" ,TIGO SPORTS BOLIVIA 4 EVENTOS
 http://disfruta.net:80/tvlatvgo152728e/XfnGyhSif8/2680
-#EXTINF:0 group-title="02 DEPORTE LOCAL" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/a0/d7/fe/a0d7fe1e-6d40-237f-61fa-10274668326e/AppIcon-0-1x_U007emarketing-0-0-85-220-0-2.png/1200x630wa.png" ,TIGO SPORTS COSTA RICA
+#EXTINF:0 group-title="02 DEPORTE LOCAL" tvg-logo="https://i.postimg.cc/vmrNXcpB/COSTA-RICA.png" ,TIGO SPORTS COSTA RICA
 http://190.149.66.90:16000/play/a03j/index.m3u8
-#EXTINF:0 group-title="02 DEPORTE LOCAL" ,TIGO SPORTS EL SALVADOR
-http://moontools.me:8080/zapata35/quUMpNjHqtuz/1130189
-#EXTINF:0 group-title="02 DEPORTE LOCAL" ,TIGO SPORTS EL SALVADOR
+#EXTINF:0 group-title="02 DEPORTE LOCAL" tvg-logo="https://i.postimg.cc/v8qSPRSW/EL-SALVADOR.png" ,TIGO SPORTS EL SALVADOR
 http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/202259
-#EXTINF:0 group-title="02 DEPORTE LOCAL" ,TIGO SPORTS GUATEMALA
+#EXTINF:0 group-title="02 DEPORTE LOCAL" tvg-logo="https://i.postimg.cc/xC9FZ92P/guatemala.png" ,TIGO SPORTS GUATEMALA
 http://streamingprotv.com:8000/iptvkingpremiumultrax/Ig9L0fKOP2/158773
-#EXTINF:0 group-title="02 DEPORTE LOCAL" ,TIGO SPORTS PANAMA
+#EXTINF:0 group-title="02 DEPORTE LOCAL" tvg-logo="https://i.postimg.cc/T147hmWk/honduras.png" ,TIGO SPORTS HONDURAS
+http://disfruta.net:80/tvlatvgo152728e/XfnGyhSif8/2619
+#EXTINF:0 group-title="02 DEPORTE LOCAL" tvg-logo="https://i.postimg.cc/wvFb8nxY/PANAMA.png" ,TIGO SPORTS PANAMA
 http://streamingprotv.com:8000/iptvkingpremiumultrax/Ig9L0fKOP2/236165
-#EXTINF:0 group-title="02 DEPORTE LOCAL" tvg-logo="https://www.tigosports.com.bo/sites/default/files/tigosports-app-icon_0.png" ,TIGO SPORTS PARAGUAY
-http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/7435
-#EXTINF:0 group-title="02 DEPORTE LOCAL" tvg-logo="https://www.tigosports.com.bo/sites/default/files/tigosports-app-icon_0.png" ,TIGO SPORTS PARAGUAY 2
-http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/7450
-#EXTINF:0 group-title="02 DEPORTE LOCAL" tvg-logo="https://www.tigosports.com.bo/sites/default/files/tigosports-app-icon_0.png" ,TIGO SPORTS PARAGUAY HD
+#EXTINF:0 group-title="02 DEPORTE LOCAL" tvg-logo="https://i.postimg.cc/KjzpZQ4k/PARAGUAY.png" ,TIGO SPORTS PARAGUAY HD
 http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/29832
+#EXTINF:0 group-title="02 DEPORTE LOCAL" tvg-logo="https://i.postimg.cc/KjzpZQ4k/PARAGUAY.png" ,TIGO SPORTS PARAGUAY PLUS HD
+http://45.160.33.130:8000/play/a007/index.m3u8
 #EXTINF:-1 group-title="02 DEPORTE LOCAL" tvg-logo="https://i.postimg.cc/ncqcD2GQ/TNT-SPORTS.png" ,TNT SPORTS
 https://delivery.cdn.rcs.net.ar/mnp/tntsports/output.mpd
 #EXTINF:0 group-title="02 DEPORTE LOCAL" tvg-logo="https://i.postimg.cc/ncqcD2GQ/TNT-SPORTS.png" ,TNT SPORTS OPC 2
 https://router.cdn.rcs.net.ar/mnp/tntsports/output.mpd
 #EXTINF:0 group-title="02 DEPORTE LOCAL" tvg-logo="https://i.postimg.cc/ncqcD2GQ/TNT-SPORTS.png" ,TNT SPORTS OPC 3
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/TNT_Sports/SA_HLS/TNT_Sports.m3u8
+#EXTINF:-1 group-title="02 DEPORTE LOCAL" tvg-logo="https://i.imgur.com/5McCKxM.png" ,TUDN
+http://204.12.247.162:8080/premium66/mono.m3u8
 #EXTINF:0 group-title="02 DEPORTE LOCAL" tvg-logo="https://i.postimg.cc/HkNRX3Sp/TYC-SPORTS.png" ,TYC SPORTS
 https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_4.m3u8
 #EXTINF:0 group-title="02 DEPORTE LOCAL" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-tyc-sports-internacional-cl-1246.png" ,TYC SPORTS INTERNACIONAL
@@ -425,14 +429,14 @@ https://d1scuk1wvkchtc.cloudfront.net/out/v1/19321d887c274b58a4f62fe0f6e2151b/in
 https://dj8bzwveg7go9.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/index_15.m3u8
 #EXTINF:-1 group-title="02 DEPORTE LOCAL" tvg-logo="https://www.totalmedios.com/img/noticias/2014/11/54785c051f4c7__838x390.jpg" ,TYC SPORTS PLAY 11
 https://dj8bzwveg7go9.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/index_14.m3u8
-#EXTINF:0 group-title="02 DEPORTE LOCAL" ,TYC SPORTS PLAY 12
+#EXTINF:0 group-title="02 DEPORTE LOCAL" tvg-logo="https://www.totalmedios.com/img/noticias/2014/11/54785c051f4c7__838x390.jpg" ,TYC SPORTS PLAY 12
 https://d2scohpz55y5r5.cloudfront.net/out/v1/c43ac17254584daa9781eaaeea1a085d/index_11.m3u8
-#EXTINF:0 group-title="02 DEPORTE LOCAL" ,TYC SPORTS PLAY 13
+#EXTINF:0 group-title="02 DEPORTE LOCAL" tvg-logo="https://www.totalmedios.com/img/noticias/2014/11/54785c051f4c7__838x390.jpg" ,TYC SPORTS PLAY 13
 https://dhmxbo9piuo21.cloudfront.net/out/v1/84ee2b0cce384a30abd70b05562ddd91/index.m3u8
-#EXTINF:0 group-title="02 DEPORTE LOCAL" ,TYC SPORTS PLAY 14
+#EXTINF:0 group-title="02 DEPORTE LOCAL" tvg-logo="https://www.totalmedios.com/img/noticias/2014/11/54785c051f4c7__838x390.jpg" ,TYC SPORTS PLAY 14
 https://d107yb993altze.cloudfront.net/out/v1/772e0b0193134726ad84693b7baca6c6/index.m3u8
 #EXTINF:0 group-title="02 DEPORTE LOCAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Logo_VTV_nuevo.png/1200px-Logo_VTV_nuevo.png" ,VTV
-https://epg.pw/stream/c2149ae4bd191565dc37d238de4dc261b8e6054ab83bffc5699ff1b31ca7978c.ctv
+http://disfruta.net:80/tvlatvgo152728e/XfnGyhSif8/2744
 #EXTINF:0 group-title="02 DEPORTE LOCAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_VTV_Plus_nuevo.png" ,VTV PLUS
 http://nubiatv.live:80/live/zero514/zero514/5615.ts
 #EXTINF:0 group-title="02 DEPORTE LOCAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Win_Sport_logo.png" ,WINSPORTS
@@ -1361,12 +1365,6 @@ https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="02 DEPORTE MUNDIAL VARIOS" ,TENNIS CHANNEL INTERNACIONAL
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
-#EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" ,TIGO SPORTS 1
-https://epg.pw/stream/479fc4219733354a9ce9f2576833659e05d3d646c45a06a8f299df68b6f4f350.m3u8
-#EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" ,TIGO SPORTS HONDURAS
-http://sintoniaideal.com:25461/Jomyson2330/sRLuBdK8mhUZ/31816
-#EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" ,TIGO SPORTS PARAGUAY
-https://epg.pw/stream/03207b8fb7a81e9bf57cdf22832f2ca6d20b2916f4693bfe42bba2150ab97390.ctv
 #EXTINF:-1 group-title="02 DEPORTE MUNDIAL VARIOS" ,TOP GEAR
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60d356a534f63f000850cdd7/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7d8272-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=83907acb-ee3c-4b1f-8026-c92526fccb6e&userId=&serverSideAds=true
 #EXTINF:-1 group-title="02 DEPORTE MUNDIAL VARIOS" ,TOP GEAR 2
@@ -1391,8 +1389,6 @@ https://epg.pw/stream/f9bfef9a0052b9316a5e70374f160f93027612eb79b4f324262ecd2110
 http://srv-3-streaming.iptvin.site:8080/TSN/tracks-v1a1/mono.m3u8?token=a1c93b6eb3a159dd0704f09bb3b8bdc9f0889202-9356285355-1676455885-1676412685
 #EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" ,TSPORTS - BANGLADESH
 https://live.tsports.com/live/tsports_live_720/index.m3u8
-#EXTINF:-1 group-title="02 DEPORTE MUNDIAL VARIOS" ,TUDN
-http://204.12.247.162:8080/premium66/mono.m3u8
 #EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" ,TUDN
 http://143.244.60.30/TUDN/index.m3u8
 #EXTINF:-1 group-title="02 DEPORTE MUNDIAL VARIOS" ,TUNNING
@@ -13873,6 +13869,8 @@ http://82.118.0.14:8000/play/8/index.m3u8
 http://82.118.0.14:8000/play/6/index.m3u8
 #EXTINF:-1 group-title="45-VK ARENA BIH" ,TOXIC RAP HD
 http://82.118.0.14:8000/play/7/index.m3u8
+#EXTINF:-1 group-title="45-VK BOLIVIA PERU" ,Bolivia DEPORTES
+http://200.119.222.198:8000/play/a01z/index.m3u8
 #EXTINF:-1 group-title="45-VK BOLIVIA PERU" ,ABE Educativo TV
 http://200.119.222.198:8000/play/a02o/index.m3u8
 #EXTINF:-1 group-title="45-VK BOLIVIA PERU" ,Abya Yala TV
@@ -13891,8 +13889,6 @@ http://200.119.222.198:8000/play/a02n/index.m3u8
 http://200.119.222.198:8000/play/a02f/index.m3u8
 #EXTINF:-1 group-title="45-VK BOLIVIA PERU" ,Bolivia TV7.1
 http://200.119.222.198:8000/play/a01y/index.m3u8
-#EXTINF:-1 group-title="45-VK BOLIVIA PERU" ,Bolivia TV7.2
-http://200.119.222.198:8000/play/a01z/index.m3u8
 #EXTINF:-1 group-title="45-VK BOLIVIA PERU" ,Bolivision HD
 http://200.119.222.198:8000/play/a02h/index.m3u8
 #EXTINF:-1 group-title="45-VK BOLIVIA PERU" ,CADENA A HD
