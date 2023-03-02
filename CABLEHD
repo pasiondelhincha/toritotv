@@ -380,7 +380,7 @@ http://moontools.me:8080/zapata35/quUMpNjHqtuz/1124448
 #EXTINF:0 group-title="02 DEPORTE LOCAL" tvg-logo="https://i.postimg.cc/FK56jjC8/BOLIVIA.png" ,TIGO SPORTS BOLIVIA 4 EVENTOS
 http://disfruta.net:80/tvlatvgo152728e/XfnGyhSif8/2680
 #EXTINF:0 group-title="02 DEPORTE LOCAL" tvg-logo="https://i.postimg.cc/vmrNXcpB/COSTA-RICA.png" ,TIGO SPORTS COSTA RICA
-http://190.149.66.90:16000/play/a03j/index.m3u8
+https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
 #EXTINF:0 group-title="02 DEPORTE LOCAL" tvg-logo="https://i.postimg.cc/v8qSPRSW/EL-SALVADOR.png" ,TIGO SPORTS EL SALVADOR
 http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/202259
 #EXTINF:0 group-title="02 DEPORTE LOCAL" tvg-logo="https://i.postimg.cc/xC9FZ92P/guatemala.png" ,TIGO SPORTS GUATEMALA
@@ -390,7 +390,7 @@ http://disfruta.net:80/tvlatvgo152728e/XfnGyhSif8/2619
 #EXTINF:0 group-title="02 DEPORTE LOCAL" tvg-logo="https://i.postimg.cc/wvFb8nxY/PANAMA.png" ,TIGO SPORTS PANAMA
 http://streamingprotv.com:8000/iptvkingpremiumultrax/Ig9L0fKOP2/236165
 #EXTINF:0 group-title="02 DEPORTE LOCAL" tvg-logo="https://i.postimg.cc/KjzpZQ4k/PARAGUAY.png" ,TIGO SPORTS PARAGUAY HD
-http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/29832
+http://45.160.33.130:8000/play/a006/index.m3u8
 #EXTINF:0 group-title="02 DEPORTE LOCAL" tvg-logo="https://i.postimg.cc/KjzpZQ4k/PARAGUAY.png" ,TIGO SPORTS PARAGUAY PLUS HD
 http://45.160.33.130:8000/play/a007/index.m3u8
 #EXTINF:-1 group-title="02 DEPORTE LOCAL" tvg-logo="https://i.postimg.cc/ncqcD2GQ/TNT-SPORTS.png" ,TNT SPORTS
@@ -3121,6 +3121,8 @@ https://srv5.zcast.com.br/simpsons/simpsons/playlist.m3u8
 https://epg.pw/stream/d8de5a8095b16204b9e22038f57605465071a9a94cd5d5164a19d3eb2aa1c027.m3u8
 #EXTINF:-1 group-title="24-7 MASTER" tvg-logo="https://i.pinimg.com/originals/67/ef/f1/67eff169f7ed79114791315c6cf817cf.jpg" ,LOS TRES CHIFLADOS
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f85f1dc1418bd0007e11eb9/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff35bd0-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=025be615-509e-4721-8804-92898ace6781&userId=&serverSideAds=true
+#EXTINF:0 group-title="24-7 MASTER" tvg-logo="https://www.egames.news/__export/1677702056425/sites/debate/img/2023/03/01/fqjx85kaeaqqboh.jpg_514029915.jpg" ,SAILOR MOON
+http://laondatv.online:8080/leonardo/123456/302725
 #EXTINF:-1 group-title="26NOVELAS" tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" ,40 y 20
 https://linear-340.frequency.stream/dist/localnow/340/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="26NOVELAS" tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" ,Alegrijes y Rebujos
@@ -19815,3 +19817,11 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1457
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1095
 #EXTINF:0 group-title="ZZBACKUPS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/Ve_Plus_Logo_2019.png" ,VENEVISION PLUS
 http://190.122.96.187:8888/http/006
+#EXTINF:0 group-title="ZZBACKUPS" ,DIRECTV SPORTS 1
+https://epg.pw/stream/e0c7e1191e0cf2a534c73423dce744dd4edb7749089f8f024faa93e1bf79607c.ctv
+#EXTINF:0 group-title="ZZBACKUPS" ,DIRECTV SPORTS +
+https://epg.pw/stream/111818c4cedff1f8b2489902bd50763fee9e0cfdbb9dba029d9d9d67f92735c9.ctv
+#EXTINF:0 group-title="ZZBACKUPS" ,DIRECTV SPORTS ESPAÑA
+https://epg.pw/stream/3335793a14c28c39941f19fbc0090ef4087fd37782fdbc98e615a952016c0f8d.ctv
+#EXTINF:0 group-title="ZZBACKUPS" ,DIRECTV SPORTS 1
+https://epg.pw/stream/4993dcf58fb0127b504f1e0f96b0f35198825305e38c34b03dc85166e505f4ce.ctv
