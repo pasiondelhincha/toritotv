@@ -233,6 +233,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1217
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1218
 #EXTINF:-1 group-title="01LOCAL" tvg-logo="https://dominicanchannels.com/wp-content/uploads/2014/09/telecanal12.jpeg" ,TELECANAL 12 - REPUBLICA DOMINICANA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1188
+#EXTINF:0 group-title="01LOCAL" tvg-logo="https://www.telecostaescuintla.com/gallery_gen/87c90468fc51f0112a9e0cf567e32eb5.png" ,TELECOSTA - GUATEMALA
+https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
 #EXTINF:-1 group-title="01LOCAL" tvg-logo="https://www.kolbi.cr/wps/wcm/connect/www.kolbi.cr/8a7cd47f-dbd7-4f2c-88bf-8dc09b9bf2c1/TELESISTEMA+180X180.png?MOD=AJPERES&CACHEID=ROOTWORKSPACE.Z18_GG1AHCC0P8VB70QI79ARQL0000-8a7cd47f-dbd7-4f2c-88bf-8dc09b9bf2c1-njvPChT" ,TELESISTEMA - COSTA RICA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1246
 #EXTINF:-1 group-title="01LOCAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkA3qKqXVHY6_1Mtjs6fWtRxQnB5ZT30v9omweGRSj53CL7MydY70mRApP9hkqY_Aob4c&usqp=CAU" ,TELEUNIVERSO - REPUBLICA DOMINICANA
@@ -269,6 +271,8 @@ https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 https://v-fn.mybtv.net/live/948.m3u8
 #EXTINF:0 group-title="02 DEPORTE LOCAL" tvg-logo="https://1.bp.blogspot.com/-IYyIkZTqbGc/XGlXRSFvKOI/AAAAAAAAHXE/zjVrB4OyWwwEgg9Vg7WYdqXY9XihVOdCACLcBGAs/s1600/Bolivia%2BTV%2BDeportes%2Ben%2Bvivo.png" ,BOLIVIA DEPORTES
 https://video1.getstreamhosting.com:1936/8224/8224/chunklist_w376273250.m3u8
+#EXTINF:0 group-title="02 DEPORTE LOCAL" tvg-logo="https://scontent.ffdo4-1.fna.fbcdn.net/v/t39.30808-6/252343630_4472639139515232_345779664066779864_n.png?_nc_cat=108&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=mVloI7OjlHQAX--tsDg&_nc_ht=scontent.ffdo4-1.fna&oh=00_AfBn74zyw-t7LuAwxJfwr9tOPK_BvHs0hwwkLCk__YsoNg&oe=6404E8EA" ,CANAL 10.1
+https://videosenlared.fullstreaming.ar:3310/live/canal101live.m3u8
 #EXTINF:0 group-title="02 DEPORTE LOCAL" tvg-logo="https://i.imgur.com/9vIITVq.png" ,CHILE - CDO BASICO
 http://nubiatv.live:80/live/zero514/zero514/529.ts
 #EXTINF:0 group-title="02 DEPORTE LOCAL" tvg-logo="https://i.imgur.com/9vIITVq.png" ,CHILE - CDO PREMIUM
@@ -535,6 +539,8 @@ http://2342512b.ucomist.net/iptv/AACXKHBLQUH7G7/273/index.m3u8
 http://185.236.229.50:8000/play/a01t
 #EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" ,ASIANET PLUS
 http://pakin2.worldtvip.co:9090/my_asianet_plus/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png" ,ASPORTS - PAKISTAN
+http://180.178.188.152:8000/play/a0ad
 #EXTINF:-1 group-title="02 DEPORTE MUNDIAL VARIOS" ,ASTRAK RUS HD 🇷🇺
 http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v5a1/index.m3u8
 #EXTINF:-1 group-title="02 DEPORTE MUNDIAL VARIOS" ,Astrakhan.Ru Sport
@@ -769,10 +775,14 @@ http://50.7.89.130/co3k2z/video.m3u8?token=ZKF89T31BF
 https://epg.pw/stream/faf0bc393418d1765097ca2cd049ce0960740950402308fb10d99fd16fe40892.ctv
 #EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" tvg-logo="https://upload.wikimedia.org/wikipedia/ro/thumb/3/34/Digi_Sport_logo.svg/1200px-Digi_Sport_logo.svg.png" ,DIGI SPORT 2
 http://88c0ad0b.ottrast.com/iptv/7VZGY6DT5243AH/2522/index.m3u8
+#EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" ,DIGI SPORT 2
+http://50.7.89.130/h4jgxs/video.m3u8?token=ZKF89T31BF
 #EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" ,DIGI SPORT 3
 https://epg.pw/stream/70e8075f6a276df45356276fbcba035d61d3bd6432de6dd624ce94d650d9946d.ctv
 #EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" tvg-logo="https://upload.wikimedia.org/wikipedia/ro/thumb/3/34/Digi_Sport_logo.svg/1200px-Digi_Sport_logo.svg.png" ,DIGI SPORT 3
 http://88c0ad0b.ottrast.com/iptv/7VZGY6DT5243AH/2524/index.m3u8
+#EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" ,DIGI SPORT 3
+http://80.96.24.248:8000/play/a00t
 #EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" ,DIGI SPORT 4
 https://epg.pw/stream/ee6816311dbcdc82b133cd3ebee429a3e48bb6b411737a17ae35f7e6babfed45.ctv
 #EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" ,DIGI SPORT 4
@@ -1028,9 +1038,7 @@ http://51.158.36.81:18000/M_LaLiga/hls/playlist.m3u8
 #EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" ,MOVISTAR LA LIGA
 https://h7lya1.2embed.sbs/cdn/BXaQAanLKPZ/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" ,MOVISTAR LIGA DE CAMPEONES
-https://a17.azplay.me/hls/streama210589/index.m3u8?cst=ab710850ad89d88712f67eb54aa350d5
-#EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" ,MOVISTAR LIGA DE CAMPEONES
-https://a15.azplay.me/hls/streama210591/index.m3u8?cst=655627d080dc8a347deab5d7f86a0eff
+http://51.158.36.81:18000/M_Liga_de_Campeones/hls/playlist.m3u8
 #EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" ,MOVISTAR LIGA DE CAMPEONES
 http://88c0ad0b.ottrast.com/iptv/7VZGY6DT5243AH/2543/index.m3u8
 #EXTINF:-1 group-title="02 DEPORTE MUNDIAL VARIOS" ,MSGSN - HOCKEY
@@ -1179,29 +1187,47 @@ https://epg.pw/stream/bfd925a14a6d9328d7fc401a8f170beebe6b6a6b091c37399750ec6a9e
 https://epg.pw/stream/5a72324ea5f6253c966f40e57c4d491ef10841baa040db5926bd961a8e853d92.ctv
 #EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" ,RTSH SPORT - ALBANIA
 http://109.104.129.195:8001/play/s25
+#EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" ,RTSH SPORT - ALBANIA
+http://79.106.48.2:8800/play/a01w/index.m3u8
 #EXTINF:-1 group-title="02 DEPORTE MUNDIAL VARIOS" ,RTV SPORT - SAN MARINO
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/chunklist_b1692000_slita.m3u8
 #EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" ,RUSIA - MATCH!
 https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
 #EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" ,SCTV SPORTS - VIETNAM
 http://vtsstr4.sctv.vn:1935/live/SCTV_HD_TheThao_new.smil/CDAM.m3u8
+#EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" ,SETANTA SPORTS + UKRAINE
+http://78.26.128.59:9876/play/4/index.m3u8
 #EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" ,SETANTA SPORTS 1
 http://31.146.176.94:80/setanta1/index.m3u8
+#EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" ,SETANTA SPORTS 1
+http://2.57.217.197:8080/play/a05m/index.m3u8
 #EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" ,SETANTA SPORTS 1 - RUSIA
+http://2342512b.ucomist.net/iptv/AACXKHBLQUH7G7/271/index.m3u8
+#EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" ,SETANTA SPORTS 1HD RUSIA
 http://2342512b.ucomist.net/iptv/AACXKHBLQUH7G7/271/index.m3u8
 #EXTINF:-1 group-title="02 DEPORTE MUNDIAL VARIOS" ,SETANTA SPORTS 1HD 🇷🇺
 http://myott.top/stream/1VGPHYLZTH/234.m3u8
 #EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" ,SETANTA SPORTS 2
 http://31.146.176.94:80/setanta2/index.m3u8
+#EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" ,SETANTA SPORTS 2
+http://2.57.217.197:8080/play/a05n/index.m3u8
 #EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" ,SETANTA SPORTS 2 - RUSIA
+http://2342512b.ucomist.net/iptv/AACXKHBLQUH7G7/270/index.m3u8
+#EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" ,SETANTA SPORTS 2HD RUSIA
 http://2342512b.ucomist.net/iptv/AACXKHBLQUH7G7/270/index.m3u8
 #EXTINF:-1 group-title="02 DEPORTE MUNDIAL VARIOS" ,SETANTA SPORTS 2HD 🇷🇺
 http://myott.top/stream/1VGPHYLZTH/235.m3u8
 #EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" ,SETANTA SPORTS 3
 http://31.146.176.94:80/setanta3/index.m3u8
+#EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" ,SETANTA SPORTS 3
+http://2.57.217.197:8080/play/a07i/index.m3u8
 #EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" ,SETANTA SPORTS UCRANIA
 http://2342512b.ucomist.net/iptv/AACXKHBLQUH7G7/272/index.m3u8
+#EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" ,SETANTA SPORTS UKRAINE
+http://78.26.128.59:9876/play/161/index.m3u8
 #EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnXX9zPRJd5wdWfAKMcB1NrIwomfAULhK4JV1BJC5WNq6PqUAaHUbssCV22POd_MFHpT4&usqp=CAU" ,SETANTA UKRAINE
+http://95.67.12.89:9013
+#EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" ,SETANTA UKRAINE +
 http://95.67.12.89:9013
 #EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" ,SHARJAH SPORT
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
@@ -1217,6 +1243,8 @@ https://skyanywhere3-i.akamaihd.net/hls/live/510697/interactive/playlist.m3u8
 http://204.12.247.162:8080/premium36/mono.m3u8
 #EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" ,SKY SPORTS CRICKET
 http://ku3.worldtvip.co/uk_sky_sports_cricket_hd/index.m3u8
+#EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" ,SKY SPORTS F1
+https://alexsports.shop:30444/live/abr_ch10/playlist.m3u8
 #EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" ,SKY SPORTS FOOTBALL
 https://h7lya1.2embed.sbs:443/cdn/TTxThIMxeGSd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="02 DEPORTE MUNDIAL VARIOS" ,SKY SPORTS FOOTBALL
@@ -1315,36 +1343,42 @@ https://epg.pw/stream/1c67b9d36b0803d05fb42d32b327084ae7934f78ecd5aacc46b7f04690
 http://210.210.155.35/session/6761fe90-7bf1-11e8-a850-b82a72d63267/uq2663/h/h20/index1.m3u8
 #EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" ,SUPER TENNIS
 https://supertennix-l3-live1.secure.footprint.net/restreamer/supertennix_client/gpu-a-c0-16/restreamer/rtmp/hls/h24_supertennix/variant_720_manifest.m3u8
-#EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" ,SUPERSPORT ACTION
+#EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" tvg-logo="https://i.postimg.cc/yNCTVtBG/SUPERSPORT.png" ,SUPERSPORT ACTION
 http://212.224.84.217:2200/AFR-EX/SuperSport_Action_FHD-dstv/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
-#EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" ,SUPERSPORT ACTION
+#EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" tvg-logo="https://i.postimg.cc/yNCTVtBG/SUPERSPORT.png" ,SUPERSPORT ACTION
 http://pakin2.worldtvip.co:9090/za_ss_action/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" ,SUPERSPORT BLITZ
+#EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" tvg-logo="https://i.postimg.cc/yNCTVtBG/SUPERSPORT.png" ,SUPERSPORT BLITZ
 http://pakin2.worldtvip.co:9090/za_ss_blitz/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" ,SUPERSPORT CRICKET
+#EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" tvg-logo="https://i.postimg.cc/yNCTVtBG/SUPERSPORT.png" ,SUPERSPORT CRICKET
 http://212.224.84.217:2200/AFR-EX/SuperSport_Cricket_AZ_FHD-dstv/index.m3u8?token=RED_ArFguF4BN2NkLRpAjRNjTA%3D%3D%2C165803831455.9659699029=|User-agent=REDLINECLIENT
-#EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" ,SUPERSPORT FOOTBALL
+#EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" ,SUPERSPORT EMIRATES CUP
+https://alexsports.shop:30444/live/abr_ch11/playlist.m3u8
+#EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" tvg-logo="https://i.postimg.cc/yNCTVtBG/SUPERSPORT.png" ,SUPERSPORT FOOTBALL
 https://epg.pw/stream/62fa4ff2a97096b8c63022d853bd9055b6233fac95aeaded73801f6a2842baad.ctv
-#EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" ,SUPERSPORT FOOTBALL
-http://pakin2.worldtvip.co:9090/za_ss_football/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" ,SUPERSPORT GRAN STAND
+#EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" tvg-logo="https://i.postimg.cc/yNCTVtBG/SUPERSPORT.png" ,SUPERSPORT FOOTBALL
+https://alexsports.shop:30444/live/abr_ch9/playlist.m3u8
+#EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" tvg-logo="https://i.postimg.cc/yNCTVtBG/SUPERSPORT.png" ,SUPERSPORT GRAN STAND
 http://pakin2.worldtvip.co:9090/za_ss_gstand/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" ,SUPERSPORT GRANSTAND
+#EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" tvg-logo="https://i.postimg.cc/yNCTVtBG/SUPERSPORT.png" ,SUPERSPORT GRANSTAND
 http://pakin2.worldtvip.co:9090/za_ss_gstand/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" ,SUPERSPORT LA LIGA
+#EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" tvg-logo="https://i.postimg.cc/yNCTVtBG/SUPERSPORT.png" ,SUPERSPORT LA LIGA
+https://alexsports.shop:30444/live/abr_ch4/playlist.m3u8
+#EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" tvg-logo="https://i.postimg.cc/yNCTVtBG/SUPERSPORT.png" ,SUPERSPORT LA LIGA
 http://pakin2.worldtvip.co:9090/za_ss_laliga/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" ,SUPERSPORT LA LIGA
-http://pakin2.worldtvip.co:9090/za_ss_laliga/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" ,SUPERSPORT MOTORSPORT
+#EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" tvg-logo="https://i.postimg.cc/yNCTVtBG/SUPERSPORT.png" ,SUPERSPORT MOTORSPORT
 http://pakin2.worldtvip.co:9090/za_ss_motorsport/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" ,SUPERSPORT PREMIER LEAGUE
+#EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" tvg-logo="https://i.postimg.cc/yNCTVtBG/SUPERSPORT.png" ,SUPERSPORT PREMIER LEAGUE
 https://s@hdstreamss.club:30443/live/abr_ch5/playlist.m3u8
-#EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" ,SUPERSPORT PSL
+#EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" tvg-logo="https://i.postimg.cc/yNCTVtBG/SUPERSPORT.png" ,SUPERSPORT PSL
 http://pakin2.worldtvip.co:9090/za_ss_psl/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" ,SUPERSPORT RUGBY
+#EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" tvg-logo="https://i.postimg.cc/yNCTVtBG/SUPERSPORT.png" ,SUPERSPORT RUGBY
 http://pakin2.worldtvip.co:9090/za_ss_rugby/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" ,SUPERSPORT TENNIS
+#EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" tvg-logo="https://i.postimg.cc/yNCTVtBG/SUPERSPORT.png" ,SUPERSPORT TENNIS
 https://ttcast.gpwpaqnxpwhqufz.sbs/cdn/iUAtC1knR175/mono.m3u8
+#EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" ,SUPERSPORT VARIETY 2
+https://alexsports.shop:30444/live/abr_ch8/playlist.m3u8
+#EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" tvg-logo="https://i.postimg.cc/yNCTVtBG/SUPERSPORT.png" ,SUPERSPORT VARIETY 3
+https://alexsports.shop:30444/live/abr_ch3/playlist.m3u8
 #EXTINF:-1 group-title="02 DEPORTE MUNDIAL VARIOS" ,Surf Now TV
 https://dgwfm675921lp.cloudfront.net/playlist.m3u8
 #EXTINF:-1 group-title="02 DEPORTE MUNDIAL VARIOS" ,SWERVE SPORTS
@@ -1385,9 +1419,15 @@ https://epg.pw/stream/05186bc058b2694b9d3f61e264700385978d5c3309e0934961b9b62c15
 https://epg.pw/stream/7839725752400b87704cac3a380a440a369bb04089619989de3fd70ed4083803.m3u8
 #EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" ,TRUE PREMIER FOOTBALL TH 05
 https://epg.pw/stream/f9bfef9a0052b9316a5e70374f160f93027612eb79b4f324262ecd2110ec50b5.m3u8
+#EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/True_vision.png/revision/latest/scale-to-width-down/250?cb=20160122063507" ,TRUE VISIONS 1
+http://live.apicold.com/streaming/02_epl1_720p/chunklist.m3u8?token=MTMzMzQzNDNhM2Q2ZjYzNmUyMzc1Njk2NjdmNmQ2ZjZmNjQ2NTY2Nzk2YzZlMjQ3MjdmNjA3MzdmMmYyYTMzNzA3NDc0Nzg2
+#EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/True_vision.png/revision/latest/scale-to-width-down/250?cb=20160122063507" ,TRUE VISIONS 3
+http://live.apicold.com/streaming/02_epl2_720p/chunklist.m3u8?token=MTMzMzQzNDNhM2Q2ZjYzNmUyMzc1Njk2NjdmNmQ2ZjZmNjQ2NTY2Nzk2YzZlMjQ3MjdmNjA3MzdmMmYyYTMzNzA3NDc0Nzg2
 #EXTINF:-1 group-title="02 DEPORTE MUNDIAL VARIOS" ,TSN
 http://srv-3-streaming.iptvin.site:8080/TSN/tracks-v1a1/mono.m3u8?token=a1c93b6eb3a159dd0704f09bb3b8bdc9f0889202-9356285355-1676455885-1676412685
 #EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" ,TSPORTS - BANGLADESH
+https://live.tsports.com/live/tsports_live_720/index.m3u8
+#EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" ,TSPORTS BANGLADESH
 https://live.tsports.com/live/tsports_live_720/index.m3u8
 #EXTINF:0 group-title="02 DEPORTE MUNDIAL VARIOS" ,TUDN
 http://143.244.60.30/TUDN/index.m3u8
@@ -3731,39 +3771,39 @@ https://epg.pw/stream/dae200ba510ec8a9a9ced96521715ec15daee41e5c1db925edaeed1482
 https://epg.pw/stream/b6ec465ab7955ae037a9e6a57c01be22d4e404d6cf85bf3953efb368bb799dfe.ctv
 #EXTINF:0 group-title="31 BT SPORT" ,BT SPORT 7
 https://epg.pw/stream/7708422c7deb3246f7c3ff942f121d2e3dec2a64536a57de79655784647f165c.ctv
-#EXTINF:-1 group-title="31 SUPERSPORT" ,SuperSports Action HD 1080p
+#EXTINF:-1 group-title="31 SUPERSPORT" tvg-logo="https://i.postimg.cc/yNCTVtBG/SUPERSPORT.png" ,SuperSports Action HD 1080p
 http://185.180.223.89:25461/sfojuve@gmail.com/Qcm5Rje9/312
-#EXTINF:-1 group-title="31 SUPERSPORT" ,SuperSports Blitz HD 1080p
+#EXTINF:-1 group-title="31 SUPERSPORT" tvg-logo="https://i.postimg.cc/yNCTVtBG/SUPERSPORT.png" ,SuperSports Blitz HD 1080p
 http://185.180.223.89:25461/sfojuve@gmail.com/Qcm5Rje9/311
-#EXTINF:-1 group-title="31 SUPERSPORT" ,SuperSports Cricket HD 1080p
+#EXTINF:-1 group-title="31 SUPERSPORT" tvg-logo="https://i.postimg.cc/yNCTVtBG/SUPERSPORT.png" ,SuperSports Cricket HD 1080p
 http://185.180.223.89:25461/sfojuve@gmail.com/Qcm5Rje9/310
-#EXTINF:-1 group-title="31 SUPERSPORT" ,SuperSports Football HD 1080p
+#EXTINF:-1 group-title="31 SUPERSPORT" tvg-logo="https://i.postimg.cc/yNCTVtBG/SUPERSPORT.png" ,SuperSports Football HD 1080p
 http://185.180.223.89:25461/sfojuve@gmail.com/Qcm5Rje9/307
-#EXTINF:-1 group-title="31 SUPERSPORT" ,SuperSports Golf HD 1080p
+#EXTINF:-1 group-title="31 SUPERSPORT" tvg-logo="https://i.postimg.cc/yNCTVtBG/SUPERSPORT.png" ,SuperSports Golf HD 1080p
 http://185.180.223.89:25461/sfojuve@gmail.com/Qcm5Rje9/306
-#EXTINF:-1 group-title="31 SUPERSPORT" ,SuperSports GrandStand HD 1080p
+#EXTINF:-1 group-title="31 SUPERSPORT" tvg-logo="https://i.postimg.cc/yNCTVtBG/SUPERSPORT.png" ,SuperSports GrandStand HD 1080p
 http://185.180.223.89:25461/sfojuve@gmail.com/Qcm5Rje9/305
-#EXTINF:-1 group-title="31 SUPERSPORT" ,SuperSports La Liga HD 1080p
+#EXTINF:-1 group-title="31 SUPERSPORT" tvg-logo="https://i.postimg.cc/yNCTVtBG/SUPERSPORT.png" ,SuperSports La Liga HD 1080p
 http://185.180.223.89:25461/sfojuve@gmail.com/Qcm5Rje9/304
-#EXTINF:-1 group-title="31 SUPERSPORT" ,SuperSports Maximo HD 1080p
+#EXTINF:-1 group-title="31 SUPERSPORT" tvg-logo="https://i.postimg.cc/yNCTVtBG/SUPERSPORT.png" ,SuperSports Maximo HD 1080p
 http://185.180.223.89:25461/sfojuve@gmail.com/Qcm5Rje9/303
-#EXTINF:-1 group-title="31 SUPERSPORT" ,SuperSports MotorSport HD 1080p
+#EXTINF:-1 group-title="31 SUPERSPORT" tvg-logo="https://i.postimg.cc/yNCTVtBG/SUPERSPORT.png" ,SuperSports MotorSport HD 1080p
 http://185.180.223.89:25461/sfojuve@gmail.com/Qcm5Rje9/302
-#EXTINF:-1 group-title="31 SUPERSPORT" ,SuperSports Play HD 1080p
+#EXTINF:-1 group-title="31 SUPERSPORT" tvg-logo="https://i.postimg.cc/yNCTVtBG/SUPERSPORT.png" ,SuperSports Play HD 1080p
 http://185.180.223.89:25461/sfojuve@gmail.com/Qcm5Rje9/301
-#EXTINF:-1 group-title="31 SUPERSPORT" ,SuperSports Premier League HD 1080p
+#EXTINF:-1 group-title="31 SUPERSPORT" tvg-logo="https://i.postimg.cc/yNCTVtBG/SUPERSPORT.png" ,SuperSports Premier League HD 1080p
 http://185.180.223.89:25461/sfojuve@gmail.com/Qcm5Rje9/300
-#EXTINF:-1 group-title="31 SUPERSPORT" ,SuperSports PSL HD 1080p
+#EXTINF:-1 group-title="31 SUPERSPORT" tvg-logo="https://i.postimg.cc/yNCTVtBG/SUPERSPORT.png" ,SuperSports PSL HD 1080p
 http://185.180.223.89:25461/sfojuve@gmail.com/Qcm5Rje9/317
-#EXTINF:-1 group-title="31 SUPERSPORT" ,SuperSports Rugby 1 HD 1080p
+#EXTINF:-1 group-title="31 SUPERSPORT" tvg-logo="https://i.postimg.cc/yNCTVtBG/SUPERSPORT.png" ,SuperSports Rugby 1 HD 1080p
 http://185.180.223.89:25461/sfojuve@gmail.com/Qcm5Rje9/318
-#EXTINF:-1 group-title="31 SUPERSPORT" ,SuperSports Tennis HD 1080p
+#EXTINF:-1 group-title="31 SUPERSPORT" tvg-logo="https://i.postimg.cc/yNCTVtBG/SUPERSPORT.png" ,SuperSports Tennis HD 1080p
 http://185.180.223.89:25461/sfojuve@gmail.com/Qcm5Rje9/313
-#EXTINF:-1 group-title="31 SUPERSPORT" ,SuperSports Variety 1 HD 1080p
+#EXTINF:-1 group-title="31 SUPERSPORT" tvg-logo="https://i.postimg.cc/yNCTVtBG/SUPERSPORT.png" ,SuperSports Variety 1 HD 1080p
 http://185.180.223.89:25461/sfojuve@gmail.com/Qcm5Rje9/314
-#EXTINF:-1 group-title="31 SUPERSPORT" ,SuperSports Variety 2 HD 1080p
+#EXTINF:-1 group-title="31 SUPERSPORT" tvg-logo="https://i.postimg.cc/yNCTVtBG/SUPERSPORT.png" ,SuperSports Variety 2 HD 1080p
 http://185.180.223.89:25461/sfojuve@gmail.com/Qcm5Rje9/315
-#EXTINF:-1 group-title="31 SUPERSPORT" ,SuperSports Variety 3 HD 1080p
+#EXTINF:-1 group-title="31 SUPERSPORT" tvg-logo="https://i.postimg.cc/yNCTVtBG/SUPERSPORT.png" ,SuperSports Variety 3 HD 1080p
 http://185.180.223.89:25461/sfojuve@gmail.com/Qcm5Rje9/316
 #EXTINF:-1 group-title="32 BEIN Y ARABES" ,BEIN 1
 http://yusf.ddns.net:5080/WebRTCApp/streams/Bein1.m3u8
@@ -13871,8 +13911,6 @@ http://82.118.0.14:8000/play/8/index.m3u8
 http://82.118.0.14:8000/play/6/index.m3u8
 #EXTINF:-1 group-title="45-VK ARENA BIH" ,TOXIC RAP HD
 http://82.118.0.14:8000/play/7/index.m3u8
-#EXTINF:-1 group-title="45-VK BOLIVIA PERU" ,Bolivia DEPORTES
-http://200.119.222.198:8000/play/a01z/index.m3u8
 #EXTINF:-1 group-title="45-VK BOLIVIA PERU" ,ABE Educativo TV
 http://200.119.222.198:8000/play/a02o/index.m3u8
 #EXTINF:-1 group-title="45-VK BOLIVIA PERU" ,Abya Yala TV
@@ -13889,6 +13927,8 @@ http://200.119.222.198:8000/play/a00x/index.m3u8
 http://200.119.222.198:8000/play/a02n/index.m3u8
 #EXTINF:-1 group-title="45-VK BOLIVIA PERU" ,Bethel TV
 http://200.119.222.198:8000/play/a02f/index.m3u8
+#EXTINF:-1 group-title="45-VK BOLIVIA PERU" ,Bolivia DEPORTES
+http://200.119.222.198:8000/play/a01z/index.m3u8
 #EXTINF:-1 group-title="45-VK BOLIVIA PERU" ,Bolivia TV7.1
 http://200.119.222.198:8000/play/a01y/index.m3u8
 #EXTINF:-1 group-title="45-VK BOLIVIA PERU" ,Bolivision HD
@@ -19799,8 +19839,16 @@ http://51.158.36.81:18000/DAZN_F1/hls/playlist.m3u8
 http://directiptvfhd.com:8080/1eae94e3/e22181ebb2/67721
 #EXTINF:0 group-title="ZZBACKUPS" ,DIRECTV SPORTS +
 http://directiptvfhd.com:8080/1eae94e3/e22181ebb2/65750
+#EXTINF:0 group-title="ZZBACKUPS" ,DIRECTV SPORTS +
+https://epg.pw/stream/111818c4cedff1f8b2489902bd50763fee9e0cfdbb9dba029d9d9d67f92735c9.ctv
+#EXTINF:0 group-title="ZZBACKUPS" ,DIRECTV SPORTS 1
+https://epg.pw/stream/e0c7e1191e0cf2a534c73423dce744dd4edb7749089f8f024faa93e1bf79607c.ctv
+#EXTINF:0 group-title="ZZBACKUPS" ,DIRECTV SPORTS 1
+https://epg.pw/stream/4993dcf58fb0127b504f1e0f96b0f35198825305e38c34b03dc85166e505f4ce.ctv
 #EXTINF:0 group-title="ZZBACKUPS" ,DIRECTV SPORTS 2
 http://directiptvfhd.com:8080/1eae94e3/e22181ebb2/31645
+#EXTINF:0 group-title="ZZBACKUPS" ,DIRECTV SPORTS ESPAÑA
+https://epg.pw/stream/3335793a14c28c39941f19fbc0090ef4087fd37782fdbc98e615a952016c0f8d.ctv
 #EXTINF:0 group-title="ZZBACKUPS" tvg-logo="https://2.bp.blogspot.com/-VucBrUNMqPI/XNw3tBcfNOI/AAAAAAAAReE/t7xurwgz2rg5HUWw6Xl1DMCdt_vS32hfACK4BGAYYCw/s400/Copa%2BMundial%2BQatar%2B2022256x.png" ,ECDF EL CANAL DEL FUTBOL
 http://nubiatv.live:80/live/zero514/zero514/379033.ts
 #EXTINF:0 group-title="ZZBACKUPS" tvg-logo="https://photos.live-tv-channels.org/tv-logo/fr-euronews-english-5525.jpg" ,EURONEWS ESPAÑOL OPC
@@ -19817,11 +19865,3 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1457
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1095
 #EXTINF:0 group-title="ZZBACKUPS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/Ve_Plus_Logo_2019.png" ,VENEVISION PLUS
 http://190.122.96.187:8888/http/006
-#EXTINF:0 group-title="ZZBACKUPS" ,DIRECTV SPORTS 1
-https://epg.pw/stream/e0c7e1191e0cf2a534c73423dce744dd4edb7749089f8f024faa93e1bf79607c.ctv
-#EXTINF:0 group-title="ZZBACKUPS" ,DIRECTV SPORTS +
-https://epg.pw/stream/111818c4cedff1f8b2489902bd50763fee9e0cfdbb9dba029d9d9d67f92735c9.ctv
-#EXTINF:0 group-title="ZZBACKUPS" ,DIRECTV SPORTS ESPAÑA
-https://epg.pw/stream/3335793a14c28c39941f19fbc0090ef4087fd37782fdbc98e615a952016c0f8d.ctv
-#EXTINF:0 group-title="ZZBACKUPS" ,DIRECTV SPORTS 1
-https://epg.pw/stream/4993dcf58fb0127b504f1e0f96b0f35198825305e38c34b03dc85166e505f4ce.ctv
