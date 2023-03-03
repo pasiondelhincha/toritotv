@@ -24,7 +24,7 @@ https://router.cdn.rcs.net.ar/anevia/live/localdisk/LN/SA_HLS/LN.m3u8
 #EXTINF:0 group-title="01LOCAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/La-Nacion-Mas-Logo.svg/1024px-La-Nacion-Mas-Logo.svg.png" ,12-LN+ OPC
 https://epg.pw/stream/7ca10ecdefd93a478a2c0c2f8d2968066b4a1068a50e372518cb346260dd809a.ctv
 #EXTINF:-1 group-title="01LOCAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/800px-Canal_26_logo_%282022%29.svg.png" ,13-26 TV
-http://live-edge01.telecentro.net.ar:1935/live/26hd-720/playlist.m3u8
+https://epg.pw/stream/f667445974d1fac0c924e078bbd1ab105c2657aae061c0091ab66bcf9c6a8a2d.ctv
 #EXTINF:-1 group-title="01LOCAL" tvg-logo="https://4.bp.blogspot.com/-RjXsOFCUJa0/WbWZpQWlwZI/AAAAAAAABnA/vAeBWck6LNw4HpNBxdg5unnmIbpYXo1GgCLcBGAs/s1600/cronica-hd.png" ,14-CRONICA TV
 https://delivery.cdn.rcs.net.ar/mnp/cronica/output.mpd
 #EXTINF:-1 group-title="01LOCAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/A24_%282019-1%29.png" ,15-A24
@@ -50,7 +50,7 @@ https://epg.pw/stream/5533952d87c125a45bea4ec0e9f34f622cbc049a2d42acd4ed04242882
 #EXTINF:0 group-title="01LOCAL" tvg-logo="https://i.imgur.com/HFGGwWi.png" ,25-KZO
 https://corsproxy.io/?http://heroem3u.epizy.com/youtube/UCv0zRACOVWmhu1Ilufm40-w.m3u8
 #EXTINF:-1 group-title="01LOCAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqgxcpPffiTk7fbR6N6dqYgByad1NID3VB4wsdtYCxjquYl34XXd_P28EaBZ9OP2CwfBM&usqp=CAU" ,26-ARGENTINISIMA SATELITAL
-http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/playlist.m3u8
+https://stream1.sersat.com/hls/argentinisima.m3u8?
 #EXTINF:-1 group-title="01LOCAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfb0YmpKDI7clw7lPEGGw3STNKx4-Z72ty2MACeliX6BUIBGGNW7ppMre1DISbuG8CRgM&usqp=CAU" ,27-CHACRA TV
 http://s8.stweb.tv:1935/chacra/live/playlist.m3u8
 #EXTINF:-1 group-title="01LOCAL" tvg-logo="http://4.bp.blogspot.com/-UVOIX0_2mEE/Tp8Ei8FI5II/AAAAAAAAQfM/TGSGUe0f8SM/s1600/canalrural.png" ,28-CANAL RURAL
@@ -76,7 +76,7 @@ http://45.225.95.170:8000/play/a0fy/index.m3u8
 #EXTINF:0 group-title="01LOCAL" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSUe9jIzIfdb0yoCPlzMWThMyTg7uBO2GS_H7mF6wo=s900-c-k-c0x00ffffff-no-rj" ,38-TVN CHILE 24 HORAS
 http://45.225.95.170:8000/play/a0ga/index.m3u8
 #EXTINF:0 group-title="01LOCAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFNEhjydsIQgt5XX4GPYprfQEPaEWAiwfpndv8JzEsP-mHHbjPt-L1YShw3YKWewVvhns&usqp=CAU" ,39-EXITOSA TV - PERU
-https://cu.onliv3.com/livevd1/user2.m3u8
+https://cpliv3.onliv3.com:19360/exitosatv/exitosatv.m3u8
 #EXTINF:0 group-title="01LOCAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Panamericana-tv.svg/1200px-Panamericana-tv.svg.png" ,40-PANAMERICANA TV - PERU
 http://cdnh71.iblups.com/hls/ptv2.m3u8
 #EXTINF:-1 group-title="01LOCAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg/1280px-Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg.png" ,41-TVPE - PERU
@@ -23053,3 +23053,5 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1457
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1095
 #EXTINF:0 group-title="ZZBACKUPS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/Ve_Plus_Logo_2019.png" ,VENEVISION PLUS
 http://190.122.96.187:8888/http/006
+#EXTINF:0 group-title="ZZBACKUPS" ,ARGENTINISIMA
+https://cronos.aldeaglobal.net.ar/hls/argentinisima.m3u8
