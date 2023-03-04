@@ -3151,24 +3151,28 @@ https://epg.pw/stream/c57882bdf52b2ff1ca994f0ec04fe46f8dd39812002e01cd9fbb831548
 https://epg.pw/media/screenshot/2023/02/18/3991317/20230218075957696374.png
 #EXTINF:-1 group-title="24 SIMPSONS" ,OPCION 26
 https://epg.pw/stream/19e0c417371be38adcce08c982e9a9b3f331003ace9e242b7adb04baf081d114.ctv
+#EXTINF:0 group-title="24-7 MASTER" tvg-logo="https://budtv-ultra.com/posters/1628813420241.png" ,ALF
+http://budtvlight.com:25461/budtvsports/wTu27rKVNU/2321
 #EXTINF:-1 group-title="24-7 MASTER" tvg-logo="https://4.bp.blogspot.com/-qcGsoFyaUWg/W6lmslccpbI/AAAAAAAAAEU/AITGCqKS030alHxSpIwZT17-KneOZCBEwCPcBGAYYCw/s1600/chavotv.png" ,EL CHAVO
 https://6362ca6f1fc28.streamlock.net/elchavoplus/elchavoplus/chunklist_w251850427.m3u8
-#EXTINF:0 group-title="24-7 MASTER" ,FUTURAMA 1
-https://epg.pw/stream/6f4f966c39277b7a243158b24f501cc9a4031bfe79e313066ed4311d603aa9c6.m3u8
-#EXTINF:0 group-title="24-7 MASTER" ,FUTURAMA 2
-https://epg.pw/stream/af6dd025ed0268520690a27f81e755159a544267a15bf06a71c4eeee356a1f79.ctv
-#EXTINF:0 group-title="24-7 MASTER" ,FUTURAMA 3
-https://epg.pw/stream/f33ce5ff5435ed2f5d783b723ca2753c5f38a8086ffd1103c47c973bb9f554fe.ctv
-#EXTINF:-1 group-title="24-7 MASTER" tvg-logo="https://rndserv.xyz/images/simpsons.png" ,LOS SIMPSONS
-https://srv5.zcast.com.br/simpsons/simpsons/playlist.m3u8
-#EXTINF:0 group-title="24-7 MASTER" ,LOS SIMPSONS
-https://epg.pw/stream/d8de5a8095b16204b9e22038f57605465071a9a94cd5d5164a19d3eb2aa1c027.m3u8
+#EXTINF:0 group-title="24-7 MASTER" tvg-logo="http://dns.k4livetv.com:8080/images/c0100d9c5a823b370aea3995ca85baff.png" ,EL CORRECAMINOS
+http://laondatv.online:8080/leonardo/123456/302745
+#EXTINF:0 group-title="24-7 MASTER" ,FUTURAMA
+http://laondatv.online:8080/leonardo/123456/302622
+#EXTINF:-1 group-title="24-7 MASTER" tvg-logo="http://dns.k4livetv.com:8080/images/9fc7097a66ed01550abc06fc9ad2246c.png" ,LOS SIMPSONS
+http://budtvlight.com:25461/budtvsports/wTu27rKVNU/38706
+#EXTINF:0 group-title="24-7 MASTER" tvg-logo="http://dns.k4livetv.com:8080/images/9fc7097a66ed01550abc06fc9ad2246c.png" ,LOS SIMPSONS
+http://laondatv.online:8080/leonardo/123456/302628
 #EXTINF:-1 group-title="24-7 MASTER" tvg-logo="https://i.pinimg.com/originals/67/ef/f1/67eff169f7ed79114791315c6cf817cf.jpg" ,LOS TRES CHIFLADOS
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f85f1dc1418bd0007e11eb9/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff35bd0-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=025be615-509e-4721-8804-92898ace6781&userId=&serverSideAds=true
 #EXTINF:0 group-title="24-7 MASTER" tvg-logo="https://www.egames.news/__export/1677702056425/sites/debate/img/2023/03/01/fqjx85kaeaqqboh.jpg_514029915.jpg" ,SAILOR MOON
 http://laondatv.online:8080/leonardo/123456/302725
 #EXTINF:0 group-title="24-7 MASTER" tvg-logo="https://www.egames.news/__export/1677702056425/sites/debate/img/2023/03/01/fqjx85kaeaqqboh.jpg_514029915.jpg" ,SAILOR MOON OPC2
-http://moontools.me:8080/chino28/4guQTT7nqg/1125715
+http://moontools.me:8080/MARCOSMARTIN71/CwQbzmPxnqtM/1125715
+#EXTINF:0 group-title="24-7 MASTER" tvg-logo="https://www.egames.news/__export/1677702056425/sites/debate/img/2023/03/01/fqjx85kaeaqqboh.jpg_514029915.jpg" ,SAILOR MOON OPC 3
+http://budtvlight.com:25461/budtvsports/wTu27rKVNU/2395
+#EXTINF:0 group-title="24-7 MASTER" tvg-logo="http://dns.k4livetv.com:8080/images/46b8227904437ba1370010af7b41fe60.png" ,TOM Y JERRY
+http://laondatv.online:8080/leonardo/123456/302740
 #EXTINF:-1 group-title="26NOVELAS" tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" ,40 y 20
 https://linear-340.frequency.stream/dist/localnow/340/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="26NOVELAS" tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" ,Alegrijes y Rebujos
