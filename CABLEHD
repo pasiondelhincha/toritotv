@@ -5121,6 +5121,206 @@ http://167.250.222.35:16000/play/a05r/index.m3u8
 http://167.250.222.35:16000/play/a055/index.m3u8
 #EXTINF:-1 group-title="41-STB AMERICA CENTRAL Y CARIBE" tvg-id="WARNER HD" ,WARNER HD
 http://167.250.222.35:16000/play/a06m/index.m3u8
+#EXTINF:-1 group-title="41-STB AMERICA LATINA 03-12-22" ,A&E HD
+http://131.196.194.2:8000/play/a0en/index.m3u8
+#EXTINF:-1 group-title="41-STB AMERICA LATINA 03-12-22" ,AE Mundo
+http://131.196.194.2:8000/play/a0cj/index.m3u8
+#EXTINF:-1 group-title="41-STB AMERICA LATINA 03-12-22" ,AXN
+http://131.196.194.2:8000/play/a09q/index.m3u8
+#EXTINF:-1 group-title="41-STB AMERICA LATINA 03-12-22" ,AXN HD
+http://131.196.194.2:8000/play/a0ei/index.m3u8
+#EXTINF:-1 group-title="41-STB AMERICA LATINA 03-12-22" ,America TV HD
+http://131.196.194.2:8000/play/a0ea/index.m3u8
+#EXTINF:-1 group-title="41-STB AMERICA LATINA 03-12-22" ,America TV PY
+http://131.196.194.2:8000/play/a0c2/index.m3u8
+#EXTINF:-1 group-title="41-STB AMERICA LATINA 03-12-22" ,Animal Planet
+http://131.196.194.2:8000/play/a0ca/index.m3u8
+#EXTINF:-1 group-title="41-STB AMERICA LATINA 03-12-22" ,BabyFirst
+http://131.196.194.2:8000/play/a0e5/index.m3u8
+#EXTINF:-1 group-title="41-STB AMERICA LATINA 03-12-22" ,C9N
+http://131.196.194.2:8000/play/a0bh/index.m3u8
+#EXTINF:-1 group-title="41-STB AMERICA LATINA 03-12-22" ,CNN Chile
+http://131.196.194.2:8000/play/a0dw/index.m3u8
+#EXTINF:-1 group-title="41-STB AMERICA LATINA 03-12-22" ,CNN Espanol
+http://131.196.194.2:8000/play/a0cr/index.m3u8
+#EXTINF:-1 group-title="41-STB AMERICA LATINA 03-12-22" ,Canal Claro
+http://131.196.194.2:8000/play/a0bs/index.m3u8
+#EXTINF:-1 group-title="41-STB AMERICA LATINA 03-12-22" ,Canal Estrellas
+http://131.196.194.2:8000/play/a0cl/index.m3u8
+#EXTINF:-1 group-title="41-STB AMERICA LATINA 03-12-22" ,Cartoon Network
+http://131.196.194.2:8000/play/a0dz/index.m3u8
+#EXTINF:-1 group-title="41-STB AMERICA LATINA 03-12-22" ,Cartoon Network HD
+http://131.196.194.2:8000/play/a0eu/index.m3u8
+#EXTINF:-1 group-title="41-STB AMERICA LATINA 03-12-22" ,Cinecanal
+http://131.196.194.2:8000/play/a0dt/index.m3u8
+#EXTINF:-1 group-title="41-STB AMERICA LATINA 03-12-22" ,Cinecanal HD
+http://131.196.194.2:8000/play/a0f0/index.m3u8
+#EXTINF:-1 group-title="41-STB AMERICA LATINA 03-12-22" ,Cinemax
+http://131.196.194.2:8000/play/a09o/index.m3u8
+#EXTINF:-1 group-title="41-STB AMERICA LATINA 03-12-22" ,Claro Cinema
+http://131.196.194.2:8000/play/a09z/index.m3u8
+#EXTINF:-1 group-title="41-STB AMERICA LATINA 03-12-22" ,Claro Sports
+http://131.196.194.2:8000/play/a0e1/index.m3u8
+#EXTINF:-1 group-title="41-STB AMERICA LATINA 03-12-22" ,Discovery Channel
+http://131.196.194.2:8000/play/a0c9/index.m3u8
+#EXTINF:-1 group-title="41-STB AMERICA LATINA 03-12-22" ,Discovery Channel HD
+http://131.196.194.2:8000/play/a0f5/index.m3u8
+#EXTINF:-1 group-title="41-STB AMERICA LATINA 03-12-22" ,Discovery H&H
+http://131.196.194.2:8000/play/a0et/index.m3u8
+#EXTINF:-1 group-title="41-STB AMERICA LATINA 03-12-22" ,Discovery ID
+http://131.196.194.2:8000/play/a0bq/index.m3u8
+#EXTINF:-1 group-title="41-STB AMERICA LATINA 03-12-22" ,Discovery Kids
+http://131.196.194.2:8000/play/a0cq/index.m3u8
+#EXTINF:-1 group-title="41-STB AMERICA LATINA 03-12-22" ,Discovery Turbo
+http://131.196.194.2:8000/play/a0a1/index.m3u8
+#EXTINF:-1 group-title="41-STB AMERICA LATINA 03-12-22" ,Disney Channel
+http://131.196.194.2:8000/play/a0c8/index.m3u8
+#EXTINF:-1 group-title="41-STB AMERICA LATINA 03-12-22" ,Disney Jr
+http://131.196.194.2:8000/play/a0d1/index.m3u8
+#EXTINF:-1 group-title="41-STB AMERICA LATINA 03-12-22" ,E Entertainment
+http://131.196.194.2:8000/play/a0cc/index.m3u8
+#EXTINF:-1 group-title="41-STB AMERICA LATINA 03-12-22" ,ESPN
+http://131.196.194.2:8000/play/a0cf/index.m3u8
+#EXTINF:-1 group-title="41-STB AMERICA LATINA 03-12-22" ,ESPN 2
+http://131.196.194.2:8000/play/a0d4/index.m3u8
+#EXTINF:-1 group-title="41-STB AMERICA LATINA 03-12-22" ,ESPN 2 HD
+http://131.196.194.2:8000/play/a0ec/index.m3u8
+#EXTINF:-1 group-title="41-STB AMERICA LATINA 03-12-22" ,ESPN 2 Latin
+http://131.196.194.2:8000/play/a0ce/index.m3u8
+#EXTINF:-1 group-title="41-STB AMERICA LATINA 03-12-22" ,ESPN 3
+http://131.196.194.2:8000/play/a0a2/index.m3u8
+#EXTINF:-1 group-title="41-STB AMERICA LATINA 03-12-22" ,ESPN 3 HD
+http://131.196.194.2:8000/play/a0ee/index.m3u8
+#EXTINF:-1 group-title="41-STB AMERICA LATINA 03-12-22" ,ESPN 4
+http://131.196.194.2:8000/play/a0by/index.m3u8
+#EXTINF:-1 group-title="41-STB AMERICA LATINA 03-12-22" ,ESPN CO
+http://131.196.194.2:8000/play/a0bi/index.m3u8
+#EXTINF:-1 group-title="41-STB AMERICA LATINA 03-12-22" ,ESPN Extra HD
+http://131.196.194.2:8000/play/a0ev/index.m3u8
+#EXTINF:-1 group-title="41-STB AMERICA LATINA 03-12-22" ,ESPN HD
+http://131.196.194.2:8000/play/a0ed/index.m3u8
+#EXTINF:-1 group-title="41-STB AMERICA LATINA 03-12-22" ,ESPN Premium HD
+http://131.196.194.2:8000/play/a0ex/index.m3u8
+#EXTINF:-1 group-title="41-STB AMERICA LATINA 03-12-22" ,Enlace
+http://131.196.194.2:8000/play/a0e4/index.m3u8
+#EXTINF:-1 group-title="41-STB AMERICA LATINA 03-12-22" ,FX
+http://131.196.194.2:8000/play/a09s/index.m3u8
+#EXTINF:-1 group-title="41-STB AMERICA LATINA 03-12-22" ,Fox Sports 2
+http://131.196.194.2:8000/play/a0cm/index.m3u8
+#EXTINF:-1 group-title="41-STB AMERICA LATINA 03-12-22" ,Fox Sports 2 HD
+http://131.196.194.2:8000/play/a0ef/index.m3u8
+#EXTINF:-1 group-title="41-STB AMERICA LATINA 03-12-22" ,Fox Sports 3
+http://131.196.194.2:8000/play/a0cn/index.m3u8
+#EXTINF:-1 group-title="41-STB AMERICA LATINA 03-12-22" ,Fox Sports HD
+http://131.196.194.2:8000/play/a0ew/index.m3u8
+#EXTINF:-1 group-title="41-STB AMERICA LATINA 03-12-22" ,France 24
+http://131.196.194.2:8000/play/a0br/index.m3u8
+#EXTINF:-1 group-title="41-STB AMERICA LATINA 03-12-22" ,GOL TV
+http://131.196.194.2:8000/play/a0cg/index.m3u8
+#EXTINF:-1 group-title="41-STB AMERICA LATINA 03-12-22" ,HBO
+http://131.196.194.2:8000/play/a09m/index.m3u8
+#EXTINF:-1 group-title="41-STB AMERICA LATINA 03-12-22" ,HBO 2
+http://131.196.194.2:8000/play/a0cx/index.m3u8
+#EXTINF:-1 group-title="41-STB AMERICA LATINA 03-12-22" ,HBO Family
+http://131.196.194.2:8000/play/a0d0/index.m3u8
+#EXTINF:-1 group-title="41-STB AMERICA LATINA 03-12-22" ,HBO Plus
+http://131.196.194.2:8000/play/a0cy/index.m3u8
+#EXTINF:-1 group-title="41-STB AMERICA LATINA 03-12-22" ,HBO XTREME SD
+http://131.196.194.2:8000/play/a0cz/index.m3u8
+#EXTINF:-1 group-title="41-STB AMERICA LATINA 03-12-22" ,History Channel
+http://131.196.194.2:8000/play/a0ds/index.m3u8
+#EXTINF:-1 group-title="41-STB AMERICA LATINA 03-12-22" ,La Tele
+http://131.196.194.2:8000/play/a0a4/index.m3u8
+#EXTINF:-1 group-title="41-STB AMERICA LATINA 03-12-22" ,MTV
+http://131.196.194.2:8000/play/a0dv/index.m3u8
+#EXTINF:-1 group-title="41-STB AMERICA LATINA 03-12-22" ,NPY
+http://131.196.194.2:8000/play/a0bj/index.m3u8
+#EXTINF:-1 group-title="41-STB AMERICA LATINA 03-12-22" ,Nat Geo
+http://131.196.194.2:8000/play/a0dr/index.m3u8
+#EXTINF:-1 group-title="41-STB AMERICA LATINA 03-12-22" ,Nat Geo HD
+http://131.196.194.2:8000/play/a0ej/index.m3u8
+#EXTINF:-1 group-title="41-STB AMERICA LATINA 03-12-22" ,Nick Jr
+http://131.196.194.2:8000/play/a0a0/index.m3u8
+#EXTINF:-1 group-title="41-STB AMERICA LATINA 03-12-22" ,Nickelodeon
+http://131.196.194.2:8000/play/a0dq/index.m3u8
+#EXTINF:-1 group-title="41-STB AMERICA LATINA 03-12-22" ,PARAVISION
+http://131.196.194.2:8000/play/a0bg/index.m3u8
+#EXTINF:-1 group-title="41-STB AMERICA LATINA 03-12-22" ,ParaguayTV
+http://131.196.194.2:8000/play/a0c5/index.m3u8
+#EXTINF:-1 group-title="41-STB AMERICA LATINA 03-12-22" ,RCN Novelas
+http://131.196.194.2:8000/play/a0bp/index.m3u8
+#EXTINF:-1 group-title="41-STB AMERICA LATINA 03-12-22" ,SNT
+http://131.196.194.2:8000/play/a0e2/index.m3u8
+#EXTINF:-1 group-title="41-STB AMERICA LATINA 03-12-22" ,STAR CHANNEL
+http://131.196.194.2:8000/play/a0dx/index.m3u8
+#EXTINF:-1 group-title="41-STB AMERICA LATINA 03-12-22" ,SURTV
+http://131.196.194.2:8000/play/a0bk/index.m3u8
+#EXTINF:-1 group-title="41-STB AMERICA LATINA 03-12-22" ,Sony
+http://131.196.194.2:8000/play/a09p/index.m3u8
+#EXTINF:-1 group-title="41-STB AMERICA LATINA 03-12-22" ,Sony HD
+http://131.196.194.2:8000/play/a0eg/index.m3u8
+#EXTINF:-1 group-title="41-STB AMERICA LATINA 03-12-22" ,Space
+http://131.196.194.2:8000/play/a09r/index.m3u8
+#EXTINF:-1 group-title="41-STB AMERICA LATINA 03-12-22" ,Star Channel HD
+http://131.196.194.2:8000/play/a0ey/index.m3u8
+#EXTINF:-1 group-title="41-STB AMERICA LATINA 03-12-22" ,Studio Universal
+http://131.196.194.2:8000/play/a0d3/index.m3u8
+#EXTINF:-1 group-title="41-STB AMERICA LATINA 03-12-22" ,TBS
+http://131.196.194.2:8000/play/a0bt/index.m3u8
+#EXTINF:-1 group-title="41-STB AMERICA LATINA 03-12-22" ,TN HD
+http://131.196.194.2:8000/play/a0eb/index.m3u8
+#EXTINF:-1 group-title="41-STB AMERICA LATINA 03-12-22" ,TNT
+http://131.196.194.2:8000/play/a0e0/index.m3u8
+#EXTINF:-1 group-title="41-STB AMERICA LATINA 03-12-22" ,TNT HD
+http://131.196.194.2:8000/play/a0f1/index.m3u8
+#EXTINF:-1 group-title="41-STB AMERICA LATINA 03-12-22" ,TNT Series HD
+http://131.196.194.2:8000/play/a0f2/index.m3u8
+#EXTINF:-1 group-title="41-STB AMERICA LATINA 03-12-22" ,Telefe
+http://131.196.194.2:8000/play/a09x/index.m3u8
+#EXTINF:-1 group-title="41-STB AMERICA LATINA 03-12-22" ,Telefe HD
+http://131.196.194.2:8000/play/a0er/index.m3u8
+#EXTINF:-1 group-title="41-STB AMERICA LATINA 03-12-22" ,Telefuturo
+http://131.196.194.2:8000/play/a0e3/index.m3u8
+#EXTINF:-1 group-title="41-STB AMERICA LATINA 03-12-22" ,Telemundo
+http://131.196.194.2:8000/play/a0co/index.m3u8
+#EXTINF:-1 group-title="41-STB AMERICA LATINA 03-12-22" ,The History Channel HD
+http://131.196.194.2:8000/play/a0el/index.m3u8
+#EXTINF:-1 group-title="41-STB AMERICA LATINA 03-12-22" ,Trece
+http://131.196.194.2:8000/play/a0c0/index.m3u8
+#EXTINF:-1 group-title="41-STB AMERICA LATINA 03-12-22" ,TyC
+http://131.196.194.2:8000/play/a0ch/index.m3u8
+#EXTINF:-1 group-title="41-STB AMERICA LATINA 03-12-22" ,Unicanal
+http://131.196.194.2:8000/play/a09y/index.m3u8
+#EXTINF:-1 group-title="41-STB AMERICA LATINA 03-12-22" ,Universal
+http://131.196.194.2:8000/play/a0du/index.m3u8
+#EXTINF:-1 group-title="41-STB AMERICA LATINA 03-12-22" ,Universal HD
+http://131.196.194.2:8000/play/a0ep/index.m3u8
+#EXTINF:-1 group-title="41-STB AMERICA LATINA 03-12-22" ,Venus
+http://131.196.194.2:8000/play/a0hp/index.m3u8
+#EXTINF:-1 group-title="41-STB AMERICA LATINA 03-12-22" ,Warner
+http://131.196.194.2:8000/play/a0cb/index.m3u8
+#EXTINF:-1 group-title="41-STB AMERICA LATINA 03-12-22" ,Warner Channel HD
+http://131.196.194.2:8000/play/a0eh/index.m3u8
+#EXTINF:-1 group-title="41-STB AMERICA LATINA 03-12-22" ,el trece HD
+http://131.196.194.2:8000/play/a0es/index.m3u8
+#EXTINF:-1 group-title="41-STB ARABES Y POLONIA 03-12-2022" ,Al Ekhbaria HD
+http://149.62.177.99:8004/play/a00m/index.m3u8
+#EXTINF:-1 group-title="41-STB ARABES Y POLONIA 03-12-2022" ,HotBird 4K1
+http://149.62.177.99:8004/play/a00s/index.m3u8
+#EXTINF:-1 group-title="41-STB ARABES Y POLONIA 03-12-2022" ,Museum 4K
+http://149.62.177.99:8004/play/a00y/index.m3u8
+#EXTINF:-1 group-title="41-STB ARABES Y POLONIA 03-12-2022" ,Nasa TV UHD
+http://149.62.177.99:8004/play/a00t/index.m3u8
+#EXTINF:-1 group-title="41-STB ARABES Y POLONIA 03-12-2022" ,SAUDI TV HD
+http://149.62.177.99:8004/play/a00n/index.m3u8
+#EXTINF:-1 group-title="41-STB ARABES Y POLONIA 03-12-2022" ,SBC HD
+http://149.62.177.99:8004/play/a00j/index.m3u8
+#EXTINF:-1 group-title="41-STB ARABES Y POLONIA 03-12-2022" ,Saudi Ch for Quran HD
+http://149.62.177.99:8004/play/a00l/index.m3u8
+#EXTINF:-1 group-title="41-STB ARABES Y POLONIA 03-12-2022" ,Saudi Ch for Sunnah HD
+http://149.62.177.99:8004/play/a00k/index.m3u8
+#EXTINF:-1 group-title="41-STB ARABES Y POLONIA 03-12-2022" ,TVP Polonia
+http://149.62.177.99:8004/play/a00r/index.m3u8
 #EXTINF:-1 group-title="41-STB COLOMBIA ECUADOR PARAGUAY" ,13 C
 http://186.5.31.251:8000/play/a0ax/index.m3u8
 #EXTINF:-1 group-title="41-STB COLOMBIA ECUADOR PARAGUAY" ,24 Horas TVN
@@ -14899,6 +15099,1078 @@ http://gg.gg/HaNoiIPTV-Gan_Su_Wei_Shi_HD
 http://gg.gg/HaNoiIPTV-Chong_Qing_Wei_Shi_HD
 #EXTINF:-1 group-title="41-stb-VIETNAM" ,青海卫视高清 - TH Thanh Hải HD
 http://gg.gg/HaNoiIPTV-Qing_Hai_Wei_Shi_HD
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,A TV
+http://146.19.16.201:8032/play/a040
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,AD Nat Geo HD
+http://146.19.16.201:8032/play/a05i
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,AD Sport 1 HD
+http://146.19.16.201:8032/play/a05f
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,AD Sport 2 HD
+http://146.19.16.201:8032/play/a05g
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,AL Resala
+http://146.19.16.201:8032/play/a04d
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,ALBALAD
+http://146.19.16.201:8032/play/a03t
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,ALSahraa
+http://146.19.16.201:8032/play/a042
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,ALWESAM TV
+http://146.19.16.201:8032/play/a04w
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,ALhayah ALaan
+http://146.19.16.201:8032/play/a043
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,ALhayat
+http://146.19.16.201:8032/play/a03s
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,ASHOROOQ TV
+http://146.19.16.201:8032/play/a04t
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,AVA TV
+http://146.19.16.201:8032/play/a04y
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,Abu Dhabi TV HD
+http://146.19.16.201:8032/play/a05c
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,Al Alam Syria
+http://146.19.16.201:8032/play/a041
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,Al Aoula Inter HD
+http://146.19.16.201:8032/play/a03j
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,Al Aoula inter
+http://146.19.16.201:8032/play/a03y
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,Al Emarat TV HD
+http://146.19.16.201:8032/play/a05d
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,Al Istijaba TV
+http://146.19.16.201:8032/play/a04p
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,Al Maghribia HD
+http://146.19.16.201:8032/play/a03n
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,AlHayat HD
+http://146.19.16.201:8032/play/a03w
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,AlKarma Praise
+http://146.19.16.201:8032/play/a059
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,AlKawthar
+http://146.19.16.201:8032/play/a04u
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,Alhayat We Alnas
+http://146.19.16.201:8032/play/a03v
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,Aqar TV
+http://146.19.16.201:8032/play/a04m
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,Arryadia HD
+http://146.19.16.201:8032/play/a03l
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,Aryen TV
+http://146.19.16.201:8032/play/a05b
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,Assadissa HD
+http://146.19.16.201:8032/play/a03o
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,Athaqafia HD
+http://146.19.16.201:8032/play/a03m
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,BANGAWAZ TV
+http://146.19.16.201:8032/play/a056
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,BBC Arabic
+http://146.19.16.201:8032/play/a03r
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,BN2 HD
+http://146.19.16.201:8032/play/a04n
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,CIRA TV
+http://146.19.16.201:8032/play/a053
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,CN Arabia
+http://146.19.16.201:8032/play/a04v
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,Extra News HD
+http://146.19.16.201:8032/play/a04f
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,France 24
+http://146.19.16.201:8032/play/a03u
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,K24 HD
+http://146.19.16.201:8032/play/a050
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,KURDISTAN TV
+http://146.19.16.201:8032/play/a051
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,LBC SAT
+http://146.19.16.201:8032/play/a04c
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,Laayoune TV HD
+http://146.19.16.201:8032/play/a03k
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,Libya Education
+http://146.19.16.201:8032/play/a04h
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,Libya Sport 2 HD
+http://146.19.16.201:8032/play/a04g
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,Madrastna 1
+http://146.19.16.201:8032/play/a04i
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,Madrastna 3
+http://146.19.16.201:8032/play/a044
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,Majd Kids TV HD
+http://146.19.16.201:8032/play/a05e
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,Medi1 TV Maghreb HD
+http://146.19.16.201:8032/play/a03q
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,NRT Arabic
+http://146.19.16.201:8032/play/a05a
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,Nile River
+http://146.19.16.201:8032/play/a04r
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,ONTIME SPORTS3
+http://146.19.16.201:8032/play/a04k
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,ONTIME SPORTS3 HD
+http://146.19.16.201:8032/play/a04j
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,PAYAM TV HD
+http://146.19.16.201:8032/play/a055
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,RT Arabic HD
+http://146.19.16.201:8032/play/a04x
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,Ronahi TV
+http://146.19.16.201:8032/play/a054
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,Rotana Cinema EGY
+http://146.19.16.201:8032/play/a04a
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,Rotana Cinema EGY HD
+http://146.19.16.201:8032/play/a04e
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,Rotana Cinema KSA
+http://146.19.16.201:8032/play/a04b
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,Rotana Classic
+http://146.19.16.201:8032/play/a048
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,Rotana Clip
+http://146.19.16.201:8032/play/a046
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,Rotana Drama
+http://146.19.16.201:8032/play/a049
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,Rotana Khalijia
+http://146.19.16.201:8032/play/a047
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,Rotana Music
+http://146.19.16.201:8032/play/a045
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,SAT-7 ARABIC
+http://146.19.16.201:8032/play/a058
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,SAT-7 KIDS
+http://146.19.16.201:8032/play/a057
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,Sudania 24 HD
+http://146.19.16.201:8032/play/a04s
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,Syria News
+http://146.19.16.201:8032/play/a04l
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,Tamazight HD
+http://146.19.16.201:8032/play/a03p
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,UTV Iraq HD
+http://146.19.16.201:8032/play/a04z
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,YAS Sports HD
+http://146.19.16.201:8032/play/a05h
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,ZAGROS TV HD
+http://146.19.16.201:8032/play/a052
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,kassala TV
+http://146.19.16.201:8032/play/a04q
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,ABN
+http://146.19.16.209:8034/play/a04v
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,Aden TV
+http://146.19.16.209:8034/play/a04m
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,Al Forat HD
+http://146.19.16.209:8034/play/a03z
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,AL-AMAKEN TV
+http://146.19.16.209:8034/play/a041
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,Al-Ma'aly
+http://146.19.16.209:8034/play/a043
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,Albadaweea
+http://146.19.16.209:8034/play/a042
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,Alerth-Alnbawi
+http://146.19.16.209:8034/play/a03x
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,AlQanat 9
+http://146.19.16.209:8034/play/a04s
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,AlShaoub TV
+http://146.19.16.209:8034/play/a04r
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,Alyaum TV
+http://146.19.16.209:8034/play/a04i
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,BARKER COLLECTIVITES SD4
+http://146.19.16.209:8034/play/a07p
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,BIN OTHAIMEEN
+http://146.19.16.209:8034/play/a03t
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,CNBC ARABIYA
+http://146.19.16.209:8034/play/a040
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,DAWAAH TV
+http://146.19.16.209:8034/play/a04w
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,El Eiman TV
+http://146.19.16.209:8034/play/a04n
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,El Sharq
+http://146.19.16.209:8034/play/a04d
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,ELMEHWAR-HD
+http://146.19.16.209:8034/play/a03w
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,Eriteria TV
+http://146.19.16.209:8034/play/a03u
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,i24 News Arabic
+http://146.19.16.209:8034/play/a04p
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,Iraqi Edu HD
+http://146.19.16.209:8034/play/a04c
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,Iraqia Ent HD
+http://146.19.16.209:8034/play/a04b
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,Iraqia Entertainment
+http://146.19.16.209:8034/play/a046
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,Iraqia Kurd
+http://146.19.16.209:8034/play/a048
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,Iraqia News HD
+http://146.19.16.209:8034/play/a044
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,Iraqia News SD
+http://146.19.16.209:8034/play/a045
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,Iraqia Sport HD
+http://146.19.16.209:8034/play/a049
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,Iraqia Syriac
+http://146.19.16.209:8034/play/a04a
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,Iraqia Turkuman
+http://146.19.16.209:8034/play/a047
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,Kaifa
+http://146.19.16.209:8034/play/a03y
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,KNN HD
+http://146.19.16.209:8034/play/a04t
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,MBN Alhurra HD TV
+http://146.19.16.209:8034/play/a03s
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,MEKAMELEEN TV
+http://146.19.16.209:8034/play/a04f
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,Minbij TV
+http://146.19.16.209:8034/play/a04q
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,RUDAW
+http://146.19.16.209:8034/play/a04u
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,Sham FM TV
+http://146.19.16.209:8034/play/a03r
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,Sheba TV
+http://146.19.16.209:8034/play/a04l
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,SUROYO TV
+http://146.19.16.209:8034/play/a04h
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,WATAN TV
+http://146.19.16.209:8034/play/a04o
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,Yemen Documentary
+http://146.19.16.209:8034/play/a04e
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,Yemen Education TV
+http://146.19.16.209:8034/play/a04g
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,Yemen Today TV
+http://146.19.16.209:8034/play/a04k
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,Yemen TV
+http://146.19.16.209:8034/play/a04j
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,|BE| Club-RTL [Telsat]
+http://146.19.16.209:8034/play/a05h
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,|BE| La Trois [Telsat]
+http://146.19.16.209:8034/play/a05d
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,|BE| La Une FHD [Telsat]
+http://146.19.16.209:8034/play/a05f
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,|BE| Plug-RTL [Telsat]
+http://146.19.16.209:8034/play/a05i
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,|BE| RTL-TVi FHD [Telsat]
+http://146.19.16.209:8034/play/a05e
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,|BE| Tipik [Telsat]
+http://146.19.16.209:8034/play/a05g
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,|FR| 6TER |Telsat]
+http://146.19.16.209:8034/play/a06d
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,|FR| AB1 [Telsat]
+http://146.19.16.209:8034/play/a05v
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,|FR| ACTION [Telsat]
+http://146.19.16.209:8034/play/a063
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,|FR| ANIMAUX [Telsat]
+http://146.19.16.209:8034/play/a05x
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,|FR| Arte FHD
+http://146.19.16.209:8034/play/a079
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,|FR| AUTOMOTO la chaine [Telsat]
+http://146.19.16.209:8034/play/a05w
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,|FR| BEIN SPORTS 1 FHD [Casat]
+http://146.19.16.209:8034/play/a06m
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,|FR| BET [Telsat]
+http://146.19.16.209:8034/play/a050
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,|FR| CANAL J [Telsat]
+http://146.19.16.209:8034/play/a056
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,|FR| CHASSE et PECHE [Telsat]
+http://146.19.16.209:8034/play/a05y
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,|FR| COMEDIE+ [Telsat]
+http://146.19.16.209:8034/play/a057
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,|FR| Crime District [Telsat]
+http://146.19.16.209:8034/play/a060
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,|FR| France 2 FHD
+http://146.19.16.209:8034/play/a07u
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,|FR| FRANCE 2 |TNT]
+http://146.19.16.209:8034/play/a059
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,|FR| FRANCE 3 |TNT]
+http://146.19.16.209:8034/play/a05a
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,|FR| FRANCEINFO: |TNT|
+http://146.19.16.209:8034/play/a052
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,|FR| HISTOIRE TV [Telsat]
+http://146.19.16.209:8034/play/a053
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,|FR| M6 |TNT]
+http://146.19.16.209:8034/play/a06h
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,|FR| MANGAS [Telsat]
+http://146.19.16.209:8034/play/a064
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,|FR| MEZZO [Telsat]
+http://146.19.16.209:8034/play/a055
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,|FR| MTV [Telsat]
+http://146.19.16.209:8034/play/a051
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,|FR| NICKELODEON [Telsat]
+http://146.19.16.209:8034/play/a054
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,|FR| Science et Vie [Telsat]
+http://146.19.16.209:8034/play/a065
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,|FR| TF1 FHD |TNT]
+http://146.19.16.209:8034/play/a05b
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,|FR| TOUTE L'HISTOIRE [Telsat]
+http://146.19.16.209:8034/play/a062
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,|FR| TREK [Telsat]
+http://146.19.16.209:8034/play/a061
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,|FR| USHUAIA TV [Telsat]
+http://146.19.16.209:8034/play/a058
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,|FR| W9 |TNT]
+http://146.19.16.209:8034/play/a06i
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,|PL| Ale kino+ HD
+http://146.19.16.209:8034/play/a06y
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,|PL| CANAL+ FAMILY HD
+http://146.19.16.209:8034/play/a06t
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,|PL| CANAL+ FILM HD
+http://146.19.16.209:8034/play/a06s
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,|PL| CANAL+ FILM HD
+http://146.19.16.209:8034/play/a072
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,|PL| CANAL+ KUCHNIA
+http://146.19.16.209:8034/play/a06x
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,|PL| CANAL+ KUCHNIA
+http://146.19.16.209:8034/play/a075
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,|PL| CANAL+ SERIALE HD
+http://146.19.16.209:8034/play/a076
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,|PL| CANAL+ SERIALE HD
+http://146.19.16.209:8034/play/a06z
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,|PL| Planete+ HD
+http://146.19.16.209:8034/play/a06w
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,|PL| TeenNick
+http://146.19.16.209:8034/play/a070
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,|PL| teleTOON+ HD
+http://146.19.16.209:8034/play/a073
+#EXTINF:-1 group-title="45 VK ARABES 01 28-02" ,|PL| teleTOON+ HD
+http://146.19.16.209:8034/play/a06v
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,12 Iraqia
+http://149.100.11.240:8080/play/a0m5e6di8c8alct/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,7lim BIGO TV
+http://149.100.11.240:8080/play/a0ln12KLl/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,ABC TV xxx
+http://149.100.11.240:8080/play/a0hm/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,ABN
+http://149.100.11.240:8080/play/2Nhkjhkhcx68vMjye/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,AFAQ TV
+http://149.100.11.240:8080/play/2Na1uyt6yr4r/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,AJMAN HD
+http://149.100.11.240:8080/play/a0nh/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,AL AHAD HD xxx
+http://149.100.11.240:8080/play/a0ib/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,AL ARABY TV HD
+http://149.100.11.240:8080/play/a0oh/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,AL AYAM HD
+http://149.100.11.240:8080/play/AL26A1YA1M27TV/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,AL Ghufran Tv
+http://149.100.11.240:8080/play/AL76G2HU2FRA2NT5Vw/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,AL HAQEQA AL DAWLIAH
+http://149.100.11.240:8080/play/AL7AQd2E3Q2D/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,AL MALAKOOT SAT-THE KINGDOM SAT
+http://149.100.11.240:8080/play/a0POOKLkjhhggfsede3d/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,AL RAHMA
+http://149.100.11.240:8080/play/AL4R3AH23M3Aa07p/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,AL SHARQIYA
+http://149.100.11.240:8080/play/S6958HA43RQ43IY43A/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,AL SHARQIYA NEWS HD
+http://149.100.11.240:8080/play/S18HA1RQI16NE5W25HD/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,AL-adhamiya Iraq
+http://149.100.11.240:8080/play/a0jh/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,AL24 News
+http://149.100.11.240:8080/play/a0faAPFr78234/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,ALFATH TV
+http://149.100.11.240:8080/play/a0ov/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,ALHAQIQA
+http://149.100.11.240:8080/play/A36LHA12QI3Q4A/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,ALHAWYAH TV
+http://149.100.11.240:8080/play/AL63HAW45YAH7TVa0306/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,ALLAHDAH TV
+http://149.100.11.240:8080/play/A1LL12A1HDA1H/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,ALMASIRAH TV
+http://149.100.11.240:8080/play/a1L12MA1SIR18A1HTv/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,ALNOJABA TV xxx
+http://149.100.11.240:8080/play/a0i5/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,ALQUDS TODAY TV
+http://149.100.11.240:8080/play/AL98QU9D3S43T2Va107w/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,ALRabiaa Sport
+http://149.100.11.240:8080/play/a0Hakiuyadna4/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,ALSALAM
+http://149.100.11.240:8080/play/Sa1LA1m13TV/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,ALWAQIE TV HD
+http://149.100.11.240:8080/play/a0ll/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,AVA TV
+http://149.100.11.240:8080/play/A36VA36TV21KL3a0bx/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,Aden TV
+http://149.100.11.240:8080/play/A1d4e5n23TV/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,Ahlu Al-Quran
+http://149.100.11.240:8080/play/A54h9l7Al9q5ura12n/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,Al Araby 2 HD
+http://149.100.11.240:8080/play/ALaB2y25TV/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,Al Fady
+http://149.100.11.240:8080/play/A1l12F6a1d4y/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,Al Fath Atfal
+http://149.100.11.240:8080/play/a0p5/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,Al Fath Sonnah TV
+http://149.100.11.240:8080/play/a0p9/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,Al Ghad HD
+http://149.100.11.240:8080/play/a0p4/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,Al Ghadeer
+http://149.100.11.240:8080/play/dsrfdsDFewet/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,Al Harmen TV xxx
+http://149.100.11.240:8080/play/a0ij/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,Al Horreya
+http://149.100.11.240:8080/play/Al12Horr18e5ya1/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,Al Kawthar
+http://149.100.11.240:8080/play/a0ox/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,Al Noor XXXXX
+http://149.100.11.240:8080/play/a0li/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,Al Ons TV
+http://149.100.11.240:8080/play/A1l12O15nsTV/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,Al Rabiaa TV
+http://149.100.11.240:8080/play/a0oipopko9/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,Al Rafidain TV HD
+http://149.100.11.240:8080/play/a0lm/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,Al Sahat
+http://149.100.11.240:8080/play/2Na15rOn14e/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,Al-Awhad TV
+http://149.100.11.240:8080/play/a0ln/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,Al-Etejah TV
+http://149.100.11.240:8080/play/Al96Ete12ja12hT3V/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,Al-Nahar Drama
+http://149.100.11.240:8080/play/2Na1ha1rDr18a/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,Al-Nahar One
+http://149.100.11.240:8080/play/2Na1ha1drOn14e/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,AlKarma Praise
+http://149.100.11.240:8080/play/Al9Kar54maP32rais25ea0c9/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,AlQanat 9
+http://149.100.11.240:8080/play/A47l25qn3a1t9/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,AlSaeedah
+http://149.100.11.240:8080/play/a0oz/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,AlShaoub TV xxx
+http://149.100.11.240:8080/play/a0qk/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,Alanes TV
+http://149.100.11.240:8080/play/a0Alanes8976TVje/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,Alhayat Muslsalat
+http://149.100.11.240:8080/play/a0Alhaya986Muslsi6/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,Alhurra
+http://149.100.11.240:8080/play/a0nu/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,Alhurra HD
+http://149.100.11.240:8080/play/a0nt/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,Alhurra Iraq
+http://149.100.11.240:8080/play/a0nw/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,Alhurra Iraq HD
+http://149.100.11.240:8080/play/a0iuuyyhnjlK6e/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,Alkarma ME 1
+http://149.100.11.240:8080/play/aAlkarmPO987MEKhn03/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,Almagharibia TV
+http://149.100.11.240:8080/play/a0l0/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,Almasirah Mubashar
+http://149.100.11.240:8080/play/AL3M2A2S34HAS45H7E5R/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,Alnajaf Alashraf tv
+http://149.100.11.240:8080/play/a0l8/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,Altaghier HD
+http://149.100.11.240:8080/play/Alt4a4g4hi3er2Da01s/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,Alyaum TV
+http://149.100.11.240:8080/play/aWebRTCA0b2/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,Alzaeem
+http://149.100.11.240:8080/play/a0lc/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,Amou Yazid Tofola TV XXXXX
+http://149.100.11.240:8080/play/a0re/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,AnwarTV2 xxx
+http://149.100.11.240:8080/play/a0it/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,Arab Women TV 1
+http://149.100.11.240:8080/play/a0lh/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,Arab Women TV 2
+http://149.100.11.240:8080/play/a0l7/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,Aryen TV
+http://149.100.11.240:8080/play/A36ry5en54TOp9Va0cb/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,Asil TV
+http://149.100.11.240:8080/play/a0l1/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,Athan Tulkarem
+http://149.100.11.240:8080/play/a0or/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,Awdeh
+http://149.100.11.240:8080/play/a0of/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,Awdeh HD
+http://149.100.11.240:8080/play/a0oe/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,Ayat TV xxx
+http://149.100.11.240:8080/play/a0hv/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,BANGAWAZ TV
+http://149.100.11.240:8080/play/BAN36G55AWAZ5T3Va0c6/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,BERBERE TV
+http://149.100.11.240:8080/play/StnDFDeenl/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,Babel xxx
+http://149.100.11.240:8080/play/a0il/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,Bahia TV
+http://149.100.11.240:8080/play/a0B56ah854ia7v/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,CBC
+http://149.100.11.240:8080/play/23C3B2C3t20V/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,CBC Drama
+http://149.100.11.240:8080/play/23C3B2C3t20VDr18a1/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,CBC Sofra
+http://149.100.11.240:8080/play/23C3B2C3So15fr18a/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,CIRA TV
+http://149.100.11.240:8080/play/C36IRA9842T321Va0c3/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,CNN
+http://149.100.11.240:8080/play/a0p0/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,Canal 22 xxx
+http://149.100.11.240:8080/play/a0ip/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,DAWAAH TV xxx
+http://149.100.11.240:8080/play/a0qp/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,DRAMA 24
+http://149.100.11.240:8080/play/a0ih5655PO/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,Dawacom TV
+http://149.100.11.240:8080/play/a0lf/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,Dijlah TV HD
+http://149.100.11.240:8080/play/D5ijl23a1hT25V/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,Dolly movie
+http://149.100.11.240:8080/play/a0lq5f6465/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,Dzair Al Ruqya 25
+http://149.100.11.240:8080/play/a0lb/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,Dzair Jannah
+http://149.100.11.240:8080/play/Dz32aira0273Ja3nn3a3h/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,EL BILAD
+http://149.100.11.240:8080/play/a0EL7BIsdLAD482jkjkj/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,EL HAYAT TV ALGERIE
+http://149.100.11.240:8080/play/a0HAdewY54A21T347x/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,EL HEDDAF TV
+http://149.100.11.240:8080/play/aEL78HEDDAF12TV07y/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,EL MAHROUSA TV xxxxx
+http://149.100.11.240:8080/play/a0qv/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,ELMOLED
+http://149.100.11.240:8080/play/Elm4112Va087/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,ETLBW xxx
+http://149.100.11.240:8080/play/a0j9/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,Echorouk NEWS
+http://149.100.11.240:8080/play/E65chor1ou3kNE4W3S/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,Echorouk TV
+http://149.100.11.240:8080/play/Ec39hor5o1ukT9V/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,El Adjwaa TV
+http://149.100.11.240:8080/play/a0jx/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,El Djazair N1
+http://149.100.11.240:8080/play/a0fdgfdt567545i/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,El Eiman TV xxx
+http://149.100.11.240:8080/play/a0qg/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,El HOGGAR TV
+http://149.100.11.240:8080/play/a0om/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,El Sharq
+http://149.100.11.240:8080/play/El12Sha1r18q/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,ElKeraza
+http://149.100.11.240:8080/play/E5lKe5r18a1za/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,Elborhan Tv Roqia
+http://149.100.11.240:8080/play/a0jk/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,Elfadjer drama Dz
+http://149.100.11.240:8080/play/a0oi/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,Elwatania Algerie
+http://149.100.11.240:8080/play/SlkuyOOkttnnl/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,Ennahar TV
+http://149.100.11.240:8080/play/Okggkuyttnnl/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,Extra News
+http://149.100.11.240:8080/play/23Ex24tra1Ne5ws/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,Febrauary TV xxx
+http://149.100.11.240:8080/play/a0ht/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,Free TV
+http://149.100.11.240:8080/play/a0ot/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,Gali Kurdistan HD
+http://149.100.11.240:8080/play/DR18AM8IAN/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,Gulfsat
+http://149.100.11.240:8080/play/a0la/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,Hadramout TV XXXXX
+http://149.100.11.240:8080/play/a0jv/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,I Film Arabic
+http://149.100.11.240:8080/play/FI9LM13AR18AB/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,INEWS TV HD
+http://149.100.11.240:8080/play/a0iOOi8uuuy667ue/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,Iraq Future TV
+http://149.100.11.240:8080/play/Ira1qFu21tu21re/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,JORDAN NOW
+http://149.100.11.240:8080/play/J1OR96DA1NO9W/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,JORDAN SAMA
+http://149.100.11.240:8080/play/JO2RD21A2NSA/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,Jeel Dz TV HD
+http://149.100.11.240:8080/play/a0ol/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,Jordan Amen
+http://149.100.11.240:8080/play/J36ord9an9Ame7n/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,K24 HD
+http://149.100.11.240:8080/play/K244MNB44a630bz/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,KARBALA TV HD
+http://149.100.11.240:8080/play/a06afdgf54634/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,KNN HD xxx
+http://149.100.11.240:8080/play/a0qm/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,KSA1727
+http://149.100.11.240:8080/play/a0jf/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,KURDISTAN TV
+http://149.100.11.240:8080/play/K24444HDa630bz/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,Kirkuk TV HD
+http://149.100.11.240:8080/play/Slkuyttnnl/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,Koogi TV
+http://149.100.11.240:8080/play/K11o15o15g7i9/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,Kunuz Al-Jannah
+http://149.100.11.240:8080/play/a2K7u9nuz5Al5tb/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,Kunuz Altabia TV
+http://149.100.11.240:8080/play/a0lg/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,LEBDA TV xxx
+http://149.100.11.240:8080/play/a0hr/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,LIBYA DRAMA xxx
+http://149.100.11.240:8080/play/a0hp/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,Libya LY TV
+http://149.100.11.240:8080/play/LI9A5N6N66ELa0/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,Libya WTV HD
+http://149.100.11.240:8080/play/a02c65OpiuO/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,Logos TV
+http://149.100.11.240:8080/play/Lo15go15s19TV/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,M CLASSIC
+http://149.100.11.240:8080/play/M23CL21A1SSIC7x/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,MBC Drama
+http://149.100.11.240:8080/play/a0o6MBNHsssS/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,MEKAMELEEN TV
+http://149.100.11.240:8080/play/ME5KA1M14ELEE5N/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,MESat
+http://149.100.11.240:8080/play/a0no/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,MUSAWA
+http://149.100.11.240:8080/play/a0o9/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,Maan TV
+http://149.100.11.240:8080/play/R18IAN98/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,Makkah TV
+http://149.100.11.240:8080/play/Ma1k2ka1hT2Va201t/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,Masr Elhayah
+http://149.100.11.240:8080/play/a0l9/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,Mawal XXXX
+http://149.100.11.240:8080/play/a0qy/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,Mazzika
+http://149.100.11.240:8080/play/a0oy/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,Mbcode TV XXXXX
+http://149.100.11.240:8080/play/a0jw/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,Menbar Eldoaat xxx
+http://149.100.11.240:8080/play/a0hn/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,Minbij TV
+http://149.100.11.240:8080/play/M14inb2ijT20V/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,Misr Al Zera3eya
+http://149.100.11.240:8080/play/a0ow/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,Misr ELBald
+http://149.100.11.240:8080/play/Mis19r18ELB2a1ld4/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,Misr Quran Kareem
+http://149.100.11.240:8080/play/a0idPutyOIUJN/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,Mix
+http://149.100.11.240:8080/play/23M19x24TV/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,Musawa HD
+http://149.100.11.240:8080/play/2Nafdvgdcc4e/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,NRT Arabic
+http://149.100.11.240:8080/play/a0rv/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,Nogoum FM TV
+http://149.100.11.240:8080/play/a0p3/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,Nour Al Aalam
+http://149.100.11.240:8080/play/B989ethelT6o/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,Nour Koddass
+http://149.100.11.240:8080/play/No15urKo15dda1ss19/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,Nour Mariam
+http://149.100.11.240:8080/play/Ma1r18ia1m13TV/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,Noursat Kids
+http://149.100.11.240:8080/play/No15ur18AlS19ha1rq/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,ON  E
+http://149.100.11.240:8080/play/ON61oOPi8E125/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,ON Drama
+http://149.100.11.240:8080/play/aON9Dra12ma0ay/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,ON E HD
+http://149.100.11.240:8080/play/ON6129E125HD/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,ONTIME SPORTS
+http://149.100.11.240:8080/play/a0Pw2O34R121T21ax/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,ONTIME SPORTS HD
+http://149.100.11.240:8080/play/SlkuUewdyttnnlOL/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,ONTIME SPORTS2
+http://149.100.11.240:8080/play/a0R2121eTwdsdsq21S2av/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,ONTIME SPORTS2 HD
+http://149.100.11.240:8080/play/a0aPww1O223Rw12123eqr/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,Oyoun AlWatan
+http://149.100.11.240:8080/play/O1yo3u2nlW2at3a/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,PAYAM TV HD
+http://149.100.11.240:8080/play/PAY365AM5419HDa0c5/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,Palestine
+http://149.100.11.240:8080/play/a0od/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,Palestine
+http://149.100.11.240:8080/play/a0le/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,Palestine EDU
+http://149.100.11.240:8080/play/2N565787ffhgOn14e/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,Palestine HD
+http://149.100.11.240:8080/play/PalE3sti540h8/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,Palestine Live
+http://149.100.11.240:8080/play/P15a0ls18t19i8nL/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,Palestine Live HD
+http://149.100.11.240:8080/play/POhhggfh1kj/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,Palestine News
+http://149.100.11.240:8080/play/a0oa/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,Palestine News HD
+http://149.100.11.240:8080/play/P15a0le4i8nN13DH/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,Palestine Sport
+http://149.100.11.240:8080/play/a0og/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,Palestine Today
+http://149.100.11.240:8080/play/P2AL4E4S1OD25AY/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,QUEEN AFLAM
+http://149.100.11.240:8080/play/a0efUDJLSs0332/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,QUEEN DRAMA
+http://149.100.11.240:8080/play/a0eh3e324dds/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,RO`YA
+http://149.100.11.240:8080/play/R2O33Y2A2a01u12DS/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,RUDAW
+http://149.100.11.240:8080/play/rkjduDssdfsdf/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,RUDAW TV
+http://149.100.11.240:8080/play/a0i7ytuytyuvH/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,Ronahi TV
+http://149.100.11.240:8080/play/Ro541na9hiLKTV5a0c4/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,SAKAKER
+http://149.100.11.240:8080/play/a0iiUYTgdsds/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,SALAM HD
+http://149.100.11.240:8080/play/a0o7A12L3SA2LA213M3a082/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,SAT-7 ARABIC
+http://149.100.11.240:8080/play/S3AT7lk58AR6A3BICa0c8/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,SAT-7 KIDS
+http://149.100.11.240:8080/play/SA6LK65T7LKKIDSa0c7/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,SPACETOON ARABIC
+http://149.100.11.240:8080/play/El12Shagfh1r18q/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,SPORT24
+http://149.100.11.240:8080/play/a0ieLKjuubblk/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,SUROYO TV
+http://149.100.11.240:8080/play/SU21RO24YO24/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,SYRIA
+http://149.100.11.240:8080/play/a0idPOIUJN/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,SYRIA CH1
+http://149.100.11.240:8080/play/a0ifoiuoJHG/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,SYRIA NEWS
+http://149.100.11.240:8080/play/a0545ggh09/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,SYRIA TV HD
+http://149.100.11.240:8080/play/a0nm/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,Salam TV
+http://149.100.11.240:8080/play/A12L3dA213M3a082/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,Samira TV
+http://149.100.11.240:8080/play/Sa23mi323ra23T23V/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,Saout alaqila
+http://149.100.11.240:8080/play/a0ld/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,Shahrazad TV XXXX
+http://149.100.11.240:8080/play/a0qw/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,Sheba TV
+http://149.100.11.240:8080/play/She5ba1T20TV/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,Shoppingitalia TV XXXX
+http://149.100.11.240:8080/play/a0r3/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,Suboro TV
+http://149.100.11.240:8080/play/Sub2o24roT20V/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,TRT Arabi HD
+http://149.100.11.240:8080/play/a0o1/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,TRT KURDI
+http://149.100.11.240:8080/play/Xcd12Va087/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,TV5
+http://149.100.11.240:8080/play/a0ou/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,Tanasuh TV
+http://149.100.11.240:8080/play/a0T65AsssqNp/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,The Savior
+http://149.100.11.240:8080/play/2Naoo9ouOn14e/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,Toyor Aljanah
+http://149.100.11.240:8080/play/a87hjkMkjje/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,Tunisia Nat 2
+http://149.100.11.240:8080/play/a0p1/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,Tunisia Nat1 HD
+http://149.100.11.240:8080/play/Tu21niooA1T2iio/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,Tunisie Televsion 1
+http://149.100.11.240:8080/play/Tu21n14isi9NA1T2/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,UTV Iraq
+http://149.100.11.240:8080/play/a0edcswpoe/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,UTV Iraq HD
+http://149.100.11.240:8080/play/UTV87Iraq54Da0by365/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,WAAR HD
+http://149.100.11.240:8080/play/a0bddfr3W4334R3/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,WATAN TV
+http://149.100.11.240:8080/play/asee8d0Wdf255dfq/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,YALLA MOSR3A
+http://149.100.11.240:8080/play/a0l4/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,YEMEN SHABAB
+http://149.100.11.240:8080/play/a0nn/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,Yemen Documentary
+http://149.100.11.240:8080/play/Ye5me5nDo15c/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,Yemen Education TV
+http://149.100.11.240:8080/play/Ye5m13enE5d4u/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,Yemen TV
+http://149.100.11.240:8080/play/Ye5me5nTV/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,Yemen Today TV
+http://149.100.11.240:8080/play/Ye5me5nT20od/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,ZAGROS TV HD
+http://149.100.11.240:8080/play/ZA36GR5OS9TV4HDa0c2/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,ZAROK TV
+http://149.100.11.240:8080/play/RoKTV5a0c4/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,al kafeel
+http://149.100.11.240:8080/play/a0POIUI6e/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,alnassr 24 tv
+http://149.100.11.240:8080/play/a0jb/index.m3u8
+#EXTINF:-1 group-title="45 VK ARABES 28-02" ,i24 News Arabic
+http://149.100.11.240:8080/play/i24Ne5wsA1ra1b/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,0001.Первый канал
+http://178.160.249.210:8001/play/a002/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,0002.НТВ
+http://178.160.249.210:8001/play/a005/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,0003.Россия 1
+http://178.160.249.210:8001/play/a003/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,0004.СТС
+http://178.160.249.210:8001/play/a008/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,0005.ТНТ
+http://178.160.249.210:8001/play/a00a/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,0006.РЕН
+http://178.160.249.210:8001/play/a007/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,0007.Мир
+http://178.160.249.210:8001/play/a01v/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,0008.Звезда
+http://178.160.249.210:8001/play/a009/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,0009.Пятница
+http://178.160.249.210:8001/play/a02x/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,0010.Победа
+http://178.160.249.210:8001/play/a033/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,0011.ТВ Центр Москва
+http://178.160.249.210:8001/play/a03g/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,0012.365 дней ТВ
+http://178.160.249.210:8001/play/a03k/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,0013.Матч Футбол 1
+http://178.160.249.210:8001/play/a00r/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,0014.Матч Футбол 2
+http://178.160.249.210:8001/play/a00s/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,0015.Матч Футбол 3
+http://178.160.249.210:8001/play/a00t/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,0016.Матч Боец
+http://178.160.249.210:8001/play/a00x/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,0017.Матч Арена
+http://178.160.249.210:8001/play/a012/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,0018.Матч Игра
+http://178.160.249.210:8001/play/a017/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,0019.Матч ТВ
+http://178.160.249.210:8001/play/a004/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,0020.Матч Страна
+http://178.160.249.210:8001/play/a014/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,0021.Viasat Nature
+http://178.160.249.210:8001/play/a00i/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,0022.Viasat Explorer
+http://178.160.249.210:8001/play/a00g/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,0023.Viasat History
+http://178.160.249.210:8001/play/a00h/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,0024.Viasat Sport
+http://178.160.249.210:8001/play/a00j/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,0025.TV 1000
+http://178.160.249.210:8001/play/a00f/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,0026.TV 1000 Action
+http://178.160.249.210:8001/play/a00e/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" tvg-id="1" ,0027.TV 1000 Русское кино
+http://178.160.249.210:8001/play/a00d/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,0028.Любимое кино
+http://178.160.249.210:8001/play/a01x/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,0029.Родное кино
+http://178.160.249.210:8001/play/a029/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,003.Авто Плюс
+http://178.160.249.210:8001/play/a03l/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,0030.Дом кино
+http://178.160.249.210:8001/play/a02b/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,0031.КИНОСВИДАНИЕ
+http://178.160.249.210:8001/play/a025/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,0032.Кинохит HD
+http://178.160.249.210:8001/play/a024/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,0033.Русский Бестселлер
+http://178.160.249.210:8001/play/a01u/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,0034.Русский Детектив
+http://178.160.249.210:8001/play/a01q/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,0035.Русский Роман
+http://178.160.249.210:8001/play/a01p/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,0036.КИНОПРЕМЬЕРА HD
+http://178.160.249.210:8001/play/a031/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,0037.НАШЕ НОВОЕ КИНО
+http://178.160.249.210:8001/play/a03z/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,0038.КИНОКОМЕДИЯ
+http://178.160.249.210:8001/play/a03r/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,0039.КИНОМИКС
+http://178.160.249.210:8001/play/a03o/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,0040.ИНДИЙСКОЕ КИНО
+http://178.160.249.210:8001/play/a03n/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,0041.Индия
+http://178.160.249.210:8001/play/a049/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,0042.КИНОУЖАС
+http://178.160.249.210:8001/play/a041/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,0043.КИНОСЕМЬЯ
+http://178.160.249.210:8001/play/a042/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,0044.КИНОСЕРИЯ
+http://178.160.249.210:8001/play/a03w/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,0045.МУЖСКОЕ КИНО
+http://178.160.249.210:8001/play/a03x/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,0046.РОДНОЕ КИНО
+http://178.160.249.210:8001/play/a03y/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,0047.НТВ Право
+http://178.160.249.210:8001/play/a04e/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,0048.НТВ Сериал
+http://178.160.249.210:8001/play/a04g/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,0049.НТВ Стиль
+http://178.160.249.210:8001/play/a04m/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,0050.НТВ-ХИТ
+http://178.160.249.210:8001/play/a04j/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,0051.Европа Плюс ТВ
+http://178.160.249.210:8001/play/a03m/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,0052.Жара
+http://178.160.249.210:8001/play/a01w/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,0053.Classic Music
+http://178.160.249.210:8001/play/a00z/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,0054.BRIDGE TV Classic
+http://178.160.249.210:8001/play/a04i/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,0055.Карусель
+http://178.160.249.210:8001/play/a006/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,0056.Мульт
+http://178.160.249.210:8001/play/a04f/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,0057.СуперГерои
+http://178.160.249.210:8001/play/a045/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,0058.Мультиландия
+http://178.160.249.210:8001/play/a020/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,0059.Ani
+http://178.160.249.210:8001/play/a023/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,0060.Gulli Girl
+http://178.160.249.210:8001/play/a03d/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,0061.TiJi
+http://178.160.249.210:8001/play/a034/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,0062.START Air
+http://178.160.249.210:8001/play/a02t/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,0063.START World
+http://178.160.249.210:8001/play/a04n/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,0064.Дикий
+http://178.160.249.210:8001/play/a048/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,0065.Диалоги о рыбалке
+http://178.160.249.210:8001/play/a050/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,0066.Живая Планета
+http://178.160.249.210:8001/play/a01a/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,0067.FightBox
+http://178.160.249.210:8001/play/a039/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,0068.FilmBox
+http://178.160.249.210:8001/play/a03a/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,0069.FashionBox
+http://178.160.249.210:8001/play/a037/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,0070.FilmBox Arthouse
+http://178.160.249.210:8001/play/a03b/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,0071.FastnfunBox
+http://178.160.249.210:8001/play/a038/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,0073.БОКС ТВ
+http://178.160.249.210:8001/play/a04t/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,0073.Мосфильм. Золотая Коллекция
+http://178.160.249.210:8001/play/a04d/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,0074.Авто 24
+http://178.160.249.210:8001/play/a01c/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,0075.CTC Love
+http://178.160.249.210:8001/play/a04c/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,0076.Бобёр
+http://178.160.249.210:8001/play/a02m/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,0077.Домашний
+http://178.160.249.210:8001/play/a01h/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,0078.Zee Russia
+http://178.160.249.210:8001/play/a03h/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,0079.ЗВЕЗДА ПЛЮС
+http://178.160.249.210:8001/play/a02l/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,0080.Комедия
+http://178.160.249.210:8001/play/a00y/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,011.Star Family
+http://178.160.249.210:8001/play/a01r/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,022.ЖИВИ!
+http://178.160.249.210:8001/play/a04p/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,024.Ля-минор ТВ
+http://178.160.249.210:8001/play/a03u/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,027.Курай
+http://178.160.249.210:8001/play/a02e/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,028.Продвижение (Сибирь)
+http://178.160.249.210:8001/play/a021/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,030.Кухня ТВ
+http://178.160.249.210:8001/play/a03t/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,033.История
+http://178.160.249.210:8001/play/a015/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,040.Мультиландия
+http://178.160.249.210:8001/play/a04y/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,043.Петербург 5 канал
+http://178.160.249.210:8001/play/a00k/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,046.Русский бестселлер
+http://178.160.249.210:8001/play/a04s/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,050.Сарафан
+http://178.160.249.210:8001/play/a04q/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,052.Русский роман
+http://178.160.249.210:8001/play/a04v/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,054.Русский детектив
+http://178.160.249.210:8001/play/a04h/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,055.Театр
+http://178.160.249.210:8001/play/a02h/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,056.Шансон ТВ
+http://178.160.249.210:8001/play/a02j/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,058.Da Vinci Learning
+http://178.160.249.210:8001/play/a00c/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,059.FAN
+http://178.160.249.210:8001/play/a04b/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,063.Hollywood
+http://178.160.249.210:8001/play/a01l/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,9 Волна
+http://178.160.249.210:8001/play/a01o/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,Bolt
+http://178.160.249.210:8001/play/a022/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,DocuBox
+http://178.160.249.210:8001/play/a035/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,E TV
+http://178.160.249.210:8001/play/a04u/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,Erox
+http://178.160.249.210:8001/play/a036/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,Gagsnetwork
+http://178.160.249.210:8001/play/a02w/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,Kazakh
+http://178.160.249.210:8001/play/a01t/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,LEOMAX24
+http://178.160.249.210:8001/play/a00b/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,Playboy TV
+http://178.160.249.210:8001/play/a04x/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,Red Lips
+http://178.160.249.210:8001/play/a00v/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,SHOT TV
+http://178.160.249.210:8001/play/a044/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,Star Cinema
+http://178.160.249.210:8001/play/a01s/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,Timeless Dizi Channel
+http://178.160.249.210:8001/play/a03c/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,khabar 24
+http://178.160.249.210:8001/play/a016/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,БСТ
+http://178.160.249.210:8001/play/a02f/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,БелРос
+http://178.160.249.210:8001/play/a01y/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,В гостях у сказки
+http://178.160.249.210:8001/play/a04w/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,Ваш Успех
+http://178.160.249.210:8001/play/a02q/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,Вести ФМ
+http://178.160.249.210:8001/play/a00n/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,Дон 24
+http://178.160.249.210:8001/play/a02c/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,Дорама
+http://178.160.249.210:8001/play/a04z/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,ЕГЭ
+http://178.160.249.210:8001/play/a02d/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,Живи активно HD
+http://178.160.249.210:8001/play/a032/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,Зал суда
+http://178.160.249.210:8001/play/a02v/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,КИНОСВИДАНИЕ
+http://178.160.249.210:8001/play/a03p/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,Кто есть кто
+http://178.160.249.210:8001/play/a03s/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,Майдан
+http://178.160.249.210:8001/play/a02o/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,Матч ТВ HD
+http://178.160.249.210:8001/play/a01j/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,Мир Белогорья
+http://178.160.249.210:8001/play/a01d/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,Мир Увлечений
+http://178.160.249.210:8001/play/a028/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,Москва Доверие
+http://178.160.249.210:8001/play/a04o/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,Моя стихия
+http://178.160.249.210:8001/play/a04l/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,Мультимузыка
+http://178.160.249.210:8001/play/a04r/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,Ностальгия
+http://178.160.249.210:8001/play/a040/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,Ностальгия
+http://178.160.249.210:8001/play/a01e/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,ОРТРК - 12 канал
+http://178.160.249.210:8001/play/a02g/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,ОТВ Челябинск БУЛАТ
+http://178.160.249.210:8001/play/a02p/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,Общественное ТВ Росс
+http://178.160.249.210:8001/play/a03f/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,Первый канал HD
+http://178.160.249.210:8001/play/a030/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,Петербург 5 канал +2
+http://178.160.249.210:8001/play/a02s/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,Продвижение (Москва)
+http://178.160.249.210:8001/play/a01z/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,Радио Маяк
+http://178.160.249.210:8001/play/a00o/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,Радио России
+http://178.160.249.210:8001/play/a00m/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,Радио Страна FM
+http://178.160.249.210:8001/play/a01m/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,Русская ночь
+http://178.160.249.210:8001/play/a043/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,Русская ночь
+http://178.160.249.210:8001/play/a00w/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,СТС HD
+http://178.160.249.210:8001/play/a010/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,Славянскiй МIРЪ
+http://178.160.249.210:8001/play/a02i/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,Спас
+http://178.160.249.210:8001/play/a02y/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,Страна.СуперТВ
+http://178.160.249.210:8001/play/a00l/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,Татарстан Новый Век
+http://178.160.249.210:8001/play/a02z/index.m3u8
+#EXTINF:-1 group-title="45 VK ARMENIA Y EXURSS 28-02" ,Чаваш Ен
+http://178.160.249.210:8001/play/a026/index.m3u8
 #EXTINF:-1 group-title="45 VK BOLIVIA 01 28-02" ,ABE Educativo TV
 http://200.119.222.198:25470/play/a02o/index.m3u8
 #EXTINF:-1 group-title="45 VK BOLIVIA 01 28-02" ,AMC HD
@@ -16631,6 +17903,180 @@ http://181.78.12.119:16123/play/a041/index.m3u8
 http://181.78.12.119:16123/play/ch71/index.m3u8
 #EXTINF:-1 group-title="45 VK COLOMBIA Y VENEZUELA" ,ZOOMOO
 http://181.78.12.119:16123/play/ch04/index.m3u8
+#EXTINF:-1 group-title="45 VK COSTA RICA 28-02" ,A&E HD
+http://161.132.101.134:8000/play/a02k/index.m3u8
+#EXTINF:-1 group-title="45 VK COSTA RICA 28-02" ,AMC HD
+http://161.132.101.134:8000/play/a03w/index.m3u8
+#EXTINF:-1 group-title="45 VK COSTA RICA 28-02" ,ATRES SERIES HD
+http://161.132.101.134:8000/play/a036/index.m3u8
+#EXTINF:-1 group-title="45 VK COSTA RICA 28-02" ,AXN HD
+http://161.132.101.134:8000/play/a02n/index.m3u8
+#EXTINF:-1 group-title="45 VK COSTA RICA 28-02" ,America TV HD
+http://161.132.101.134:8000/play/a04g/index.m3u8
+#EXTINF:-1 group-title="45 VK COSTA RICA 28-02" ,Animal Planet HD
+http://161.132.101.134:8000/play/a046/index.m3u8
+#EXTINF:-1 group-title="45 VK COSTA RICA 28-02" ,Canal 1 HD
+http://161.132.101.134:8000/play/a04a/index.m3u8
+#EXTINF:-1 group-title="45 VK COSTA RICA 28-02" ,Canal 24 Horas HD
+http://161.132.101.134:8000/play/a07w/index.m3u8
+#EXTINF:-1 group-title="45 VK COSTA RICA 28-02" ,Canal 7 HD CR
+http://161.132.101.134:8000/play/a08h/index.m3u8
+#EXTINF:-1 group-title="45 VK COSTA RICA 28-02" ,Cartoon Network HD
+http://161.132.101.134:8000/play/a040/index.m3u8
+#EXTINF:-1 group-title="45 VK COSTA RICA 28-02" ,Cinecanal HD
+http://161.132.101.134:8000/play/a03v/index.m3u8
+#EXTINF:-1 group-title="45 VK COSTA RICA 28-02" ,Cinemax HD
+http://161.132.101.134:8000/play/a037/index.m3u8
+#EXTINF:-1 group-title="45 VK COSTA RICA 28-02" ,Clover HD
+http://161.132.101.134:8000/play/a02s/index.m3u8
+#EXTINF:-1 group-title="45 VK COSTA RICA 28-02" ,Comedy Central HD
+http://161.132.101.134:8000/play/a038/index.m3u8
+#EXTINF:-1 group-title="45 VK COSTA RICA 28-02" ,DHE HD
+http://161.132.101.134:8000/play/a07z/index.m3u8
+#EXTINF:-1 group-title="45 VK COSTA RICA 28-02" ,Discovery H&H HD
+http://161.132.101.134:8000/play/a03f/index.m3u8
+#EXTINF:-1 group-title="45 VK COSTA RICA 28-02" ,Discovery HD
+http://161.132.101.134:8000/play/a080/index.m3u8
+#EXTINF:-1 group-title="45 VK COSTA RICA 28-02" ,Discovery Kids HD
+http://161.132.101.134:8000/play/a03e/index.m3u8
+#EXTINF:-1 group-title="45 VK COSTA RICA 28-02" ,Discovery Theater HD
+http://161.132.101.134:8000/play/a03g/index.m3u8
+#EXTINF:-1 group-title="45 VK COSTA RICA 28-02" ,Discovery World HD
+http://161.132.101.134:8000/play/a03u/index.m3u8
+#EXTINF:-1 group-title="45 VK COSTA RICA 28-02" ,Disney HD
+http://161.132.101.134:8000/play/a02y/index.m3u8
+#EXTINF:-1 group-title="45 VK COSTA RICA 28-02" ,E! Entertairment HD
+http://161.132.101.134:8000/play/a08j/index.m3u8
+#EXTINF:-1 group-title="45 VK COSTA RICA 28-02" ,E! HD
+http://161.132.101.134:8000/play/a04c/index.m3u8
+#EXTINF:-1 group-title="45 VK COSTA RICA 28-02" ,ESPN 2 HD
+http://161.132.101.134:8000/play/a02t/index.m3u8
+#EXTINF:-1 group-title="45 VK COSTA RICA 28-02" ,ESPN 3 HD
+http://161.132.101.134:8000/play/a04t/index.m3u8
+#EXTINF:-1 group-title="45 VK COSTA RICA 28-02" ,ESPN 4 HD
+http://161.132.101.134:8000/play/a03k/index.m3u8
+#EXTINF:-1 group-title="45 VK COSTA RICA 28-02" ,ESPN HD
+http://161.132.101.134:8000/play/a03q/index.m3u8
+#EXTINF:-1 group-title="45 VK COSTA RICA 28-02" ,El Gourmet HD
+http://161.132.101.134:8000/play/a03b/index.m3u8
+#EXTINF:-1 group-title="45 VK COSTA RICA 28-02" ,Europa HD
+http://161.132.101.134:8000/play/a08m/index.m3u8
+#EXTINF:-1 group-title="45 VK COSTA RICA 28-02" ,FOX Sports 2 HD
+http://161.132.101.134:8000/play/a03l/index.m3u8
+#EXTINF:-1 group-title="45 VK COSTA RICA 28-02" ,FX HD
+http://161.132.101.134:8000/play/a03p/index.m3u8
+#EXTINF:-1 group-title="45 VK COSTA RICA 28-02" ,Film & arts HD
+http://161.132.101.134:8000/play/a08k/index.m3u8
+#EXTINF:-1 group-title="45 VK COSTA RICA 28-02" ,Food Network HD
+http://161.132.101.134:8000/play/a04f/index.m3u8
+#EXTINF:-1 group-title="45 VK COSTA RICA 28-02" ,Fox Sports 3 HD
+http://161.132.101.134:8000/play/a032/index.m3u8
+#EXTINF:-1 group-title="45 VK COSTA RICA 28-02" ,France 24 HD
+http://161.132.101.134:8000/play/a07t/index.m3u8
+#EXTINF:-1 group-title="45 VK COSTA RICA 28-02" ,GolTV HD
+http://161.132.101.134:8000/play/a04d/index.m3u8
+#EXTINF:-1 group-title="45 VK COSTA RICA 28-02" ,Golden HD
+http://161.132.101.134:8000/play/a048/index.m3u8
+#EXTINF:-1 group-title="45 VK COSTA RICA 28-02" ,Golf Channel HD
+http://161.132.101.134:8000/play/a08p/index.m3u8
+#EXTINF:-1 group-title="45 VK COSTA RICA 28-02" ,HBO 2 HD
+http://161.132.101.134:8000/play/a045/index.m3u8
+#EXTINF:-1 group-title="45 VK COSTA RICA 28-02" ,HBO Family HD
+http://161.132.101.134:8000/play/a082/index.m3u8
+#EXTINF:-1 group-title="45 VK COSTA RICA 28-02" ,HBO HD
+http://161.132.101.134:8000/play/a03y/index.m3u8
+#EXTINF:-1 group-title="45 VK COSTA RICA 28-02" ,HBO POP HD
+http://161.132.101.134:8000/play/a02r/index.m3u8
+#EXTINF:-1 group-title="45 VK COSTA RICA 28-02" ,HBO XTREME HD
+http://161.132.101.134:8000/play/a085/index.m3u8
+#EXTINF:-1 group-title="45 VK COSTA RICA 28-02" ,HOLA TV HD
+http://161.132.101.134:8000/play/a02z/index.m3u8
+#EXTINF:-1 group-title="45 VK COSTA RICA 28-02" ,History 2 HD
+http://161.132.101.134:8000/play/a081/index.m3u8
+#EXTINF:-1 group-title="45 VK COSTA RICA 28-02" ,History Channel HD
+http://161.132.101.134:8000/play/a02j/index.m3u8
+#EXTINF:-1 group-title="45 VK COSTA RICA 28-02" ,ID HD
+http://161.132.101.134:8000/play/a039/index.m3u8
+#EXTINF:-1 group-title="45 VK COSTA RICA 28-02" ,Kanal D Drama HD
+http://161.132.101.134:8000/play/a03z/index.m3u8
+#EXTINF:-1 group-title="45 VK COSTA RICA 28-02" ,La Red HD
+http://161.132.101.134:8000/play/a02w/index.m3u8
+#EXTINF:-1 group-title="45 VK COSTA RICA 28-02" ,Las Estrellas HD
+http://161.132.101.134:8000/play/a07y/index.m3u8
+#EXTINF:-1 group-title="45 VK COSTA RICA 28-02" ,Latina HD
+http://161.132.101.134:8000/play/a04h/index.m3u8
+#EXTINF:-1 group-title="45 VK COSTA RICA 28-02" ,Lolly Kids HD
+http://161.132.101.134:8000/play/a07q/index.m3u8
+#EXTINF:-1 group-title="45 VK COSTA RICA 28-02" ,Love Nature HD
+http://161.132.101.134:8000/play/a07s/index.m3u8
+#EXTINF:-1 group-title="45 VK COSTA RICA 28-02" ,MEGA HD
+http://161.132.101.134:8000/play/a03s/index.m3u8
+#EXTINF:-1 group-title="45 VK COSTA RICA 28-02" ,MTV 00s
+http://161.132.101.134:8000/play/a035/index.m3u8
+#EXTINF:-1 group-title="45 VK COSTA RICA 28-02" ,MTV HD
+http://161.132.101.134:8000/play/a07x/index.m3u8
+#EXTINF:-1 group-title="45 VK COSTA RICA 28-02" ,MTV LIVE HD
+http://161.132.101.134:8000/play/a03j/index.m3u8
+#EXTINF:-1 group-title="45 VK COSTA RICA 28-02" ,Nat Geo HD
+http://161.132.101.134:8000/play/a03t/index.m3u8
+#EXTINF:-1 group-title="45 VK COSTA RICA 28-02" ,Nick HD
+http://161.132.101.134:8000/play/a02v/index.m3u8
+#EXTINF:-1 group-title="45 VK COSTA RICA 28-02" ,Paramount HD
+http://161.132.101.134:8000/play/a041/index.m3u8
+#EXTINF:-1 group-title="45 VK COSTA RICA 28-02" ,Pasiones HD
+http://161.132.101.134:8000/play/a02x/index.m3u8
+#EXTINF:-1 group-title="45 VK COSTA RICA 28-02" ,Playboy HD
+http://161.132.101.134:8000/play/a03n/index.m3u8
+#EXTINF:-1 group-title="45 VK COSTA RICA 28-02" ,RCN HD
+http://161.132.101.134:8000/play/a03r/index.m3u8
+#EXTINF:-1 group-title="45 VK COSTA RICA 28-02" ,STAR CHANNEL HD
+http://161.132.101.134:8000/play/a07v/index.m3u8
+#EXTINF:-1 group-title="45 VK COSTA RICA 28-02" ,STAR CHANNEL HD
+http://161.132.101.134:8000/play/a03h/index.m3u8
+#EXTINF:-1 group-title="45 VK COSTA RICA 28-02" ,Sony HD
+http://161.132.101.134:8000/play/a02l/index.m3u8
+#EXTINF:-1 group-title="45 VK COSTA RICA 28-02" ,Sony Movies HD
+http://161.132.101.134:8000/play/a08n/index.m3u8
+#EXTINF:-1 group-title="45 VK COSTA RICA 28-02" ,Space HD
+http://161.132.101.134:8000/play/a02o/index.m3u8
+#EXTINF:-1 group-title="45 VK COSTA RICA 28-02" ,Star TVE HD
+http://161.132.101.134:8000/play/a08o/index.m3u8
+#EXTINF:-1 group-title="45 VK COSTA RICA 28-02" ,Studio Universal HD
+http://161.132.101.134:8000/play/a042/index.m3u8
+#EXTINF:-1 group-title="45 VK COSTA RICA 28-02" ,TBS Very Funny HD
+http://161.132.101.134:8000/play/a084/index.m3u8
+#EXTINF:-1 group-title="45 VK COSTA RICA 28-02" ,TNT HD
+http://161.132.101.134:8000/play/a030/index.m3u8
+#EXTINF:-1 group-title="45 VK COSTA RICA 28-02" ,TNT SPORTS HD
+http://161.132.101.134:8000/play/a02p/index.m3u8
+#EXTINF:-1 group-title="45 VK COSTA RICA 28-02" ,TNT Series HD
+http://161.132.101.134:8000/play/a03o/index.m3u8
+#EXTINF:-1 group-title="45 VK COSTA RICA 28-02" ,TRUTV HD
+http://161.132.101.134:8000/play/a03a/index.m3u8
+#EXTINF:-1 group-title="45 VK COSTA RICA 28-02" ,Teen Nick HD
+http://161.132.101.134:8000/play/a08i/index.m3u8
+#EXTINF:-1 group-title="45 VK COSTA RICA 28-02" ,Telehit HD
+http://161.132.101.134:8000/play/a049/index.m3u8
+#EXTINF:-1 group-title="45 VK COSTA RICA 28-02" ,Telemundo HD
+http://161.132.101.134:8000/play/a08l/index.m3u8
+#EXTINF:-1 group-title="45 VK COSTA RICA 28-02" ,Tigo Sports HD
+http://161.132.101.134:8000/play/a088/index.m3u8
+#EXTINF:-1 group-title="45 VK COSTA RICA 28-02" ,TyC Sports HD
+http://161.132.101.134:8000/play/a04i/index.m3u8
+#EXTINF:-1 group-title="45 VK COSTA RICA 28-02" ,UNIVERSAL CHANNEL HD
+http://161.132.101.134:8000/play/a03i/index.m3u8
+#EXTINF:-1 group-title="45 VK COSTA RICA 28-02" ,UNIVERSAL COMEDY HD
+http://161.132.101.134:8000/play/a08g/index.m3u8
+#EXTINF:-1 group-title="45 VK COSTA RICA 28-02" ,UNIVERSAL CRIME HD
+http://161.132.101.134:8000/play/a08f/index.m3u8
+#EXTINF:-1 group-title="45 VK COSTA RICA 28-02" ,UNIVERSAL PREMIERE HD
+http://161.132.101.134:8000/play/a08c/index.m3u8
+#EXTINF:-1 group-title="45 VK COSTA RICA 28-02" ,UNIVERSAL PREMIERE O HD
+http://161.132.101.134:8000/play/a08d/index.m3u8
+#EXTINF:-1 group-title="45 VK COSTA RICA 28-02" ,UNIVERSAL REALITY HD
+http://161.132.101.134:8000/play/a08e/index.m3u8
+#EXTINF:-1 group-title="45 VK COSTA RICA 28-02" ,Warner Channel HD
+http://161.132.101.134:8000/play/a02m/index.m3u8
 #EXTINF:-1 group-title="45 VK EXURSS 01 28-02" ,0ri -Fight box HD
 http://2.57.217.197:8080/play/a03w/index.m3u8
 #EXTINF:-1 group-title="45 VK EXURSS 01 28-02" ,0ri -МИР HD
@@ -16783,6 +18229,174 @@ http://2.57.217.197:8080/play/a04v/index.m3u8
 http://2.57.217.197:8080/play/a042/index.m3u8
 #EXTINF:-1 group-title="45 VK EXURSS 01 28-02" ,wowza imedi satesto (clone)
 http://2.57.217.197:8080/play/a07h/index.m3u8
+#EXTINF:-1 group-title="45 VK FRANCIA 28-02" ,1. TF1
+http://livetv.ktv.zone/3/play.m3u8
+#EXTINF:-1 group-title="45 VK FRANCIA 28-02" ,2. France 2
+http://livetv.ktv.zone/4/play.m3u8
+#EXTINF:-1 group-title="45 VK FRANCIA 28-02" ,3. France 3
+http://livetv.ktv.zone/5/play.m3u8
+#EXTINF:-1 group-title="45 VK FRANCIA 28-02" ,4. Canal+
+http://livetv.ktv.zone/6/play.m3u8
+#EXTINF:-1 group-title="45 VK FRANCIA 28-02" ,5. France 5
+http://livetv.ktv.zone/7/play.m3u8
+#EXTINF:-1 group-title="45 VK FRANCIA 28-02" ,6. M6
+http://livetv.ktv.zone/8/play.m3u8
+#EXTINF:-1 group-title="45 VK FRANCIA 28-02" ,7. Arte
+http://livetv.ktv.zone/9/play.m3u8
+#EXTINF:-1 group-title="45 VK FRANCIA 28-02" ,8. C8
+http://livetv.ktv.zone/10/play.m3u8
+#EXTINF:-1 group-title="45 VK FRANCIA 28-02" ,9. W9
+http://livetv.ktv.zone/11/play.m3u8
+#EXTINF:-1 group-title="45 VK FRANCIA 28-02" ,10. TMC
+http://livetv.ktv.zone/12/play.m3u8
+#EXTINF:-1 group-title="45 VK FRANCIA 28-02" ,11. TFX
+http://livetv.ktv.zone/13/play.m3u8
+#EXTINF:-1 group-title="45 VK FRANCIA 28-02" ,12. NRJ 12
+http://livetv.ktv.zone/14/play.m3u8
+#EXTINF:-1 group-title="45 VK FRANCIA 28-02" ,13. LCP
+http://livetv.ktv.zone/15/play.m3u8
+#EXTINF:-1 group-title="45 VK FRANCIA 28-02" ,14. France 4
+http://livetv.ktv.zone/16/play.m3u8
+#EXTINF:-1 group-title="45 VK FRANCIA 28-02" ,15. BFM TV
+http://livetv.ktv.zone/17/play.m3u8
+#EXTINF:-1 group-title="45 VK FRANCIA 28-02" ,16. CNews
+http://livetv.ktv.zone/18/play.m3u8
+#EXTINF:-1 group-title="45 VK FRANCIA 28-02" ,17. CStar
+http://livetv.ktv.zone/19/play.m3u8
+#EXTINF:-1 group-title="45 VK FRANCIA 28-02" ,18. Gulli
+http://livetv.ktv.zone/20/play.m3u8
+#EXTINF:-1 group-title="45 VK FRANCIA 28-02" ,20. TF1 Séries Films
+http://livetv.ktv.zone/22/play.m3u8
+#EXTINF:-1 group-title="45 VK FRANCIA 28-02" ,21. L'Equipe 21
+http://livetv.ktv.zone/23/play.m3u8
+#EXTINF:-1 group-title="45 VK FRANCIA 28-02" ,22. 6ter
+http://livetv.ktv.zone/24/play.m3u8
+#EXTINF:-1 group-title="45 VK FRANCIA 28-02" ,23. RMC Story
+http://livetv.ktv.zone/25/play.m3u8
+#EXTINF:-1 group-title="45 VK FRANCIA 28-02" ,24. RMC Découverte
+http://livetv.ktv.zone/26/play.m3u8
+#EXTINF:-1 group-title="45 VK FRANCIA 28-02" ,25. Chérie 25
+http://livetv.ktv.zone/27/play.m3u8
+#EXTINF:-1 group-title="45 VK FRANCIA 28-02" ,26. LCI
+http://livetv.ktv.zone/28/play.m3u8
+#EXTINF:-1 group-title="45 VK FRANCIA 28-02" ,27. Franceinfo
+http://livetv.ktv.zone/29/play.m3u8
+#EXTINF:-1 group-title="45 VK FRANCIA 28-02" ,28. Melody TV
+http://livetv.ktv.zone/30/play.m3u8
+#EXTINF:-1 group-title="45 VK FRANCIA 28-02" ,30. France 3 Alpes
+http://livetv.ktv.zone/32/play.m3u8
+#EXTINF:-1 group-title="45 VK FRANCIA 28-02" ,50. CGTN Français
+http://livetv.ktv.zone/52/play.m3u8
+#EXTINF:-1 group-title="45 VK FRANCIA 28-02" ,51. Arirang World
+http://livetv.ktv.zone/53/play.m3u8
+#EXTINF:-1 group-title="45 VK FRANCIA 28-02" ,54. France 24
+http://livetv.ktv.zone/56/play.m3u8
+#EXTINF:-1 group-title="45 VK FRANCIA 28-02" ,55. France 24 (EN)
+http://livetv.ktv.zone/57/play.m3u8
+#EXTINF:-1 group-title="45 VK FRANCIA 28-02" ,57. CNN HD
+http://livetv.ktv.zone/59/play.m3u8
+#EXTINF:-1 group-title="45 VK FRANCIA 28-02" ,58. BBC World
+http://livetv.ktv.zone/60/play.m3u8
+#EXTINF:-1 group-title="45 VK FRANCIA 28-02" ,59. TV5 Monde Europe
+http://livetv.ktv.zone/61/play.m3u8
+#EXTINF:-1 group-title="45 VK FRANCIA 28-02" ,61. Bloomberg
+http://livetv.ktv.zone/63/play.m3u8
+#EXTINF:-1 group-title="45 VK FRANCIA 28-02" ,62. Euronews FR
+http://livetv.ktv.zone/73/play.m3u8
+#EXTINF:-1 group-title="45 VK FRANCIA 28-02" ,63. Eurosport (GER)
+http://livetv.ktv.zone/65/play.m3u8
+#EXTINF:-1 group-title="45 VK FRANCIA 28-02" ,65. RTL II (AU)
+http://livetv.ktv.zone/67/play.m3u8
+#EXTINF:-1 group-title="45 VK FRANCIA 28-02" ,66. KIKA
+http://livetv.ktv.zone/68/play.m3u8
+#EXTINF:-1 group-title="45 VK FRANCIA 28-02" ,67. 3 SAT
+http://livetv.ktv.zone/69/play.m3u8
+#EXTINF:-1 group-title="45 VK FRANCIA 28-02" ,78. Telesur
+http://livetv.ktv.zone/80/play.m3u8
+#EXTINF:-1 group-title="45 VK FRANCIA 28-02" ,89. VOX (GER)
+http://livetv.ktv.zone/91/play.m3u8
+#EXTINF:-1 group-title="45 VK FRANCIA 28-02" ,101. TF1 avec sous-titres
+http://livetv.ktv.zone/103/play.m3u8
+#EXTINF:-1 group-title="45 VK FRANCIA 28-02" ,102. France 2 avec sous-titres
+http://livetv.ktv.zone/104/play.m3u8
+#EXTINF:-1 group-title="45 VK FRANCIA 28-02" ,103. France 3 avec sous-titres
+http://livetv.ktv.zone/105/play.m3u8
+#EXTINF:-1 group-title="45 VK FRANCIA 28-02" ,105. France 5 avec sous-titres
+http://livetv.ktv.zone/107/play.m3u8
+#EXTINF:-1 group-title="45 VK FRANCIA 28-02" ,106. M6 avec sous-titres
+http://livetv.ktv.zone/108/play.m3u8
+#EXTINF:-1 group-title="45 VK FRANCIA 28-02" ,107. Arte avec sous-titres
+http://livetv.ktv.zone/109/play.m3u8
+#EXTINF:-1 group-title="45 VK FRANCIA 28-02" ,108. C8 avec sous-titres
+http://livetv.ktv.zone/110/play.m3u8
+#EXTINF:-1 group-title="45 VK FRANCIA 28-02" ,109. W9 avec sous-titres
+http://livetv.ktv.zone/111/play.m3u8
+#EXTINF:-1 group-title="45 VK FRANCIA 28-02" ,110. TMC avec sous-titres
+http://livetv.ktv.zone/112/play.m3u8
+#EXTINF:-1 group-title="45 VK FRANCIA 28-02" ,111. TFX avec sous-titres
+http://livetv.ktv.zone/113/play.m3u8
+#EXTINF:-1 group-title="45 VK FRANCIA 28-02" ,112. NRJ 12 avec sous-titres
+http://livetv.ktv.zone/114/play.m3u8
+#EXTINF:-1 group-title="45 VK FRANCIA 28-02" ,113. LCP avec sous-titres
+http://livetv.ktv.zone/115/play.m3u8
+#EXTINF:-1 group-title="45 VK FRANCIA 28-02" ,114. France 4 avec sous-titres
+http://livetv.ktv.zone/116/play.m3u8
+#EXTINF:-1 group-title="45 VK FRANCIA 28-02" ,115. BFM TV avec sous-titres
+http://livetv.ktv.zone/117/play.m3u8
+#EXTINF:-1 group-title="45 VK FRANCIA 28-02" ,116. CNews avec sous-titres
+http://livetv.ktv.zone/118/play.m3u8
+#EXTINF:-1 group-title="45 VK FRANCIA 28-02" ,117. CStar avec sous-titres
+http://livetv.ktv.zone/119/play.m3u8
+#EXTINF:-1 group-title="45 VK FRANCIA 28-02" ,118. Gulli avec sous-titres
+http://livetv.ktv.zone/120/play.m3u8
+#EXTINF:-1 group-title="45 VK FRANCIA 28-02" ,119. France O avec sous-titres
+http://livetv.ktv.zone/121/play.m3u8
+#EXTINF:-1 group-title="45 VK FRANCIA 28-02" ,120. TF1 Séries Films avec sous-titres
+http://livetv.ktv.zone/122/play.m3u8
+#EXTINF:-1 group-title="45 VK FRANCIA 28-02" ,128. Rai 1
+http://livetv.ktv.zone/130/play.m3u8
+#EXTINF:-1 group-title="45 VK FRANCIA 28-02" ,129. Rai 2
+http://livetv.ktv.zone/131/play.m3u8
+#EXTINF:-1 group-title="45 VK FRANCIA 28-02" ,130. Rai 3
+http://livetv.ktv.zone/132/play.m3u8
+#EXTINF:-1 group-title="45 VK FRANCIA 28-02" ,131. Rai News
+http://livetv.ktv.zone/133/play.m3u8
+#EXTINF:-1 group-title="45 VK FRANCIA 28-02" ,210. France 3
+http://livetv.ktv.zone/209/play.m3u8
+#EXTINF:-1 group-title="45 VK FRANCIA 28-02" ,211. France 3 Alpes
+http://livetv.ktv.zone/210/play.m3u8
+#EXTINF:-1 group-title="45 VK FRANCIA 28-02" ,212. France 3 Alsace
+http://livetv.ktv.zone/211/play.m3u8
+#EXTINF:-1 group-title="45 VK FRANCIA 28-02" ,213. France 3 Aquitaine
+http://livetv.ktv.zone/212/play.m3u8
+#EXTINF:-1 group-title="45 VK FRANCIA 28-02" ,214. France 3 Auvergne
+http://livetv.ktv.zone/213/play.m3u8
+#EXTINF:-1 group-title="45 VK FRANCIA 28-02" ,217. France 3 Bretagne
+http://livetv.ktv.zone/216/play.m3u8
+#EXTINF:-1 group-title="45 VK FRANCIA 28-02" ,219. France 3 Champagne-Ardenne
+http://livetv.ktv.zone/218/play.m3u8
+#EXTINF:-1 group-title="45 VK FRANCIA 28-02" ,221. France 3 Côte Azur
+http://livetv.ktv.zone/220/play.m3u8
+#EXTINF:-1 group-title="45 VK FRANCIA 28-02" ,224. France 3 Languedoc
+http://livetv.ktv.zone/223/play.m3u8
+#EXTINF:-1 group-title="45 VK FRANCIA 28-02" ,225. France 3 Limousin
+http://livetv.ktv.zone/224/play.m3u8
+#EXTINF:-1 group-title="45 VK FRANCIA 28-02" ,226. France 3 Lorraine
+http://livetv.ktv.zone/225/play.m3u8
+#EXTINF:-1 group-title="45 VK FRANCIA 28-02" ,227. France 3 Midi-Pyrénées
+http://livetv.ktv.zone/226/play.m3u8
+#EXTINF:-1 group-title="45 VK FRANCIA 28-02" ,228. France 3 Nord Pas-de-Calais
+http://livetv.ktv.zone/227/play.m3u8
+#EXTINF:-1 group-title="45 VK FRANCIA 28-02" ,231. France 3 Picardie
+http://livetv.ktv.zone/230/play.m3u8
+#EXTINF:-1 group-title="45 VK FRANCIA 28-02" ,232. France 3 Poitou-Charentes
+http://livetv.ktv.zone/231/play.m3u8
+#EXTINF:-1 group-title="45 VK FRANCIA 28-02" ,233. France 3 Provence-Alpes
+http://livetv.ktv.zone/232/play.m3u8
+#EXTINF:-1 group-title="45 VK FRANCIA 28-02" ,234. France 3 Rhône-Alpes
+http://livetv.ktv.zone/233/play.m3u8
+#EXTINF:-1 group-title="45 VK FRANCIA 28-02" ,740. Eurodance 90
+https://stream-eurodance90.fr/radio/8000/128.mp3
 #EXTINF:-1 group-title="45 VK GENERICOS CABLE" ,1002 AXN HD
 http://181.78.1.217:8146/play/a047/index.m3u8
 #EXTINF:-1 group-title="45 VK GENERICOS CABLE" ,1005 History Channel HD
@@ -17255,6 +18869,162 @@ http://103.167.167.5:8111/play/a017/index.m3u8
 http://103.167.167.5:8111/play/a01a/index.m3u8
 #EXTINF:-1 group-title="45 VK INDONESIA" ,ZHEJIANG (176.16.201.4)
 http://103.167.167.5:8111/play/a01n/index.m3u8
+#EXTINF:-1 group-title="45 VK LATINAS SURTIDAS 28-02" ,AXN
+http://201.139.174.68:8001/play/a008/index.m3u8
+#EXTINF:-1 group-title="45 VK LATINAS SURTIDAS 28-02" ,C9N
+http://201.139.174.68:8001/play/a012/index.m3u8
+#EXTINF:-1 group-title="45 VK LATINAS SURTIDAS 28-02" ,Cinemax
+http://201.139.174.68:8001/play/a006/index.m3u8
+#EXTINF:-1 group-title="45 VK LATINAS SURTIDAS 28-02" ,Claro Cinema
+http://201.139.174.68:8001/play/a00h/index.m3u8
+#EXTINF:-1 group-title="45 VK LATINAS SURTIDAS 28-02" ,Discovery Turbo
+http://201.139.174.68:8001/play/a00j/index.m3u8
+#EXTINF:-1 group-title="45 VK LATINAS SURTIDAS 28-02" ,ESPN 3
+http://201.139.174.68:8001/play/a00l/index.m3u8
+#EXTINF:-1 group-title="45 VK LATINAS SURTIDAS 28-02" ,ESPN CO
+http://201.139.174.68:8001/play/a013/index.m3u8
+#EXTINF:-1 group-title="45 VK LATINAS SURTIDAS 28-02" ,Esne TV
+http://201.139.174.68:8001/play/a00k/index.m3u8
+#EXTINF:-1 group-title="45 VK LATINAS SURTIDAS 28-02" ,FX
+http://201.139.174.68:8001/play/a00a/index.m3u8
+#EXTINF:-1 group-title="45 VK LATINAS SURTIDAS 28-02" ,HBO
+http://201.139.174.68:8001/play/a005/index.m3u8
+#EXTINF:-1 group-title="45 VK LATINAS SURTIDAS 28-02" ,La Tele
+http://201.139.174.68:8001/play/a00n/index.m3u8
+#EXTINF:-1 group-title="45 VK LATINAS SURTIDAS 28-02" ,NPY
+http://201.139.174.68:8001/play/a014/index.m3u8
+#EXTINF:-1 group-title="45 VK LATINAS SURTIDAS 28-02" ,Nick Jr
+http://201.139.174.68:8001/play/a00i/index.m3u8
+#EXTINF:-1 group-title="45 VK LATINAS SURTIDAS 28-02" ,PARAVISION
+http://201.139.174.68:8001/play/a011/index.m3u8
+#EXTINF:-1 group-title="45 VK LATINAS SURTIDAS 28-02" ,SURTV
+http://201.139.174.68:8001/play/a015/index.m3u8
+#EXTINF:-1 group-title="45 VK LATINAS SURTIDAS 28-02" ,Sony
+http://201.139.174.68:8001/play/a007/index.m3u8
+#EXTINF:-1 group-title="45 VK LATINAS SURTIDAS 28-02" ,Space
+http://201.139.174.68:8001/play/a009/index.m3u8
+#EXTINF:-1 group-title="45 VK LATINAS SURTIDAS 28-02" ,TV CAMARA
+http://201.139.174.68:8001/play/a00q/index.m3u8
+#EXTINF:-1 group-title="45 VK LATINAS SURTIDAS 28-02" ,Telefe
+http://201.139.174.68:8001/play/a00f/index.m3u8
+#EXTINF:-1 group-title="45 VK LATINAS SURTIDAS 28-02" ,Unicanal
+http://201.139.174.68:8001/play/a00g/index.m3u8
+#EXTINF:-1 group-title="45 VK LATINAS SURTIDAS 28-02" ,AE Mundo
+http://201.139.174.68:8000/play/a02e/index.m3u8
+#EXTINF:-1 group-title="45 VK LATINAS SURTIDAS 28-02" ,America TV PY
+http://201.139.174.68:8000/play/a01d/index.m3u8
+#EXTINF:-1 group-title="45 VK LATINAS SURTIDAS 28-02" ,Animal Planet
+http://201.139.174.68:8000/play/a025/index.m3u8
+#EXTINF:-1 group-title="45 VK LATINAS SURTIDAS 28-02" ,BabyFirst
+http://201.139.174.68:8000/play/a035/index.m3u8
+#EXTINF:-1 group-title="45 VK LATINAS SURTIDAS 28-02" ,CNN Chile
+http://201.139.174.68:8000/play/a02v/index.m3u8
+#EXTINF:-1 group-title="45 VK LATINAS SURTIDAS 28-02" ,CNN Espanol
+http://201.139.174.68:8000/play/a01j/index.m3u8
+#EXTINF:-1 group-title="45 VK LATINAS SURTIDAS 28-02" ,Canal Estrellas
+http://201.139.174.68:8000/play/a02j/index.m3u8
+#EXTINF:-1 group-title="45 VK LATINAS SURTIDAS 28-02" ,Cartoon Network
+http://201.139.174.68:8000/play/a02y/index.m3u8
+#EXTINF:-1 group-title="45 VK LATINAS SURTIDAS 28-02" ,Cinecanal
+http://201.139.174.68:8000/play/a02q/index.m3u8
+#EXTINF:-1 group-title="45 VK LATINAS SURTIDAS 28-02" ,Claro Sports
+http://201.139.174.68:8000/play/a030/index.m3u8
+#EXTINF:-1 group-title="45 VK LATINAS SURTIDAS 28-02" ,Discovery Channel
+http://201.139.174.68:8000/play/a024/index.m3u8
+#EXTINF:-1 group-title="45 VK LATINAS SURTIDAS 28-02" ,Discovery ID
+http://201.139.174.68:8000/play/a010/index.m3u8
+#EXTINF:-1 group-title="45 VK LATINAS SURTIDAS 28-02" ,Discovery Kids
+http://201.139.174.68:8000/play/a01i/index.m3u8
+#EXTINF:-1 group-title="45 VK LATINAS SURTIDAS 28-02" ,Disney Channel
+http://201.139.174.68:8000/play/a023/index.m3u8
+#EXTINF:-1 group-title="45 VK LATINAS SURTIDAS 28-02" ,Disney Jr
+http://201.139.174.68:8000/play/a01v/index.m3u8
+#EXTINF:-1 group-title="45 VK LATINAS SURTIDAS 28-02" ,E Entertainment
+http://201.139.174.68:8000/play/a027/index.m3u8
+#EXTINF:-1 group-title="45 VK LATINAS SURTIDAS 28-02" ,ESPN
+http://201.139.174.68:8000/play/a02a/index.m3u8
+#EXTINF:-1 group-title="45 VK LATINAS SURTIDAS 28-02" ,ESPN 2
+http://201.139.174.68:8000/play/a01y/index.m3u8
+#EXTINF:-1 group-title="45 VK LATINAS SURTIDAS 28-02" ,ESPN 2 Latin
+http://201.139.174.68:8000/play/a029/index.m3u8
+#EXTINF:-1 group-title="45 VK LATINAS SURTIDAS 28-02" ,ESPN 4
+http://201.139.174.68:8000/play/a019/index.m3u8
+#EXTINF:-1 group-title="45 VK LATINAS SURTIDAS 28-02" ,Enlace
+http://201.139.174.68:8000/play/a033/index.m3u8
+#EXTINF:-1 group-title="45 VK LATINAS SURTIDAS 28-02" ,Fox Sports 2
+http://201.139.174.68:8000/play/a02k/index.m3u8
+#EXTINF:-1 group-title="45 VK LATINAS SURTIDAS 28-02" ,Fox Sports 3
+http://201.139.174.68:8000/play/a02l/index.m3u8
+#EXTINF:-1 group-title="45 VK LATINAS SURTIDAS 28-02" ,France 24
+http://201.139.174.68:8000/play/a011/index.m3u8
+#EXTINF:-1 group-title="45 VK LATINAS SURTIDAS 28-02" ,GOL TV
+http://201.139.174.68:8000/play/a02b/index.m3u8
+#EXTINF:-1 group-title="45 VK LATINAS SURTIDAS 28-02" ,HBO 2
+http://201.139.174.68:8000/play/a01r/index.m3u8
+#EXTINF:-1 group-title="45 VK LATINAS SURTIDAS 28-02" ,HBO Family
+http://201.139.174.68:8000/play/a01u/index.m3u8
+#EXTINF:-1 group-title="45 VK LATINAS SURTIDAS 28-02" ,HBO Plus
+http://201.139.174.68:8000/play/a01s/index.m3u8
+#EXTINF:-1 group-title="45 VK LATINAS SURTIDAS 28-02" ,HBO XTREME SD
+http://201.139.174.68:8000/play/a01t/index.m3u8
+#EXTINF:-1 group-title="45 VK LATINAS SURTIDAS 28-02" ,History Channel
+http://201.139.174.68:8000/play/a02p/index.m3u8
+#EXTINF:-1 group-title="45 VK LATINAS SURTIDAS 28-02" ,HomeandHealth
+http://201.139.174.68:8000/play/a014/index.m3u8
+#EXTINF:-1 group-title="45 VK LATINAS SURTIDAS 28-02" ,I-Sat
+http://201.139.174.68:8000/play/a02s/index.m3u8
+#EXTINF:-1 group-title="45 VK LATINAS SURTIDAS 28-02" ,Lifetime
+http://201.139.174.68:8000/play/a036/index.m3u8
+#EXTINF:-1 group-title="45 VK LATINAS SURTIDAS 28-02" ,MTV
+http://201.139.174.68:8000/play/a02t/index.m3u8
+#EXTINF:-1 group-title="45 VK LATINAS SURTIDAS 28-02" ,Nat Geo
+http://201.139.174.68:8000/play/a02o/index.m3u8
+#EXTINF:-1 group-title="45 VK LATINAS SURTIDAS 28-02" ,Nickelodeon
+http://201.139.174.68:8000/play/a02n/index.m3u8
+#EXTINF:-1 group-title="45 VK LATINAS SURTIDAS 28-02" ,ParaguayTV
+http://201.139.174.68:8000/play/a01g/index.m3u8
+#EXTINF:-1 group-title="45 VK LATINAS SURTIDAS 28-02" ,RCN Novelas
+http://201.139.174.68:8000/play/a00z/index.m3u8
+#EXTINF:-1 group-title="45 VK LATINAS SURTIDAS 28-02" ,SNT
+http://201.139.174.68:8000/play/a031/index.m3u8
+#EXTINF:-1 group-title="45 VK LATINAS SURTIDAS 28-02" ,STAR CHANNEL
+http://201.139.174.68:8000/play/a02w/index.m3u8
+#EXTINF:-1 group-title="45 VK LATINAS SURTIDAS 28-02" ,Sin Limites
+http://201.139.174.68:8000/play/a01c/index.m3u8
+#EXTINF:-1 group-title="45 VK LATINAS SURTIDAS 28-02" ,Studio Universal
+http://201.139.174.68:8000/play/a01x/index.m3u8
+#EXTINF:-1 group-title="45 VK LATINAS SURTIDAS 28-02" ,SyFy
+http://201.139.174.68:8000/play/a037/index.m3u8
+#EXTINF:-1 group-title="45 VK LATINAS SURTIDAS 28-02" ,TBS
+http://201.139.174.68:8000/play/a012/index.m3u8
+#EXTINF:-1 group-title="45 VK LATINAS SURTIDAS 28-02" ,TCM
+http://201.139.174.68:8000/play/a02x/index.m3u8
+#EXTINF:-1 group-title="45 VK LATINAS SURTIDAS 28-02" ,TLC
+http://201.139.174.68:8000/play/a02h/index.m3u8
+#EXTINF:-1 group-title="45 VK LATINAS SURTIDAS 28-02" ,TNT
+http://201.139.174.68:8000/play/a02z/index.m3u8
+#EXTINF:-1 group-title="45 VK LATINAS SURTIDAS 28-02" ,TVE
+http://201.139.174.68:8000/play/a034/index.m3u8
+#EXTINF:-1 group-title="45 VK LATINAS SURTIDAS 28-02" ,Telefuturo
+http://201.139.174.68:8000/play/a032/index.m3u8
+#EXTINF:-1 group-title="45 VK LATINAS SURTIDAS 28-02" ,Telemundo
+http://201.139.174.68:8000/play/a02m/index.m3u8
+#EXTINF:-1 group-title="45 VK LATINAS SURTIDAS 28-02" ,Trece
+http://201.139.174.68:8000/play/a01b/index.m3u8
+#EXTINF:-1 group-title="45 VK LATINAS SURTIDAS 28-02" ,TyC
+http://201.139.174.68:8000/play/a02c/index.m3u8
+#EXTINF:-1 group-title="45 VK LATINAS SURTIDAS 28-02" ,Universal
+http://201.139.174.68:8000/play/a02r/index.m3u8
+#EXTINF:-1 group-title="45 VK LATINAS SURTIDAS 28-02" ,Universal Comedy SD
+http://201.139.174.68:8000/play/a021/index.m3u8
+#EXTINF:-1 group-title="45 VK LATINAS SURTIDAS 28-02" ,Universal Premiere SD
+http://201.139.174.68:8000/play/a01z/index.m3u8
+#EXTINF:-1 group-title="45 VK LATINAS SURTIDAS 28-02" ,ViaX
+http://201.139.174.68:8000/play/a02i/index.m3u8
+#EXTINF:-1 group-title="45 VK LATINAS SURTIDAS 28-02" ,Warner
+http://201.139.174.68:8000/play/a026/index.m3u8
+#EXTINF:-1 group-title="45 VK LATINAS SURTIDAS 28-02" ,Zona Latina
+http://201.139.174.68:8000/play/a02u/index.m3u8
 #EXTINF:-1 group-title="45 VK LATINOS 01 27-02" ,3ABN
 http://45.190.13.50:8000/play/a007/index.m3u8
 #EXTINF:-1 group-title="45 VK LATINOS 01 27-02" ,Animal Planet HD
@@ -18015,6 +19785,216 @@ http://170.79.235.29:8000/play/233
 http://170.79.235.29:8000/play/234
 #EXTINF:-1 group-title="45 VK MEXICO Y DEPORTES" ,235 TNT SPORTS 3
 http://170.79.235.29:8000/play/235
+#EXTINF:-1 group-title="45 VK PAKISTAN E INDIA" ,&PRIVE HD-Rs 19
+http://180.178.188.152:8000/play/a01d
+#EXTINF:-1 group-title="45 VK PAKISTAN E INDIA" ,&flix HD-Rs19
+http://180.178.188.152:8000/play/a00p
+#EXTINF:-1 group-title="45 VK PAKISTAN E INDIA" ,&pictures HD -Rs19
+http://180.178.188.152:8000/play/a017
+#EXTINF:-1 group-title="45 VK PAKISTAN E INDIA" ,&prive HD-Rs 19
+http://180.178.188.152:8000/play/a09y
+#EXTINF:-1 group-title="45 VK PAKISTAN E INDIA" ,&tv HD - Rs 19
+http://180.178.188.152:8000/play/a01u
+#EXTINF:-1 group-title="45 VK PAKISTAN E INDIA" ,1SPORTS - Rs 4
+http://180.178.188.152:8000/play/a064
+#EXTINF:-1 group-title="45 VK PAKISTAN E INDIA" ,24 News HD
+http://180.178.188.152:8000/play/a06o
+#EXTINF:-1 group-title="45 VK PAKISTAN E INDIA" ,A NEWS
+http://180.178.188.152:8000/play/a066
+#EXTINF:-1 group-title="45 VK PAKISTAN E INDIA" ,A SportsHD
+http://180.178.188.152:8000/play/a0ad
+#EXTINF:-1 group-title="45 VK PAKISTAN E INDIA" ,ANIMAL PLAN HD-Rs3
+http://180.178.188.152:8000/play/a011
+#EXTINF:-1 group-title="45 VK PAKISTAN E INDIA" ,ARYDigitalAsia HD
+http://180.178.188.152:8000/play/a097
+#EXTINF:-1 group-title="45 VK PAKISTAN E INDIA" ,ARYMusik
+http://180.178.188.152:8000/play/a09b
+#EXTINF:-1 group-title="45 VK PAKISTAN E INDIA" ,ARYNewsAsia
+http://180.178.188.152:8000/play/a09e
+#EXTINF:-1 group-title="45 VK PAKISTAN E INDIA" ,ARYQTV
+http://180.178.188.152:8000/play/a09a
+#EXTINF:-1 group-title="45 VK PAKISTAN E INDIA" ,ARYZindagi
+http://180.178.188.152:8000/play/a094
+#EXTINF:-1 group-title="45 VK PAKISTAN E INDIA" ,B4U Hitz
+http://180.178.188.152:8000/play/a09g
+#EXTINF:-1 group-title="45 VK PAKISTAN E INDIA" ,B4U_MOVIES_INDIA
+http://180.178.188.152:8000/play/a09i
+#EXTINF:-1 group-title="45 VK PAKISTAN E INDIA" ,B4U_MUSIC_INDIA
+http://180.178.188.152:8000/play/a09j
+#EXTINF:-1 group-title="45 VK PAKISTAN E INDIA" ,BOL NEWS HD
+http://180.178.188.152:8000/play/a08e
+#EXTINF:-1 group-title="45 VK PAKISTAN E INDIA" ,Bethat TV
+http://180.178.188.152:8000/play/a06h
+#EXTINF:-1 group-title="45 VK PAKISTAN E INDIA" ,Bolo News
+http://180.178.188.152:8000/play/a06k
+#EXTINF:-1 group-title="45 VK PAKISTAN E INDIA" ,CHANNEL 4 NEWS
+http://180.178.188.152:8000/play/a06f
+#EXTINF:-1 group-title="45 VK PAKISTAN E INDIA" ,CITY-21
+http://180.178.188.152:8000/play/a06t
+#EXTINF:-1 group-title="45 VK PAKISTAN E INDIA" ,CITY-41
+http://180.178.188.152:8000/play/a06q
+#EXTINF:-1 group-title="45 VK PAKISTAN E INDIA" ,CITY-42 HD
+http://180.178.188.152:8000/play/a06p
+#EXTINF:-1 group-title="45 VK PAKISTAN E INDIA" ,Colors Ciniplex-Rs 19
+http://180.178.188.152:8000/play/a00n
+#EXTINF:-1 group-title="45 VK PAKISTAN E INDIA" ,Colors HD-Rs 19
+http://180.178.188.152:8000/play/a00o
+#EXTINF:-1 group-title="45 VK PAKISTAN E INDIA" ,DHAMAKA MOVIES
+http://180.178.188.152:8000/play/a09h
+#EXTINF:-1 group-title="45 VK PAKISTAN E INDIA" ,Discovery S-Rs1
+http://180.178.188.152:8000/play/a01k
+#EXTINF:-1 group-title="45 VK PAKISTAN E INDIA" ,Discovery T-Rs1
+http://180.178.188.152:8000/play/a01l
+#EXTINF:-1 group-title="45 VK PAKISTAN E INDIA" ,Dunya ENT
+http://180.178.188.152:8000/play/a0a6
+#EXTINF:-1 group-title="45 VK PAKISTAN E INDIA" ,Dunya News HD
+http://180.178.188.152:8000/play/a0a4
+#EXTINF:-1 group-title="45 VK PAKISTAN E INDIA" ,EXP ENTERTAINMENT
+http://180.178.188.152:8000/play/a0aa
+#EXTINF:-1 group-title="45 VK PAKISTAN E INDIA" ,EXP NEWS
+http://180.178.188.152:8000/play/a0ab
+#EXTINF:-1 group-title="45 VK PAKISTAN E INDIA" ,EuroSports HD-Rs 6
+http://180.178.188.152:8000/play/a00r
+#EXTINF:-1 group-title="45 VK PAKISTAN E INDIA" ,FOX Life HD-Rs1
+http://180.178.188.152:8000/play/a01t
+#EXTINF:-1 group-title="45 VK PAKISTAN E INDIA" ,Geo Entertainment
+http://180.178.188.152:8000/play/a08a
+#EXTINF:-1 group-title="45 VK PAKISTAN E INDIA" ,Geo News
+http://180.178.188.152:8000/play/a089
+#EXTINF:-1 group-title="45 VK PAKISTAN E INDIA" ,Geo Super HD
+http://180.178.188.152:8000/play/a08c
+#EXTINF:-1 group-title="45 VK PAKISTAN E INDIA" ,Geo Tez
+http://180.178.188.152:8000/play/a08d
+#EXTINF:-1 group-title="45 VK PAKISTAN E INDIA" ,HADI TV
+http://180.178.188.152:8000/play/a06j
+#EXTINF:-1 group-title="45 VK PAKISTAN E INDIA" ,HISTORY TV18 HD-Rs7
+http://180.178.188.152:8000/play/a013
+#EXTINF:-1 group-title="45 VK PAKISTAN E INDIA" ,HUM HD
+http://180.178.188.152:8000/play/a08m
+#EXTINF:-1 group-title="45 VK PAKISTAN E INDIA" ,HUM NEWS HD
+http://180.178.188.152:8000/play/a08i
+#EXTINF:-1 group-title="45 VK PAKISTAN E INDIA" ,HUM PASHTO-1
+http://180.178.188.152:8000/play/a08n
+#EXTINF:-1 group-title="45 VK PAKISTAN E INDIA" ,HUM SITARAY
+http://180.178.188.152:8000/play/a08k
+#EXTINF:-1 group-title="45 VK PAKISTAN E INDIA" ,Hidayat TV
+http://180.178.188.152:8000/play/a06g
+#EXTINF:-1 group-title="45 VK PAKISTAN E INDIA" ,KAABA Live
+http://180.178.188.152:8000/play/a07a
+#EXTINF:-1 group-title="45 VK PAKISTAN E INDIA" ,Lahore News
+http://180.178.188.152:8000/play/a0a8
+#EXTINF:-1 group-title="45 VK PAKISTAN E INDIA" ,MASALA TV
+http://180.178.188.152:8000/play/a08j
+#EXTINF:-1 group-title="45 VK PAKISTAN E INDIA" ,MAX HD -Rs 17
+http://180.178.188.152:8000/play/a00h
+#EXTINF:-1 group-title="45 VK PAKISTAN E INDIA" ,MH ONE - Free
+http://180.178.188.152:8000/play/a061
+#EXTINF:-1 group-title="45 VK PAKISTAN E INDIA" ,MUNTAZIR TV P
+http://180.178.188.152:8000/play/a06m
+#EXTINF:-1 group-title="45 VK PAKISTAN E INDIA" ,NAT Geo Wild HD-Rs 5
+http://180.178.188.152:8000/play/a00i
+#EXTINF:-1 group-title="45 VK PAKISTAN E INDIA" ,NOW TV
+http://180.178.188.152:8000/play/a067
+#EXTINF:-1 group-title="45 VK PAKISTAN E INDIA" ,PIX HD - Rs 15
+http://180.178.188.152:8000/play/a016
+#EXTINF:-1 group-title="45 VK PAKISTAN E INDIA" ,PTV-Home
+http://180.178.188.152:8000/play/a072
+#EXTINF:-1 group-title="45 VK PAKISTAN E INDIA" ,PTV-NEWS HD
+http://180.178.188.152:8000/play/a073
+#EXTINF:-1 group-title="45 VK PAKISTAN E INDIA" ,PTV-SPORTS-HD
+http://180.178.188.152:8000/play/a075
+#EXTINF:-1 group-title="45 VK PAKISTAN E INDIA" ,PTV-Teleschool
+http://180.178.188.152:8000/play/a074
+#EXTINF:-1 group-title="45 VK PAKISTAN E INDIA" ,PTV-World
+http://180.178.188.152:8000/play/a076
+#EXTINF:-1 group-title="45 VK PAKISTAN E INDIA" ,Paigham Pashto
+http://180.178.188.152:8000/play/a069
+#EXTINF:-1 group-title="45 VK PAKISTAN E INDIA" ,ROHI TV
+http://180.178.188.152:8000/play/a06r
+#EXTINF:-1 group-title="45 VK PAKISTAN E INDIA" ,SEHAR URDU
+http://180.178.188.152:8000/play/a06l
+#EXTINF:-1 group-title="45 VK PAKISTAN E INDIA" ,SET HD - Rs 19
+http://180.178.188.152:8000/play/a00q
+#EXTINF:-1 group-title="45 VK PAKISTAN E INDIA" ,SIX HD - Rs 19
+http://180.178.188.152:8000/play/a00f
+#EXTINF:-1 group-title="45 VK PAKISTAN E INDIA" ,SONY MAX 2 - Rs 1
+http://180.178.188.152:8000/play/a01s
+#EXTINF:-1 group-title="45 VK PAKISTAN E INDIA" ,SONY PAL -Rs 1
+http://180.178.188.152:8000/play/a036
+#EXTINF:-1 group-title="45 VK PAKISTAN E INDIA" ,SONY PIX HD - Rs 15
+http://180.178.188.152:8000/play/a09u
+#EXTINF:-1 group-title="45 VK PAKISTAN E INDIA" ,STAR BHARAT HD-Rs19
+http://180.178.188.152:8000/play/a010
+#EXTINF:-1 group-title="45 VK PAKISTAN E INDIA" ,STAR WOR P HD-Rs9
+http://180.178.188.152:8000/play/a00a
+#EXTINF:-1 group-title="45 VK PAKISTAN E INDIA" ,Sony BBC EarHD-Rs10
+http://180.178.188.152:8000/play/a015
+#EXTINF:-1 group-title="45 VK PAKISTAN E INDIA" ,Sony Ten 1 HD- Rs 19
+http://180.178.188.152:8000/play/a00e
+#EXTINF:-1 group-title="45 VK PAKISTAN E INDIA" ,Sony Ten 2 HD- Rs 17
+http://180.178.188.152:8000/play/a01a
+#EXTINF:-1 group-title="45 VK PAKISTAN E INDIA" ,Sony Ten 3 HD- Rs 17
+http://180.178.188.152:8000/play/a00k
+#EXTINF:-1 group-title="45 VK PAKISTAN E INDIA" ,Sony Ten 4 - Rs 17
+http://180.178.188.152:8000/play/a055
+#EXTINF:-1 group-title="45 VK PAKISTAN E INDIA" ,Sports18 1-Rs12
+http://180.178.188.152:8000/play/a09s
+#EXTINF:-1 group-title="45 VK PAKISTAN E INDIA" ,Star GOLD HD -Rs10
+http://180.178.188.152:8000/play/a012
+#EXTINF:-1 group-title="45 VK PAKISTAN E INDIA" ,Star Gold 2- Rs 1
+http://180.178.188.152:8000/play/a01q
+#EXTINF:-1 group-title="45 VK PAKISTAN E INDIA" ,Star Gold SelHD-Rs10
+http://180.178.188.152:8000/play/a014
+#EXTINF:-1 group-title="45 VK PAKISTAN E INDIA" ,Star Plus HD -Rs19
+http://180.178.188.152:8000/play/a00m
+#EXTINF:-1 group-title="45 VK PAKISTAN E INDIA" ,Star Sports 3 Rs 4
+http://180.178.188.152:8000/play/a00l
+#EXTINF:-1 group-title="45 VK PAKISTAN E INDIA" ,Star Sports S 1 HD-Rs19
+http://180.178.188.152:8000/play/a018
+#EXTINF:-1 group-title="45 VK PAKISTAN E INDIA" ,Star Sports S 2 HD-Rs10
+http://180.178.188.152:8000/play/a019
+#EXTINF:-1 group-title="45 VK PAKISTAN E INDIA" ,Star Utsav-Rs 1
+http://180.178.188.152:8000/play/a05m
+#EXTINF:-1 group-title="45 VK PAKISTAN E INDIA" ,StarSportSL1HD-Rs19
+http://180.178.188.152:8000/play/a09v
+#EXTINF:-1 group-title="45 VK PAKISTAN E INDIA" ,StarSportSL2HD-Rs10
+http://180.178.188.152:8000/play/a09w
+#EXTINF:-1 group-title="45 VK PAKISTAN E INDIA" ,Super Hungama- Rs 4
+http://180.178.188.152:8000/play/a05p
+#EXTINF:-1 group-title="45 VK PAKISTAN E INDIA" ,ThrillerActive-Rs43
+http://180.178.188.152:8000/play/a09t
+#EXTINF:-1 group-title="45 VK PAKISTAN E INDIA" ,Total Sports
+http://180.178.188.152:8000/play/a085
+#EXTINF:-1 group-title="45 VK PAKISTAN E INDIA" ,UK-44
+http://180.178.188.152:8000/play/a06s
+#EXTINF:-1 group-title="45 VK PAKISTAN E INDIA" ,UTV ACTION-Rs 2
+http://180.178.188.152:8000/play/a01p
+#EXTINF:-1 group-title="45 VK PAKISTAN E INDIA" ,UTV MOVIES-Rs 2
+http://180.178.188.152:8000/play/a01o
+#EXTINF:-1 group-title="45 VK PAKISTAN E INDIA" ,Voice News
+http://180.178.188.152:8000/play/a06i
+#EXTINF:-1 group-title="45 VK PAKISTAN E INDIA" ,ZEE ANMOL-Rs 10p
+http://180.178.188.152:8000/play/a00s
+#EXTINF:-1 group-title="45 VK PAKISTAN E INDIA" ,ZEE BOLLYWO-Rs2
+http://180.178.188.152:8000/play/a01r
+#EXTINF:-1 group-title="45 VK PAKISTAN E INDIA" ,ZEE CINEMA HD-Rs19
+http://180.178.188.152:8000/play/a00z
+#EXTINF:-1 group-title="45 VK PAKISTAN E INDIA" ,Zee TV HD
+http://180.178.188.152:8000/play/a00b
+#EXTINF:-1 group-title="45 VK PAKISTAN E INDIA" ,bindass - Rs 1
+http://180.178.188.152:8000/play/a063
+#EXTINF:-1 group-title="45 VK PAKISTAN E INDIA" ,colors INFIN HD-Rs9
+http://180.178.188.152:8000/play/a01b
+#EXTINF:-1 group-title="45 VK PAKISTAN E INDIA" ,colors rishtey -Rs 1
+http://180.178.188.152:8000/play/a03i
+#EXTINF:-1 group-title="45 VK PAKISTAN E INDIA" ,hungama tv-Rs 6
+http://180.178.188.152:8000/play/a01x
+#EXTINF:-1 group-title="45 VK PAKISTAN E INDIA" ,iFilm English
+http://180.178.188.152:8000/play/a06n
+#EXTINF:-1 group-title="45 VK PAKISTAN E INDIA" ,nick HD+- Rs 10
+http://180.178.188.152:8000/play/a01c
+#EXTINF:-1 group-title="45 VK PAKISTAN E INDIA" ,nick HD+- Rs 10
+http://180.178.188.152:8000/play/a09x
 #EXTINF:-1 group-title="45 VK PARAGUAY COLOMBIA CADENA IPTV" ,AE Mundo
 http://181.78.4.10:45000/play/a01m
 #EXTINF:-1 group-title="45 VK PARAGUAY COLOMBIA CADENA IPTV" ,AXN
@@ -18515,6 +20495,424 @@ http://188.250.207.2:8800/play/a02f/index.m3u8
 http://188.250.207.2:8800/play/a00t/index.m3u8
 #EXTINF:-1 group-title="45 VK PORTUGAL 28-02" ,i24News (F)
 http://188.250.207.2:8800/play/a01l/index.m3u8
+#EXTINF:-1 group-title="45 VK TURQUIA 28-02" ,ADA TV
+http://149.62.177.140:8000/play/a02x/index.m3u8
+#EXTINF:-1 group-title="45 VK TURQUIA 28-02" ,AKILLI TV
+http://149.62.177.140:8000/play/a00y/index.m3u8
+#EXTINF:-1 group-title="45 VK TURQUIA 28-02" ,AKSU TV
+http://149.62.177.140:8000/play/a01b/index.m3u8
+#EXTINF:-1 group-title="45 VK TURQUIA 28-02" ,ALRAFIDAIN
+http://149.62.177.140:8000/play/a049/index.m3u8
+#EXTINF:-1 group-title="45 VK TURQUIA 28-02" ,ANADOLU DERNEK TV
+http://149.62.177.140:8000/play/a00w/index.m3u8
+#EXTINF:-1 group-title="45 VK TURQUIA 28-02" ,BABY TV
+http://149.62.177.140:8000/play/a02c/index.m3u8
+#EXTINF:-1 group-title="45 VK TURQUIA 28-02" ,BBC WORLD NEWS
+http://149.62.177.140:8000/play/a026/index.m3u8
+#EXTINF:-1 group-title="45 VK TURQUIA 28-02" ,BBNTURK
+http://149.62.177.140:8000/play/a044/index.m3u8
+#EXTINF:-1 group-title="45 VK TURQUIA 28-02" ,BEA
+http://149.62.177.140:8000/play/a042/index.m3u8
+#EXTINF:-1 group-title="45 VK TURQUIA 28-02" ,BEYAZ TV HD
+http://149.62.177.140:8000/play/a00h/index.m3u8
+#EXTINF:-1 group-title="45 VK TURQUIA 28-02" ,BIR TV
+http://149.62.177.140:8000/play/a01t/index.m3u8
+#EXTINF:-1 group-title="45 VK TURQUIA 28-02" ,BITLIS TV
+http://149.62.177.140:8000/play/a046/index.m3u8
+#EXTINF:-1 group-title="45 VK TURQUIA 28-02" ,BOOMERANG HD
+http://149.62.177.140:8000/play/a02f/index.m3u8
+#EXTINF:-1 group-title="45 VK TURQUIA 28-02" ,BRT 1 HD
+http://149.62.177.140:8000/play/a02v/index.m3u8
+#EXTINF:-1 group-title="45 VK TURQUIA 28-02" ,BRT 2 HD
+http://149.62.177.140:8000/play/a02u/index.m3u8
+#EXTINF:-1 group-title="45 VK TURQUIA 28-02" ,BRT 3
+http://149.62.177.140:8000/play/a02t/index.m3u8
+#EXTINF:-1 group-title="45 VK TURQUIA 28-02" ,BRTV ANADOLU
+http://149.62.177.140:8000/play/a01h/index.m3u8
+#EXTINF:-1 group-title="45 VK TURQUIA 28-02" ,BURSA TV
+http://149.62.177.140:8000/play/a034/index.m3u8
+#EXTINF:-1 group-title="45 VK TURQUIA 28-02" ,CAY TV
+http://149.62.177.140:8000/play/a03f/index.m3u8
+#EXTINF:-1 group-title="45 VK TURQUIA 28-02" ,CEM TV
+http://149.62.177.140:8000/play/a043/index.m3u8
+#EXTINF:-1 group-title="45 VK TURQUIA 28-02" ,CIFTCI TV
+http://149.62.177.140:8000/play/a01d/index.m3u8
+#EXTINF:-1 group-title="45 VK TURQUIA 28-02" ,CINE 1
+http://149.62.177.140:8000/play/a01r/index.m3u8
+#EXTINF:-1 group-title="45 VK TURQUIA 28-02" ,CNN TÜRK
+http://149.62.177.140:8000/play/a00m/index.m3u8
+#EXTINF:-1 group-title="45 VK TURQUIA 28-02" ,DISCOVERY CHANNEL
+http://149.62.177.140:8000/play/a021/index.m3u8
+#EXTINF:-1 group-title="45 VK TURQUIA 28-02" ,DISCOVERY SCIENCE
+http://149.62.177.140:8000/play/a02d/index.m3u8
+#EXTINF:-1 group-title="45 VK TURQUIA 28-02" ,DIYANET TV HD
+http://149.62.177.140:8000/play/a00i/index.m3u8
+#EXTINF:-1 group-title="45 VK TURQUIA 28-02" ,DIYAR TV
+http://149.62.177.140:8000/play/a01w/index.m3u8
+#EXTINF:-1 group-title="45 VK TURQUIA 28-02" ,DOST TV
+http://149.62.177.140:8000/play/a03h/index.m3u8
+#EXTINF:-1 group-title="45 VK TURQUIA 28-02" ,DREAM TÜRK
+http://149.62.177.140:8000/play/a00q/index.m3u8
+#EXTINF:-1 group-title="45 VK TURQUIA 28-02" ,DİZİ PREMIUM
+http://149.62.177.140:8000/play/a029/index.m3u8
+#EXTINF:-1 group-title="45 VK TURQUIA 28-02" ,DİZİSMART MAX
+http://149.62.177.140:8000/play/a02e/index.m3u8
+#EXTINF:-1 group-title="45 VK TURQUIA 28-02" ,EDESSA TV
+http://149.62.177.140:8000/play/a038/index.m3u8
+#EXTINF:-1 group-title="45 VK TURQUIA 28-02" ,EKİNTÜRK TV
+http://149.62.177.140:8000/play/a011/index.m3u8
+#EXTINF:-1 group-title="45 VK TURQUIA 28-02" ,ER TV
+http://149.62.177.140:8000/play/a01e/index.m3u8
+#EXTINF:-1 group-title="45 VK TURQUIA 28-02" ,ES TV
+http://149.62.177.140:8000/play/a01c/index.m3u8
+#EXTINF:-1 group-title="45 VK TURQUIA 28-02" ,EURO D
+http://149.62.177.140:8000/play/a00r/index.m3u8
+#EXTINF:-1 group-title="45 VK TURQUIA 28-02" ,FASHION TV
+http://149.62.177.140:8000/play/a027/index.m3u8
+#EXTINF:-1 group-title="45 VK TURQUIA 28-02" ,FASHION TV
+http://149.62.177.140:8000/play/a02h/index.m3u8
+#EXTINF:-1 group-title="45 VK TURQUIA 28-02" ,FB TV
+http://149.62.177.140:8000/play/a040/index.m3u8
+#EXTINF:-1 group-title="45 VK TURQUIA 28-02" ,FILMBOX
+http://149.62.177.140:8000/play/a025/index.m3u8
+#EXTINF:-1 group-title="45 VK TURQUIA 28-02" ,FLASH HABER HD
+http://149.62.177.140:8000/play/a033/index.m3u8
+#EXTINF:-1 group-title="45 VK TURQUIA 28-02" ,FM TV
+http://149.62.177.140:8000/play/a03j/index.m3u8
+#EXTINF:-1 group-title="45 VK TURQUIA 28-02" ,GENC TV
+http://149.62.177.140:8000/play/a02y/index.m3u8
+#EXTINF:-1 group-title="45 VK TURQUIA 28-02" ,GRT TV
+http://149.62.177.140:8000/play/a03m/index.m3u8
+#EXTINF:-1 group-title="45 VK TURQUIA 28-02" ,GUNEYDOGU TV
+http://149.62.177.140:8000/play/a03a/index.m3u8
+#EXTINF:-1 group-title="45 VK TURQUIA 28-02" ,HABER GLOBAL
+http://149.62.177.140:8000/play/a00j/index.m3u8
+#EXTINF:-1 group-title="45 VK TURQUIA 28-02" ,HALK TV HD
+http://149.62.177.140:8000/play/a03q/index.m3u8
+#EXTINF:-1 group-title="45 VK TURQUIA 28-02" ,HRT AKDENIZ TV
+http://149.62.177.140:8000/play/a03l/index.m3u8
+#EXTINF:-1 group-title="45 VK TURQUIA 28-02" ,INTER AZ
+http://149.62.177.140:8000/play/a01a/index.m3u8
+#EXTINF:-1 group-title="45 VK TURQUIA 28-02" ,K KARDELEN TV
+http://149.62.177.140:8000/play/a03p/index.m3u8
+#EXTINF:-1 group-title="45 VK TURQUIA 28-02" ,KACKAR TV
+http://149.62.177.140:8000/play/a00g/index.m3u8
+#EXTINF:-1 group-title="45 VK TURQUIA 28-02" ,KADIRGA TV
+http://149.62.177.140:8000/play/a032/index.m3u8
+#EXTINF:-1 group-title="45 VK TURQUIA 28-02" ,KANAL 15
+http://149.62.177.140:8000/play/a01o/index.m3u8
+#EXTINF:-1 group-title="45 VK TURQUIA 28-02" ,KANAL 23
+http://149.62.177.140:8000/play/a01n/index.m3u8
+#EXTINF:-1 group-title="45 VK TURQUIA 28-02" ,KANAL 26
+http://149.62.177.140:8000/play/a019/index.m3u8
+#EXTINF:-1 group-title="45 VK TURQUIA 28-02" ,KANAL 3
+http://149.62.177.140:8000/play/a01z/index.m3u8
+#EXTINF:-1 group-title="45 VK TURQUIA 28-02" ,KANAL 33
+http://149.62.177.140:8000/play/a03u/index.m3u8
+#EXTINF:-1 group-title="45 VK TURQUIA 28-02" ,KANAL 58
+http://149.62.177.140:8000/play/a01y/index.m3u8
+#EXTINF:-1 group-title="45 VK TURQUIA 28-02" ,KANAL 68
+http://149.62.177.140:8000/play/a01i/index.m3u8
+#EXTINF:-1 group-title="45 VK TURQUIA 28-02" ,KANAL 7 AVRUPA HD
+http://149.62.177.140:8000/play/a035/index.m3u8
+#EXTINF:-1 group-title="45 VK TURQUIA 28-02" ,KANAL ANTALYA
+http://149.62.177.140:8000/play/a00z/index.m3u8
+#EXTINF:-1 group-title="45 VK TURQUIA 28-02" ,KANAL ANTALYA
+http://149.62.177.140:8000/play/a00p/index.m3u8
+#EXTINF:-1 group-title="45 VK TURQUIA 28-02" ,KANAL AVRUPA
+http://149.62.177.140:8000/play/a03t/index.m3u8
+#EXTINF:-1 group-title="45 VK TURQUIA 28-02" ,KANAL FIRAT
+http://149.62.177.140:8000/play/a01g/index.m3u8
+#EXTINF:-1 group-title="45 VK TURQUIA 28-02" ,KANAL S
+http://149.62.177.140:8000/play/a045/index.m3u8
+#EXTINF:-1 group-title="45 VK TURQUIA 28-02" ,KANAL T
+http://149.62.177.140:8000/play/a02z/index.m3u8
+#EXTINF:-1 group-title="45 VK TURQUIA 28-02" ,KANAL URFA
+http://149.62.177.140:8000/play/a039/index.m3u8
+#EXTINF:-1 group-title="45 VK TURQUIA 28-02" ,KANAL V
+http://149.62.177.140:8000/play/a014/index.m3u8
+#EXTINF:-1 group-title="45 VK TURQUIA 28-02" ,KENT TURK
+http://149.62.177.140:8000/play/a018/index.m3u8
+#EXTINF:-1 group-title="45 VK TURQUIA 28-02" ,KIBRIS TV
+http://149.62.177.140:8000/play/a030/index.m3u8
+#EXTINF:-1 group-title="45 VK TURQUIA 28-02" ,KOZA TV
+http://149.62.177.140:8000/play/a03o/index.m3u8
+#EXTINF:-1 group-title="45 VK TURQUIA 28-02" ,KRT TV HD
+http://149.62.177.140:8000/play/a041/index.m3u8
+#EXTINF:-1 group-title="45 VK TURQUIA 28-02" ,KUDUS TV
+http://149.62.177.140:8000/play/a03s/index.m3u8
+#EXTINF:-1 group-title="45 VK TURQUIA 28-02" ,LALEGUL TV
+http://149.62.177.140:8000/play/a03k/index.m3u8
+#EXTINF:-1 group-title="45 VK TURQUIA 28-02" ,LINE TV
+http://149.62.177.140:8000/play/a03b/index.m3u8
+#EXTINF:-1 group-title="45 VK TURQUIA 28-02" ,LUYS TV
+http://149.62.177.140:8000/play/a048/index.m3u8
+#EXTINF:-1 group-title="45 VK TURQUIA 28-02" ,LİDER HABER
+http://149.62.177.140:8000/play/a00x/index.m3u8
+#EXTINF:-1 group-title="45 VK TURQUIA 28-02" ,MALATYA VUSLAT TV
+http://149.62.177.140:8000/play/a01s/index.m3u8
+#EXTINF:-1 group-title="45 VK TURQUIA 28-02" ,MAVI KARADENIZ
+http://149.62.177.140:8000/play/a01k/index.m3u8
+#EXTINF:-1 group-title="45 VK TURQUIA 28-02" ,MELTEM TV
+http://149.62.177.140:8000/play/a037/index.m3u8
+#EXTINF:-1 group-title="45 VK TURQUIA 28-02" ,MERCAN TV
+http://149.62.177.140:8000/play/a01f/index.m3u8
+#EXTINF:-1 group-title="45 VK TURQUIA 28-02" ,MOVIE CLASSIC
+http://149.62.177.140:8000/play/a02a/index.m3u8
+#EXTINF:-1 group-title="45 VK TURQUIA 28-02" ,MOVIE TÜRK
+http://149.62.177.140:8000/play/a02b/index.m3u8
+#EXTINF:-1 group-title="45 VK TURQUIA 28-02" ,NATURE ESCAPE
+http://149.62.177.140:8000/play/a028/index.m3u8
+#EXTINF:-1 group-title="45 VK TURQUIA 28-02" ,NR1 TURK TV
+http://149.62.177.140:8000/play/a03v/index.m3u8
+#EXTINF:-1 group-title="45 VK TURQUIA 28-02" ,ON4 TV
+http://149.62.177.140:8000/play/a03z/index.m3u8
+#EXTINF:-1 group-title="45 VK TURQUIA 28-02" ,PAMUKKALETV
+http://149.62.177.140:8000/play/a03w/index.m3u8
+#EXTINF:-1 group-title="45 VK TURQUIA 28-02" ,POWER HD
+http://149.62.177.140:8000/play/a015/index.m3u8
+#EXTINF:-1 group-title="45 VK TURQUIA 28-02" ,REHBERTV
+http://149.62.177.140:8000/play/a03e/index.m3u8
+#EXTINF:-1 group-title="45 VK TURQUIA 28-02" ,RUMELİ TV
+http://149.62.177.140:8000/play/a010/index.m3u8
+#EXTINF:-1 group-title="45 VK TURQUIA 28-02" ,SAT7TURK
+http://149.62.177.140:8000/play/a01q/index.m3u8
+#EXTINF:-1 group-title="45 VK TURQUIA 28-02" ,SPORSMART
+http://149.62.177.140:8000/play/a023/index.m3u8
+#EXTINF:-1 group-title="45 VK TURQUIA 28-02" ,SPORTS TV
+http://149.62.177.140:8000/play/a03d/index.m3u8
+#EXTINF:-1 group-title="45 VK TURQUIA 28-02" ,SUN RTV
+http://149.62.177.140:8000/play/a013/index.m3u8
+#EXTINF:-1 group-title="45 VK TURQUIA 28-02" ,TATLISES TV
+http://149.62.177.140:8000/play/a016/index.m3u8
+#EXTINF:-1 group-title="45 VK TURQUIA 28-02" ,TEK RUMELI TV
+http://149.62.177.140:8000/play/a03g/index.m3u8
+#EXTINF:-1 group-title="45 VK TURQUIA 28-02" ,TELE 1
+http://149.62.177.140:8000/play/a00u/index.m3u8
+#EXTINF:-1 group-title="45 VK TURQUIA 28-02" ,TELE 1 HD
+http://149.62.177.140:8000/play/a00t/index.m3u8
+#EXTINF:-1 group-title="45 VK TURQUIA 28-02" ,TEMPO TV
+http://149.62.177.140:8000/play/a01l/index.m3u8
+#EXTINF:-1 group-title="45 VK TURQUIA 28-02" ,TEVE2
+http://149.62.177.140:8000/play/a00n/index.m3u8
+#EXTINF:-1 group-title="45 VK TURQUIA 28-02" ,TEVE63
+http://149.62.177.140:8000/play/a047/index.m3u8
+#EXTINF:-1 group-title="45 VK TURQUIA 28-02" ,TH TURKHABER
+http://149.62.177.140:8000/play/a03i/index.m3u8
+#EXTINF:-1 group-title="45 VK TURQUIA 28-02" ,TON TV
+http://149.62.177.140:8000/play/a01p/index.m3u8
+#EXTINF:-1 group-title="45 VK TURQUIA 28-02" ,TRACE URBAN
+http://149.62.177.140:8000/play/a022/index.m3u8
+#EXTINF:-1 group-title="45 VK TURQUIA 28-02" ,TRAKYA TURK
+http://149.62.177.140:8000/play/a01u/index.m3u8
+#EXTINF:-1 group-title="45 VK TURQUIA 28-02" ,TRT BELGESEL HD
+http://149.62.177.140:8000/play/a009/index.m3u8
+#EXTINF:-1 group-title="45 VK TURQUIA 28-02" ,TRT COCUK HD
+http://149.62.177.140:8000/play/a005/index.m3u8
+#EXTINF:-1 group-title="45 VK TURQUIA 28-02" ,TRT HABER HD
+http://149.62.177.140:8000/play/a007/index.m3u8
+#EXTINF:-1 group-title="45 VK TURQUIA 28-02" ,TRT KURDI HD
+http://149.62.177.140:8000/play/a00e/index.m3u8
+#EXTINF:-1 group-title="45 VK TURQUIA 28-02" ,TRT MUZIK HD
+http://149.62.177.140:8000/play/a00d/index.m3u8
+#EXTINF:-1 group-title="45 VK TURQUIA 28-02" ,TRT SPOR HD
+http://149.62.177.140:8000/play/a008/index.m3u8
+#EXTINF:-1 group-title="45 VK TURQUIA 28-02" ,TRT TURK HD
+http://149.62.177.140:8000/play/a00b/index.m3u8
+#EXTINF:-1 group-title="45 VK TURQUIA 28-02" ,TRT WORLD HD
+http://149.62.177.140:8000/play/a00a/index.m3u8
+#EXTINF:-1 group-title="45 VK TURQUIA 28-02" ,TRT World Radio
+http://149.62.177.140:8000/play/a00c/index.m3u8
+#EXTINF:-1 group-title="45 VK TURQUIA 28-02" ,TRT1 HD
+http://149.62.177.140:8000/play/a006/index.m3u8
+#EXTINF:-1 group-title="45 VK TURQUIA 28-02" ,TV 100 HD
+http://149.62.177.140:8000/play/a03x/index.m3u8
+#EXTINF:-1 group-title="45 VK TURQUIA 28-02" ,TV 2020
+http://149.62.177.140:8000/play/a02w/index.m3u8
+#EXTINF:-1 group-title="45 VK TURQUIA 28-02" ,TV 41
+http://149.62.177.140:8000/play/a01j/index.m3u8
+#EXTINF:-1 group-title="45 VK TURQUIA 28-02" ,TV 8 INT
+http://149.62.177.140:8000/play/a00s/index.m3u8
+#EXTINF:-1 group-title="45 VK TURQUIA 28-02" ,TV A
+http://149.62.177.140:8000/play/a01x/index.m3u8
+#EXTINF:-1 group-title="45 VK TURQUIA 28-02" ,TV5
+http://149.62.177.140:8000/play/a03y/index.m3u8
+#EXTINF:-1 group-title="45 VK TURQUIA 28-02" ,Tivi6
+http://149.62.177.140:8000/play/a017/index.m3u8
+#EXTINF:-1 group-title="45 VK TURQUIA 28-02" ,ULUSAL 1 TV
+http://149.62.177.140:8000/play/a03n/index.m3u8
+#EXTINF:-1 group-title="45 VK TURQUIA 28-02" ,UVI JEWELLERY
+http://149.62.177.140:8000/play/a00k/index.m3u8
+#EXTINF:-1 group-title="45 VK TURQUIA 28-02" ,UZAY HABER
+http://149.62.177.140:8000/play/a03c/index.m3u8
+#EXTINF:-1 group-title="45 VK TURQUIA 28-02" ,VIASAT HISTORY
+http://149.62.177.140:8000/play/a024/index.m3u8
+#EXTINF:-1 group-title="45 VK TURQUIA 28-02" ,VIZYON 58
+http://149.62.177.140:8000/play/a01m/index.m3u8
+#EXTINF:-1 group-title="45 VK TURQUIA 28-02" ,WM TV WOMAN KADIN
+http://149.62.177.140:8000/play/a00v/index.m3u8
+#EXTINF:-1 group-title="45 VK TURQUIA 28-02" ,WORLD TURK
+http://149.62.177.140:8000/play/a01v/index.m3u8
+#EXTINF:-1 group-title="45 VK TURQUIA 28-02" ,Z ZAZA TV
+http://149.62.177.140:8000/play/a00o/index.m3u8
+#EXTINF:-1 group-title="45 VK TURQUIA 28-02" ,ZAROK TV
+http://149.62.177.140:8000/play/a036/index.m3u8
+#EXTINF:-1 group-title="45 VK VARIOS DE DEPORTE SURTIDOS EUROPA" ,ARENA SPORT 3 HD
+http://80.96.24.248:8000/play/a00v
+#EXTINF:-1 group-title="45 VK VARIOS DE DEPORTE SURTIDOS EUROPA" ,ARENA SPORT1 4K
+http://80.96.24.248:8000/play/a00o
+#EXTINF:-1 group-title="45 VK VARIOS DE DEPORTE SURTIDOS EUROPA" ,BRAZZERS TV HD
+http://80.96.24.248:8000/play/a00a
+#EXTINF:-1 group-title="45 VK VARIOS DE DEPORTE SURTIDOS EUROPA" ,C MORE HOCKEY
+http://80.96.24.248:8000/play/a004
+#EXTINF:-1 group-title="45 VK VARIOS DE DEPORTE SURTIDOS EUROPA" ,CGTN
+http://80.96.24.248:8000/play/a009
+#EXTINF:-1 group-title="45 VK VARIOS DE DEPORTE SURTIDOS EUROPA" ,CNBC EUROPE
+http://80.96.24.248:8000/play/a00e
+#EXTINF:-1 group-title="45 VK VARIOS DE DEPORTE SURTIDOS EUROPA" ,CANAL + HD SPORT 2
+http://80.96.24.248:8000/play/a00s
+#EXTINF:-1 group-title="45 VK VARIOS DE DEPORTE SURTIDOS EUROPA" ,CT HD
+http://80.96.24.248:8000/play/a002
+#EXTINF:-1 group-title="45 VK VARIOS DE DEPORTE SURTIDOS EUROPA" ,DAZN LA LIGA
+http://80.96.24.248:8000/play/a00f
+#EXTINF:-1 group-title="45 VK VARIOS DE DEPORTE SURTIDOS EUROPA" ,DIGI SPORT 3 HD
+http://80.96.24.248:8000/play/a00t
+#EXTINF:-1 group-title="45 VK VARIOS DE DEPORTE SURTIDOS EUROPA" ,EUROSPORT2 HU
+http://80.96.24.248:8000/play/a007
+#EXTINF:-1 group-title="45 VK VARIOS DE DEPORTE SURTIDOS EUROPA" ,HBO 3 HD
+http://80.96.24.248:8000/play/a00j
+#EXTINF:-1 group-title="45 VK VARIOS DE DEPORTE SURTIDOS EUROPA" ,HBO HD HU
+http://80.96.24.248:8000/play/a00h
+#EXTINF:-1 group-title="45 VK VARIOS DE DEPORTE SURTIDOS EUROPA" ,KABEL EINS
+http://80.96.24.248:8000/play/a00n
+#EXTINF:-1 group-title="45 VK VARIOS DE DEPORTE SURTIDOS EUROPA" ,NAT GEO HD HU
+http://80.96.24.248:8000/play/a00r
+#EXTINF:-1 group-title="45 VK VARIOS DE DEPORTE SURTIDOS EUROPA" ,PENTHOUSE GOLD
+http://80.96.24.248:8000/play/a006
+#EXTINF:-1 group-title="45 VK VARIOS DE DEPORTE SURTIDOS EUROPA" ,PENTHOUSE PASSION
+http://80.96.24.248:8000/play/a00d
+#EXTINF:-1 group-title="45 VK VARIOS DE DEPORTE SURTIDOS EUROPA" ,PINK HITS
+http://80.96.24.248:8000/play/a00x
+#EXTINF:-1 group-title="45 VK VARIOS DE DEPORTE SURTIDOS EUROPA" ,POLSAT
+http://80.96.24.248:8000/play/a00g
+#EXTINF:-1 group-title="45 VK VARIOS DE DEPORTE SURTIDOS EUROPA" ,PRO 7 HD
+http://80.96.24.248:8000/play/a00m
+#EXTINF:-1 group-title="45 VK VARIOS DE DEPORTE SURTIDOS EUROPA" ,RED LIGHT
+http://80.96.24.248:8000/play/a00b
+#EXTINF:-1 group-title="45 VK VARIOS DE DEPORTE SURTIDOS EUROPA" ,SPORT KLUB HD
+http://80.96.24.248:8000/play/a00l
+#EXTINF:-1 group-title="45 VK VARIOS DE DEPORTE SURTIDOS EUROPA" ,SUPER ONE HD
+http://80.96.24.248:8000/play/a00c
+#EXTINF:-1 group-title="45 VK VARIOS DE DEPORTE SURTIDOS EUROPA" ,euronews HU
+http://80.96.24.248:8000/play/a001
+#EXTINF:-1 group-title="45 VK VARIOS DE DEPORTE SURTIDOS EUROPA" ,khl
+http://80.96.24.248:8000/play/a003
+#EXTINF:-1 group-title="45 VK VARIOS DE DEPORTE SURTIDOS EUROPA" ,liveevent
+http://80.96.24.248:8000/play/a00w
+#EXTINF:-1 group-title="45 VK VARIOS DE DEPORTE SURTIDOS EUROPA" ,liveevent2
+http://80.96.24.248:8000/play/a00y
+#EXTINF:-1 group-title="45 VK VARIOS DE DEPORTE SURTIDOS EUROPA" ,v sport
+http://80.96.24.248:8000/play/a005
+#EXTINF:-1 group-title="45 VK VARIOS DEPORTIVOS LATINOS Y GENERICOS" ,A&E HD
+http://181.39.202.98:9993/play/a164/index.m3u8
+#EXTINF:-1 group-title="45 VK VARIOS DEPORTIVOS LATINOS Y GENERICOS" ,ATRES SERIES HD
+http://181.39.202.98:9993/play/a16u/index.m3u8
+#EXTINF:-1 group-title="45 VK VARIOS DEPORTIVOS LATINOS Y GENERICOS" ,AZ Cinema HD
+http://181.39.202.98:9993/play/a17g/index.m3u8
+#EXTINF:-1 group-title="45 VK VARIOS DEPORTIVOS LATINOS Y GENERICOS" ,America TV HD
+http://181.39.202.98:9993/play/a17x/index.m3u8
+#EXTINF:-1 group-title="45 VK VARIOS DEPORTIVOS LATINOS Y GENERICOS" ,CNN Chile HD
+http://181.39.202.98:9993/play/a162/index.m3u8
+#EXTINF:-1 group-title="45 VK VARIOS DEPORTIVOS LATINOS Y GENERICOS" ,Caracol HD
+http://181.39.202.98:9993/play/a18c/index.m3u8
+#EXTINF:-1 group-title="45 VK VARIOS DEPORTIVOS LATINOS Y GENERICOS" ,Cartoon Network HD
+http://181.39.202.98:9993/play/a17c/index.m3u8
+#EXTINF:-1 group-title="45 VK VARIOS DEPORTIVOS LATINOS Y GENERICOS" ,Cinecanal HD
+http://181.39.202.98:9993/play/a177/index.m3u8
+#EXTINF:-1 group-title="45 VK VARIOS DEPORTIVOS LATINOS Y GENERICOS" ,Cinemax HD
+http://181.39.202.98:9993/play/a16v/index.m3u8
+#EXTINF:-1 group-title="45 VK VARIOS DEPORTIVOS LATINOS Y GENERICOS" ,Clover HD
+http://181.39.202.98:9993/play/a16d/index.m3u8
+#EXTINF:-1 group-title="45 VK VARIOS DEPORTIVOS LATINOS Y GENERICOS" ,Comedy Central HD
+http://181.39.202.98:9993/play/a16w/index.m3u8
+#EXTINF:-1 group-title="45 VK VARIOS DEPORTIVOS LATINOS Y GENERICOS" ,Discovery HD
+http://181.39.202.98:9993/play/a18i/index.m3u8
+#EXTINF:-1 group-title="45 VK VARIOS DEPORTIVOS LATINOS Y GENERICOS" ,Discovery Kids HD
+http://181.39.202.98:9993/play/a15m/index.m3u8
+#EXTINF:-1 group-title="45 VK VARIOS DEPORTIVOS LATINOS Y GENERICOS" ,Discovery Theater HD
+http://181.39.202.98:9993/play/a15o/index.m3u8
+#EXTINF:-1 group-title="45 VK VARIOS DEPORTIVOS LATINOS Y GENERICOS" ,ESPN EXTRA HD
+http://181.39.202.98:9993/play/a179/index.m3u8
+#EXTINF:-1 group-title="45 VK VARIOS DEPORTIVOS LATINOS Y GENERICOS" ,ESPN HD
+http://181.39.202.98:9993/play/a15y/index.m3u8
+#EXTINF:-1 group-title="45 VK VARIOS DEPORTIVOS LATINOS Y GENERICOS" ,El Gourmet HD
+http://181.39.202.98:9993/play/a16z/index.m3u8
+#EXTINF:-1 group-title="45 VK VARIOS DEPORTIVOS LATINOS Y GENERICOS" ,ElCanaldelFutbol HD
+http://181.39.202.98:9993/play/a181/index.m3u8
+#EXTINF:-1 group-title="45 VK VARIOS DEPORTIVOS LATINOS Y GENERICOS" ,Fox Sports 1 HD
+http://181.39.202.98:9993/play/a19r/index.m3u8
+#EXTINF:-1 group-title="45 VK VARIOS DEPORTIVOS LATINOS Y GENERICOS" ,GOLPERU HD
+http://181.39.202.98:9993/play/a180/index.m3u8
+#EXTINF:-1 group-title="45 VK VARIOS DEPORTIVOS LATINOS Y GENERICOS" ,GolTV HD
+http://181.39.202.98:9993/play/a17u/index.m3u8
+#EXTINF:-1 group-title="45 VK VARIOS DEPORTIVOS LATINOS Y GENERICOS" ,Golden HD
+http://181.39.202.98:9993/play/a17o/index.m3u8
+#EXTINF:-1 group-title="45 VK VARIOS DEPORTIVOS LATINOS Y GENERICOS" ,HBO MUNDI
+http://181.39.202.98:9993/play/a1bh/index.m3u8
+#EXTINF:-1 group-title="45 VK VARIOS DEPORTIVOS LATINOS Y GENERICOS" ,HBO POP HD
+http://181.39.202.98:9993/play/a16b/index.m3u8
+#EXTINF:-1 group-title="45 VK VARIOS DEPORTIVOS LATINOS Y GENERICOS" ,HBO XTREME HD
+http://181.39.202.98:9993/play/a19u/index.m3u8
+#EXTINF:-1 group-title="45 VK VARIOS DEPORTIVOS LATINOS Y GENERICOS" ,History 2 HD
+http://181.39.202.98:9993/play/a18n/index.m3u8
+#EXTINF:-1 group-title="45 VK VARIOS DEPORTIVOS LATINOS Y GENERICOS" ,History Channel HD
+http://181.39.202.98:9993/play/a163/index.m3u8
+#EXTINF:-1 group-title="45 VK VARIOS DEPORTIVOS LATINOS Y GENERICOS" ,ID HD
+http://181.39.202.98:9993/play/a16x/index.m3u8
+#EXTINF:-1 group-title="45 VK VARIOS DEPORTIVOS LATINOS Y GENERICOS" ,Kanal D Drama HD
+http://181.39.202.98:9993/play/a17b/index.m3u8
+#EXTINF:-1 group-title="45 VK VARIOS DEPORTIVOS LATINOS Y GENERICOS" ,Las Estrellas HD
+http://181.39.202.98:9993/play/a18g/index.m3u8
+#EXTINF:-1 group-title="45 VK VARIOS DEPORTIVOS LATINOS Y GENERICOS" ,Latina HD
+http://181.39.202.98:9993/play/a17y/index.m3u8
+#EXTINF:-1 group-title="45 VK VARIOS DEPORTIVOS LATINOS Y GENERICOS" ,Love Nature HD
+http://181.39.202.98:9993/play/a186/index.m3u8
+#EXTINF:-1 group-title="45 VK VARIOS DEPORTIVOS LATINOS Y GENERICOS" ,Movistar Deportes HD
+http://181.39.202.98:9993/play/a17m/index.m3u8
+#EXTINF:-1 group-title="45 VK VARIOS DEPORTIVOS LATINOS Y GENERICOS" ,Nat Geo HD
+http://181.39.202.98:9993/play/a175/index.m3u8
+#EXTINF:-1 group-title="45 VK VARIOS DEPORTIVOS LATINOS Y GENERICOS" ,Paramount HD
+http://181.39.202.98:9993/play/a17d/index.m3u8
+#EXTINF:-1 group-title="45 VK VARIOS DEPORTIVOS LATINOS Y GENERICOS" ,Pasiones HD
+http://181.39.202.98:9993/play/a16n/index.m3u8
+#EXTINF:-1 group-title="45 VK VARIOS DEPORTIVOS LATINOS Y GENERICOS" ,PlayBoy HD
+http://181.39.202.98:9993/play/a160/index.m3u8
+#EXTINF:-1 group-title="45 VK VARIOS DEPORTIVOS LATINOS Y GENERICOS" ,RCN HD
+http://181.39.202.98:9993/play/a15z/index.m3u8
+#EXTINF:-1 group-title="45 VK VARIOS DEPORTIVOS LATINOS Y GENERICOS" ,STAR CHANNEL HD
+http://181.39.202.98:9993/play/a16f/index.m3u8
+#EXTINF:-1 group-title="45 VK VARIOS DEPORTIVOS LATINOS Y GENERICOS" ,Sony HD
+http://181.39.202.98:9993/play/a165/index.m3u8
+#EXTINF:-1 group-title="45 VK VARIOS DEPORTIVOS LATINOS Y GENERICOS" ,Space HD
+http://181.39.202.98:9993/play/a168/index.m3u8
+#EXTINF:-1 group-title="45 VK VARIOS DEPORTIVOS LATINOS Y GENERICOS" ,TNT SPORTS 2
+http://181.39.202.98:9993/play/a1bf/index.m3u8
+#EXTINF:-1 group-title="45 VK VARIOS DEPORTIVOS LATINOS Y GENERICOS" ,TNT SPORTS HD
+http://181.39.202.98:9993/play/a169/index.m3u8
+#EXTINF:-1 group-title="45 VK VARIOS DEPORTIVOS LATINOS Y GENERICOS" ,TV+ HD
+http://181.39.202.98:9993/play/a173/index.m3u8
+#EXTINF:-1 group-title="45 VK VARIOS DEPORTIVOS LATINOS Y GENERICOS" ,Teen Nick HD
+http://181.39.202.98:9993/play/a185/index.m3u8
+#EXTINF:-1 group-title="45 VK VARIOS DEPORTIVOS LATINOS Y GENERICOS" ,TyC Sports HD
+http://181.39.202.98:9993/play/a17z/index.m3u8
+#EXTINF:-1 group-title="45 VK VARIOS DEPORTIVOS LATINOS Y GENERICOS" ,UNIVERSAL CHANNEL HD
+http://181.39.202.98:9993/play/a15q/index.m3u8
+#EXTINF:-1 group-title="45 VK VARIOS DEPORTIVOS LATINOS Y GENERICOS" ,Warner Channel HD
+http://181.39.202.98:9993/play/a166/index.m3u8
+#EXTINF:-1 group-title="45 VK VARIOS DEPORTIVOS LATINOS Y GENERICOS" ,Win Sports HD
+http://181.39.202.98:9993/play/a16c/index.m3u8
+#EXTINF:-1 group-title="45 VK VARIOS DEPORTIVOS LATINOS Y GENERICOS" ,Win Sports+ HD
+http://181.39.202.98:9993/play/a17i/index.m3u8
 #EXTINF:-1 group-title="45-VK ARABES 12-01" ,A TV
 http://185.236.229.50:8003/play/a03i
 #EXTINF:-1 group-title="45-VK ARABES 12-01" ,Al Ahly HD
@@ -19575,780 +21973,6 @@ http://200.119.222.198:8000/play/a007/index.m3u8
 http://200.119.222.198:8000/play/a00w/index.m3u8
 #EXTINF:-1 group-title="45-VK BOLIVIA PERU" ,XTO TV
 http://200.119.222.198:8000/play/a028/index.m3u8
-#EXTINF:-1 group-title="45-VK BRASIL 01" ,A&E
-http://206.1.95.8:8004/play/a03d
-#EXTINF:-1 group-title="45-VK BRASIL 01" ,AMC
-http://206.1.95.8:8004/play/a00u
-#EXTINF:-1 group-title="45-VK BRASIL 01" ,Animal Planet
-http://206.1.95.8:8004/play/a02y
-#EXTINF:-1 group-title="45-VK BRASIL 01" ,Arte 1
-http://206.1.95.8:8004/play/a02h
-#EXTINF:-1 group-title="45-VK BRASIL 01" ,AXN
-http://206.1.95.8:8004/play/a02d
-#EXTINF:-1 group-title="45-VK BRASIL 01" ,Baby TV
-http://206.1.95.8:8004/play/a00n
-#EXTINF:-1 group-title="45-VK BRASIL 01" ,Band News
-http://206.1.95.8:8004/play/a020
-#EXTINF:-1 group-title="45-VK BRASIL 01" ,Band Sports
-http://206.1.95.8:8004/play/a01p
-#EXTINF:-1 group-title="45-VK BRASIL 01" ,Bandeirantes
-http://206.1.95.8:8004/play/a051
-#EXTINF:-1 group-title="45-VK BRASIL 01" ,Boa Vontade TV
-http://206.1.95.8:8004/play/a02a
-#EXTINF:-1 group-title="45-VK BRASIL 01" ,Boa Vontade TV
-http://206.1.95.8:8004/play/a02p
-#EXTINF:-1 group-title="45-VK BRASIL 01" ,Canal Brasil
-http://206.1.95.8:8004/play/a00k
-#EXTINF:-1 group-title="45-VK BRASIL 01" ,Canal do Boi
-http://206.1.95.8:8004/play/a01d
-#EXTINF:-1 group-title="45-VK BRASIL 01" ,Canal EducaĿªo - MEC
-http://206.1.95.8:8004/play/a03q
-#EXTINF:-1 group-title="45-VK BRASIL 01" ,Canal Rural
-http://206.1.95.8:8004/play/a03g
-#EXTINF:-1 group-title="45-VK BRASIL 01" ,Canal Sony
-http://206.1.95.8:8004/play/a01s
-#EXTINF:-1 group-title="45-VK BRASIL 01" ,CanĿªo Nova
-http://206.1.95.8:8004/play/a03t
-#EXTINF:-1 group-title="45-VK BRASIL 01" ,Cartoon Network
-http://206.1.95.8:8004/play/a018
-#EXTINF:-1 group-title="45-VK BRASIL 01" ,Cartoonito
-http://206.1.95.8:8004/play/a03f
-#EXTINF:-1 group-title="45-VK BRASIL 01" ,Cinemax
-http://206.1.95.8:8004/play/a04l
-#EXTINF:-1 group-title="45-VK BRASIL 01" ,CNN Brasil
-http://206.1.95.8:8004/play/a01e
-#EXTINF:-1 group-title="45-VK BRASIL 01" ,CNN Espaæol
-http://206.1.95.8:8004/play/a02f
-#EXTINF:-1 group-title="45-VK BRASIL 01" ,CNN Internacional
-http://206.1.95.8:8004/play/a04w
-#EXTINF:-1 group-title="45-VK BRASIL 01" ,CNT
-http://206.1.95.8:8004/play/a00s
-#EXTINF:-1 group-title="45-VK BRASIL 01" ,Combate
-http://206.1.95.8:8004/play/a037
-#EXTINF:-1 group-title="45-VK BRASIL 01" ,Comedy Central
-http://206.1.95.8:8004/play/a02x
-#EXTINF:-1 group-title="45-VK BRASIL 01" ,CONMEBOL TV 3
-http://206.1.95.8:8004/play/a035
-#EXTINF:-1 group-title="45-VK BRASIL 01" ,Curta!
-http://206.1.95.8:8004/play/a030
-#EXTINF:-1 group-title="45-VK BRASIL 01" ,Discovery Channel
-http://206.1.95.8:8004/play/a00r
-#EXTINF:-1 group-title="45-VK BRASIL 01" ,Discovery H&H
-http://206.1.95.8:8004/play/a01n
-#EXTINF:-1 group-title="45-VK BRASIL 01" ,Discovery Kids
-http://206.1.95.8:8004/play/a04q
-#EXTINF:-1 group-title="45-VK BRASIL 01" ,Discovery Turbo
-http://206.1.95.8:8004/play/a01w
-#EXTINF:-1 group-title="45-VK BRASIL 01" ,Disney
-http://206.1.95.8:8004/play/a03h
-#EXTINF:-1 group-title="45-VK BRASIL 01" ,DW (Deutsch+)
-http://206.1.95.8:8004/play/a04y
-#EXTINF:-1 group-title="45-VK BRASIL 01" ,E!
-http://206.1.95.8:8004/play/a02r
-#EXTINF:-1 group-title="45-VK BRASIL 01" ,ESPN
-http://206.1.95.8:8004/play/a01o
-#EXTINF:-1 group-title="45-VK BRASIL 01" ,ESPN 2
-http://206.1.95.8:8004/play/a027
-#EXTINF:-1 group-title="45-VK BRASIL 01" ,ESPN 4
-http://206.1.95.8:8004/play/a015
-#EXTINF:-1 group-title="45-VK BRASIL 01" ,Fish TV
-http://206.1.95.8:8004/play/a03b
-#EXTINF:-1 group-title="45-VK BRASIL 01" ,Food Network
-http://206.1.95.8:8004/play/a00e
-#EXTINF:-1 group-title="45-VK BRASIL 01" ,Fox Sports 2
-http://206.1.95.8:8004/play/a024
-#EXTINF:-1 group-title="45-VK BRASIL 01" ,FX
-http://206.1.95.8:8004/play/a01r
-#EXTINF:-1 group-title="45-VK BRASIL 01" ,Globo Minas
-http://206.1.95.8:8004/play/a055
-#EXTINF:-1 group-title="45-VK BRASIL 01" ,Globo RJ
-http://206.1.95.8:8004/play/a054
-#EXTINF:-1 group-title="45-VK BRASIL 01" ,GloboNews
-http://206.1.95.8:8004/play/a026
-#EXTINF:-1 group-title="45-VK BRASIL 01" ,Gloob
-http://206.1.95.8:8004/play/a00o
-#EXTINF:-1 group-title="45-VK BRASIL 01" ,Gloobinho
-http://206.1.95.8:8004/play/a04p
-#EXTINF:-1 group-title="45-VK BRASIL 01" ,GNT
-http://206.1.95.8:8004/play/a03a
-#EXTINF:-1 group-title="45-VK BRASIL 01" ,HBO
-http://206.1.95.8:8004/play/a00l
-#EXTINF:-1 group-title="45-VK BRASIL 01" ,HBO Family
-http://206.1.95.8:8004/play/a03c
-#EXTINF:-1 group-title="45-VK BRASIL 01" ,HBO MUNDI
-http://206.1.95.8:8004/play/a02u
-#EXTINF:-1 group-title="45-VK BRASIL 01" ,HBO Signature
-http://206.1.95.8:8004/play/a02c
-#EXTINF:-1 group-title="45-VK BRASIL 01" ,HBO XTREME
-http://206.1.95.8:8004/play/a04n
-#EXTINF:-1 group-title="45-VK BRASIL 01" ,HBO2
-http://206.1.95.8:8004/play/a01q
-#EXTINF:-1 group-title="45-VK BRASIL 01" ,History 2
-http://206.1.95.8:8004/play/a01u
-#EXTINF:-1 group-title="45-VK BRASIL 01" ,I-SAT
-http://206.1.95.8:8004/play/a03n
-#EXTINF:-1 group-title="45-VK BRASIL 01" ,ID - InvestigaĿªo Discovery
-http://206.1.95.8:8004/play/a01y
-#EXTINF:-1 group-title="45-VK BRASIL 01" ,IDEAL TV
-http://206.1.95.8:8004/play/a019
-#EXTINF:-1 group-title="45-VK BRASIL 01" ,MegaPix
-http://206.1.95.8:8004/play/a04m
-#EXTINF:-1 group-title="45-VK BRASIL 01" ,Multishow
-http://206.1.95.8:8004/play/a02q
-#EXTINF:-1 group-title="45-VK BRASIL 01" ,Music Box Brazil
-http://206.1.95.8:8004/play/a01a
-#EXTINF:-1 group-title="45-VK BRASIL 01" ,National Geographic
-http://206.1.95.8:8004/play/a01x
-#EXTINF:-1 group-title="45-VK BRASIL 01" ,NHK
-http://206.1.95.8:8004/play/a03o
-#EXTINF:-1 group-title="45-VK BRASIL 01" ,Nick Jr
-http://206.1.95.8:8004/play/a03i
-#EXTINF:-1 group-title="45-VK BRASIL 01" ,Nickelodeon
-http://206.1.95.8:8004/play/a01v
-#EXTINF:-1 group-title="45-VK BRASIL 01" ,OFF
-http://206.1.95.8:8004/play/a00h
-#EXTINF:-1 group-title="45-VK BRASIL 01" ,Paramount Network
-http://206.1.95.8:8004/play/a00g
-#EXTINF:-1 group-title="45-VK BRASIL 01" ,Polishop TV
-http://206.1.95.8:8004/play/a03p
-#EXTINF:-1 group-title="45-VK BRASIL 01" ,Polishop TV
-http://206.1.95.8:8004/play/a03u
-#EXTINF:-1 group-title="45-VK BRASIL 01" ,Premiere 2
-http://206.1.95.8:8004/play/a021
-#EXTINF:-1 group-title="45-VK BRASIL 01" ,Premiere 3
-http://206.1.95.8:8004/play/a038
-#EXTINF:-1 group-title="45-VK BRASIL 01" ,Premiere 4
-http://206.1.95.8:8004/play/a03s
-#EXTINF:-1 group-title="45-VK BRASIL 01" ,Premiere 5
-http://206.1.95.8:8004/play/a02l
-#EXTINF:-1 group-title="45-VK BRASIL 01" ,Premiere 8
-http://206.1.95.8:8004/play/a00x
-#EXTINF:-1 group-title="45-VK BRASIL 01" ,Premiere Clubes
-http://206.1.95.8:8004/play/a022
-#EXTINF:-1 group-title="45-VK BRASIL 01" ,Prime Box Brazil
-http://206.1.95.8:8004/play/a02b
-#EXTINF:-1 group-title="45-VK BRASIL 01" ,RAI
-http://206.1.95.8:8004/play/a04v
-#EXTINF:-1 group-title="45-VK BRASIL 01" ,RBI
-http://206.1.95.8:8004/play/a03m
-#EXTINF:-1 group-title="45-VK BRASIL 01" ,RBS TV Porto Alegre
-http://206.1.95.8:8004/play/a057
-#EXTINF:-1 group-title="45-VK BRASIL 01" ,Record News
-http://206.1.95.8:8004/play/a00q
-#EXTINF:-1 group-title="45-VK BRASIL 01" ,RECORDTV
-http://206.1.95.8:8004/play/a02i
-#EXTINF:-1 group-title="45-VK BRASIL 01" ,Rede Brasil
-http://206.1.95.8:8004/play/a02g
-#EXTINF:-1 group-title="45-VK BRASIL 01" ,Rede TV
-http://206.1.95.8:8004/play/a04u
-#EXTINF:-1 group-title="45-VK BRASIL 01" ,Rede Vida
-http://206.1.95.8:8004/play/a02e
-#EXTINF:-1 group-title="45-VK BRASIL 01" ,RIT
-http://206.1.95.8:8004/play/a03l
-#EXTINF:-1 group-title="45-VK BRASIL 01" ,SBT
-http://206.1.95.8:8004/play/a023
-#EXTINF:-1 group-title="45-VK BRASIL 01" ,SIC Internacional
-http://206.1.95.8:8004/play/a04x
-#EXTINF:-1 group-title="45-VK BRASIL 01" ,Space
-http://206.1.95.8:8004/play/a02s
-#EXTINF:-1 group-title="45-VK BRASIL 01" ,SporTV
-http://206.1.95.8:8004/play/a00f
-#EXTINF:-1 group-title="45-VK BRASIL 01" ,SporTV 2
-http://206.1.95.8:8004/play/a025
-#EXTINF:-1 group-title="45-VK BRASIL 01" ,SporTV 2 Alternativo
-http://206.1.95.8:8004/play/a00y
-#EXTINF:-1 group-title="45-VK BRASIL 01" ,SporTV 3
-http://206.1.95.8:8004/play/a04k
-#EXTINF:-1 group-title="45-VK BRASIL 01" ,SporTV Alternativo
-http://206.1.95.8:8004/play/a050
-#EXTINF:-1 group-title="45-VK BRASIL 01" ,STAR CHANNEL
-http://206.1.95.8:8004/play/a016
-#EXTINF:-1 group-title="45-VK BRASIL 01" ,Studio Universal
-http://206.1.95.8:8004/play/a02w
-#EXTINF:-1 group-title="45-VK BRASIL 01" ,Syfy
-http://206.1.95.8:8004/play/a04o
-#EXTINF:-1 group-title="45-VK BRASIL 01" ,TBS
-http://206.1.95.8:8004/play/a03e
-#EXTINF:-1 group-title="45-VK BRASIL 01" ,TCM
-http://206.1.95.8:8004/play/a02v
-#EXTINF:-1 group-title="45-VK BRASIL 01" ,Telecine Action
-http://206.1.95.8:8004/play/a017
-#EXTINF:-1 group-title="45-VK BRASIL 01" ,Telecine Cult
-http://206.1.95.8:8004/play/a029
-#EXTINF:-1 group-title="45-VK BRASIL 01" ,Telecine Pipoca
-http://206.1.95.8:8004/play/a02t
-#EXTINF:-1 group-title="45-VK BRASIL 01" ,Telecine Premium
-http://206.1.95.8:8004/play/a00i
-#EXTINF:-1 group-title="45-VK BRASIL 01" ,Telecine Touch
-http://206.1.95.8:8004/play/a00j
-#EXTINF:-1 group-title="45-VK BRASIL 01" ,Terra Viva
-http://206.1.95.8:8004/play/a03k
-#EXTINF:-1 group-title="45-VK BRASIL 01" ,The History Channel
-http://206.1.95.8:8004/play/a04r
-#EXTINF:-1 group-title="45-VK BRASIL 01" ,TLC
-http://206.1.95.8:8004/play/a01z
-#EXTINF:-1 group-title="45-VK BRASIL 01" ,TNT
-http://206.1.95.8:8004/play/a028
-#EXTINF:-1 group-title="45-VK BRASIL 01" ,TNT SØries
-http://206.1.95.8:8004/play/a02z
-#EXTINF:-1 group-title="45-VK BRASIL 01" ,Tooncast
-http://206.1.95.8:8004/play/a00p
-#EXTINF:-1 group-title="45-VK BRASIL 01" ,TruTV
-http://206.1.95.8:8004/play/a00m
-#EXTINF:-1 group-title="45-VK BRASIL 01" ,TV Anhanguera GoiÐnia
-http://206.1.95.8:8004/play/a056
-#EXTINF:-1 group-title="45-VK BRASIL 01" ,TV Aparecida
-http://206.1.95.8:8004/play/a04t
-#EXTINF:-1 group-title="45-VK BRASIL 01" ,TV Brasil
-http://206.1.95.8:8004/play/a034
-#EXTINF:-1 group-title="45-VK BRASIL 01" ,TV Brasil 2
-http://206.1.95.8:8004/play/a039
-#EXTINF:-1 group-title="45-VK BRASIL 01" ,TV Cultura
-http://206.1.95.8:8004/play/a02o
-#EXTINF:-1 group-title="45-VK BRASIL 01" ,TV CÐmara
-http://206.1.95.8:8004/play/a033
-#EXTINF:-1 group-title="45-VK BRASIL 01" ,TV JustiĿa
-http://206.1.95.8:8004/play/a031
-#EXTINF:-1 group-title="45-VK BRASIL 01" ,TV Novo Tempo
-http://206.1.95.8:8004/play/a04z
-#EXTINF:-1 group-title="45-VK BRASIL 01" ,TV Novo Tempo
-http://206.1.95.8:8004/play/a053
-#EXTINF:-1 group-title="45-VK BRASIL 01" ,TV RÆ tim bum
-http://206.1.95.8:8004/play/a03j
-#EXTINF:-1 group-title="45-VK BRASIL 01" ,TV Senado
-http://206.1.95.8:8004/play/a032
-#EXTINF:-1 group-title="45-VK BRASIL 01" ,TV Tem Bauru
-http://206.1.95.8:8004/play/a05a
-#EXTINF:-1 group-title="45-VK BRASIL 01" ,TV Tem Sorocaba
-http://206.1.95.8:8004/play/a059
-#EXTINF:-1 group-title="45-VK BRASIL 01" ,TV Tribuna Santos
-http://206.1.95.8:8004/play/a058
-#EXTINF:-1 group-title="45-VK BRASIL 01" ,TV5 Monde
-http://206.1.95.8:8004/play/a02k
-#EXTINF:-1 group-title="45-VK BRASIL 01" ,TVE
-http://206.1.95.8:8004/play/a01b
-#EXTINF:-1 group-title="45-VK BRASIL 01" ,Universal TV
-http://206.1.95.8:8004/play/a02j
-#EXTINF:-1 group-title="45-VK BRASIL 01" ,Woohoo
-http://206.1.95.8:8004/play/a01t
-#EXTINF:-1 group-title="45-VK BRASIL 01" ,ZooMoo
-http://206.1.95.8:8004/play/a00t
-#EXTINF:-1 group-title="45-VK BRASIL 02" ,A&E
-http://206.1.95.9:8004/play/a03d
-#EXTINF:-1 group-title="45-VK BRASIL 02" ,AMC
-http://206.1.95.9:8004/play/a00u
-#EXTINF:-1 group-title="45-VK BRASIL 02" ,Animal Planet
-http://206.1.95.9:8004/play/a02y
-#EXTINF:-1 group-title="45-VK BRASIL 02" ,Arte 1
-http://206.1.95.9:8004/play/a02h
-#EXTINF:-1 group-title="45-VK BRASIL 02" ,AXN
-http://206.1.95.9:8004/play/a02d
-#EXTINF:-1 group-title="45-VK BRASIL 02" ,Baby TV
-http://206.1.95.9:8004/play/a00n
-#EXTINF:-1 group-title="45-VK BRASIL 02" ,Band News
-http://206.1.95.9:8004/play/a020
-#EXTINF:-1 group-title="45-VK BRASIL 02" ,Band Sports
-http://206.1.95.9:8004/play/a01p
-#EXTINF:-1 group-title="45-VK BRASIL 02" ,Bandeirantes
-http://206.1.95.9:8004/play/a051
-#EXTINF:-1 group-title="45-VK BRASIL 02" ,Boa Vontade TV
-http://206.1.95.9:8004/play/a02a
-#EXTINF:-1 group-title="45-VK BRASIL 02" ,Boa Vontade TV
-http://206.1.95.9:8004/play/a02p
-#EXTINF:-1 group-title="45-VK BRASIL 02" ,Canal Brasil
-http://206.1.95.9:8004/play/a00k
-#EXTINF:-1 group-title="45-VK BRASIL 02" ,Canal do Boi
-http://206.1.95.9:8004/play/a01d
-#EXTINF:-1 group-title="45-VK BRASIL 02" ,Canal EducaĿªo - MEC
-http://206.1.95.9:8004/play/a03q
-#EXTINF:-1 group-title="45-VK BRASIL 02" ,Canal Rural
-http://206.1.95.9:8004/play/a03g
-#EXTINF:-1 group-title="45-VK BRASIL 02" ,Canal Sony
-http://206.1.95.9:8004/play/a01s
-#EXTINF:-1 group-title="45-VK BRASIL 02" ,CanĿªo Nova
-http://206.1.95.9:8004/play/a03t
-#EXTINF:-1 group-title="45-VK BRASIL 02" ,Cartoon Network
-http://206.1.95.9:8004/play/a018
-#EXTINF:-1 group-title="45-VK BRASIL 02" ,Cartoonito
-http://206.1.95.9:8004/play/a03f
-#EXTINF:-1 group-title="45-VK BRASIL 02" ,Cinemax
-http://206.1.95.9:8004/play/a04l
-#EXTINF:-1 group-title="45-VK BRASIL 02" ,CNN Brasil
-http://206.1.95.9:8004/play/a01e
-#EXTINF:-1 group-title="45-VK BRASIL 02" ,CNN Espaæol
-http://206.1.95.9:8004/play/a02f
-#EXTINF:-1 group-title="45-VK BRASIL 02" ,CNN Internacional
-http://206.1.95.9:8004/play/a04w
-#EXTINF:-1 group-title="45-VK BRASIL 02" ,CNT
-http://206.1.95.9:8004/play/a00s
-#EXTINF:-1 group-title="45-VK BRASIL 02" ,Combate
-http://206.1.95.9:8004/play/a037
-#EXTINF:-1 group-title="45-VK BRASIL 02" ,Comedy Central
-http://206.1.95.9:8004/play/a02x
-#EXTINF:-1 group-title="45-VK BRASIL 02" ,CONMEBOL TV 3
-http://206.1.95.9:8004/play/a035
-#EXTINF:-1 group-title="45-VK BRASIL 02" ,Curta!
-http://206.1.95.9:8004/play/a030
-#EXTINF:-1 group-title="45-VK BRASIL 02" ,Discovery Channel
-http://206.1.95.9:8004/play/a00r
-#EXTINF:-1 group-title="45-VK BRASIL 02" ,Discovery H&H
-http://206.1.95.9:8004/play/a01n
-#EXTINF:-1 group-title="45-VK BRASIL 02" ,Discovery Kids
-http://206.1.95.9:8004/play/a04q
-#EXTINF:-1 group-title="45-VK BRASIL 02" ,Discovery Turbo
-http://206.1.95.9:8004/play/a01w
-#EXTINF:-1 group-title="45-VK BRASIL 02" ,Disney
-http://206.1.95.9:8004/play/a03h
-#EXTINF:-1 group-title="45-VK BRASIL 02" ,DW (Deutsch+)
-http://206.1.95.9:8004/play/a04y
-#EXTINF:-1 group-title="45-VK BRASIL 02" ,E!
-http://206.1.95.9:8004/play/a02r
-#EXTINF:-1 group-title="45-VK BRASIL 02" ,ESPN
-http://206.1.95.9:8004/play/a01o
-#EXTINF:-1 group-title="45-VK BRASIL 02" ,ESPN 2
-http://206.1.95.9:8004/play/a027
-#EXTINF:-1 group-title="45-VK BRASIL 02" ,ESPN 4
-http://206.1.95.9:8004/play/a015
-#EXTINF:-1 group-title="45-VK BRASIL 02" ,Fish TV
-http://206.1.95.9:8004/play/a03b
-#EXTINF:-1 group-title="45-VK BRASIL 02" ,Food Network
-http://206.1.95.9:8004/play/a00e
-#EXTINF:-1 group-title="45-VK BRASIL 02" ,Fox Sports 2
-http://206.1.95.9:8004/play/a024
-#EXTINF:-1 group-title="45-VK BRASIL 02" ,FX
-http://206.1.95.9:8004/play/a01r
-#EXTINF:-1 group-title="45-VK BRASIL 02" ,Globo Minas
-http://206.1.95.9:8004/play/a055
-#EXTINF:-1 group-title="45-VK BRASIL 02" ,Globo RJ
-http://206.1.95.9:8004/play/a054
-#EXTINF:-1 group-title="45-VK BRASIL 02" ,GloboNews
-http://206.1.95.9:8004/play/a026
-#EXTINF:-1 group-title="45-VK BRASIL 02" ,Gloob
-http://206.1.95.9:8004/play/a00o
-#EXTINF:-1 group-title="45-VK BRASIL 02" ,Gloobinho
-http://206.1.95.9:8004/play/a04p
-#EXTINF:-1 group-title="45-VK BRASIL 02" ,GNT
-http://206.1.95.9:8004/play/a03a
-#EXTINF:-1 group-title="45-VK BRASIL 02" ,HBO
-http://206.1.95.9:8004/play/a00l
-#EXTINF:-1 group-title="45-VK BRASIL 02" ,HBO Family
-http://206.1.95.9:8004/play/a03c
-#EXTINF:-1 group-title="45-VK BRASIL 02" ,HBO MUNDI
-http://206.1.95.9:8004/play/a02u
-#EXTINF:-1 group-title="45-VK BRASIL 02" ,HBO Signature
-http://206.1.95.9:8004/play/a02c
-#EXTINF:-1 group-title="45-VK BRASIL 02" ,HBO XTREME
-http://206.1.95.9:8004/play/a04n
-#EXTINF:-1 group-title="45-VK BRASIL 02" ,HBO2
-http://206.1.95.9:8004/play/a01q
-#EXTINF:-1 group-title="45-VK BRASIL 02" ,History 2
-http://206.1.95.9:8004/play/a01u
-#EXTINF:-1 group-title="45-VK BRASIL 02" ,I-SAT
-http://206.1.95.9:8004/play/a03n
-#EXTINF:-1 group-title="45-VK BRASIL 02" ,ID - InvestigaĿªo Discovery
-http://206.1.95.9:8004/play/a01y
-#EXTINF:-1 group-title="45-VK BRASIL 02" ,IDEAL TV
-http://206.1.95.9:8004/play/a019
-#EXTINF:-1 group-title="45-VK BRASIL 02" ,MegaPix
-http://206.1.95.9:8004/play/a04m
-#EXTINF:-1 group-title="45-VK BRASIL 02" ,Multishow
-http://206.1.95.9:8004/play/a02q
-#EXTINF:-1 group-title="45-VK BRASIL 02" ,Music Box Brazil
-http://206.1.95.9:8004/play/a01a
-#EXTINF:-1 group-title="45-VK BRASIL 02" ,National Geographic
-http://206.1.95.9:8004/play/a01x
-#EXTINF:-1 group-title="45-VK BRASIL 02" ,NHK
-http://206.1.95.9:8004/play/a03o
-#EXTINF:-1 group-title="45-VK BRASIL 02" ,Nick Jr
-http://206.1.95.9:8004/play/a03i
-#EXTINF:-1 group-title="45-VK BRASIL 02" ,Nickelodeon
-http://206.1.95.9:8004/play/a01v
-#EXTINF:-1 group-title="45-VK BRASIL 02" ,OFF
-http://206.1.95.9:8004/play/a00h
-#EXTINF:-1 group-title="45-VK BRASIL 02" ,Paramount Network
-http://206.1.95.9:8004/play/a00g
-#EXTINF:-1 group-title="45-VK BRASIL 02" ,Polishop TV
-http://206.1.95.9:8004/play/a03p
-#EXTINF:-1 group-title="45-VK BRASIL 02" ,Polishop TV
-http://206.1.95.9:8004/play/a03u
-#EXTINF:-1 group-title="45-VK BRASIL 02" ,Premiere 2
-http://206.1.95.9:8004/play/a021
-#EXTINF:-1 group-title="45-VK BRASIL 02" ,Premiere 3
-http://206.1.95.9:8004/play/a038
-#EXTINF:-1 group-title="45-VK BRASIL 02" ,Premiere 4
-http://206.1.95.9:8004/play/a03s
-#EXTINF:-1 group-title="45-VK BRASIL 02" ,Premiere 5
-http://206.1.95.9:8004/play/a02l
-#EXTINF:-1 group-title="45-VK BRASIL 02" ,Premiere 8
-http://206.1.95.9:8004/play/a00x
-#EXTINF:-1 group-title="45-VK BRASIL 02" ,Premiere Clubes
-http://206.1.95.9:8004/play/a022
-#EXTINF:-1 group-title="45-VK BRASIL 02" ,Prime Box Brazil
-http://206.1.95.9:8004/play/a02b
-#EXTINF:-1 group-title="45-VK BRASIL 02" ,RAI
-http://206.1.95.9:8004/play/a04v
-#EXTINF:-1 group-title="45-VK BRASIL 02" ,RBI
-http://206.1.95.9:8004/play/a03m
-#EXTINF:-1 group-title="45-VK BRASIL 02" ,RBS TV Porto Alegre
-http://206.1.95.9:8004/play/a057
-#EXTINF:-1 group-title="45-VK BRASIL 02" ,Record News
-http://206.1.95.9:8004/play/a00q
-#EXTINF:-1 group-title="45-VK BRASIL 02" ,RECORDTV
-http://206.1.95.9:8004/play/a02i
-#EXTINF:-1 group-title="45-VK BRASIL 02" ,Rede Brasil
-http://206.1.95.9:8004/play/a02g
-#EXTINF:-1 group-title="45-VK BRASIL 02" ,Rede TV
-http://206.1.95.9:8004/play/a04u
-#EXTINF:-1 group-title="45-VK BRASIL 02" ,Rede Vida
-http://206.1.95.9:8004/play/a02e
-#EXTINF:-1 group-title="45-VK BRASIL 02" ,RIT
-http://206.1.95.9:8004/play/a03l
-#EXTINF:-1 group-title="45-VK BRASIL 02" ,SBT
-http://206.1.95.9:8004/play/a023
-#EXTINF:-1 group-title="45-VK BRASIL 02" ,SIC Internacional
-http://206.1.95.9:8004/play/a04x
-#EXTINF:-1 group-title="45-VK BRASIL 02" ,Space
-http://206.1.95.9:8004/play/a02s
-#EXTINF:-1 group-title="45-VK BRASIL 02" ,SporTV
-http://206.1.95.9:8004/play/a00f
-#EXTINF:-1 group-title="45-VK BRASIL 02" ,SporTV 2
-http://206.1.95.9:8004/play/a025
-#EXTINF:-1 group-title="45-VK BRASIL 02" ,SporTV 2 Alternativo
-http://206.1.95.9:8004/play/a00y
-#EXTINF:-1 group-title="45-VK BRASIL 02" ,SporTV 3
-http://206.1.95.9:8004/play/a04k
-#EXTINF:-1 group-title="45-VK BRASIL 02" ,SporTV Alternativo
-http://206.1.95.9:8004/play/a050
-#EXTINF:-1 group-title="45-VK BRASIL 02" ,STAR CHANNEL
-http://206.1.95.9:8004/play/a016
-#EXTINF:-1 group-title="45-VK BRASIL 02" ,Studio Universal
-http://206.1.95.9:8004/play/a02w
-#EXTINF:-1 group-title="45-VK BRASIL 02" ,Syfy
-http://206.1.95.9:8004/play/a04o
-#EXTINF:-1 group-title="45-VK BRASIL 02" ,TBS
-http://206.1.95.9:8004/play/a03e
-#EXTINF:-1 group-title="45-VK BRASIL 02" ,TCM
-http://206.1.95.9:8004/play/a02v
-#EXTINF:-1 group-title="45-VK BRASIL 02" ,Telecine Action
-http://206.1.95.9:8004/play/a017
-#EXTINF:-1 group-title="45-VK BRASIL 02" ,Telecine Cult
-http://206.1.95.9:8004/play/a029
-#EXTINF:-1 group-title="45-VK BRASIL 02" ,Telecine Pipoca
-http://206.1.95.9:8004/play/a02t
-#EXTINF:-1 group-title="45-VK BRASIL 02" ,Telecine Premium
-http://206.1.95.9:8004/play/a00i
-#EXTINF:-1 group-title="45-VK BRASIL 02" ,Telecine Touch
-http://206.1.95.9:8004/play/a00j
-#EXTINF:-1 group-title="45-VK BRASIL 02" ,Terra Viva
-http://206.1.95.9:8004/play/a03k
-#EXTINF:-1 group-title="45-VK BRASIL 02" ,The History Channel
-http://206.1.95.9:8004/play/a04r
-#EXTINF:-1 group-title="45-VK BRASIL 02" ,TLC
-http://206.1.95.9:8004/play/a01z
-#EXTINF:-1 group-title="45-VK BRASIL 02" ,TNT
-http://206.1.95.9:8004/play/a028
-#EXTINF:-1 group-title="45-VK BRASIL 02" ,TNT SØries
-http://206.1.95.9:8004/play/a02z
-#EXTINF:-1 group-title="45-VK BRASIL 02" ,Tooncast
-http://206.1.95.9:8004/play/a00p
-#EXTINF:-1 group-title="45-VK BRASIL 02" ,TruTV
-http://206.1.95.9:8004/play/a00m
-#EXTINF:-1 group-title="45-VK BRASIL 02" ,TV Anhanguera GoiÐnia
-http://206.1.95.9:8004/play/a056
-#EXTINF:-1 group-title="45-VK BRASIL 02" ,TV Aparecida
-http://206.1.95.9:8004/play/a04t
-#EXTINF:-1 group-title="45-VK BRASIL 02" ,TV Brasil
-http://206.1.95.9:8004/play/a034
-#EXTINF:-1 group-title="45-VK BRASIL 02" ,TV Brasil 2
-http://206.1.95.9:8004/play/a039
-#EXTINF:-1 group-title="45-VK BRASIL 02" ,TV Cultura
-http://206.1.95.9:8004/play/a02o
-#EXTINF:-1 group-title="45-VK BRASIL 02" ,TV CÐmara
-http://206.1.95.9:8004/play/a033
-#EXTINF:-1 group-title="45-VK BRASIL 02" ,TV JustiĿa
-http://206.1.95.9:8004/play/a031
-#EXTINF:-1 group-title="45-VK BRASIL 02" ,TV Novo Tempo
-http://206.1.95.9:8004/play/a04z
-#EXTINF:-1 group-title="45-VK BRASIL 02" ,TV Novo Tempo
-http://206.1.95.9:8004/play/a053
-#EXTINF:-1 group-title="45-VK BRASIL 02" ,TV RÆ tim bum
-http://206.1.95.9:8004/play/a03j
-#EXTINF:-1 group-title="45-VK BRASIL 02" ,TV Senado
-http://206.1.95.9:8004/play/a032
-#EXTINF:-1 group-title="45-VK BRASIL 02" ,TV Tem Bauru
-http://206.1.95.9:8004/play/a05a
-#EXTINF:-1 group-title="45-VK BRASIL 02" ,TV Tem Sorocaba
-http://206.1.95.9:8004/play/a059
-#EXTINF:-1 group-title="45-VK BRASIL 02" ,TV Tribuna Santos
-http://206.1.95.9:8004/play/a058
-#EXTINF:-1 group-title="45-VK BRASIL 02" ,TV5 Monde
-http://206.1.95.9:8004/play/a02k
-#EXTINF:-1 group-title="45-VK BRASIL 02" ,TVE
-http://206.1.95.9:8004/play/a01b
-#EXTINF:-1 group-title="45-VK BRASIL 02" ,Universal TV
-http://206.1.95.9:8004/play/a02j
-#EXTINF:-1 group-title="45-VK BRASIL 02" ,Woohoo
-http://206.1.95.9:8004/play/a01t
-#EXTINF:-1 group-title="45-VK BRASIL 02" ,ZooMoo
-http://206.1.95.9:8004/play/a00t
-#EXTINF:-1 group-title="45-VK BRASIL SPORT" ,A&E
-http://206.1.95.15:8004/play/a03d
-#EXTINF:-1 group-title="45-VK BRASIL SPORT" ,AMC
-http://206.1.95.15:8004/play/a00u
-#EXTINF:-1 group-title="45-VK BRASIL SPORT" ,Animal Planet
-http://206.1.95.15:8004/play/a02y
-#EXTINF:-1 group-title="45-VK BRASIL SPORT" ,Arte 1
-http://206.1.95.15:8004/play/a02h
-#EXTINF:-1 group-title="45-VK BRASIL SPORT" ,AXN
-http://206.1.95.15:8004/play/a02d
-#EXTINF:-1 group-title="45-VK BRASIL SPORT" ,Baby TV
-http://206.1.95.15:8004/play/a00n
-#EXTINF:-1 group-title="45-VK BRASIL SPORT" ,Band News
-http://206.1.95.15:8004/play/a020
-#EXTINF:-1 group-title="45-VK BRASIL SPORT" ,Band Sports
-http://206.1.95.15:8004/play/a01p
-#EXTINF:-1 group-title="45-VK BRASIL SPORT" ,Bandeirantes
-http://206.1.95.15:8004/play/a051
-#EXTINF:-1 group-title="45-VK BRASIL SPORT" ,Boa Vontade TV
-http://206.1.95.15:8004/play/a02a
-#EXTINF:-1 group-title="45-VK BRASIL SPORT" ,Boa Vontade TV
-http://206.1.95.15:8004/play/a02p
-#EXTINF:-1 group-title="45-VK BRASIL SPORT" ,Canal Brasil
-http://206.1.95.15:8004/play/a00k
-#EXTINF:-1 group-title="45-VK BRASIL SPORT" ,Canal do Boi
-http://206.1.95.15:8004/play/a01d
-#EXTINF:-1 group-title="45-VK BRASIL SPORT" ,Canal EducaĿªo - MEC
-http://206.1.95.15:8004/play/a03q
-#EXTINF:-1 group-title="45-VK BRASIL SPORT" ,Canal Rural
-http://206.1.95.15:8004/play/a03g
-#EXTINF:-1 group-title="45-VK BRASIL SPORT" ,Canal Sony
-http://206.1.95.15:8004/play/a01s
-#EXTINF:-1 group-title="45-VK BRASIL SPORT" ,CanĿªo Nova
-http://206.1.95.15:8004/play/a03t
-#EXTINF:-1 group-title="45-VK BRASIL SPORT" ,Cartoon Network
-http://206.1.95.15:8004/play/a018
-#EXTINF:-1 group-title="45-VK BRASIL SPORT" ,Cartoonito
-http://206.1.95.15:8004/play/a03f
-#EXTINF:-1 group-title="45-VK BRASIL SPORT" ,Cinemax
-http://206.1.95.15:8004/play/a04l
-#EXTINF:-1 group-title="45-VK BRASIL SPORT" ,CNN Brasil
-http://206.1.95.15:8004/play/a01e
-#EXTINF:-1 group-title="45-VK BRASIL SPORT" ,CNN Espaæol
-http://206.1.95.15:8004/play/a02f
-#EXTINF:-1 group-title="45-VK BRASIL SPORT" ,CNN Internacional
-http://206.1.95.15:8004/play/a04w
-#EXTINF:-1 group-title="45-VK BRASIL SPORT" ,CNT
-http://206.1.95.15:8004/play/a00s
-#EXTINF:-1 group-title="45-VK BRASIL SPORT" ,Combate
-http://206.1.95.15:8004/play/a037
-#EXTINF:-1 group-title="45-VK BRASIL SPORT" ,Comedy Central
-http://206.1.95.15:8004/play/a02x
-#EXTINF:-1 group-title="45-VK BRASIL SPORT" ,CONMEBOL TV 3
-http://206.1.95.15:8004/play/a035
-#EXTINF:-1 group-title="45-VK BRASIL SPORT" ,Curta!
-http://206.1.95.15:8004/play/a030
-#EXTINF:-1 group-title="45-VK BRASIL SPORT" ,Discovery Channel
-http://206.1.95.15:8004/play/a00r
-#EXTINF:-1 group-title="45-VK BRASIL SPORT" ,Discovery H&H
-http://206.1.95.15:8004/play/a01n
-#EXTINF:-1 group-title="45-VK BRASIL SPORT" ,Discovery Kids
-http://206.1.95.15:8004/play/a04q
-#EXTINF:-1 group-title="45-VK BRASIL SPORT" ,Discovery Turbo
-http://206.1.95.15:8004/play/a01w
-#EXTINF:-1 group-title="45-VK BRASIL SPORT" ,Disney
-http://206.1.95.15:8004/play/a03h
-#EXTINF:-1 group-title="45-VK BRASIL SPORT" ,DW (Deutsch+)
-http://206.1.95.15:8004/play/a04y
-#EXTINF:-1 group-title="45-VK BRASIL SPORT" ,E!
-http://206.1.95.15:8004/play/a02r
-#EXTINF:-1 group-title="45-VK BRASIL SPORT" ,ESPN
-http://206.1.95.15:8004/play/a01o
-#EXTINF:-1 group-title="45-VK BRASIL SPORT" ,ESPN 2
-http://206.1.95.15:8004/play/a027
-#EXTINF:-1 group-title="45-VK BRASIL SPORT" ,ESPN 4
-http://206.1.95.15:8004/play/a015
-#EXTINF:-1 group-title="45-VK BRASIL SPORT" ,Fish TV
-http://206.1.95.15:8004/play/a03b
-#EXTINF:-1 group-title="45-VK BRASIL SPORT" ,Food Network
-http://206.1.95.15:8004/play/a00e
-#EXTINF:-1 group-title="45-VK BRASIL SPORT" ,Fox Sports 2
-http://206.1.95.15:8004/play/a024
-#EXTINF:-1 group-title="45-VK BRASIL SPORT" ,FX
-http://206.1.95.15:8004/play/a01r
-#EXTINF:-1 group-title="45-VK BRASIL SPORT" ,Globo Minas
-http://206.1.95.15:8004/play/a055
-#EXTINF:-1 group-title="45-VK BRASIL SPORT" ,Globo RJ
-http://206.1.95.15:8004/play/a054
-#EXTINF:-1 group-title="45-VK BRASIL SPORT" ,GloboNews
-http://206.1.95.15:8004/play/a026
-#EXTINF:-1 group-title="45-VK BRASIL SPORT" ,Gloob
-http://206.1.95.15:8004/play/a00o
-#EXTINF:-1 group-title="45-VK BRASIL SPORT" ,Gloobinho
-http://206.1.95.15:8004/play/a04p
-#EXTINF:-1 group-title="45-VK BRASIL SPORT" ,GNT
-http://206.1.95.15:8004/play/a03a
-#EXTINF:-1 group-title="45-VK BRASIL SPORT" ,HBO
-http://206.1.95.15:8004/play/a00l
-#EXTINF:-1 group-title="45-VK BRASIL SPORT" ,HBO Family
-http://206.1.95.15:8004/play/a03c
-#EXTINF:-1 group-title="45-VK BRASIL SPORT" ,HBO MUNDI
-http://206.1.95.15:8004/play/a02u
-#EXTINF:-1 group-title="45-VK BRASIL SPORT" ,HBO Signature
-http://206.1.95.15:8004/play/a02c
-#EXTINF:-1 group-title="45-VK BRASIL SPORT" ,HBO XTREME
-http://206.1.95.15:8004/play/a04n
-#EXTINF:-1 group-title="45-VK BRASIL SPORT" ,HBO2
-http://206.1.95.15:8004/play/a01q
-#EXTINF:-1 group-title="45-VK BRASIL SPORT" ,History 2
-http://206.1.95.15:8004/play/a01u
-#EXTINF:-1 group-title="45-VK BRASIL SPORT" ,I-SAT
-http://206.1.95.15:8004/play/a03n
-#EXTINF:-1 group-title="45-VK BRASIL SPORT" ,ID - InvestigaĿªo Discovery
-http://206.1.95.15:8004/play/a01y
-#EXTINF:-1 group-title="45-VK BRASIL SPORT" ,IDEAL TV
-http://206.1.95.15:8004/play/a019
-#EXTINF:-1 group-title="45-VK BRASIL SPORT" ,MegaPix
-http://206.1.95.15:8004/play/a04m
-#EXTINF:-1 group-title="45-VK BRASIL SPORT" ,Multishow
-http://206.1.95.15:8004/play/a02q
-#EXTINF:-1 group-title="45-VK BRASIL SPORT" ,Music Box Brazil
-http://206.1.95.15:8004/play/a01a
-#EXTINF:-1 group-title="45-VK BRASIL SPORT" ,National Geographic
-http://206.1.95.15:8004/play/a01x
-#EXTINF:-1 group-title="45-VK BRASIL SPORT" ,NHK
-http://206.1.95.15:8004/play/a03o
-#EXTINF:-1 group-title="45-VK BRASIL SPORT" ,Nick Jr
-http://206.1.95.15:8004/play/a03i
-#EXTINF:-1 group-title="45-VK BRASIL SPORT" ,Nickelodeon
-http://206.1.95.15:8004/play/a01v
-#EXTINF:-1 group-title="45-VK BRASIL SPORT" ,OFF
-http://206.1.95.15:8004/play/a00h
-#EXTINF:-1 group-title="45-VK BRASIL SPORT" ,Paramount Network
-http://206.1.95.15:8004/play/a00g
-#EXTINF:-1 group-title="45-VK BRASIL SPORT" ,Polishop TV
-http://206.1.95.15:8004/play/a03p
-#EXTINF:-1 group-title="45-VK BRASIL SPORT" ,Polishop TV
-http://206.1.95.15:8004/play/a03u
-#EXTINF:-1 group-title="45-VK BRASIL SPORT" ,Premiere 2
-http://206.1.95.15:8004/play/a021
-#EXTINF:-1 group-title="45-VK BRASIL SPORT" ,Premiere 3
-http://206.1.95.15:8004/play/a038
-#EXTINF:-1 group-title="45-VK BRASIL SPORT" ,Premiere 4
-http://206.1.95.15:8004/play/a03s
-#EXTINF:-1 group-title="45-VK BRASIL SPORT" ,Premiere 5
-http://206.1.95.15:8004/play/a02l
-#EXTINF:-1 group-title="45-VK BRASIL SPORT" ,Premiere 8
-http://206.1.95.15:8004/play/a00x
-#EXTINF:-1 group-title="45-VK BRASIL SPORT" ,Premiere Clubes
-http://206.1.95.15:8004/play/a022
-#EXTINF:-1 group-title="45-VK BRASIL SPORT" ,Prime Box Brazil
-http://206.1.95.15:8004/play/a02b
-#EXTINF:-1 group-title="45-VK BRASIL SPORT" ,RAI
-http://206.1.95.15:8004/play/a04v
-#EXTINF:-1 group-title="45-VK BRASIL SPORT" ,RBI
-http://206.1.95.15:8004/play/a03m
-#EXTINF:-1 group-title="45-VK BRASIL SPORT" ,RBS TV Porto Alegre
-http://206.1.95.15:8004/play/a057
-#EXTINF:-1 group-title="45-VK BRASIL SPORT" ,Record News
-http://206.1.95.15:8004/play/a00q
-#EXTINF:-1 group-title="45-VK BRASIL SPORT" ,RECORDTV
-http://206.1.95.15:8004/play/a02i
-#EXTINF:-1 group-title="45-VK BRASIL SPORT" ,Rede Brasil
-http://206.1.95.15:8004/play/a02g
-#EXTINF:-1 group-title="45-VK BRASIL SPORT" ,Rede TV
-http://206.1.95.15:8004/play/a04u
-#EXTINF:-1 group-title="45-VK BRASIL SPORT" ,Rede Vida
-http://206.1.95.15:8004/play/a02e
-#EXTINF:-1 group-title="45-VK BRASIL SPORT" ,RIT
-http://206.1.95.15:8004/play/a03l
-#EXTINF:-1 group-title="45-VK BRASIL SPORT" ,SBT
-http://206.1.95.15:8004/play/a023
-#EXTINF:-1 group-title="45-VK BRASIL SPORT" ,SIC Internacional
-http://206.1.95.15:8004/play/a04x
-#EXTINF:-1 group-title="45-VK BRASIL SPORT" ,Space
-http://206.1.95.15:8004/play/a02s
-#EXTINF:-1 group-title="45-VK BRASIL SPORT" ,SporTV
-http://206.1.95.15:8004/play/a00f
-#EXTINF:-1 group-title="45-VK BRASIL SPORT" ,SporTV 2
-http://206.1.95.15:8004/play/a025
-#EXTINF:-1 group-title="45-VK BRASIL SPORT" ,SporTV 2 Alternativo
-http://206.1.95.15:8004/play/a00y
-#EXTINF:-1 group-title="45-VK BRASIL SPORT" ,SporTV 3
-http://206.1.95.15:8004/play/a04k
-#EXTINF:-1 group-title="45-VK BRASIL SPORT" ,SporTV Alternativo
-http://206.1.95.15:8004/play/a050
-#EXTINF:-1 group-title="45-VK BRASIL SPORT" ,STAR CHANNEL
-http://206.1.95.15:8004/play/a016
-#EXTINF:-1 group-title="45-VK BRASIL SPORT" ,Studio Universal
-http://206.1.95.15:8004/play/a02w
-#EXTINF:-1 group-title="45-VK BRASIL SPORT" ,Syfy
-http://206.1.95.15:8004/play/a04o
-#EXTINF:-1 group-title="45-VK BRASIL SPORT" ,TBS
-http://206.1.95.15:8004/play/a03e
-#EXTINF:-1 group-title="45-VK BRASIL SPORT" ,TCM
-http://206.1.95.15:8004/play/a02v
-#EXTINF:-1 group-title="45-VK BRASIL SPORT" ,Telecine Action
-http://206.1.95.15:8004/play/a017
-#EXTINF:-1 group-title="45-VK BRASIL SPORT" ,Telecine Cult
-http://206.1.95.15:8004/play/a029
-#EXTINF:-1 group-title="45-VK BRASIL SPORT" ,Telecine Pipoca
-http://206.1.95.15:8004/play/a02t
-#EXTINF:-1 group-title="45-VK BRASIL SPORT" ,Telecine Premium
-http://206.1.95.15:8004/play/a00i
-#EXTINF:-1 group-title="45-VK BRASIL SPORT" ,Telecine Touch
-http://206.1.95.15:8004/play/a00j
-#EXTINF:-1 group-title="45-VK BRASIL SPORT" ,Terra Viva
-http://206.1.95.15:8004/play/a03k
-#EXTINF:-1 group-title="45-VK BRASIL SPORT" ,The History Channel
-http://206.1.95.15:8004/play/a04r
-#EXTINF:-1 group-title="45-VK BRASIL SPORT" ,TLC
-http://206.1.95.15:8004/play/a01z
-#EXTINF:-1 group-title="45-VK BRASIL SPORT" ,TNT
-http://206.1.95.15:8004/play/a028
-#EXTINF:-1 group-title="45-VK BRASIL SPORT" ,TNT SØries
-http://206.1.95.15:8004/play/a02z
-#EXTINF:-1 group-title="45-VK BRASIL SPORT" ,Tooncast
-http://206.1.95.15:8004/play/a00p
-#EXTINF:-1 group-title="45-VK BRASIL SPORT" ,TruTV
-http://206.1.95.15:8004/play/a00m
-#EXTINF:-1 group-title="45-VK BRASIL SPORT" ,TV Anhanguera GoiÐnia
-http://206.1.95.15:8004/play/a056
-#EXTINF:-1 group-title="45-VK BRASIL SPORT" ,TV Aparecida
-http://206.1.95.15:8004/play/a04t
-#EXTINF:-1 group-title="45-VK BRASIL SPORT" ,TV Brasil
-http://206.1.95.15:8004/play/a034
-#EXTINF:-1 group-title="45-VK BRASIL SPORT" ,TV Brasil 2
-http://206.1.95.15:8004/play/a039
-#EXTINF:-1 group-title="45-VK BRASIL SPORT" ,TV Cultura
-http://206.1.95.15:8004/play/a02o
-#EXTINF:-1 group-title="45-VK BRASIL SPORT" ,TV CÐmara
-http://206.1.95.15:8004/play/a033
-#EXTINF:-1 group-title="45-VK BRASIL SPORT" ,TV JustiĿa
-http://206.1.95.15:8004/play/a031
-#EXTINF:-1 group-title="45-VK BRASIL SPORT" ,TV Novo Tempo
-http://206.1.95.15:8004/play/a04z
-#EXTINF:-1 group-title="45-VK BRASIL SPORT" ,TV Novo Tempo
-http://206.1.95.15:8004/play/a053
-#EXTINF:-1 group-title="45-VK BRASIL SPORT" ,TV RÆ tim bum
-http://206.1.95.15:8004/play/a03j
-#EXTINF:-1 group-title="45-VK BRASIL SPORT" ,TV Senado
-http://206.1.95.15:8004/play/a032
-#EXTINF:-1 group-title="45-VK BRASIL SPORT" ,TV Tem Bauru
-http://206.1.95.15:8004/play/a05a
-#EXTINF:-1 group-title="45-VK BRASIL SPORT" ,TV Tem Sorocaba
-http://206.1.95.15:8004/play/a059
-#EXTINF:-1 group-title="45-VK BRASIL SPORT" ,TV Tribuna Santos
-http://206.1.95.15:8004/play/a058
-#EXTINF:-1 group-title="45-VK BRASIL SPORT" ,TV5 Monde
-http://206.1.95.15:8004/play/a02k
-#EXTINF:-1 group-title="45-VK BRASIL SPORT" ,TVE
-http://206.1.95.15:8004/play/a01b
-#EXTINF:-1 group-title="45-VK BRASIL SPORT" ,Universal TV
-http://206.1.95.15:8004/play/a02j
-#EXTINF:-1 group-title="45-VK BRASIL SPORT" ,Woohoo
-http://206.1.95.15:8004/play/a01t
-#EXTINF:-1 group-title="45-VK BRASIL SPORT" ,ZooMoo
-http://206.1.95.15:8004/play/a00t
 #EXTINF:-1 group-title="45-VK BULGARIA 01" ,10.128_The World_r6_1
 http://212.5.59.2:9882/play/a01d/index.m3u8
 #EXTINF:-1 group-title="45-VK BULGARIA 01" ,10.229_Food Network_r6_1
@@ -21427,262 +23051,6 @@ http://190.149.66.90:16000/play/a02p/index.m3u8
 http://190.149.66.90:16000/play/a032/index.m3u8
 #EXTINF:-1 group-title="45-vk-AMERICA CENTRAL 2" ,WARNER HD
 http://190.149.66.90:16000/play/a03f/index.m3u8
-#EXTINF:-1 group-title="45-VK-BRASIL" ,A&E
-http://206.1.95.2:8004/play/a03d
-#EXTINF:-1 group-title="45-VK-BRASIL" ,AMC
-http://206.1.95.2:8004/play/a00u
-#EXTINF:-1 group-title="45-VK-BRASIL" ,Animal Planet
-http://206.1.95.2:8004/play/a02y
-#EXTINF:-1 group-title="45-VK-BRASIL" ,Arte 1
-http://206.1.95.2:8004/play/a02h
-#EXTINF:-1 group-title="45-VK-BRASIL" ,AXN
-http://206.1.95.2:8004/play/a02d
-#EXTINF:-1 group-title="45-VK-BRASIL" ,Baby TV
-http://206.1.95.2:8004/play/a00n
-#EXTINF:-1 group-title="45-VK-BRASIL" ,Band News
-http://206.1.95.2:8004/play/a020
-#EXTINF:-1 group-title="45-VK-BRASIL" ,Band Sports
-http://206.1.95.2:8004/play/a01p
-#EXTINF:-1 group-title="45-VK-BRASIL" ,Bandeirantes
-http://206.1.95.2:8004/play/a051
-#EXTINF:-1 group-title="45-VK-BRASIL" ,Boa Vontade TV
-http://206.1.95.2:8004/play/a02a
-#EXTINF:-1 group-title="45-VK-BRASIL" ,Boa Vontade TV
-http://206.1.95.2:8004/play/a02p
-#EXTINF:-1 group-title="45-VK-BRASIL" ,Canal Brasil
-http://206.1.95.2:8004/play/a00k
-#EXTINF:-1 group-title="45-VK-BRASIL" ,Canal do Boi
-http://206.1.95.2:8004/play/a01d
-#EXTINF:-1 group-title="45-VK-BRASIL" ,Canal EducaĿªo - MEC
-http://206.1.95.2:8004/play/a03q
-#EXTINF:-1 group-title="45-VK-BRASIL" ,Canal Rural
-http://206.1.95.2:8004/play/a03g
-#EXTINF:-1 group-title="45-VK-BRASIL" ,Canal Sony
-http://206.1.95.2:8004/play/a01s
-#EXTINF:-1 group-title="45-VK-BRASIL" ,CanĿªo Nova
-http://206.1.95.2:8004/play/a03t
-#EXTINF:-1 group-title="45-VK-BRASIL" ,Cartoon Network
-http://206.1.95.2:8004/play/a018
-#EXTINF:-1 group-title="45-VK-BRASIL" ,Cartoonito
-http://206.1.95.2:8004/play/a03f
-#EXTINF:-1 group-title="45-VK-BRASIL" ,Cinemax
-http://206.1.95.2:8004/play/a04l
-#EXTINF:-1 group-title="45-VK-BRASIL" ,CNN Brasil
-http://206.1.95.2:8004/play/a01e
-#EXTINF:-1 group-title="45-VK-BRASIL" ,CNN Espaæol
-http://206.1.95.2:8004/play/a02f
-#EXTINF:-1 group-title="45-VK-BRASIL" ,CNN Internacional
-http://206.1.95.2:8004/play/a04w
-#EXTINF:-1 group-title="45-VK-BRASIL" ,CNT
-http://206.1.95.2:8004/play/a00s
-#EXTINF:-1 group-title="45-VK-BRASIL" ,Combate
-http://206.1.95.2:8004/play/a037
-#EXTINF:-1 group-title="45-VK-BRASIL" ,Comedy Central
-http://206.1.95.2:8004/play/a02x
-#EXTINF:-1 group-title="45-VK-BRASIL" ,Curta!
-http://206.1.95.2:8004/play/a030
-#EXTINF:-1 group-title="45-VK-BRASIL" ,Discovery Channel
-http://206.1.95.2:8004/play/a00r
-#EXTINF:-1 group-title="45-VK-BRASIL" ,Discovery H&H
-http://206.1.95.2:8004/play/a01n
-#EXTINF:-1 group-title="45-VK-BRASIL" ,Discovery Kids
-http://206.1.95.2:8004/play/a04q
-#EXTINF:-1 group-title="45-VK-BRASIL" ,Discovery Turbo
-http://206.1.95.2:8004/play/a01w
-#EXTINF:-1 group-title="45-VK-BRASIL" ,Disney
-http://206.1.95.2:8004/play/a03h
-#EXTINF:-1 group-title="45-VK-BRASIL" ,DW (Deutsch+)
-http://206.1.95.2:8004/play/a04y
-#EXTINF:-1 group-title="45-VK-BRASIL" ,E!
-http://206.1.95.2:8004/play/a02r
-#EXTINF:-1 group-title="45-VK-BRASIL" ,ESPN
-http://206.1.95.2:8004/play/a01o
-#EXTINF:-1 group-title="45-VK-BRASIL" ,ESPN 2
-http://206.1.95.2:8004/play/a027
-#EXTINF:-1 group-title="45-VK-BRASIL" ,ESPN 4
-http://206.1.95.2:8004/play/a015
-#EXTINF:-1 group-title="45-VK-BRASIL" ,Fish TV
-http://206.1.95.2:8004/play/a03b
-#EXTINF:-1 group-title="45-VK-BRASIL" ,Food Network
-http://206.1.95.2:8004/play/a00e
-#EXTINF:-1 group-title="45-VK-BRASIL" ,Fox Sports 2
-http://206.1.95.2:8004/play/a024
-#EXTINF:-1 group-title="45-VK-BRASIL" ,FX
-http://206.1.95.2:8004/play/a01r
-#EXTINF:-1 group-title="45-VK-BRASIL" ,Globo Minas
-http://206.1.95.2:8004/play/a055
-#EXTINF:-1 group-title="45-VK-BRASIL" ,Globo RJ
-http://206.1.95.2:8004/play/a054
-#EXTINF:-1 group-title="45-VK-BRASIL" ,GloboNews
-http://206.1.95.2:8004/play/a026
-#EXTINF:-1 group-title="45-VK-BRASIL" ,Gloob
-http://206.1.95.2:8004/play/a00o
-#EXTINF:-1 group-title="45-VK-BRASIL" ,Gloobinho
-http://206.1.95.2:8004/play/a04p
-#EXTINF:-1 group-title="45-VK-BRASIL" ,GNT
-http://206.1.95.2:8004/play/a03a
-#EXTINF:-1 group-title="45-VK-BRASIL" ,HBO
-http://206.1.95.2:8004/play/a00l
-#EXTINF:-1 group-title="45-VK-BRASIL" ,HBO Family
-http://206.1.95.2:8004/play/a03c
-#EXTINF:-1 group-title="45-VK-BRASIL" ,HBO MUNDI
-http://206.1.95.2:8004/play/a02u
-#EXTINF:-1 group-title="45-VK-BRASIL" ,HBO Signature
-http://206.1.95.2:8004/play/a02c
-#EXTINF:-1 group-title="45-VK-BRASIL" ,HBO XTREME
-http://206.1.95.2:8004/play/a04n
-#EXTINF:-1 group-title="45-VK-BRASIL" ,HBO2
-http://206.1.95.2:8004/play/a01q
-#EXTINF:-1 group-title="45-VK-BRASIL" ,History 2
-http://206.1.95.2:8004/play/a01u
-#EXTINF:-1 group-title="45-VK-BRASIL" ,I-SAT
-http://206.1.95.2:8004/play/a03n
-#EXTINF:-1 group-title="45-VK-BRASIL" ,ID - InvestigaĿªo Discovery
-http://206.1.95.2:8004/play/a01y
-#EXTINF:-1 group-title="45-VK-BRASIL" ,IDEAL TV
-http://206.1.95.2:8004/play/a019
-#EXTINF:-1 group-title="45-VK-BRASIL" ,MegaPix
-http://206.1.95.2:8004/play/a04m
-#EXTINF:-1 group-title="45-VK-BRASIL" ,Multishow
-http://206.1.95.2:8004/play/a02q
-#EXTINF:-1 group-title="45-VK-BRASIL" ,Music Box Brazil
-http://206.1.95.2:8004/play/a01a
-#EXTINF:-1 group-title="45-VK-BRASIL" ,National Geographic
-http://206.1.95.2:8004/play/a01x
-#EXTINF:-1 group-title="45-VK-BRASIL" ,NHK
-http://206.1.95.2:8004/play/a03o
-#EXTINF:-1 group-title="45-VK-BRASIL" ,Nick Jr
-http://206.1.95.2:8004/play/a03i
-#EXTINF:-1 group-title="45-VK-BRASIL" ,Nickelodeon
-http://206.1.95.2:8004/play/a01v
-#EXTINF:-1 group-title="45-VK-BRASIL" ,OFF
-http://206.1.95.2:8004/play/a00h
-#EXTINF:-1 group-title="45-VK-BRASIL" ,Paramount Network
-http://206.1.95.2:8004/play/a00g
-#EXTINF:-1 group-title="45-VK-BRASIL" ,Polishop TV
-http://206.1.95.2:8004/play/a03p
-#EXTINF:-1 group-title="45-VK-BRASIL" ,Polishop TV
-http://206.1.95.2:8004/play/a03u
-#EXTINF:-1 group-title="45-VK-BRASIL" ,Premiere 2
-http://206.1.95.2:8004/play/a021
-#EXTINF:-1 group-title="45-VK-BRASIL" ,Premiere 3
-http://206.1.95.2:8004/play/a038
-#EXTINF:-1 group-title="45-VK-BRASIL" ,Premiere 4
-http://206.1.95.2:8004/play/a03s
-#EXTINF:-1 group-title="45-VK-BRASIL" ,Premiere 5
-http://206.1.95.2:8004/play/a02l
-#EXTINF:-1 group-title="45-VK-BRASIL" ,Premiere 8
-http://206.1.95.2:8004/play/a00x
-#EXTINF:-1 group-title="45-VK-BRASIL" ,Premiere Clubes
-http://206.1.95.2:8004/play/a022
-#EXTINF:-1 group-title="45-VK-BRASIL" ,Prime Box Brazil
-http://206.1.95.2:8004/play/a02b
-#EXTINF:-1 group-title="45-VK-BRASIL" ,RAI
-http://206.1.95.2:8004/play/a04v
-#EXTINF:-1 group-title="45-VK-BRASIL" ,RBI
-http://206.1.95.2:8004/play/a03m
-#EXTINF:-1 group-title="45-VK-BRASIL" ,RBS TV Porto Alegre
-http://206.1.95.2:8004/play/a057
-#EXTINF:-1 group-title="45-VK-BRASIL" ,Record News
-http://206.1.95.2:8004/play/a00q
-#EXTINF:-1 group-title="45-VK-BRASIL" ,RECORDTV
-http://206.1.95.2:8004/play/a02i
-#EXTINF:-1 group-title="45-VK-BRASIL" ,Rede Brasil
-http://206.1.95.2:8004/play/a02g
-#EXTINF:-1 group-title="45-VK-BRASIL" ,Rede TV
-http://206.1.95.2:8004/play/a04u
-#EXTINF:-1 group-title="45-VK-BRASIL" ,Rede Vida
-http://206.1.95.2:8004/play/a02e
-#EXTINF:-1 group-title="45-VK-BRASIL" ,RIT
-http://206.1.95.2:8004/play/a03l
-#EXTINF:-1 group-title="45-VK-BRASIL" ,SBT
-http://206.1.95.2:8004/play/a023
-#EXTINF:-1 group-title="45-VK-BRASIL" ,SIC Internacional
-http://206.1.95.2:8004/play/a04x
-#EXTINF:-1 group-title="45-VK-BRASIL" ,Space
-http://206.1.95.2:8004/play/a02s
-#EXTINF:-1 group-title="45-VK-BRASIL" ,SporTV
-http://206.1.95.2:8004/play/a00f
-#EXTINF:-1 group-title="45-VK-BRASIL" ,SporTV 2
-http://206.1.95.2:8004/play/a025
-#EXTINF:-1 group-title="45-VK-BRASIL" ,SporTV 2 Alternativo
-http://206.1.95.2:8004/play/a00y
-#EXTINF:-1 group-title="45-VK-BRASIL" ,SporTV 3
-http://206.1.95.2:8004/play/a04k
-#EXTINF:-1 group-title="45-VK-BRASIL" ,SporTV Alternativo
-http://206.1.95.2:8004/play/a050
-#EXTINF:-1 group-title="45-VK-BRASIL" ,STAR CHANNEL
-http://206.1.95.2:8004/play/a016
-#EXTINF:-1 group-title="45-VK-BRASIL" ,Studio Universal
-http://206.1.95.2:8004/play/a02w
-#EXTINF:-1 group-title="45-VK-BRASIL" ,Syfy
-http://206.1.95.2:8004/play/a04o
-#EXTINF:-1 group-title="45-VK-BRASIL" ,TBS
-http://206.1.95.2:8004/play/a03e
-#EXTINF:-1 group-title="45-VK-BRASIL" ,TCM
-http://206.1.95.2:8004/play/a02v
-#EXTINF:-1 group-title="45-VK-BRASIL" ,Telecine Action
-http://206.1.95.2:8004/play/a017
-#EXTINF:-1 group-title="45-VK-BRASIL" ,Telecine Cult
-http://206.1.95.2:8004/play/a029
-#EXTINF:-1 group-title="45-VK-BRASIL" ,Telecine Pipoca
-http://206.1.95.2:8004/play/a02t
-#EXTINF:-1 group-title="45-VK-BRASIL" ,Telecine Premium
-http://206.1.95.2:8004/play/a00i
-#EXTINF:-1 group-title="45-VK-BRASIL" ,Telecine Touch
-http://206.1.95.2:8004/play/a00j
-#EXTINF:-1 group-title="45-VK-BRASIL" ,Terra Viva
-http://206.1.95.2:8004/play/a03k
-#EXTINF:-1 group-title="45-VK-BRASIL" ,The History Channel
-http://206.1.95.2:8004/play/a04r
-#EXTINF:-1 group-title="45-VK-BRASIL" ,TLC
-http://206.1.95.2:8004/play/a01z
-#EXTINF:-1 group-title="45-VK-BRASIL" ,TNT
-http://206.1.95.2:8004/play/a028
-#EXTINF:-1 group-title="45-VK-BRASIL" ,TNT SØries
-http://206.1.95.2:8004/play/a02z
-#EXTINF:-1 group-title="45-VK-BRASIL" ,Tooncast
-http://206.1.95.2:8004/play/a00p
-#EXTINF:-1 group-title="45-VK-BRASIL" ,TruTV
-http://206.1.95.2:8004/play/a00m
-#EXTINF:-1 group-title="45-VK-BRASIL" ,TV Anhanguera GoiÐnia
-http://206.1.95.2:8004/play/a056
-#EXTINF:-1 group-title="45-VK-BRASIL" ,TV Aparecida
-http://206.1.95.2:8004/play/a04t
-#EXTINF:-1 group-title="45-VK-BRASIL" ,TV Brasil
-http://206.1.95.2:8004/play/a034
-#EXTINF:-1 group-title="45-VK-BRASIL" ,TV Brasil 2
-http://206.1.95.2:8004/play/a039
-#EXTINF:-1 group-title="45-VK-BRASIL" ,TV Cultura
-http://206.1.95.2:8004/play/a02o
-#EXTINF:-1 group-title="45-VK-BRASIL" ,TV CÐmara
-http://206.1.95.2:8004/play/a033
-#EXTINF:-1 group-title="45-VK-BRASIL" ,TV JustiĿa
-http://206.1.95.2:8004/play/a031
-#EXTINF:-1 group-title="45-VK-BRASIL" ,TV Novo Tempo
-http://206.1.95.2:8004/play/a04z
-#EXTINF:-1 group-title="45-VK-BRASIL" ,TV Novo Tempo
-http://206.1.95.2:8004/play/a053
-#EXTINF:-1 group-title="45-VK-BRASIL" ,TV RÆ tim bum
-http://206.1.95.2:8004/play/a03j
-#EXTINF:-1 group-title="45-VK-BRASIL" ,TV Senado
-http://206.1.95.2:8004/play/a032
-#EXTINF:-1 group-title="45-VK-BRASIL" ,TV Tem Bauru
-http://206.1.95.2:8004/play/a05a
-#EXTINF:-1 group-title="45-VK-BRASIL" ,TV Tem Sorocaba
-http://206.1.95.2:8004/play/a059
-#EXTINF:-1 group-title="45-VK-BRASIL" ,TV Tribuna Santos
-http://206.1.95.2:8004/play/a058
-#EXTINF:-1 group-title="45-VK-BRASIL" ,TV5 Monde
-http://206.1.95.2:8004/play/a02k
-#EXTINF:-1 group-title="45-VK-BRASIL" ,TVE
-http://206.1.95.2:8004/play/a01b
-#EXTINF:-1 group-title="45-VK-BRASIL" ,Universal TV
-http://206.1.95.2:8004/play/a02j
-#EXTINF:-1 group-title="45-VK-BRASIL" ,Woohoo
-http://206.1.95.2:8004/play/a01t
-#EXTINF:-1 group-title="45-VK-BRASIL" ,ZooMoo
-http://206.1.95.2:8004/play/a00t
 #EXTINF:-1 group-title="45-VK-CHILE" ,002 Dos KIDS HD
 http://45.160.12.253:8000/play/002
 #EXTINF:-1 group-title="45-VK-CHILE" ,006 Disney Jr
