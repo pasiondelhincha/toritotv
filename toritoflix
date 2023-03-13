@@ -221,6 +221,8 @@ https://www1446.ff-03.com/token=bEN2OAES_ON8LiuVi9FeFw/1650188134/2800:810::/19/
 https://www393.ff-01.com/token=q66ak--IuP_5igLNMm_t6A/1650188017/2800:810::/39/c/fa/24fdd03ad2e8c8290715d992b9a76fac-480p.mp4
 #EXTINF:-1 group-title="ARGENTINAS" tvg-logo="https://malditopaparazzo.com.ar/wp-content/uploads/2021/06/Mingo-y-Anibal-en-la-Mansion-Embrujada.jpg" ,MINGO Y ANIBAL EN LA MANSION EMBRUJADA
 https://youtu.be/5AuKBetUUrs
+#EXTINF:0 group-title="ARGENTINAS" ,NESTOR KIRCHNER LA PELICULA
+http://45.179.164.59:8181/Peliculas/Nestor.Kirchner.La.Pelicula.2012.DVDscre.Latino.SBT.avi
 #EXTINF:-1 group-title="ARGENTINAS" tvg-logo="https://img.cine.ar/image/61108e292916c50950044030/context/odeon_afiche_prod" ,NO LLORES PO MI INGLATERRA
 https://archive.org/download/no-llores-x-mi-inglaterra/No%20llores%20x%20mi%20Inglaterra.mp4
 #EXTINF:-1 group-title="ARGENTINAS" tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/infobae/WAIMDDPU2ZDL7FB62INBQA6PZY.jpg" ,NUEVE REINAS
@@ -237,8 +239,6 @@ https://www2156.ff-05.com/token=R0WNFRLtLKqzFM6apCJfTg/1650702693/2800:810::/175
 https://youtu.be/HTa03DmLMpY
 #EXTINF:-1 group-title="ARGENTINAS" tvg-logo="https://blogs.infobae.com/ascenso-rock/files/2015/03/dvd.jpg" ,TORAZO - LA PELICULA
 https://archive.org/download/torazo_202204/TORAZO.mp4
-#EXTINF:0 group-title="ARGENTINAS" ,NESTOR KIRCHNER LA PELICULA
-http://45.179.164.59:8181/Peliculas/Nestor.Kirchner.La.Pelicula.2012.DVDscre.Latino.SBT.avi
 #EXTINF:-1 group-title="BENNY HILL" ,01
 http://fina.dyndns.tv/Series/Benny%20Hill/1x01.mkv
 #EXTINF:-1 group-title="BENNY HILL" ,02
@@ -2131,6 +2131,8 @@ https://server02.pelisloadtop.com/server02/bb6f854efaa6c09981466d9174f2d1e9/EP.0
 https://archive.org/download/madagascar-2-escape-de-africa-hd-60-fps-espanol-juego-completo/MADAGASCAR%202%20Escape%20De%20Africa%20HD%2060%20Fps%20Espa%C3%B1ol%20Juego%20Completo.mp4
 #EXTINF:-1 group-title="INFANTIL" tvg-logo="https://image.tmdb.org/t/p/w500/pKKV7XskZwOkwDzFxqbT2Wj2upv.jpg" ,MADAGASCAR 3 - LOS FUGITIVOS
 https://server01.pelisloadtop.com/server01/127ba1819dd24a111209c2e06fc0516b/EP.0.1.v0.1636993954.m3u8
+#EXTINF:0 group-title="INFANTIL" tvg-logo="http://www.elortiba.org/old/ayer/mafalda-peli.jpg" ,MAFALDA LA PELICULA 1982
+https://archive.org/download/mafalda-la-pelicula-argentina-1982-legenda/mafalda-la-pel%C3%ADcula-argentina-1982-legenda.mp4
 #EXTINF:-1 group-title="INFANTIL" tvg-logo="https://http2.mlstatic.com/D_NQ_NP_980992-MLM43734245280_102020-W.jpg" ,Maléfica
 https://archive.org/download/joandiyalinfantil/joandiyalinfantil/Mal%C3%A9fica.mp4
 #EXTINF:-1 group-title="INFANTIL" tvg-logo="blob:moz-extension://2c7e7537-8067-48d8-b6d0-a0b149ed918c/ffb6d87e-a85b-4024-96a5-c3358017f431" ,MAYA Y EL ORBE DORADO
@@ -2301,8 +2303,6 @@ https://archive.org/download/videotime-cine-latino/Wall-e.mp4
 https://archive.org/download/videotime-cine-latino/Winnie%20Pooh%20%282011%29.mp4
 #EXTINF:-1 group-title="INFANTIL" ,Winnie Pooh - Una primavera con Rito
 https://archive.org/download/videotime-cine-latino/Winnie%20Pooh%20-%20Una%20primavera%20con%20Rito.mp4
-#EXTINF:0 group-title="INFANTIL" tvg-logo="http://www.elortiba.org/old/ayer/mafalda-peli.jpg" ,MAFALDA LA PELICULA 1982
-https://archive.org/download/mafalda-la-pelicula-argentina-1982-legenda/mafalda-la-pel%C3%ADcula-argentina-1982-legenda.mp4
 #EXTINF:-1 group-title="LA ISLA DE LA FANTASIA" ,00 Capitulo Piloto
 https://archive.org/download/la-isla-de-la-fantasia-1x-1-regreso-a-la-isla-de-la-fantasia-1978-capitulo-completo-latino/La%20Isla%20De%20La%20Fantas%C3%ADa%20%20Episodio%20piloto%20%20%281978%29%20Cap%C3%ADtulo%20completo%20%20%20Audio%20latino.mp4
 #EXTINF:-1 group-title="LA ISLA DE LA FANTASIA" ,01-01
@@ -24625,3 +24625,2173 @@ http://144.217.70.79/VODS-M/1080P/Zoolander%202001.mkv
 http://144.217.70.79/VODS-M/1080P/Zootopia%202016.mkv
 #EXTINF:-1 group-title="ZZPELICULAS GLOBAL 01" ,Zulu 1964
 http://144.217.70.79/VODS-M/1080P/Zulu%201964.mkv
+#EXTINF:-1 group-title="zzvarios01" ,007 - Casino Royale
+http://archive.org/download/mio53_yopmail_5/5.mp4
+#EXTINF:-1 group-title="zzvarios01" ,007 - El mañana nunca muere
+http://archive.org/download/mio53_yopmail_2/2.mp4
+#EXTINF:-1 group-title="zzvarios01" ,007 - El mundo no basta
+http://archive.org/download/mio53_yopmail_3/3.mp4
+#EXTINF:-1 group-title="zzvarios01" ,007 - Goldeneye
+http://archive.org/download/mio53_yopmail_1/1.mp4
+#EXTINF:-1 group-title="zzvarios01" ,007 - Otro día para morir
+http://archive.org/download/mio53_yopmail_4/4.mp4
+#EXTINF:-1 group-title="zzvarios01" ,007 - Quantum
+http://archive.org/download/mio53_yopmail_6/6.mp4
+#EXTINF:-1 group-title="zzvarios01" ,007 - Skyfall
+http://archive.org/download/mio53_yopmail_7/7.mp4
+#EXTINF:-1 group-title="zzvarios01" ,007 - Spectre
+http://archive.org/download/mio53_yopmail_8/8.mp4
+#EXTINF:-1 group-title="zzvarios01" ,10 cosas que debemos hacer antes de separarnos
+https://dl.dropbox.com/s/l1l2ietud29v27x/10.Things.Before.We.Break.Up.mp4
+#EXTINF:-1 group-title="zzvarios01" ,10 Cosas que odio de ti
+http://archive.org/download/R4Z0n3sP4r40d14rt333/R4Z0n3s%20P4r4%200d14rt333.mp4
+#EXTINF:-1 group-title="zzvarios01" ,10 Minutos Para Morir
+https://dl.dropboxusercontent.com/s/gudmdnmk6qxyyln/angeles%20de%20charly.mp4
+#EXTINF:-1 group-title="zzvarios01" ,101 dálmatas
+https://dl.dropboxusercontent.com/s/wmlamexvl327mth/101.1961.mp4
+#EXTINF:-1 group-title="zzvarios01" ,12 Horas Para Sobrevivir: El Año De La Elección (2016)
+https://dl.dropboxusercontent.com/s/cw3h9l3hrnwlnfl/SalynPM-SPM1l3m.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,12 horas para sobrevivir: El inicio (2018)
+https://dl.dropboxusercontent.com/s/n8gdjha9i0gj50m/SalynPM-12.H.P.S.V.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,18 again 1988
+https://dl.dropbox.com/s/9r8srwx73dh2tvl/18%20Again%201988%20Dvdrip%20dual%20audio.avi
+#EXTINF:-1 group-title="zzvarios01" ,1917 (2019) (Op. 2)
+https://archive.org/download/tapita/tapita/tapita.mkv
+#EXTINF:-1 group-title="zzvarios01" ,2 America 2021
+http://series.vodcontetmx.info/movies/dual/Coming_2_America_2021(484718)/Coming_2_America_2021.mkv
+#EXTINF:-1 group-title="zzvarios01" ,20000 Leguas de viaje submarino
+https://ia801405.us.archive.org/0/items/elvuelodelosdragones/vt20/20%20000%20LEGUAS%20de%20VIAJE%20SUBMARINO.mp4
+#EXTINF:-1 group-title="zzvarios01" ,21 & Over
+https://archive.org/download/dheriveichon_202005/Jugoz/21RPLT.avi
+#EXTINF:-1 group-title="zzvarios01" ,22 balas
+https://archive.org/download/22b4l42/22%20B4L42.mp4
+#EXTINF:-1 group-title="zzvarios01" ,300
+https://ia601509.us.archive.org/32/items/nhu9tdftu/nhu9tdftu.mp4
+#EXTINF:-1 group-title="zzvarios01" ,300: El nacimiento de un imperio
+https://ia601509.us.archive.org/32/items/nhu9tdftu/bvuwv.mp4
+#EXTINF:-1 group-title="zzvarios01" ,60 Segundos (2000)
+https://archive.org/download/035_20200504/035.mkv
+#EXTINF:-1 group-title="zzvarios01" ,7 aNos en el Tibet
+https://archive.org/download/7at_20200608/7an/7at.avi
+#EXTINF:-1 group-title="zzvarios01" ,7500 (2019)
+https://dl.dropbox.com/s/0u75i49lo9svau3/7500.2019.mp4
+#EXTINF:-1 group-title="zzvarios01" ,A prueba de fuego (2008)
+http://archive.org/download/gikudec5/Sub1d0_p4r4_5tr34ming_A85_Cr15T14n4S/3.avi
+#EXTINF:-1 group-title="zzvarios01" ,A prueba de hombres
+http://archive.org/download/PaqueteClinico1/APruebaDeHombresPeliculaCompletaEnEspaolLatinoYoutube454544545.mp4
+#EXTINF:-1 group-title="zzvarios01" ,A Walk Among the Tombstones (2014)[Eng]
+https://archive.org/download/linuxmint_202101/A%20Walk%20Among%20the%20Tombstones%20%282014%29.mkv
+#EXTINF:-1 group-title="zzvarios01" ,A.X.L
+https://archive.org/download/ax_20200528/ax.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Abejorro
+https://dl.dropbox.com/s/mhdmidynlqg5xir/bumblebee%20%282018%29.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Acceleration
+https://dl.dropboxusercontent.com/s/lvmdx920raodlpm/Acceleration.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Ace Ventura - Detective de Mascotas
+https://dl.dropbox.com/s/o1a0k5c1xw8s734/AceVenturaPetDetective%281994%29.avi
+#EXTINF:-1 group-title="zzvarios01" ,ACE VENTURA 2
+http://archive.org/download/bb_20210117/BE.avi
+#EXTINF:-1 group-title="zzvarios01" ,AD ASTRA 2019
+http://ia801406.us.archive.org/4/items/000_20200129_20200129_0445/2.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Adorable criatura
+https://archive.org/download/bicho1/bicho/bicho%201.mkv
+#EXTINF:-1 group-title="zzvarios01" ,ADVENTURAL un verano memorable
+https://archive.org/download/rulos/rulos.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Agente Bajo Fuego
+https://archive.org/download/agtbf/cassa/agtbf.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Ahora son 13
+https://archive.org/download/jois_20200512/MWREN/3%20stf.avi
+#EXTINF:-1 group-title="zzvarios01" ,Ajuste de Cuentas | Phoenix´DreamsTV
+https://onedrive.live.com/download.aspx?cid=E44DF942B91FC749&resid=E44DF942B91FC749%212797&authkey=AAEvvsEa01f8Jh0
+#EXTINF:-1 group-title="zzvarios01" ,Alerta Roja (2021)
+https://archive.org/download/alerta-roja_20211120_1822/ALERTA%20ROJA.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Alex Cross (2012)
+http://archive.org/download/217u92t33/4L3X%20CR0022.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Alicia En El Pais De Las Maravillas
+https://archive.org/download/AEEPDLM/AEEPDLM.avi
+#EXTINF:-1 group-title="zzvarios01" ,Alien (1979)
+https://archive.org/download/aloctpsj/Lunes/aloctpsj.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Alien VS Depredador
+https://archive.org/download/3spe3c1as/r3c3t4r1o/4l13n4ada/4l13n4ada.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Alien vs Depredador 2
+https://onedrive.live.com/download?cid=3E03948CCFD8F668&resid=3E03948CCFD8F668%212387&authkey=AIvr8zsPZ0nSUvA
+#EXTINF:-1 group-title="zzvarios01" ,Alien: Covenant
+https://archive.org/download/3_20200511_202005/1.mpg
+#EXTINF:-1 group-title="zzvarios01" ,Aliens Ate My Homework (2020)
+https://archive.org/download/tinaco_20210405/4li3n5.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Along with the Gods The Last 49 Days (2018)[DUAL]
+https://archive.org/download/AndroFlix_202108/ANDROfLIX/SABAYON.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Along with the Gods: The Two Worlds (2017)[DUAL]
+https://archive.org/download/AndroFlix_202108/ANDROfLIX/MANDRAKE.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Alucinaciones del pasado
+https://archive.org/download/tinaco_20210527/Alucinaciones%20Del%20Pasado.mkv
+#EXTINF:-1 group-title="zzvarios01" ,AMENAZA EN LO PROFUNDO
+http://ia801400.us.archive.org/7/items/000_20200402/07.mp4
+#EXTINF:-1 group-title="zzvarios01" ,amigos
+https://archive.org/download/173955_3587/Amigos_intocables_HD__720p___173955.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Amor De Calendario (2020)
+https://archive.org/download/videoplayback30_20201103/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback30.mkv
+#EXTINF:-1 group-title="zzvarios01" ,amor garantizado
+http://vod.tuxchannel.tv/peliculas/720/love%20guaranteed%202020.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Amor. Boda. Azar (2020)
+https://dl.dropbox.com/s/whv7rrnh0qukbbm/loveweddingrepeat.mp4
+#EXTINF:-1 group-title="zzvarios01" ,amulet
+http://vod.tuxchannel.tv/peliculas/720/amulet%202020.mkv
+#EXTINF:-1 group-title="zzvarios01" ,América pie presents
+http://vod.tuxchannel.tv/peliculas/720/american%20pie%20presents%20girls%20rules%202020.mkv
+#EXTINF:-1 group-title="zzvarios01" ,An American Pickle (2020)
+https://lh3.googleusercontent.com/zpwjl3_qgKuuBLRA5oLiJwcWsMVxZylMRMImrIG_lJP3vzN8WiXpfkP0YBi98pq_ojBLmsr7XhsGn7esrY56MXrjSwxPH02hESHNTpBbwpAvxe2RfvxyrNoEosYhWLIZ8eA97mv0fFo=m37
+#EXTINF:-1 group-title="zzvarios01" ,Angeles Y DemoniosAngeles Y Demonios
+https://dl.dropbox.com/s/1p2faxsepef5k2y/Angeles%20Y%20Demonios.avi
+#EXTINF:-1 group-title="zzvarios01" ,Animales Fantásticos 1 : y dónde encontrarlos
+http://archive.org/download/AFantasticosDEncontrarlosbrspawww.newpct1.com654848946487468498449489/AFantasticosDEncontrarlosbrspa%20%5Bwww.newpct1.com%5D654848946487468498449489.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Animales Fantásticos 2 : los crímenes de Grindelwald
+https://ia801402.us.archive.org/4/items/animales-fantasticos-2/AF%202/Animales%20Fantasticos%202.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Animatrix
+https://archive.org/download/amt_20200306/thmtx/amt.avi
+#EXTINF:-1 group-title="zzvarios01" ,Ant-Man
+https://archive.org/download/23kksk300/23kksk/23kksk100.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Ant-Man y la Avispa
+https://archive.org/download/avispa.1080p.lat.www.hackstore.net/ERE34/AVISPA.1080p.LAT.Www.Hackstore.Net.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Ant-Man y la avispa
+https://archive.org/download/23kksk300/23kksk/23kksk200.mp4
+#EXTINF:-1 group-title="zzvarios01" ,antebellun
+http://vod.tuxchannel.tv/peliculas/720/antebellum%202020.mkv
+#EXTINF:-1 group-title="zzvarios01" ,APRENDICES FUERA DE LINEA
+http://archive.org/download/av_20210117/AV.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Archive (2020)
+https://archive.org/download/sabayon-linux/Archive%20%282020%29.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Arma mortal 1
+https://archive.org/download/4rm-4-m-0rt-4l-2/choby/4rm4%20M0rt4l.avi
+#EXTINF:-1 group-title="zzvarios01" ,Arma mortal 2
+https://archive.org/download/4rm-4-m-0rt-4l-2/choby/4rm4%20M0rt4l%202.avi
+#EXTINF:-1 group-title="zzvarios01" ,Arma mortal 3
+https://archive.org/download/4rm-4-m-0rt-4l-2/choby/4rm4%20M0rt4l%203.avi
+#EXTINF:-1 group-title="zzvarios01" ,Arma mortal 4
+https://archive.org/download/4rm-4-m-0rt-4l-2/choby/4rm4%20M0rt4l%204.avi
+#EXTINF:-1 group-title="zzvarios01" ,Armageddon
+https://archive.org/download/1_20201022_20201022_2011/Today/1.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Arrástrame al infierno (2009)
+https://dl.dropboxusercontent.com/s/tcx2292kx8goyix/SalynPM-SPM2o7d.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,Artemis Fowl (2020)
+https://archive.org/download/sabayon-linux/Artemis%20Fowl%20%282020%29.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Asesino Ninja (2009  )
+https://archive.org/download/2_20210730_20210730_0431/4/2.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Asesinos por naturaleza
+https://archive.org/download/7at_20200608/zmxn/acciN.avi
+#EXTINF:-1 group-title="zzvarios01" ,Asesinos.
+https://www.googleapis.com/drive/v3/files/1-CDZlY_Ic1sj6YVOjRhudtg35WIKgTG5?alt=media&key=AIzaSyCB_dfyaadx9vfgrHmLI03phz_6N7RGPwk
+#EXTINF:-1 group-title="zzvarios01" ,Assasins Creed
+https://ia601509.us.archive.org/32/items/nhu9tdftu/cvovcc.mp4
+#EXTINF:-1 group-title="zzvarios01" ,ATENTADO EN EL ESTADIO
+http://ia601402.us.archive.org/22/items/1_20191127_20191127_1730/1.mp4
+#EXTINF:-1 group-title="zzvarios01" ,atleta A
+http://vod.tuxchannel.tv/peliculas/720/atleta%20a%202020.mkv
+#EXTINF:-1 group-title="zzvarios01" ,ATRACCIÓN PELIGROSA
+http://archive.org/download/kicinigi1/Sub1d0_p4r4_5tr34ming_A85_V4R145_21/3.avi
+#EXTINF:-1 group-title="zzvarios01" ,Atrapado (2020)
+https://archive.org/download/almohadas/C4o7ur4d0.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Ava (2020)
+https://archive.org/download/manjaro-linux/Ava%20%282020%29.mp4
+#EXTINF:-1 group-title="zzvarios01" ,AVENGERS END GAME 2019
+http://ia601507.us.archive.org/16/items/e4dg1me/e4dg1me.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Avengers Infinity War | Phoenix'DreamsTV
+https://ia802800.us.archive.org/30/items/Seminario8/Seminario1.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Avengers: Endgame
+http://archive.org/download/nacimientodemihijo_201908/000111.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Avengers: Infinity Wars
+http://archive.org/download/mio3_yopmail_1/1.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Avengers: La Era de Ultron
+https://archive.org/download/apokosimw/297.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Aves de presa (Harley Queen) (2020)
+https://dl.dropbox.com/s/aa4juhqtz2oqfkv/Ave.de.presa.2020.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Bachelor Party
+https://dl.dropbox.com/s/3unlrrh1g24851j/Bachelor.Party.%281984%29.720p.x264.FitOes.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Bad Boys 3
+https://archive.org/download/mendukotv/mendukotv.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Bajo Cero (2021)
+https://archive.org/download/almohadas/B4j0%20C3r0.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Barbie Campamento Pop
+https://archive.org/download/b-4rb-13.pop.c-4mp-1n-6/B4rb13.pop.c4mp1n6.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Barbie Video Game Hero
+https://archive.org/download/b-4r-b-1e.g-4m-3-h-3r-0/B4rB1e.g4m3H3r0.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Bastardos sin gloria
+https://archive.org/download/chocolate_202004/chocolate/chocolate.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Batalla Los Angeles
+https://archive.org/download/005_20200426_202004/005.avi
+#EXTINF:-1 group-title="zzvarios01" ,Batman 1989
+https://archive.org/download/004_20200426_202004/004.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Batman del futuro: El Regreso del Joker
+https://archive.org/download/00200_20200111/00200.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Batman VS Las Tortugas Ninjas
+https://dl.dropbox.com/s/mjneuvblhcpvkpi/Batman%20va%20Las%20tortugas%20ninja.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Batman vs Robin
+https://archive.org/download/5-batman-vs.-robin/5/5%20-%20Batman%20vs.%20Robin.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Batman y Harley Quinn
+https://dl.dropbox.com/s/tjpv96ecoo5ngco/Batman%20Harley%20Quiin.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Batman y superman 1998
+https://dl.dropbox.com/s/w4w5dd1gyzwpdjx/Batman%20y%20superman%20%281998%29.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Batman: Capucha Roja
+https://archive.org/download/20201214_20201214_1907/2010%20-%20Batman%20-%20Bajo%20la%20Capucha%20Roja%20720p%20DUAL.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Batman: El Caballero De La Noche (2008)
+https://archive.org/download/001_20200416/The.dark.knight.2008.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Batman: El Caballero De La Noche Asciende (2012)
+https://archive.org/download/BMCDLNA/BMCDLNA.avi
+#EXTINF:-1 group-title="zzvarios01" ,Batman: Hush
+https://dl.dropbox.com/s/fmbemqkf7fy6ohd/Batman%20hust.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Batman: La Máscara del Fantasma
+https://archive.org/download/batmanlamascaradelfantasma/tarde/Batman%20la%20mascara%20%20del%20Fantasma.avi
+#EXTINF:-1 group-title="zzvarios01" ,Batman: Luz de gas
+https://dl.dropbox.com/s/lq60c0cfx4chf4v/Batman%20Gotham%20a%20luz%20de%20fugas.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Batman: Mala Sangre
+https://archive.org/download/6-batman-mala-sangre_202005/6/6%20-%20Batman%20Mala%20Sangre.avi
+#EXTINF:-1 group-title="zzvarios01" ,Batman:1 inicia (2005)
+https://dl.dropboxusercontent.com/s/qqfrodn740kwn1b/SalynPM-SPM1c6c.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,becky
+http://vod.tuxchannel.tv/peliculas/720/becky%202020.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Beetlejuice (1988)
+https://archive.org/download/btlj_20210218/Btlj.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Before Midnight (2013)
+https://archive.org/download/darkness_202010/Before%20Midnight%20%282013%29.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Before Sunrise (1995)
+https://archive.org/download/darkness_202010/Before%20Sunrise%20%281995%29.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Bill & Ted Face the Music (2020)
+https://archive.org/download/presentacion_202009/Bill%20%26%20Ted%20Face%20the%20Music%20%282020%29.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Black and blue
+https://archive.org/download/1_20200428/1.2/2.mp4
+#EXTINF:-1 group-title="zzvarios01" ,BLACK AND BLUE
+http://ia801505.us.archive.org/28/items/000_20200122/2.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Blackwood  (2018)
+https://dl.dropboxusercontent.com/s/1oguwzzpoqxspu8/SalynPM-Down.a.dark.hall.2018.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,Blade Runner
+https://archive.org/download/006_20200426/006.mkv
+#EXTINF:-1 group-title="zzvarios01" ,BLEACH
+http://ia601504.us.archive.org/20/items/sototo_patonce_04/04.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Bloodshot (2020)
+https://dl.dropbox.com/s/zrp26oi2wj8uoaa/Bloodshot.2020.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Bob esponja
+http://vod.tuxchannel.tv/peliculas/720/the%20spongebob%20movie%20sponge%20on%20the%20run%202020.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Bob Esponja : Un Héroe Fuera Del Agua
+https://archive.org/download/bob-rp-ltn-o/Bob-RP-ltnO.avi
+#EXTINF:-1 group-title="zzvarios01" ,Bob Esponja: La película (2004)
+https://dl.dropbox.com/s/ycaf1v6wu8gqonx/Bob%20Esponja%20La%20Pelicula.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Boxtrolls
+https://dl.dropboxusercontent.com/s/7wroemeuf596eje/The.Boxtrolls.2014.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Braveheart (1995)
+https://archive.org/download/gravity-2013/Braveheart%20%281995%29.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Braveheart (1995)
+https://archive.org/download/gravity-2013/Braveheart%20%281995%29.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Bruce TodoPoderoso
+https://archive.org/download/aji_20200318/aji/aji.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Buenos Vecinos 2 (NEIGHBORS 2)
+https://archive.org/download/dfsdfoweojv2ecinos/Buenos%20Vecinos%202%20-%20CineLatino.avi
+#EXTINF:-1 group-title="zzvarios01" ,Burn
+https://archive.org/download/1_20200428/1.2/4.mp4
+#EXTINF:-1 group-title="zzvarios01" ,BURN OUT
+http://ia601500.us.archive.org/8/items/000_20191210/4.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Buscando A Dory
+https://archive.org/download/agtbf/cassa/bady.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Buscando A Nemo
+https://archive.org/download/lokng-4-n-3m-0/Lokng%204%20N3m0.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Buscando un amigo para el fin del mundo
+https://archive.org/download/muca_20200405/muca/muca.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Butterfly Kisses (2018)
+https://archive.org/download/fuck-gustaflix_202006/Butterfly%20Kisses%20%282018%29.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Búsqueda implacable 2 (2012)
+https://dl.dropbox.com/s/iaxes78xjrcpw7x/B%C3%BAsqueda%20implacable%202%20Venganza%20Conexi%C3%B3n%20Estambul%20%282012%29.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Caballo de Guerra (2011)
+http://archive.org/download/C4B4LL0D33GU3RR4444/C4B4LL0%20D33%20GU3RR4444.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Cabezas Huecas
+https://dl.dropbox.com/s/cvagsoyxn7ctx8t/cabezas%20huecas.avi
+#EXTINF:-1 group-title="zzvarios01" ,Cadáver (2018)
+https://dl.dropboxusercontent.com/s/3dtqyycl8jmnaso/SalynPM-C.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,Calles de fuego (1984)
+https://dl.dropboxusercontent.com/s/l6vxch166qlmeaw/SalynPM-SPM9g1u.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,Camino hacia el terror (2004)
+https://dl.dropboxusercontent.com/s/02fzrtxsf2rv5o2/SalynPM-SPM2g1o.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,Camino hacia el terror 3 (2009)
+https://dl.dropboxusercontent.com/s/3ixyqzlzh51ib9u/SalynPM-SPM1x9i.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,Camino hacia el terror 5 (2013)
+https://dl.dropboxusercontent.com/s/98tsh7hdm9ttc6k/SalynPM-SPM2s8q.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,Capitan America: Civil War
+https://archive.org/download/1211_20200921/1211.mkv
+#EXTINF:-1 group-title="zzvarios01" ,CAPITANA MARVEL
+http://archive.org/download/v-1-d-4-s-4-lv-4-j-31-nf-4-n-71-l/C4P1T4N4M4RV3L4CC10N.avi
+#EXTINF:-1 group-title="zzvarios01" ,Capitana Marvel (2019)
+https://dl.dropboxusercontent.com/s/c8kf20banu7lgst/SalynPM-C.M.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,Capitán América - El Primer vengador
+https://archive.org/download/87j23s400_202002/87j23%2Bs/87j23%2Bs100.avi
+#EXTINF:-1 group-title="zzvarios01" ,Capitán América - Guerra civil
+https://archive.org/download/87j23s400_202002/87j23%2Bs/87j23%2Bs200.avi
+#EXTINF:-1 group-title="zzvarios01" ,Capitán calsonsillos
+http://vod.tuxchannel.tv/peliculas/720/captain%20underpants%20mega%20blissmas%202020.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Carreras clandestinas
+https://archive.org/download/bicicleta_202005/Bicicleta.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Casino
+https://archive.org/download/ziinoca/opmp/ziinoca.mkv
+#EXTINF:-1 group-title="zzvarios01" ,cast y dogs 3
+http://vod.tuxchannel.tv/peliculas/720/cats%20and%20dogs%203%20paws%20unite%202020.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Cats & Dogs 3 Paws Unite (2020)
+https://archive.org/download/manjaro-linux/Cats%20%26%20Dogs%203%20Paws%20Unite%20%282020%29.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Caza mayor (2014)
+https://dl.dropbox.com/s/9mjltgzxtz9v8w3/Caza%20Mayor.avi
+#EXTINF:-1 group-title="zzvarios01" ,cazador de recompensa
+http://vod.tuxchannel.tv/peliculas/720/a%20soldiers%20revenge%202020.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Cementerio de mascotas (1989)
+https://dl.dropboxusercontent.com/s/fpv6gmu0podrrz1/SalynPM-C.D.M.MP4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,Cementerio de mascotas 2 (2018)
+https://dl.dropboxusercontent.com/s/drqgqknxrpjd1yl/SalynPM-C.D.M.2.MP4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,Cementerio maldito (2019)
+https://dl.dropboxusercontent.com/s/k31ibkqe6bob66b/SalynPM-SPM6j7n.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,Centinela (2021)
+https://archive.org/download/carros_202109/C3nt1n3l4.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Chica Cyborg
+https://archive.org/download/tinaco_20210330/Cyborg%20Girl%20.mkv
+#EXTINF:-1 group-title="zzvarios01" ,CHICAS PESADAS
+http://ia801403.us.archive.org/14/items/ciejrkr/ciejrkr.mp4
+#EXTINF:-1 group-title="zzvarios01" ,chick fight
+http://vod.tuxchannel.tv/peliculas/720/chick%20fight%202020.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Chicos buenos 2019
+https://dl.dropboxusercontent.com/s/ivsoa25l6173ips/SalynPM-SPM5i5z.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,Chicuarotes (2019)
+https://dl.dropboxusercontent.com/s/61kpznhvmzzuzq9/SalynPM-SMP4r8n.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,Christopher Robin: Un reencuentro inolvidable
+https://ia800708.us.archive.org/30/items/adjuanito_gmx_Puu2/CRUnreencuentroinolvidable2018.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Christopher Robin: Un reencuentro inolvidable (2018)
+https://dl.dropboxusercontent.com/s/rht2qn00mxakvt8/SalynPM-C.R.mp4
+#EXTINF:-1 group-title="zzvarios01" ,CHUKY
+http://archive.org/download/y-2mate.com-chucky-1-pelicula-completa-en-espanol-quedate-encasa-2020-360p/y2mate.com%20-%20chucky%201%20pel%C3%ADcula%20completa%20en%20espa%C3%B1ol%20QuedateEncasa%202020_360p.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Chungking Express
+https://archive.org/download/astol/mon/astol.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Cindy La Regia
+https://archive.org/download/clr_20200409/CLR.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Clash of the Titans (2010)[ENG]
+https://archive.org/download/uploaded_202109/OPENSUSE.mkv
+#EXTINF:-1 group-title="zzvarios01" ,COLD BLOOD (2019)
+https://archive.org/download/2_20210727/1/1.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Colmillo Blanco
+https://archive.org/download/leocolmilloblanco548737374535735/leo%20colmilloblanco548737374535735.avi
+#EXTINF:-1 group-title="zzvarios01" ,Comando
+https://archive.org/download/comando_202004/Comando.avi
+#EXTINF:-1 group-title="zzvarios01" ,Comando Especial
+https://archive.org/download/comando-especial_202106/Comando%20Especial.avi
+#EXTINF:-1 group-title="zzvarios01" ,Comando Especial 2
+https://archive.org/download/comando-especial-2_202106/Comando%20Especial%202.avi
+#EXTINF:-1 group-title="zzvarios01" ,COMANDO KILL
+http://ia801500.us.archive.org/17/items/000_20191202_20191202/4.mp4
+#EXTINF:-1 group-title="zzvarios01" ,come play recomendada
+http://vod.tuxchannel.tv/peliculas/720/come%20play%202020.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Como Perros y Gatos  3(2020)
+https://archive.org/download/videoplayback37_202011/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback2.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Coneheads
+https://dl.dropbox.com/s/uh8dfg5dp0k4di9/CONEHEADS.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Conexión Mortal (2017)
+https://dl.dropboxusercontent.com/s/25cmel3tluin0s2/SalynPM-Cell.2016.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,Confinados (2021)
+https://lh3.googleusercontent.com/tkHGVu79p9zEmEah45HWC_rg32Zl3dvHYwLUHhwgZQARXmR3WunvFjYJGyic3AZFQdxXBYmEg4CVLCVGF5B9Rf5ChlOLSc1VukLl1-HsyZNEijKhvjXOrLTFv6XcX4Zoydnxug_jBUo=m22
+#EXTINF:-1 group-title="zzvarios01" ,Congo
+https://archive.org/download/africa_202004/africa/africa.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Constantine
+https://archive.org/download/thdg_20200308/cnstine/cnstine.avi
+#EXTINF:-1 group-title="zzvarios01" ,Constantine (OP2)
+https://archive.org/download/007_20200426/007.avi
+#EXTINF:-1 group-title="zzvarios01" ,Contagio
+https://archive.org/download/53843645/5384_3645.mp4
+#EXTINF:-1 group-title="zzvarios01" ,CONTRABANDO
+http://ia601509.us.archive.org/16/items/2_20191128_20191128_1720/16.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Corazón de Dragon
+https://dl.dropbox.com/s/bdkmf41nbf2o1ms/corazondedragon.avi
+#EXTINF:-1 group-title="zzvarios01" ,Cosmoball (2020)
+https://archive.org/download/manguera/C05m0b411.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Cowboys & Aliens
+https://ia601402.us.archive.org/24/items/uranion/1_5102974163342065908mh.mp4
+#EXTINF:-1 group-title="zzvarios01" ,CRIMENES OSCUROS
+https://archive.org/download/bi_20210117/BK.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Criminales en el mar
+https://dl.dropboxusercontent.com/s/vkv9xqoes9e128p/criminales%20en%20el%20mar.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Cruella (2021)
+https://lh3.googleusercontent.com/Gdjw9cfqg77L9Vwo5fvL0DVpR-c_I4K6t6MiNKLiJ7BVRwir98wZqGB7k_0eJ6BXaeVNA4JVfI5qsil1tRpHex2EDKsAUfHPqBzehhiuhHyJjLX5N2VKVG4B9xJZygnB8ann8oWu_6M=m37
+#EXTINF:-1 group-title="zzvarios01" ,Cruella (2021)
+https://archive.org/download/tinaco_20210528/Crue11a.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Cruella | Phoenix'DreamsTV
+https://archive.org/download/c-7u-3ll-4/C7u3ll4.mp4
+#EXTINF:-1 group-title="zzvarios01" ,CRUZADA
+http://archive.org/download/meyabaror_netmails_3/3.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Crypto (2019)
+https://dl.dropboxusercontent.com/s/1r6u9hes16a4g4x/SalynPM-SPM8u8z.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,crímenes de familia
+http://vod.tuxchannel.tv/peliculas/720/crimenes%20de%20familia%202020.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Crónicas de Navidad
+http://ia801502.us.archive.org/1/items/The.Predator.BRSf.Latino489498498494/Cr0nicaNav1dad.m1080p.Castellano64867489749486498.mp4
+#EXTINF:-1 group-title="zzvarios01" ,crónicas de Navidad 2
+http://vod.tuxchannel.tv/peliculas/720/the%20christmas%20chronicles%202%202020.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Cuando nos Conocimos | Phoenix´DreamsTV
+https://archive.org/download/CuNoCoSRREGIO/CuNoCoSRREGIO.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Cucuy: The Boogeyman (2018)
+https://dl.dropboxusercontent.com/s/cu2tzromilebw9q/SalynPM-C.El.Boogeyman.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,Cuento de Navidad
+https://archive.org/download/534_20191230/534.mp4
+#EXTINF:-1 group-title="zzvarios01" ,CYBORG
+http://archive.org/download/w-17-fl-1-x-1/Cyb0rgJ34nCl4ud3V4nD4mm3.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Cómo entrenar a tu Dragón (2010)
+https://archive.org/download/videoplayback21_20200323/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback1.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Cómo entrenar a tu dragón 2 (2014)
+https://archive.org/download/videoplayback21_20200323/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback21.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Cómo entrenar a tu Dragón 3 (2019)
+https://archive.org/download/videoplayback21_20200323/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback4.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Danny the dog (2005)
+https://archive.org/download/thdg_20200308/dn%20th%20dg/thdg.avi
+#EXTINF:-1 group-title="zzvarios01" ,Daria: ¿Ya es hora de ir a la universidad?
+https://archive.org/download/02_20200429_20200429/02.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Daria: ¿Ya llegó el otoño?
+https://archive.org/download/01_20200429/01.mp4
+#EXTINF:-1 group-title="zzvarios01" ,DE LA CUNA A LA TUMBA
+http://archive.org/download/ditemo1/Sub1d0_p4r4_5tr34ming_A85_V4R145_8/8.avi
+#EXTINF:-1 group-title="zzvarios01" ,De ladrón a policía
+https://archive.org/download/jabali_202004/jabali/jabali.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Dead Man Down (2013 [DUAL]
+https://archive.org/download/androiflix/linux/manjaro.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Deadpool 2
+https://ia801500.us.archive.org/20/items/deadpool.-2.2018.1080p/D2/Deadpool.2.2018.1080p.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Death Race
+https://archive.org/download/100006_201909/100006.wmv
+#EXTINF:-1 group-title="zzvarios01" ,Death Race 2
+https://archive.org/download/10007_202002/10007.wmv
+#EXTINF:-1 group-title="zzvarios01" ,Deathgasm
+https://dl.dropbox.com/s/bppe4olj1pvn74p/Deathgasm.mkv.MP4
+#EXTINF:-1 group-title="zzvarios01" ,Depredador 2
+https://onedrive.live.com/download?cid=3E03948CCFD8F668&resid=3E03948CCFD8F668%212389&authkey=ABk2yBhXhT5QQ7U
+#EXTINF:-1 group-title="zzvarios01" ,DESEO DE MATAR
+http://archive.org/download/damiantellez78_gmail_362/Sthepensonprieto_ladron/362.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Deslizando a la gloria
+http://archive.org/download/npr82752_zoqqa_1_20190323_1859/subid0_p4r4_stre4m1ng_a85/1.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Destino final 2 (2003)
+https://dl.dropboxusercontent.com/s/ofnnl9d1jzejyte/SalynPM-D.F.2.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,Destino final 3 (2006)
+https://dl.dropboxusercontent.com/s/7bnrsbxoar9mm30/SalynPM-D.F.3.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,Destino final 4 (2009)
+https://dl.dropboxusercontent.com/s/p9hwnlx9vfiw41m/SalynPM-D.F.4.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,Destino final 5 (2011)
+https://dl.dropboxusercontent.com/s/ade8w9slc79v3zj/SalynPM-D.F.5.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,DESTRUCCION LOS ANGELES
+http://ia801509.us.archive.org/29/items/ziduyaliri_mail-register_08/08.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Detroit Metal City
+https://dl.dropbox.com/s/gv6d455wscpikox/%5BTanoshii%5D%20Detroit%20Metal%20City%20-live%20action-.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Dia de entrenamiento
+https://archive.org/download/vvv000/om/vvv000.mkv
+#EXTINF:-1 group-title="zzvarios01" ,DIA DEL ATENTADO
+http://archive.org/download/dia-del-atentado-2016/Dia%20Del%20Atentado%20%282016%29/Dia%20Del%20Atentado%20%282016%29.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Diario de una pasión
+https://archive.org/download/3spe3c1as/r3c3t4r1o/d14r10/d14r10.mp4
+#EXTINF:-1 group-title="zzvarios01" ,dino dana
+http://vod.tuxchannel.tv/peliculas/720/dino%20dana%20the%20movie%202020.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Disomnia (2021)
+https://archive.org/download/carros_20210611/D1s0mn1a.avi
+#EXTINF:-1 group-title="zzvarios01" ,Django Desencadenado
+https://archive.org/download/maiz23/maiz/maiz%2023.mkv
+#EXTINF:-1 group-title="zzvarios01" ,DOCTOR CABLE
+http://archive.org/download/bb_20210117/BF.avi
+#EXTINF:-1 group-title="zzvarios01" ,Doctor Extraño
+https://archive.org/download/avispa.1080p.lat.www.hackstore.net/ERE34/DRextra%C3%B1oLATHD.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Doctor Strange
+https://archive.org/download/dilapalabra9/41519.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Dolittle
+https://dl.dropbox.com/s/4l6r58fweosertm/Dolittle.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Donnie Brasco
+https://archive.org/download/jois_20200512/MWREN/DNNB.avi
+#EXTINF:-1 group-title="zzvarios01" ,Donnie Darko
+https://dl.dropboxusercontent.com/s/sjjsnx11rgofro9/Donnie.Darko.2001.SS_CANY.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Doom: La puerta del infierno (2015)
+https://dl.dropboxusercontent.com/s/k9h2ng2o6zluv05/SalynPM-Doom.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,Dora y la ciudad perdida 2019
+https://dl.dropboxusercontent.com/s/f2znzdpcfo01ues/SalynPM-SPM8y1h.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,DULCE FAMILIA
+https://archive.org/download/dulce-familia_202105/Dulce%20Familia.MP4
+#EXTINF:-1 group-title="zzvarios01" ,Dulce niña
+https://dl.dropbox.com/s/hcxdquh7vdo2ykv/Sweet%20Girl.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Dumbo
+https://ia601503.us.archive.org/26/items/9c6f1/2bb40ce4.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Duro de espiar
+https://dl.dropbox.com/s/51sezy2a85ge8h7/Duro%20De%20Espiar.avi
+#EXTINF:-1 group-title="zzvarios01" ,Día de la Independencia (op. 2)
+http://archive.org/download/npr82752_zoqqa_1_201903/subid0_p4r4_str34ming_a85/1.mp4
+#EXTINF:-1 group-title="zzvarios01" ,EL ABUELO SIN VERGUENZA
+http://archive.org/download/meme-5/asv.mp4
+#EXTINF:-1 group-title="zzvarios01" ,El arte de defenderse (2019)
+https://archive.org/download/eadd_20200222/Finde/EADD.mp4
+#EXTINF:-1 group-title="zzvarios01" ,el baile
+http://vod.tuxchannel.tv/peliculas/720/the%20prom%202020.mkv
+#EXTINF:-1 group-title="zzvarios01" ,El camino hacia el Dorado
+https://dl.dropbox.com/s/knta3xjworertfg/El%20Camino%20Hacia%20El%20Dorado%202000%20-%20lo%20de%20jose.mkv
+#EXTINF:-1 group-title="zzvarios01" ,El ciempiés humano 2 (2011)
+https://dl.dropboxusercontent.com/s/5atgpxgyor2z5ny/SalynPM-SPM3t1f.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,El cofre de la muerte
+http://series.vodcontetmx.info/movies/espanol/Pirates_of_the_Caribbean_Dead_Mans_Chest_2006(58)/piratas_del_caribe_el_cofre_de_la_muerte.mp4
+#EXTINF:-1 group-title="zzvarios01" ,El Conjuro 3 el Diablo me Obligó a Hacerlo (2021)
+https://lh3.googleusercontent.com/CHHfklfunivBx4eE7F5tuMrxOBms20l3qz2k-iyf0wumJjQUes7kpx0oWviNqvDhjR6Rd8SDue7ehyxtpSZ2YYMFmH6q-8ZJjPMM4p6BgaYRkXh5VhB0qrJJ4NPO3WvgjmKvgj8tk7Y=m37
+#EXTINF:-1 group-title="zzvarios01" ,El Conjuro 3 | Phoenix'DreamsTV
+https://archive.org/download/3l-c-0njur-0-3/3l%20%C3%A70njur0%20-%203.mp4
+#EXTINF:-1 group-title="zzvarios01" ,El cuervo (1994)
+https://dl.dropboxusercontent.com/s/3bdpwlme3gz5vj5/SalynPM-SPM3o4e.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,El demoledor
+https://ia601507.us.archive.org/10/items/bfrbc/8047575.mp4
+#EXTINF:-1 group-title="zzvarios01" ,El departamento de Joe
+https://dl.dropbox.com/s/iivl6sv4jdebwh4/el%20apartamento%20de%20joe.avi
+#EXTINF:-1 group-title="zzvarios01" ,El Depredador (2018)
+https://dl.dropboxusercontent.com/s/d4ey4ni8uy4pa7t/SalynPM-The.predator.2018.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,EL DIA DE LA MARMOTA
+https://archive.org/download/009_20200426/009.mkv
+#EXTINF:-1 group-title="zzvarios01" ,El diablo metió la mano (1999)
+https://dl.dropbox.com/s/nqonx0enr8xlcbr/Idle%20Hands%20%28SS_CANY%29.mp4
+#EXTINF:-1 group-title="zzvarios01" ,El diablo viste a la moda (2006)
+http://archive.org/download/listasaqui_ymail4_1/1.avi
+#EXTINF:-1 group-title="zzvarios01" ,EL DIABLO VISTE A LA MODA (2006)
+https://archive.org/download/3_20201017_20201017_1926/Today/1.mp4
+#EXTINF:-1 group-title="zzvarios01" ,El Dilema de las Redes Sociales | Phoenix´DreamsTV
+http://vod.tuxchannel.tv/peliculas/720/the%20social%20dilemma%202020.mkv
+#EXTINF:-1 group-title="zzvarios01" ,El Ejército de los Muertos (2021)
+https://lh3.googleusercontent.com/np-9UbEzrdBSlPq_2DR8fhEst8H-LiIWlmDhzxNXfrCO6DA8--RzvsZpO1DSw8GYGXQRYDkVOcfhvjWIxuFn1zLZWifNN5Er76ryNB5rmcMV9Q1XXvuOU4yAP0NDpielY3SRWPZCyb4=m37
+#EXTINF:-1 group-title="zzvarios01" ,el escape
+http://vod.tuxchannel.tv/peliculas/720/the%20escape%20from%20auschwitz%202020.mkv
+#EXTINF:-1 group-title="zzvarios01" ,El Escuadrón Suicida 2
+https://archive.org/download/manguera_20210806/3l%203scu4dr0n.mkv
+#EXTINF:-1 group-title="zzvarios01" ,El Espanta Tiburones  (2004)
+https://dl.dropboxusercontent.com/s/y0nc1dfxxbykm76/SalynPM-Espanta.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,El Estan De Los Besos 1
+https://archive.org/download/3spe3c1as/r3c3t4r1o/83502-51t10/83502-51t10.mp4
+#EXTINF:-1 group-title="zzvarios01" ,El Estan De Los Besos 2
+https://dl.dropboxusercontent.com/s/dc7vycwrtzyrkxm/miprimerbeso2.mp4
+#EXTINF:-1 group-title="zzvarios01" ,El Expreso Polar  (2004)
+https://dl.dropboxusercontent.com/s/cvu997zuj1th9dn/SalynPM-ExPResP0L4R.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,El Gigante De Hierro
+https://archive.org/download/e50772/sub1d0_p4r4_5tr34ming_P5F11X/e50772.mp4
+#EXTINF:-1 group-title="zzvarios01" ,El gigante egoísta (2020)
+https://archive.org/download/manuales_202010/El%20gigante%20ego%C3%ADsta%20%282020%29.mkv
+#EXTINF:-1 group-title="zzvarios01" ,El gran asalto
+https://archive.org/download/22b4l42/211.mp4
+#EXTINF:-1 group-title="zzvarios01" ,El Grinch
+http://archive.org/download/AnimalesFantsticos20182564564445646/El%20Grinch%20%282018%296464645411.mp4
+#EXTINF:-1 group-title="zzvarios01" ,El Grinch (2000)
+https://dl.dropboxusercontent.com/s/vk2qc7jbnmzkcp8/SalynPM-Grinch.2000.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,el hada de los dientes
+http://bit.ly/El_hada_de_los_dientes_PELÍCULAS_JCL
+#EXTINF:-1 group-title="zzvarios01" ,el halloween de hubie
+http://vod.tuxchannel.tv/peliculas/720/hubie%20halloween%202020.mkv
+#EXTINF:-1 group-title="zzvarios01" ,EL HIJO DE LA MASCARA
+https://ia601408.us.archive.org/33/items/7e1e2fac8/c0f5976a8.mp4
+#EXTINF:-1 group-title="zzvarios01" ,El Hobbit: 1 (2012)
+https://dl.dropboxusercontent.com/s/kedrgbzms1gbq0j/SalynPM-E.H.U.V.I.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,El Hobbit: 2 (2013)
+https://dl.dropboxusercontent.com/s/lvanl4sp2fwrrs6/SalynPM-E.H.L.D.D.S.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,El Hobbit: 3 (2014)
+https://dl.dropboxusercontent.com/s/7qujsxz4niz9xm5/SalynPM-E.H.L.B.D.L.5.E.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,El imperio contraataca (1980)
+https://dl.dropboxusercontent.com/s/8pzz90clwsriwdq/SalynPM-SPM9a8p.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,EL INCREIBLE BURT WONDERSTONE
+http://archive.org/download/bi_20210117/BI.avi
+#EXTINF:-1 group-title="zzvarios01" ,El Increíble Hulk
+https://archive.org/download/00200_201909/00200.avi
+#EXTINF:-1 group-title="zzvarios01" ,El Infierno | Phoenix´DreamsTV
+https://archive.org/download/ein-srregio/EInSRREGIO.mkv
+#EXTINF:-1 group-title="zzvarios01" ,EL IRLANDES (SUBTITULADA)
+http://archive.org/download/ir1_20200421/ir1/ir1.avi
+#EXTINF:-1 group-title="zzvarios01" ,El Joker | Phoenix'DreamsTV
+https://archive.org/download/j-0k-3r_202106/J0k3r.mp4
+#EXTINF:-1 group-title="zzvarios01" ,El juego del miedo 2 (2005)
+https://dl.dropboxusercontent.com/s/s16so82m7h23z4l/SalynPM-SPM2h3s.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,El juego del miedo 3 (2006)
+https://dl.dropboxusercontent.com/s/thx85848lzdodp3/SalynPM-SPM3e3n.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,El juego del miedo 5 (2008)
+https://dl.dropboxusercontent.com/s/gompvo9znfyzdi3/SalynPM-SPM6o7n.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,El Juego del Miedo 8 (2017)
+https://dl.dropboxusercontent.com/s/vflj0k4u9su8xhw/SalynPM-SPM2m8w.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,El legado del diablo (2018)
+https://dl.dropboxusercontent.com/s/3hgulftc05n8kik/SalynPM-E.L.D.D.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,El libro de la selva
+https://dl.dropbox.com/s/dsnysowyfvx64yw/El%20Libro%20De%20La%20Selva.mkv
+#EXTINF:-1 group-title="zzvarios01" ,EL LUNATICO
+http://archive.org/download/bi_20210117/BG.mp4
+#EXTINF:-1 group-title="zzvarios01" ,El Marine 1
+https://archive.org/download/elmari2dvdlat/mrne/elmari1dvdlat.avi
+#EXTINF:-1 group-title="zzvarios01" ,El Marine 2
+https://archive.org/download/elmari2dvdlat/mrne/elmari2dvdlat.avi
+#EXTINF:-1 group-title="zzvarios01" ,El Marine 3
+https://archive.org/download/elmari2dvdlat/mrne/elmarin3dvdlat.avi
+#EXTINF:-1 group-title="zzvarios01" ,El Marine 4
+https://archive.org/download/elmari2dvdlat/mrne/elmarin4dvdlat.avi
+#EXTINF:-1 group-title="zzvarios01" ,El medallón de la llorona
+http://vod.tuxchannel.tv/peliculas/720/el%20medallon%20de%20la%20llorona%202020.mkv
+#EXTINF:-1 group-title="zzvarios01" ,El mensajero
+https://archive.org/download/pel-0-.mp-4/Varias/PEL0%20.mp4.mp4
+#EXTINF:-1 group-title="zzvarios01" ,El Mesero
+https://dl.dropbox.com/s/l14ckbyngsr25oo/El%20Mesero.mp4
+#EXTINF:-1 group-title="zzvarios01" ,El mundo perdido
+https://archive.org/download/1_20191226_20191226/4.avi
+#EXTINF:-1 group-title="zzvarios01" ,EL NIÑO
+http://archive.org/download/ac_20210117/AF.mp4
+#EXTINF:-1 group-title="zzvarios01" ,El niño que domó el viento (2019)
+https://dl.dropboxusercontent.com/s/8y1xjdl5mans1u2/SalynPM-E.Q.D.E.V.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,El Origen De Las Carreras De Dragones (2014)
+https://archive.org/download/videoplayback21_20200323/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback10.mp4
+#EXTINF:-1 group-title="zzvarios01" ,El Padre (2020)
+https://lh3.googleusercontent.com/1y62iH-WK1MeNBxqzwci4be39DYyE01OFGRqMYR7t7NJB0uwEJwgQ28dH3mtfAhX_efpbB-DdVPmucbZ5pYrj89NF8nrHkMCzjFl_-KhWRoYRwBU1pKNgqtCt1qHfLza1My5qwTKYu0=m37
+#EXTINF:-1 group-title="zzvarios01" ,El paquete (2018)
+https://dl.dropboxusercontent.com/s/g2dwc5n1gvom49w/SalynPM-The.package.2018.1080p.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,El Perfecto Asesino (1994)
+https://archive.org/download/pssi_20200515/fryu/pssi.mkv
+#EXTINF:-1 group-title="zzvarios01" ,El perro sonrriente
+https://archive.org/download/elperrosonriente/El%20Perro%20Sonriente.mp4
+#EXTINF:-1 group-title="zzvarios01" ,El Practicante | Phoenix´DreamsTV
+https://onedrive.live.com/download.aspx?cid=61BF9704CA96F884&resid=61BF9704CA96F884!1690&authkey=AMwmBE3n0gDprHI
+#EXTINF:-1 group-title="zzvarios01" ,El Protector (2021)
+https://archive.org/download/tinaco_20210413/The.Marksman.mkv
+#EXTINF:-1 group-title="zzvarios01" ,El que no cae se encima
+https://dl.dropboxusercontent.com/s/xky10z4rqxqcptp/El.que.no.cae.se.encima.2018.mp4
+#EXTINF:-1 group-title="zzvarios01" ,El regreso de Mary Poppins
+http://archive.org/download/AnimalesFantsticos20182564564445646/El%20regreso%20de%20Mary%20Poppins%20%282018%29654564684646.mp4
+#EXTINF:-1 group-title="zzvarios01" ,El regreso del Jedi (1983)
+https://dl.dropboxusercontent.com/s/4ejcmrlb5ea8swu/SalynPM-SPM7g5v.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,El Reino de los Supermanes
+https://dl.dropbox.com/s/0w1uo5lwx9rt12e/La%20muerte%20de%20superman%20parte%202.mp4
+#EXTINF:-1 group-title="zzvarios01" ,El Rey León 2 : El Tesoro de Simba
+https://archive.org/download/4b1_20200101/4b1.mp4
+#EXTINF:-1 group-title="zzvarios01" ,El Rey León 2019
+https://archive.org/download/sdalogo0400x400/130n%20%20r3y.mp4
+#EXTINF:-1 group-title="zzvarios01" ,El Rito (2011)
+https://dl.dropboxusercontent.com/s/ed2wtovw834sulu/SalynPM-SPM5r5a.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,el secreto
+http://vod.tuxchannel.tv/peliculas/720/the%20secret%20dare%20to%20dream%202020.mkv
+#EXTINF:-1 group-title="zzvarios01" ,El secreto: Atrévete a soñar (2020)
+https://archive.org/download/tutoriales_linux/El%20secreto%20Atr%C3%A9vete%20a%20so%C3%B1ar%20%282020%29.mkv
+#EXTINF:-1 group-title="zzvarios01" ,El señor de los anillos: 1 (2001)
+https://dl.dropboxusercontent.com/s/gqd0lh30v7gihzz/SalynPM-E.S.D.L.A.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,El señor de los anillos: 2 (2002)
+https://dl.dropboxusercontent.com/s/30uqpg4cfmh9vva/SalynPM-E.S.D.L.A.2.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,El señor de los anillos: 3 (2003)
+https://dl.dropboxusercontent.com/s/7mvd2fach205ti5/SalynPM-E.S.D.L.A.3.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,El silencio  (2019)
+https://dl.dropboxusercontent.com/s/aqhzuhljyzocnbr/SalynPM-The.silence.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,EL TRAFICANTE
+http://ia801507.us.archive.org/11/items/000_20191203/2.mp4
+#EXTINF:-1 group-title="zzvarios01" ,EL TRANSPORTADOR
+http://archive.org/download/ditemo1/Sub1d0_p4r4_5tr34ming_A85_V4R145_8/11.mkv
+#EXTINF:-1 group-title="zzvarios01" ,EL TRANSPORTADOR 2
+http://archive.org/download/ditemo1/Sub1d0_p4r4_5tr34ming_A85_V4R145_8/12.mkv
+#EXTINF:-1 group-title="zzvarios01" ,EL TRANSPORTADOR 3
+http://archive.org/download/ditemo1/Sub1d0_p4r4_5tr34ming_A85_V4R145_8/13.mkv
+#EXTINF:-1 group-title="zzvarios01" ,EL TRANSPORTADOR RECARGADO
+http://ia600206.us.archive.org/27/items/7H3.794N5P09/7H3.794N5P09739.93FU313D-ES-360.mp4
+#EXTINF:-1 group-title="zzvarios01" ,El títere (2007)
+https://dl.dropboxusercontent.com/s/3v5imcn4bkovc8l/SalynPM-Dead%20Silence.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,El ultimo samurai
+https://archive.org/download/1_20191226_20191226/1.avi
+#EXTINF:-1 group-title="zzvarios01" ,EL UNICO
+http://archive.org/download/elalcaheda28_gmail_EUO/EUO.mp4
+#EXTINF:-1 group-title="zzvarios01" ,El viaje de Yao
+https://dl.dropbox.com/s/ypy8qa198a3ol9c/Yao%28SS_CANY%29.mp4
+#EXTINF:-1 group-title="zzvarios01" ,el vinculo
+http://vod.tuxchannel.tv/peliculas/720/Il%20legame%202020.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Eliminar amigo (2014)
+https://dl.dropboxusercontent.com/s/ujwxxq1lwo9qclp/SalynPM-Unfriended.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,Eliminar amigo 2 (2019)
+https://dl.dropboxusercontent.com/s/eue3cifs8dcx2v8/SalynPM-Unfriended.dark.web.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,Emparejados (2020)
+https://archive.org/download/manguera/3m94r3j4d05.mkv
+#EXTINF:-1 group-title="zzvarios01" ,En busca de la felicidad (2006)
+https://dl.dropboxusercontent.com/s/f4d8mrjhz8e4igy/E.B.D.L.F-SalynPM.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,En el fin del Mundo
+http://series.vodcontetmx.info/movies/espanol/Pirates_of_the_Caribbean_At_Worlds_End_2007(285)/piratas_del_caribe_en_el_fin_del_mundo.mp4
+#EXTINF:-1 group-title="zzvarios01" ,EN GUERRA CON MI ABUELO
+https://archive.org/download/videoplayback2_20201229/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback60.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Endless (2020)[Eng]
+https://archive.org/download/mandragora-linux/tmp77/Endless%20%282020%29.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Entre navajas y secretos
+https://dl.dropbox.com/s/1muviz6t8wqi236/entre%20navajas%20y%20secretos.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Equilibrium
+https://dl.dropbox.com/s/mqtimdzmxtb0s8q/Equilibrium%202002%20%28SS_CANY%29.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Escalofríos (2015)
+https://dl.dropboxusercontent.com/s/ukfj7mlu3ogp1ef/SalynPM-E.Frios.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,Escalofríos 2: Una noche embrujada (2018)
+https://dl.dropboxusercontent.com/s/q362hwl8gsm640p/SalynPM-Goosebumps2.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,Escape de Los Ángeles
+https://archive.org/download/sdalogo0400x400/32C4P3%20D3%20L02%204NG3132.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Escape Room: Sin salida (2019)
+https://dl.dropboxusercontent.com/s/5ojipt68na5d6s9/SalynPM-Escape.room.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,Escuela de Miedo
+https://archive.org/download/videoplayback20_202011/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback9.mkv
+#EXTINF:-1 group-title="zzvarios01" ,ESCUELA DE ROCK
+https://archive.org/download/tren_20200314/tren/tren.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Espias a escondidas (Op. 2)
+https://archive.org/download/spi_20200526/spi.mp4
+#EXTINF:-1 group-title="zzvarios01" ,ESTACION de ZOMBIE
+http://archive.org/download/av_20210117/AY.mp4
+#EXTINF:-1 group-title="zzvarios01" ,este cuerpo me sienta
+http://vod.tuxchannel.tv/peliculas/720/freaky%202020.mkv
+#EXTINF:-1 group-title="zzvarios01" ,ESTE ES EL FIN
+https://archive.org/download/raul_20200212/raul.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Este muerto esta muy vivo
+https://dl.dropbox.com/s/y6vombn3hc53si8/Este%20muerto%20esta%20muy%20vivo.mp4
+#EXTINF:-1 group-title="zzvarios01" ,están muertos
+http://vod.tuxchannel.tv/peliculas/720/wszyscy%20moi%20przyjaciele%20nie%20zyja%202020.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Eternal Sunshine of the Spotless Mind
+https://archive.org/download/el-eterno-resplandor-de-una-mente-sin-recuerdos/El%20eterno%20resplandor%20de%20una%20mente%20sin%20recuerdos/El%20eterno%20resplandor%20de%20una%20mente%20sin%20recuerdos.avi
+#EXTINF:-1 group-title="zzvarios01" ,Evan almighty
+https://archive.org/download/27_20210330/27.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Expedientes secretos X
+https://dl.dropbox.com/s/0dzynfvn6qyxxgc/Expedientes%20Secretos%20X.avi
+#EXTINF:-1 group-title="zzvarios01" ,Expedientes secretos X 2
+https://dl.dropbox.com/s/entvkg9vcdkm0hb/Expedientes%20secretos%20X%202%20Creer%20es%20la%20clave%20%282008%29.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Experimento Fantasma
+https://archive.org/download/manguera_20210527/El.Experimento.Fantasma.mkv
+#EXTINF:-1 group-title="zzvarios01" ,fatale
+http://vod.tuxchannel.tv/peliculas/720/fatale%202020.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Ferry (2021)
+https://lh3.googleusercontent.com/Dcv6XI_6uz9gUF2YSv5LIIX2QBcwWE8zmf94-o_NBsNpewCb9RpG6msqXc3KHJvcOcgQw21sbOTGdlmrvjmvXgTSbj1Fpe4tgBpFLaAhDcPObuABdddsPVc4k0kA3pAzoEZqZBigftA=m37
+#EXTINF:-1 group-title="zzvarios01" ,fierce
+http://vod.tuxchannel.tv/peliculas/720/jak%20zostac%20gwiazda%2020202.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Fiesta de Navidad en la oficina
+https://archive.org/download/oficina_202005/Jugoz/OFICINA.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Fiesta de navidad en la oficina (2016)
+https://dl.dropboxusercontent.com/s/ccl1yy0tbdv80eg/SalynPM-F.N.O.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,Fifty Shades Darker (2017)
+https://archive.org/download/darkness_202010/Fifty%20Shades%20Darker%20%282017%29.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Fifty Shades Freed (2018)
+https://archive.org/download/darkness_202010/Fifty%20Shades%20Freed%20%282018%29.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Fifty Shades of Grey (2015)
+https://archive.org/download/darkness_202010/Fifty%20Shades%20of%20Grey%20%282015%29.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Flora y Ulises
+https://ia601406.us.archive.org/31/items/5010583266411938192/1_5010583266411938192.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Force of Nature (2020)
+https://dl.dropbox.com/s/81hsunfcyer6bbv/forceofnature.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Fragmentado (2016)
+https://dl.dropboxusercontent.com/s/0ao7f678kuk7wr4/SalynPM-5pl17.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,Francotirador
+https://archive.org/download/11.-2014-hd-dual-lat.c_202005/American.sniper.2014-hd-dual-lat.c.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Frankenweenie
+https://dl.dropboxusercontent.com/s/v23tj65gb8jwpjf/Frankenweenie.2012.mp4?fbclid=IwAR0o0pgU71iSg4V2IPAjDv-oX9sXDpjcz3GhBUe4CaYqJ4nC_GDenBBfB0I
+#EXTINF:-1 group-title="zzvarios01" ,FREAKED
+https://dl.dropbox.com/s/ihoirwz6pub2zo5/Freaked.avi
+#EXTINF:-1 group-title="zzvarios01" ,freaks
+http://vod.tuxchannel.tv/peliculas/720/freaks%20du%20bist%20eine%20von%20uns%202020.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Free Guy (2021)
+https://archive.org/download/manguera_20210927/_Fr33%205uy.mkv
+#EXTINF:-1 group-title="zzvarios01" ,FRIDAY
+https://archive.org/download/totopos-45/totopos-45/totopos-45.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Frozen 2
+https://archive.org/download/casaxd_202003/casaxd.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Fullmetal Alchemist - Acción en vivo
+https://dl.dropbox.com/s/x2rnvflu7x8smnr/Fullmetal%20Alchemist%20Pel%C3%ADcula.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Furia de titanes (1981)
+https://archive.org/download/polofoto/polofoto.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Galletas de Animalitos (2020)
+https://archive.org/download/animalprint/animalprint.mkv
+#EXTINF:-1 group-title="zzvarios01" ,generación y
+http://vod.tuxchannel.tv/peliculas/720/echo%20boomers%202020.mkv
+#EXTINF:-1 group-title="zzvarios01" ,GIGOLO POR ACCIDENTE 1
+https://archive.org/download/236565000/2365_65001.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Gigolo por accidente 2 en Europa
+https://archive.org/download/236565000/2365_65002.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Glass (2019)
+https://dl.dropboxusercontent.com/s/xfiqyci3kr6r81v/SalynPM-Glass.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Go la fiesta inolvidable
+https://archive.org/download/ww-1984_202103/Go%21_La_Fiesta_Inolvidable_2019_Mauro.mp4
+#EXTINF:-1 group-title="zzvarios01" ,God of War (2017)[DUAL]
+https://archive.org/download/androflix_202109/tutoriales/sabayon.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Godzilla
+https://archive.org/download/gopla-72p/Godzilla1.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Godzilla 2: El rey de los monstruos
+https://dl.dropbox.com/s/9vkdaut7l46j3o4/godzilla%20king%20of%20the%20monsters%20%282019%29.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Godzilla vs Kong (2021)
+https://lh3.googleusercontent.com/O0q0eqzCAO9D7qCufPx2Qwka_VQJdGznVnfYU4JJJvsC0DsXY1ViGWWTd5p3JnR1JdnB36WmAjDMXiDkcFaZF-WWLCgzHSyUXWaUyDYT-2yu7O29K1SG_HBQdMQp8xvhxPuyDtWCFMk=m37
+#EXTINF:-1 group-title="zzvarios01" ,Godzilla: El devorador de planetas (2018)
+https://dl.dropboxusercontent.com/s/xr2k278di12cblf/SalynPM-G.E.D.D.P.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,Golpe bajo
+https://archive.org/download/10010010/TH3_L0NG3ST%20Y4RD.avi
+#EXTINF:-1 group-title="zzvarios01" ,Goodfellas
+https://archive.org/download/goodfellas.1990.lati/Buenos%20Muchachos.1990/Goodfellas.1990.lati.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Grandes Heroes
+https://archive.org/download/videoplayback20_202011/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback20.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Gravedad (2013)
+https://archive.org/download/gravity-2013/Gravity%20%282013%29.mp4
+#EXTINF:-1 group-title="zzvarios01" ,GREASE
+http://archive.org/download/musical_202104/grease.mp4
+#EXTINF:-1 group-title="zzvarios01" ,greenlabd
+http://vod.tuxchannel.tv/peliculas/720/greenland%202020.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Gremlins
+https://dl.dropbox.com/s/10epn8apnxf9wq3/Gremlins.avi
+#EXTINF:-1 group-title="zzvarios01" ,Gremlins 2
+https://dl.dropbox.com/s/fmsm5wyw77rmzur/Gremlins2%281990%29.avi
+#EXTINF:-1 group-title="zzvarios01" ,GREYHound
+http://vod.tuxchannel.tv/peliculas/720/greyhound%202020.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Greyhound: Enemigos bajo el mar (2020)
+https://dl.dropbox.com/s/rbiy36qy2rr7wwu/Greyhound%20HDR%20Latino.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Gringo: Se busca vivo o muerto (2018)
+https://dl.dropboxusercontent.com/s/t9ura2zj698wtpm/SalynPM-Gringo.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,Guadalupe Reyes
+https://dl.dropboxusercontent.com/s/7jz1o0vf2lnu94x/guadalupe%20reyes.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Guardianes de la Galaxia VOL.  2
+https://archive.org/download/123_20200917_202009/123.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Guardianes de la Galaxia VOL.1
+https://archive.org/download/pp2_20200324/pp/pp.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Guardianes de la noche
+http://archive.org/download/0guardianes0de0la0Noche/0guardianes0de0la0Noche.mp4
+#EXTINF:-1 group-title="zzvarios01" ,guía de una niñera
+http://vod.tuxchannel.tv/peliculas/720/a%20babysitters%20guide%20to%20monster%20hunting%202020.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Había una vez en Hollywood
+https://archive.org/download/www.megamk.comesta720/Www.Mega-Mk.com-ESTA-720.mp4
+#EXTINF:-1 group-title="zzvarios01" ,HACKER
+http://ia601500.us.archive.org/17/items/000_20191202_20191202/1.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Han Solo: Una historia de Star Wars (2018)
+https://dl.dropboxusercontent.com/s/xw9yw7hgcb3ctts/SalynPM-H.S.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,Han Solo: Una historia de Star Wars (2018)
+https://dl.dropboxusercontent.com/s/299hr9pexp0ctk8/SalynPM-H.S.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,Hasta El Ultimo Hombre
+http://archive.org/download/aa_20210117/AA.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Hell Fest: Juegos diabólicos (2018)
+https://dl.dropboxusercontent.com/s/mq6hgbwz3gec0v4/SalynPM-H.F.18.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,HELLBOY (2019)
+http://ia601405.us.archive.org/26/items/000_20200306_202003/04.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Hentai Kamen
+https://dl.dropbox.com/s/0uneunb004w6o2f/%5BFF%5D%20HK_Hentai%20Kamen%20%5B720x480%5D.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Heridas (2019) NF
+https://dl.dropboxusercontent.com/s/28obrwrxze5e77x/SalynPM-SPM3j7v.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,Hijos de la calle
+https://archive.org/download/jois_20200512/MWREN/jois.avi
+#EXTINF:-1 group-title="zzvarios01" ,Historia policial
+https://archive.org/download/refrigeradora/refrigeradora.mkv
+#EXTINF:-1 group-title="zzvarios01" ,HITMAN
+http://ia801302.us.archive.org/16/items/HI7M4N/HI7M4N.463N7.47-360-ES.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Hogar dulce infierno (2015)
+https://dl.dropboxusercontent.com/s/8a01zt5zys2rkcp/SalynPM-SPM8a7j.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,Holmes & Watson (2018)
+https://dl.dropboxusercontent.com/s/c54aqc2syzyzpxa/SalynPM-Holmes.and.watson.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,Hombre en Llamas
+https://archive.org/download/h-0-mbr-33-nll-4-m-4-hd-00069/H0MBR33NLL4M4HD00069%5Bjspeliculashd.wordpress.com%5D.avi
+#EXTINF:-1 group-title="zzvarios01" ,Hombres De Mentes (2009)
+https://archive.org/download/kohbn/ptol/mkpoij.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Hombres De Negro 1
+https://archive.org/download/hombres-de-negro_202108/Hombres%20De%20Negro.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Hombres De Negro 2
+https://archive.org/download/hombres-de-negro-2_202108/Hombres%20de%20Negro%202.avi
+#EXTINF:-1 group-title="zzvarios01" ,Hombres De Negro 3
+https://archive.org/download/hombres-de-negro-3_20210803/Hombres%20De%20Negro%203.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Hombres de negro: Internacional 2019
+https://dl.dropboxusercontent.com/s/0hpoqof8gn53cmj/SalynPM-SPM5f2y.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,Hostiles
+https://dl.dropbox.com/s/kbq46mfizyo9pr5/HOSTILES.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Hotel Transylvania 1 (2012)
+https://dl.dropboxusercontent.com/s/pyjn32ivdu2nsmn/Hotel.Transylvania.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,Hotel Transylvania 3
+https://archive.org/download/hotel-transylvania-3/HT3/Hotel%20Transylvania%203.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Hotel Transylvania 3 (2018)
+https://dl.dropboxusercontent.com/s/15wooe59jbibhye/SalynPM.H.T.3.V.M.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,How High
+https://archive.org/download/jois_20200512/MWREN/HHRM.avi
+#EXTINF:-1 group-title="zzvarios01" ,Howard
+https://dl.dropbox.com/s/mvt47pslguozzef/howard_el_nuevo_heroe_www.blog-peliculas.com.avi
+#EXTINF:-1 group-title="zzvarios01" ,Hubie Halloween (2020)
+https://archive.org/download/freebsd_202010/Hubie%20Halloween%20%282020%29.mkv
+#EXTINF:-1 group-title="zzvarios01" ,HULK
+http://archive.org/download/correoicfes2016_gmail_42/ulk.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Hércules
+https://ia601402.us.archive.org/21/items/1e08_20191210/8dc.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Ice Age 2: El deshielo
+https://ia802803.us.archive.org/13/items/l4er4d3hi3l02/L4Er4d3hi3l0-2.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Identidad Secreta
+http://archive.org/download/as_20210117/AU.mp4
+#EXTINF:-1 group-title="zzvarios01" ,impratical
+http://vod.tuxchannel.tv/peliculas/720/impractical%20jokers%20the%20movie%202020.mkv
+#EXTINF:-1 group-title="zzvarios01" ,In-Actividad Paranormal (2014)
+https://dl.dropboxusercontent.com/s/34ftkx76j8sd5mk/A.Haunted.House.2.2014.bluray-latino-e-ingles-subt.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,increíble
+http://vod.tuxchannel.tv/peliculas/720/lincredibile%20storia%20dell%20isola%20delle%20rose%202020.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Infinite | Phoenix'DreamsTV
+https://archive.org/download/1nf-1n-1t-3/1nf1n1t3.ia.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Ingrid cambia de rumbo (2017)
+https://dl.dropboxusercontent.com/s/r51rmkp2gfg7zmn/SalynPM-Ingrid.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,Inquilinos (2018)
+https://dl.dropboxusercontent.com/s/icz7sika1qgx67h/SalynPM-L.I.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,INTENSA-MENTE
+http://archive.org/download/IntMSRREGIO/IntMSRREGIO.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Intensamente | Phoenix´DreamsTV
+https://archive.org/download/IntMSRREGIO/IntMSRREGIO.mkv
+#EXTINF:-1 group-title="zzvarios01" ,intercambio
+http://vod.tuxchannel.tv/peliculas/720/the%20princess%20switch%20switched%20again%202020.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Intrepido (2020)
+https://archive.org/download/infantiles_202009/Intr%C3%A9pido%20%282020%29.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Inyectado en sangre (2020)
+https://ia801407.us.archive.org/5/items/san_20200511/San.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Ip Man
+https://archive.org/download/7823964/1231230001.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Ip Man 2
+https://archive.org/download/7823964/1231230002.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Ip Man 3
+https://archive.org/download/7823964/1231230003.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Ip Man 4
+https://archive.org/download/7823964/1231230004.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Iron Man 1
+https://archive.org/download/87j23s400_202002/87j23%2Bs/87j23%2Bs300.avi
+#EXTINF:-1 group-title="zzvarios01" ,Iron Man 2
+https://archive.org/download/87j23s400_202002/87j23%2Bs/87j23%2Bs400.avi
+#EXTINF:-1 group-title="zzvarios01" ,Iron Man 3
+https://archive.org/download/87j23s400_202002/87j23%2Bs/87j23%2Bs500.avi
+#EXTINF:-1 group-title="zzvarios01" ,Jack & Jill
+http://archive.org/download/T81818M8787B87L544672p/J42k%2B4n60%2B2111.avi
+#EXTINF:-1 group-title="zzvarios01" ,Jackass 1
+https://archive.org/download/sol02/sol%201/sol%201.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Jackie Brown
+https://archive.org/download/gaseosa/gaseosa/gaseosa.avi
+#EXTINF:-1 group-title="zzvarios01" ,Jamaica bajo cero
+https://archive.org/download/hielo_202004/hielo/hielo.avi
+#EXTINF:-1 group-title="zzvarios01" ,Janette Oke: Love Begins (2011)
+http://archive.org/download/3l4m0rC0m13nza/9%20%20El%20amor%20comienza%20Pel%C3%ADcula%20cristiana%20en%20VO%20y%20con%20subtitulos%20en%20espa%C3%B1ol.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Janette Oke: Love Finds A Home (2009)
+http://archive.org/download/8YEl4morLleg4lH0gar/8%20%20Y%20el%20amor%20lleg%C3%B3%20al%20hogar%20%20%20Pel%C3%ADcula%20cristiana%20completa%20en%20espa%C3%B1ol.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Janette Oke: Love's Unending Legacy (2007)
+http://archive.org/download/3l4m0rV0lvi0AN0s0tr0s/7%20%20Y%20el%20amor%20volvi%C3%B3%20a%20nosotros%20Pel%C3%ADcula%20cristiana%20completa%20en%20espa%C3%B1ol.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Jefe en pañales
+https://ia601503.us.archive.org/26/items/9c6f1/9c6f1.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Jefe En Pañales 2 | Phoenix'DreamsTV
+https://archive.org/download/j-3f-3-3n-p-4n-4l-35-2/J3f3%203n%20P4%C3%B14l35%20-%202.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Jennifer's Body (2009)
+https://archive.org/download/diabolicatentacion/Diabolica%20tentacion.avi
+#EXTINF:-1 group-title="zzvarios01" ,JEXI
+https://dl.dropbox.com/s/itszhcib9jf2ggd/Jexi.2019.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Jhon Wick 1 : Sin Control
+https://archive.org/download/johnwicksincontrol2014dvdriplatinothriller/John%20Wick%20Sin%20Control%20%282014%29%20Dvdrip%20Latino%20%5BThriller%5D.avi
+#EXTINF:-1 group-title="zzvarios01" ,Jhonny English 3.0 | Phoenix´DreamsTV
+https://archive.org/download/0231564654SRREGIO/0231564654SRREGIO.mkv
+#EXTINF:-1 group-title="zzvarios01" ,JIGSAW VIII | Phoenix´DreamsTV
+https://archive.org/download/JS8SRREGIO_201801/JS8SRREGIO.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Jiu Jitsu (2020)
+https://archive.org/download/almohadas/Jiu%205i7su.mkv
+#EXTINF:-1 group-title="zzvarios01" ,JOHN WICK 1
+http://ia601408.us.archive.org/20/items/000_20191216/5.mp4
+#EXTINF:-1 group-title="zzvarios01" ,JOHN WICK 2
+http://ia801504.us.archive.org/13/items/000_20191225/5.mp4
+#EXTINF:-1 group-title="zzvarios01" ,JOHN WICK 3
+http://ia601504.us.archive.org/13/items/000_20191225/1.mp4
+#EXTINF:-1 group-title="zzvarios01" ,John Wick 3 : Parabellum
+http://archive.org/download/direcionaudiovisual/DIRECION%20AUDIO%20VISUAL.mp4
+#EXTINF:-1 group-title="zzvarios01" ,JOJO RABBIT
+http://archive.org/download/jojo.-dvd.-lat.-www.-hackstore.-net/JOJO.DVD.LAT.Www.Hackstore.Net.mp4
+#EXTINF:-1 group-title="zzvarios01" ,JOKER
+http://ia601401.us.archive.org/10/items/000_20191221/3.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Joker
+https://archive.org/download/jk-2019/JK2019.mkv
+#EXTINF:-1 group-title="zzvarios01" ,JUEGO LETAL
+http://ia601408.us.archive.org/20/items/000_20191216/3.mp4
+#EXTINF:-1 group-title="zzvarios01" ,jugando con el amor
+http://vod.tuxchannel.tv/peliculas/720/romance%20in%20the%20outfield%20double%20play%202020.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Jugando con el destino los simpson
+https://dl.dropbox.com/s/t2c4vz9t1dl2x88/Jugando%20Con%20El%20Destino.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Jumanji
+https://archive.org/download/027_20200428/027.mkv
+#EXTINF:-1 group-title="zzvarios01" ,JUMANJI: EL SIGUIENTE NIVEL
+http://archive.org/download/jumanji.-2.-dvd.-lat.-www.-hackstore.-net/JUMANJI.2.DVD.LAT.Www.Hackstore.Net.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Jumper
+https://archive.org/download/356792-1026835/356792___1026835.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Jungle Cruise | Phoenix'DreamsTV
+https://archive.org/download/juunng-13-cru-153/Juunng13%20%C3%87ru153.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Jurassic Park: el mundo perdido
+http://archive.org/download/1_20190715_20190715_2033/2.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Jurassic World
+http://archive.org/download/1_20190715_20190715_2033/4.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Jurassic World: El Reino Caído
+http://archive.org/download/1_20190715_20190715_2033/5.mp4
+#EXTINF:-1 group-title="zzvarios01" ,kadaver 2
+http://vod.tuxchannel.tv/peliculas/720/kadaver%202020.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Kamen Rider Heisei Generation Forever
+http://archive.org/download/GFKRHGFOREVER_201905/%5BGF%5DKRHGFOREVER.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Karate Kid
+https://archive.org/download/karatekid1/Karate%20Kid%201.avi
+#EXTINF:-1 group-title="zzvarios01" ,Karate Kid - Parte II
+https://archive.org/download/karatekid1/Karate%20Kid%202.avi
+#EXTINF:-1 group-title="zzvarios01" ,Karate Kid - Parte III
+https://archive.org/download/karatekid3_202004/Karate%20Kid%203.avi
+#EXTINF:-1 group-title="zzvarios01" ,Kickboxer- Venganza 2016
+https://archive.org/download/11_20210730/5/11.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Kill Bill vol.1
+https://archive.org/download/agridulce1/agridulce/agridulce%201.avi
+#EXTINF:-1 group-title="zzvarios01" ,Kill Bill vol.2
+https://archive.org/download/chicle/chicle/chicle.avi
+#EXTINF:-1 group-title="zzvarios01" ,Kimagure Orange Road: Summer's Beginning
+http://archive.org/download/KimagureOrangeRoadLaPelicula/kimagure%20orange%20road%20la%20pelicula.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Kong skull island
+https://www.googleapis.com/drive/v3/files/1nnOgpgfJpsz1xAQG6hY8wfV44pCEYTe7?alt=media&key=AIzaSyC_SfUy_PVVO8qEPumM0E0D0UWvrYybyCU
+#EXTINF:-1 group-title="zzvarios01" ,Kubo y la búsqueda del samurái (2016)
+https://archive.org/download/videoplayback21_20200319/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback5.MP4
+#EXTINF:-1 group-title="zzvarios01" ,Kung Fu Panda (2008)
+https://ia601503.us.archive.org/3/items/videoplayback10_20200326/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback001.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Kung Fu Panda 2 (2011)
+https://ia601503.us.archive.org/3/items/videoplayback10_20200326/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback4.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Kung Fu Panda 3 (2016)
+https://ia601503.us.archive.org/3/items/videoplayback10_20200326/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback10.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Kung Fu Panda 3 (2016)
+https://dl.dropboxusercontent.com/s/67jjiclm8sg9euo/KFP316-18p.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,Kung Fu Yoga
+http://archive.org/download/AFantasticosDEncontrarlosbrspawww.newpct1.com654848946487468498449489/Kung.Fu.Yoga.1080P.Latino64645465465456456.mp4
+#EXTINF:-1 group-title="zzvarios01" ,la batalla
+http://vod.tuxchannel.tv/peliculas/720/the%20outpost%202020.mkv
+#EXTINF:-1 group-title="zzvarios01" ,La Bella y la Bestia - Live Action
+https://ia801407.us.archive.org/16/items/lat-720-b.-3.4.-u.-t.-y-4.-n.-d-t.-h.-3-b.-3.4.-s.-t/LAT-720%20B.3.4.U.T.Y_4.N.D_T.H.3_B.3.4.S.T.mp4
+#EXTINF:-1 group-title="zzvarios01" ,la caja negra
+http://vod.tuxchannel.tv/peliculas/720/black%20box%202020.mkv
+#EXTINF:-1 group-title="zzvarios01" ,La casa con un reloj en sus paredes (2018)
+https://dl.dropboxusercontent.com/s/6pl8hxupzwfv10a/SalynPM-The.house.with.a.clock.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,La Casa de Las Flores La Película (2021)
+https://lh3.googleusercontent.com/62hUN02mMBCk-ldO11HHQjSn6YMHGT8_Jm7yI8LOhfvbp_P941UmUBPSQ0x04W-5FBXso6p8eMxOOmUt2BfMlCuE_iTqvIKPP2NIY71BjW9shi7BxbKm0Fc_xnWxMz1ULR5tqb9JEw0=m37
+#EXTINF:-1 group-title="zzvarios01" ,la citacion
+http://vod.tuxchannel.tv/peliculas/720/citation%202020.mkv
+#EXTINF:-1 group-title="zzvarios01" ,La dama y el vagabundo 2019
+https://archive.org/download/00100_201912/00100.mkv
+#EXTINF:-1 group-title="zzvarios01" ,LA DEUDA
+http://archive.org/download/l-d-3ud/l%40%20d3ud%40.mp4
+#EXTINF:-1 group-title="zzvarios01" ,la deuda 2
+http://vod.tuxchannel.tv/peliculas/720/debt%20collectors%202020.mkv
+#EXTINF:-1 group-title="zzvarios01" ,LA DEUDA 2
+http://archive.org/download/l-d-3ud-2/l%40%20d3ud%40%202.mp4
+#EXTINF:-1 group-title="zzvarios01" ,La Era de Hielo
+https://archive.org/download/00100_20200108_2219/00100.avi
+#EXTINF:-1 group-title="zzvarios01" ,La Era de Hielo 3 (Op. 2)
+https://archive.org/download/hielo-4/Hielo3.mp4
+#EXTINF:-1 group-title="zzvarios01" ,La Era de Hielo 4 (Op. 2)
+https://archive.org/download/hielo-4/Hielo4.mp4
+#EXTINF:-1 group-title="zzvarios01" ,La era de hielo: Choque de mundos (2016)
+https://dl.dropboxusercontent.com/s/jgtbr85k9xzictp/SalynPM-Ice.age.collision.course.2016.1080.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,La era del hielo: La gran huevo aventura  (2016)
+https://dl.dropboxusercontent.com/s/3mioijkwb1b2nig/SalynPM-EHGHA16-18p.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,La Espada en la Piedra
+https://archive.org/download/01laesp87657497adaenlapiedra8963764087348/01laesp87657497adaenlapiedra8963764087348.avi
+#EXTINF:-1 group-title="zzvarios01" ,la esperanza
+http://vod.tuxchannel.tv/peliculas/720/all%20together%20now%202020.mkv
+#EXTINF:-1 group-title="zzvarios01" ,la familia pie grande
+http://vod.tuxchannel.tv/peliculas/720/bigfoot%20family%202020.mkv
+#EXTINF:-1 group-title="zzvarios01" ,La Fuerza De La Ilusion | Phoenix´DreamsTV
+https://archive.org/download/LFdlISRREGIO/LFdlISRREGIO.mkv
+#EXTINF:-1 group-title="zzvarios01" ,La fuerza de la naturaleza
+https://archive.org/download/52_20210405/52.mp4
+#EXTINF:-1 group-title="zzvarios01" ,La gran estafa
+https://archive.org/download/kohbn/ptol/wsde.avi
+#EXTINF:-1 group-title="zzvarios01" ,La guardería de papa
+https://archive.org/download/cartuchera/cartuchera/cartuchera.avi
+#EXTINF:-1 group-title="zzvarios01" ,La guerra de los mundos (2005)
+https://dl.dropboxusercontent.com/s/72vv1bdqgqiwlxn/SalynPM-SPM3l6p.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,La guerra del mañana (2021)
+https://lh3.googleusercontent.com/bKO514vK1pvaNc0UxDu6tShs0xwAzxwJUsMb9nDWP5oE96cZqbJBFynM1kUpY7a83WwunO2dRYehMH2bmt7CPJft3_3XM_6kezbBsHdJQznotOlt2pjYDcdUyotTUhbjmwbVttUYh-g=m18
+#EXTINF:-1 group-title="zzvarios01" ,La Guerra Del Mañana | Phoenix'DreamsTV
+https://archive.org/download/14-gu-3rr-4-d-31-m-4n-4n-4/14%20gu3rr4%20d31%20m4%C3%B14n4%20.mp4
+#EXTINF:-1 group-title="zzvarios01" ,LA GUERRA POR EL FUEGO
+http://archive.org/download/prehistoria-aventura-la-guerra-por-el-fuego/L4%20GU344A%20P0R%203L%20FU360.mp4
+#EXTINF:-1 group-title="zzvarios01" ,La historia sin fin (1984)
+https://archive.org/download/infantiles_202009/La%20historia%20interminable%20%281984%29.mkv
+#EXTINF:-1 group-title="zzvarios01" ,LA JUNGLA UN BUEN DIA PARA MORIR
+http://ia601507.us.archive.org/16/items/5_20191128_201911/8.mp4
+#EXTINF:-1 group-title="zzvarios01" ,La leyenda de Klaus
+https://dl.dropbox.com/s/nheya40ckjt3y1x/La_leyenda_de_Klaus.mp4
+#EXTINF:-1 group-title="zzvarios01" ,La leyenda de Sleepy Hollow y el Señor Sapo (1949)
+https://dl.dropboxusercontent.com/s/esn5elqr2ymsiz8/SalynPM-SPM5d8z.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,La Liga de la Justicia - Crisis en 2 tierras
+https://archive.org/download/ligadelajusticiacrisisenlasdostierras/SAbado/Liga%20de%20la%20Justicia%20Crisis%20en%20las%20dos%20Tierras.avi
+#EXTINF:-1 group-title="zzvarios01" ,La Liga de la Justicia Dark: Apokolips War
+https://archive.org/download/pacasmayo/pacasmayo/pacasmayo.mkv
+#EXTINF:-1 group-title="zzvarios01" ,La Liga de la Justicia Oscura
+https://archive.org/download/8-liga-de-la-justicia-oscura/8/8%20-%20Liga%20de%20La%20Justicia%20Oscura.mp4
+#EXTINF:-1 group-title="zzvarios01" ,La Liga de la Justicia VS Los Cinco Fatales
+https://dl.dropbox.com/s/3vkr9s2lxdelbjm/la%20liga%20de%20la%20justicia.mp4
+#EXTINF:-1 group-title="zzvarios01" ,La Liga Extraordinaria
+https://archive.org/download/3_20200511_202005/3.mpg
+#EXTINF:-1 group-title="zzvarios01" ,La lista de a la mierda (2020)
+https://dl.dropbox.com/s/slxhghhpp1gek84/lalistadealcarajo.mp4
+#EXTINF:-1 group-title="zzvarios01" ,La maquina del tiempo
+https://ia601408.us.archive.org/15/items/123a_20191206/09mnjg.mp4
+#EXTINF:-1 group-title="zzvarios01" ,LA MASCARA
+https://ia601408.us.archive.org/33/items/7e1e2fac8/7e1e2fac8.mp4
+#EXTINF:-1 group-title="zzvarios01" ,La momia
+http://archive.org/download/uranio94_yopmail_2/6.mp4
+#EXTINF:-1 group-title="zzvarios01" ,La momia (2017)
+https://dl.dropbox.com/s/baipaq04q2imj5g/l4m0m14.mp4
+#EXTINF:-1 group-title="zzvarios01" ,La momia: La tumba del emperador dragón
+http://archive.org/download/uranio94_yopmail_2/3.mp4
+#EXTINF:-1 group-title="zzvarios01" ,La Momia: Regresa
+https://archive.org/download/the.addams.family.2019.hd.latino.720p/P3L122/L4m0m14.2.avi
+#EXTINF:-1 group-title="zzvarios01" ,La Monja (2018)
+https://dl.dropboxusercontent.com/s/hywnw4dpw1wq2xy/SalynPM-L.M.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,La Muerte de Superman
+https://dl.dropbox.com/s/hiibizhkhcgwfg3/1232412546476546434c35145132.mp4
+#EXTINF:-1 group-title="zzvarios01" ,La muerte de Superman (2018)
+https://dl.dropboxusercontent.com/s/ij85eeshs0w8ubq/SalynPM-Te.de.of.supman.1080p.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,La Muerte y Regreso de Superman
+https://dl.dropbox.com/s/k4vkwt0nayoqvgi/La%20muerte%20y%20regreso%20de%20superman.mp4
+#EXTINF:-1 group-title="zzvarios01" ,La Mujer en la Ventana (2021)
+https://lh3.googleusercontent.com/Ap6QakWh9rrAAOSFcP2ZY_wuJv2k0mW5hU1v2XR8KCX-npgegV4R1trQDpO5nu8FWJgnYJbVI1OdKtDrUDS-RbBt6Tjio4e4gFE3Xld_FgsT_4SCK_tIplLEKRwZOMrce_aTehKmLyU=m37
+#EXTINF:-1 group-title="zzvarios01" ,La Mujer Maravilla: Linaje
+https://dl.dropbox.com/s/t5o1h9r3a1asj66/Wonder%20woman.mp4
+#EXTINF:-1 group-title="zzvarios01" ,La muñeca vudú (2016)
+https://dl.dropboxusercontent.com/s/l25bcid6j7hlkeu/SalynPM-Worry.dolls.2016.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,La Máscara
+https://archive.org/download/029_20200428/029.avi
+#EXTINF:-1 group-title="zzvarios01" ,La navidad de las madres rebeldes (2017)
+https://dl.dropboxusercontent.com/s/dwrxy3i0qoj0vwe/SalynPM-N.M.R.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,la niñera reina letal
+http://vod.tuxchannel.tv/peliculas/720/the%20babysitter%20killer%20queen%202020.mkv
+#EXTINF:-1 group-title="zzvarios01" ,La noche anterior (2015)
+https://dl.dropboxusercontent.com/s/od8y1mlc4mpfhi4/SalynPM-L.N.A.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,La noche de Halloween (2018)
+https://dl.dropboxusercontent.com/s/4xgf0z3ie9pzkt9/SalynPM-H4LL0W3N.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,La Noche De La Expiación (2013)
+https://dl.dropboxusercontent.com/s/2l8wtdf1r2pxn57/SalynPM-SPM3n5u.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,La noche de la expiación (2013)
+https://dl.dropboxusercontent.com/s/57a388o5glw62gt/SalynPM-SPM5z4a.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,LA NONNA
+https://dl.dropbox.com/s/ye4vhigqya1svbq/La%20Nona%201979%20Pelicula%20Argentina%20Completa.mp4
+#EXTINF:-1 group-title="zzvarios01" ,La Nueva Gran Estafa
+https://archive.org/download/jois_20200512/MWREN/2stf.avi
+#EXTINF:-1 group-title="zzvarios01" ,La odisea
+https://archive.org/download/l732_20200213/L732.avi
+#EXTINF:-1 group-title="zzvarios01" ,la ONU PRINCIPE SUELTO EN NUEVA YORK 2
+http://archive.org/download/b-2-ny/B2NY.mp4
+#EXTINF:-1 group-title="zzvarios01" ,La otra Missy
+https://dl.dropbox.com/s/pbiw2p1y0bsnrk1/L%40_0TR4_M155Y_.avi
+#EXTINF:-1 group-title="zzvarios01" ,la Pata de la Patrulla Poderoso
+https://archive.org/download/paw-patrol-mighty/Paw%20Patrol%20Mighty.MP4
+#EXTINF:-1 group-title="zzvarios01" ,La posesion de deborah logan (2004)
+https://dl.dropboxusercontent.com/s/x9h2el46rhbf3rr/DeboRaLogan.MP4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,La princesa Cisne una boda real (2020)
+https://archive.org/download/infantiles_202009/La%20princesa%20Cisne%20una%20boda%20real%20%282020%29.mkv
+#EXTINF:-1 group-title="zzvarios01" ,La propuesta
+https://archive.org/download/124211/124211.avi
+#EXTINF:-1 group-title="zzvarios01" ,La razón de estar contigo  (2006)
+https://dl.dropboxusercontent.com/s/qga7cwijfr4eua2/SalynPM-SPM7s3g.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,La teoría del todo 2014
+https://dl.dropboxusercontent.com/s/11ts5lxxiqa0uhq/SalynPM-SPM9x2w.mp4
+#EXTINF:-1 group-title="zzvarios01" ,La tiendita del horror
+https://dl.dropbox.com/s/y448spwzeuelyr3/La%20tienda%20de%20los%20horrores%20%28Little%20Shop%20of%20Horrors%29%20%E2%80%93%20Zoowoman%201.0.avi
+#EXTINF:-1 group-title="zzvarios01" ,La tierra y la sangre
+https://archive.org/download/1_20200428/1.2/3.mp4
+#EXTINF:-1 group-title="zzvarios01" ,LA TRAMPA DE LA ARAÑA
+http://ia601402.us.archive.org/10/items/000_20200304_20200304_2245/03.mp4
+#EXTINF:-1 group-title="zzvarios01" ,la tumba del saqqara
+http://vod.tuxchannel.tv/peliculas/720/secrets%20of%20the%20saqqara%20tomb%202020.mkv
+#EXTINF:-1 group-title="zzvarios01" ,La Venganza De Los Nerds
+https://archive.org/download/ner1_20200317/buho/ner1.mkv
+#EXTINF:-1 group-title="zzvarios01" ,La Venganza De Los Nerds 2
+https://archive.org/download/ner1_20200317/buho/ned2.mkv
+#EXTINF:-1 group-title="zzvarios01" ,La vida secreta de tus mascotas
+http://archive.org/download/ulakinw_w542c_mygeoweb_4/DFRT/5.mp4
+#EXTINF:-1 group-title="zzvarios01" ,La vida secreta de tus mascotas (2016)
+https://dl.dropboxusercontent.com/s/lsy12vzgk66ag3r/SalynPM-The.secret.life.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,La vida secreta de tus mascotas 2
+http://archive.org/download/direcionaudiovisual/FOTOS%20DE%20MI%20MASCOTA2.mp4
+#EXTINF:-1 group-title="zzvarios01" ,La Viuda Negra | Phoenix'DreamsTV
+https://archive.org/download/123-1ud-4-7n-3gr-123/123-1ud4-7n3gr123.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Land (2021)
+https://lh3.googleusercontent.com/AjujsB-oLmVUH1maArg576-DER4Ma3_3JfDZ7ZURUZYwptJUpkuu2pjHgkcYo0f3dk3i2dR8iBMQC8IDC_4h6LTQYw2anzcI21jIzv-89US7iK0fH7RqZ41NomobKy6aW-QCKOZJJIA=m22
+#EXTINF:-1 group-title="zzvarios01" ,las brujas
+http://vod.tuxchannel.tv/peliculas/720/the%20witches%202020.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Las Brujas | Phoenix'DreamsTV
+https://archive.org/download/l-45-2020-bruj-45/L45%20%20%282020%29%20bruj45.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Las chicas de la galería
+https://dl.dropbox.com/s/ysxklcpyquy7btc/chicasgaleria.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Las chicas de la tierra son fáciles
+https://dl.dropbox.com/s/71m11ih01xcdn74/Las%20chicas%20de%20la%20tierra%20son%20f%C3%A1ciles%20%281988%29.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Las crónicas de Navidad (2018)
+https://dl.dropboxusercontent.com/s/hyg3xat44enm0bv/SalynPM-C.D.N.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,Las locuras de Dick y Jane
+https://archive.org/download/las-locuras-de-dick-y-jane/Las%20locuras%20de%20Dick%20y%20Jane/Las%20locuras%20de%20Dick%20y%20Jane.avi
+#EXTINF:-1 group-title="zzvarios01" ,Las locuras del emperador
+http://archive.org/download/E24M2PER4D0R1121/E24M2PER4D0R1.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Las Tortugas Ninja
+https://archive.org/download/las-tortugas-ninja_202106/Las%20Tortugas%20Ninja.avi
+#EXTINF:-1 group-title="zzvarios01" ,Las Tortugas Ninja 2
+https://archive.org/download/las-tortugas-ninja-2-the-secret-of-the-ooze_202106/Las%20Tortugas%20Ninja%202%20The%20Secret%20Of%20The%20Ooze.mkv
+#EXTINF:-1 group-title="zzvarios01" ,las vueltas de la vida
+http://vod.tuxchannel.tv/peliculas/720/riding%20with%20sugar%202020.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Lassie vuelve a casa
+http://vod.tuxchannel.tv/peliculas/720/lassie-eine%20abenteuerliche%20reise%202020.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Last Vegas (2013)[Eng]
+https://archive.org/download/documentales_202101/Last%20Vegas%20%282013%29.mkv
+#EXTINF:-1 group-title="zzvarios01" ,LEGO DC: Batman - Asuntos familiares (2019)
+https://dl.dropboxusercontent.com/s/uo4u686vb17xe11/SalynPM-SPM9a5o.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,LEGO La Película
+https://archive.org/download/l-360/L360.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Letters from Iwo Jima (2006)[LAT]
+https://archive.org/download/androiflix/linux/kde.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Leyenda profesión de la violencia
+https://archive.org/download/pssi_20200515/fryu/llendale.avi
+#EXTINF:-1 group-title="zzvarios01" ,LIGA DE LA JUSTICIA DOOM
+http://archive.org/download/1_20200428_20200428/4.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Liga de la Justicia vs Jóvenes Titanes
+https://archive.org/download/7-liga-de-la-justicia-vs.-jovenes-titanes/7/7%20-%20Liga%20de%20La%20Justicia%20vs.%20J%C3%B3venes%20Titanes.avi
+#EXTINF:-1 group-title="zzvarios01" ,Liga De La Justicia: Guerra
+https://archive.org/download/2-la-liga-de-la-justicia-guerra/2/2%20-%20La%20liga%20de%20la%20Justicia%20-%20Guerra.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Lilo y Stitch
+http://archive.org/download/LiloStitch20020804673409679765_201810/Lilo%20%26%20Stitch%20%282002%290804673409679765.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Lluvia de Hamburguesas
+https://archive.org/download/4e58_20200103/4e58.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Lluvia de hamburguesas 2: La venganza de las sobras
+https://archive.org/download/4e58_20200103/0934c.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Lobo de wall street
+https://archive.org/download/1_20200808_20200808/U/1.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Loca por el trabajo (2018)
+https://dl.dropboxusercontent.com/s/de7d942fv1ssyir/SalynPM-L.P.E.T.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,locas por el cambio
+http://vod.tuxchannel.tv/peliculas/720/locas%20por%20el%20cambio%202020.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Locked Down (2021)
+https://archive.org/download/mandriva-linux/Locked%20Down%20%282021%29.mkv
+#EXTINF:-1 group-title="zzvarios01" ,LOGAN
+http://ia601402.us.archive.org/22/items/1_20191127_20191127_1730/11.mp4
+#EXTINF:-1 group-title="zzvarios01" ,LOOPER
+http://ia601509.us.archive.org/16/items/2_20191128_20191128_1720/15.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Los Aristogatos
+https://archive.org/download/345689001-972984/345689001___972984.mp4
+#EXTINF:-1 group-title="zzvarios01" ,los Bando
+https://dl.dropboxusercontent.com/s/7wbowpmn2lnjth2/LOS-B4NDO.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Los Colegas Del Barrio
+https://archive.org/download/lcdb_20200409/LCDB.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Los colegas del barrio (1996)
+https://dl.dropboxusercontent.com/s/6c8zmjjlig18mvm/SalynPM-SPM8d8x.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,Los Croods (2013)
+https://archive.org/download/videoplayback21_20200323/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback31.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Los Croods (2013)
+https://dl.dropboxusercontent.com/s/9e1n97k8t51mx11/The.Cro0ds.2013.bluray.hdduallat.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,Los Croods 2: una nueva era
+https://archive.org/download/videoplayback63_202012/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback63.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Los descendientes (2015)
+https://dl.dropboxusercontent.com/s/l3gpmu2taw1rt2f/SalynPM-Descendants.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,Los Descendientes 3 (2019)
+https://dl.dropboxusercontent.com/s/pz4av3wob0e8ga2/SalynPM-SPM6p8e.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,Los hermanos Willoughby (2020)
+https://archive.org/download/interstellar-2014/The%20Willoughbys%20%282020%29.mkv
+#EXTINF:-1 group-title="zzvarios01" ,LOS ILUCIONISTAS
+http://archive.org/download/ac_20210117/AG.mp4
+#EXTINF:-1 group-title="zzvarios01" ,LOS ILUCIONISTAS 2
+http://archive.org/download/ac_20210117/AC.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Los Increibles 1
+https://archive.org/download/videoplayback10_202003/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback10.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Los Increibles 2
+https://archive.org/download/videoplayback21_20200319/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback21.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Los Juegos del Hambre 1
+http://archive.org/download/ezra_2/subid0_par4_stre4ming_a85/1.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Los Juegos del Hambre : En llamas
+http://archive.org/download/ezra_2/subid0_par4_stre4ming_a85/2.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Los Juegos del Hambre : Sinsajo Parte 1
+http://archive.org/download/ezra_2/subid0_par4_stre4ming_a85/3.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Los Juegos del hambre: Sinsajo Parte 2
+http://archive.org/download/ezra_2/subid0_par4_stre4ming_a85/4.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Los Jóvenes Titanes en acción VS Jóvenes Titanes
+https://archive.org/download/2223_20200217/sub1d0_p4r4_5tr34ming_P5F11X/1112.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Los Jóvenes Titanes en acción: La película
+https://archive.org/download/2223_20200217/sub1d0_p4r4_5tr34ming_P5F11X/2223.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Los Jóvenes Titanes: El contrato de Judas
+https://archive.org/download/jovenes-titanes-el-contrato-de-judas/9/Jovenes%20Titanes%20El%20contrato%20de%20Judas.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Los locos Adams 2019
+https://archive.org/download/the.addams.family.2019.hd.latino.720p/P3L122/The.Addams.Family.2019.HD.Latino.720p.mkv
+#EXTINF:-1 group-title="zzvarios01" ,los nuevos mutantes
+http://vod.tuxchannel.tv/peliculas/720/the%20new%20mutants%202020.mkv
+#EXTINF:-1 group-title="zzvarios01" ,LOS PERDEDORES
+http://archive.org/download/1_20200612_20200612_2318/1.avi
+#EXTINF:-1 group-title="zzvarios01" ,LOS PINGUINOS DE PAPA
+http://archive.org/download/av_20210117/AX.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Los puentes de Madison
+https://archive.org/download/burrito_202003/burrito/burrito.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Los Señores de la Mafia
+https://archive.org/download/oxtar/gaxx/oxtar.mkv
+#EXTINF:-1 group-title="zzvarios01" ,LOS SIMPSONS LA PELICULA
+http://archive.org/download/lp-564-pl-1/LP564PL~1.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Los Suplentes (2000)
+https://archive.org/download/sciyt/Mhuc/plent.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Love & Others Drugs
+https://archive.org/download/10010010/4mor%20y%20Otr4s%20Droga5.avi
+#EXTINF:-1 group-title="zzvarios01" ,Love Rosie
+https://dl.dropbox.com/s/jpnh585txfgwynb/LR.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Luca (2021)
+https://lh3.googleusercontent.com/-YE6ETzGI4JJP9tUpeT8e9ebet5pO_RUX8MD3qIr44Yvc2uSp56ye0eQhpFfUUHkAm3Qw9sKrql2zoHewaAvpb-H3FYg7eqhTA_zg7l3c6vq0UZXg3Cjr1v01qu1etV-UniGuYtxqL0=m22
+#EXTINF:-1 group-title="zzvarios01" ,Luca | Phoenix'DreamsTV
+https://archive.org/download/1uc-4_202106/1uc4.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Lucy
+http://archive.org/download/erling44_198f_ymail3_Cubo/5.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Ludo
+http://vod.tuxchannel.tv/peliculas/720/ludo%202020.mkv
+#EXTINF:-1 group-title="zzvarios01" ,LUKAS
+http://ia601406.us.archive.org/25/items/4_20191128_201911/4.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Ma (2019)
+https://dl.dropboxusercontent.com/s/ap60v4suvwiqa4j/SalynPM-SPM1s9a.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,Mac & Devin Go to High School
+https://archive.org/download/hierbacortada/hierba%20cortada.mp4
+#EXTINF:-1 group-title="zzvarios01" ,MAD M4X
+http://archive.org/download/durodproesa/wiimc/1.mp4
+#EXTINF:-1 group-title="zzvarios01" ,MAD M4X 2 EL GUERRERO DE LA CARRETERA
+http://archive.org/download/durodproesa/wiimc/2.mp4
+#EXTINF:-1 group-title="zzvarios01" ,MAD M4X 2015 (opc2)
+http://archive.org/download/1_20200617_20200617_1715/2.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Mad Max: Furia en el Camino
+https://archive.org/download/029_20200428/030.avi
+#EXTINF:-1 group-title="zzvarios01" ,magic
+http://vod.tuxchannel.tv/peliculas/720/upside-down%20magic%202020.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Magic camp
+http://vod.tuxchannel.tv/peliculas/720/magic%20camp%202020.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Malicious: En el vientre del diablo (2018)
+https://dl.dropboxusercontent.com/s/uy8hu5djsoz9bd3/SalynPM-M.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,Maléfica: Dueña del mal
+https://archive.org/download/aml3_20200402/mal2.mkv
+#EXTINF:-1 group-title="zzvarios01" ,mamá al volante
+http://vod.tuxchannel.tv/peliculas/720/mama%20al%20volante%202019.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Mandy (2019)
+https://dl.dropboxusercontent.com/s/lweqwsni44xdtoe/SalynPM-M.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,MANHATAN SIN SALIDA
+http://ia601402.us.archive.org/1/items/000_20200321_20200321/02.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Marcianos al ataque
+https://dl.dropbox.com/s/g2us1dpd125oumc/marcianos%20al%20ataque.av
+#EXTINF:-1 group-title="zzvarios01" ,Mas Alla de la Luna(2020)
+https://archive.org/download/videoplayback18_202011/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback18.mp4
+#EXTINF:-1 group-title="zzvarios01" ,MATAR O MORIR
+http://ia601500.us.archive.org/17/items/000_20191202_20191202/2.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Matilda
+https://archive.org/download/matilda19961080p/Matilda%20%281996%29%201080p.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Matrix
+https://archive.org/download/amt_20200306/thmtx/mt.avi
+#EXTINF:-1 group-title="zzvarios01" ,Matrix 2 recargado (2003)
+https://dl.dropboxusercontent.com/s/urcbgdre1fibju1/SalynPM-SPM1d9p.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,Matrix 3 Revoluciones (2003)
+https://dl.dropboxusercontent.com/s/7x639wrubob88ji/SalynPM-SPM6t5m.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,Matrix Recargado
+https://archive.org/download/amt_20200306/thmtx/mt2.avi
+#EXTINF:-1 group-title="zzvarios01" ,Matrix: Revoluciones
+https://archive.org/download/amt_20200306/thmtx/mt3.avi
+#EXTINF:-1 group-title="zzvarios01" ,MAXIMA VELOCIDAD
+http://archive.org/download/ariga8/Sub1d0_p4r4_5tr34ming_A85_V4R145_3/5.avi
+#EXTINF:-1 group-title="zzvarios01" ,MAXIMA VELOCIDAD 2
+http://archive.org/download/ariga8/Sub1d0_p4r4_5tr34ming_A85_V4R145_3/6.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Maze Runner 1 : Correr o Morir
+https://archive.org/download/mz_20200505/Maze1/MZ.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Maze Runner 2 : Prueba de fuego
+https://archive.org/download/maze.-2/Maze2/MAZE.2.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Maze Runner 3 : La cura mortal
+https://archive.org/download/maz-3/MZ3/MAz3.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Mentiroso
+https://archive.org/download/mentiroso-mentiroso/Mentiroso%20Mentiroso/MENTIROSO%20MENTIROSO.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Mercenarios de Elite (2020)
+https://archive.org/download/tinaco_20210405/H4rd.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Mexican Gangster (2013)
+https://archive.org/download/solf-12/onai/mgs.avi
+#EXTINF:-1 group-title="zzvarios01" ,Mi Gran Boda Griega
+https://archive.org/download/pato_20200312/pato/pato.mp4
+#EXTINF:-1 group-title="zzvarios01" ,mi maestro el pulpo
+http://vod.tuxchannel.tv/peliculas/720/my%20octopus%20teacher%202020.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Mi papá es un gato (2016)
+https://dl.dropboxusercontent.com/s/3wj3jsew0xwx2da/SalynPM-Nine.lives.2016.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,Mi pobre angelito
+https://ia601509.us.archive.org/1/items/mipobreangelito2_201911/Mi%20Pobre%20Angelito%201.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Mi pobre angelito 2: Perdido en Nueva York
+https://ia601509.us.archive.org/1/items/mipobreangelito2_201911/mi%20pobre%20angelito%202.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Mi pobre angelito 3
+https://ia601509.us.archive.org/1/items/mipobreangelito2_201911/mi%20pobre%20angelito%203.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Mi pobre angelito 4
+https://ia601509.us.archive.org/1/items/mipobreangelito2_201911/mi%20pobre%20angelito%204.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Mi Pobre Diablillo (1990)
+https://archive.org/download/videoplayback10_20200326/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback14.avi
+#EXTINF:-1 group-title="zzvarios01" ,Mi Pobre Diablillo 2 (1992)
+https://archive.org/download/videoplayback10_20200326/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback25.mkv
+#EXTINF:-1 group-title="zzvarios01" ,mi primer amor
+http://vod.tuxchannel.tv/peliculas/720/forever%20first%20love%202020.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Mi villano favorito 1
+https://archive.org/download/v177aN0_1/infa/v177aN0_1.avi
+#EXTINF:-1 group-title="zzvarios01" ,Mi villano favorito 2
+https://archive.org/download/v177aN0_1/infa/v177aN0_2.avi
+#EXTINF:-1 group-title="zzvarios01" ,Mi villano favorito 3
+https://archive.org/download/v177aN0_1/infa/v177aN0_3.avi
+#EXTINF:-1 group-title="zzvarios01" ,MIDSOMMAR
+http://archive.org/download/ak_20210117/AK.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Miedo y Asco en las Vegas
+https://archive.org/download/myav_20200511/zik/myav.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Milagro en la calle 8
+https://archive.org/download/3l-4rt-3-d-3l-d-14bl-0-1/champurrado/M1l4gr0%203n%20l4%20C4ll3%208.avi
+#EXTINF:-1 group-title="zzvarios01" ,MILF
+https://dl.dropbox.com/s/4nhsuuvg8xwmj4p/MILF.avi
+#EXTINF:-1 group-title="zzvarios01" ,Minions
+https://dl.dropbox.com/s/aw3fe7vqq9erj00/Los%20Minions-www.DescargateloCorp.com.avi
+#EXTINF:-1 group-title="zzvarios01" ,Miraculous World New york United Heroez.
+https://www.googleapis.com/drive/v3/files/1CY2bDUaaGKyHCVpJnEixavBIHaB0RVEd?alt=media&key=AIzaSyCB_dfyaadx9vfgrHmLI03phz_6N7RGPwk
+#EXTINF:-1 group-title="zzvarios01" ,Misión de Rescate
+https://archive.org/download/pel_20200426/POP/PEL.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Missing Link
+https://archive.org/download/espadasw45rds4/See/eslabon635.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Mission rockstar
+https://archive.org/download/cuj-0/churrumino/M1s10n%20R0ckst4r.avi
+#EXTINF:-1 group-title="zzvarios01" ,Moana
+https://archive.org/download/videoplayback21_20200319/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback32.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Monster House
+https://archive.org/download/rocoto/rocoto/rocoto.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Monster House: La casa de los sustos  (2006)
+https://dl.dropboxusercontent.com/s/0r7g3y9odoysu0r/SalynPM-SPM2t8r.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,MONSTER HUNTER 2021
+https://www.googleapis.com/drive/v3/files/1XfxSBzTehaeZFjrzPw3Jot8IksmTy1jv?alt=media&key=AIzaSyA69WImrrYfDcmFbOH7nelgsy7zvZFV4ug
+#EXTINF:-1 group-title="zzvarios01" ,Monsters Inc.
+http://archive.org/download/1NC21021MNAELC/1NC%2CM0N5T3R.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Mortal Kombat (2021)
+https://lh3.googleusercontent.com/Ok1r7PUVxAhga6gJcHkrtrqBVAIWxCVPh57q81kJIvTo9NtUnPSmyP15AAkrLQUQ6aWVSnJ25Ku1AaErG5ISJAzHu0etHZBvuHgzC-YAfrbTQlsNJUUnJz8T6OfU7oz0wQD3bqXqQO0=m22
+#EXTINF:-1 group-title="zzvarios01" ,Mortal Kombat | Phoenix'DreamsTV
+https://archive.org/download/m-0rt-4l-k-0mb-4/M0rt4l%20K0mb4%2B.mp4
+#EXTINF:-1 group-title="zzvarios01" ,MUJER MARAVILLA 1984
+http://archive.org/download/muj-3-rm-4-r-4-v-1-ll-41984/MUJ3RM4R4V1LL41984.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Mujeres arriba
+https://dl.dropboxusercontent.com/s/oxpg0ixgh36e2k6/Mujeres.Arriba.2020.mp4
+#EXTINF:-1 group-title="zzvarios01" ,mulan
+http://vod.tuxchannel.tv/peliculas/720/mulan%202020.mkv
+#EXTINF:-1 group-title="zzvarios01" ,My Life (1993)[DUAL]
+https://archive.org/download/AndroLinux-MyLife/VIDA%20LINUX.mkv
+#EXTINF:-1 group-title="zzvarios01" ,My Spy (2020) (SUBTITULADA)
+https://archive.org/download/32_20200416/2.mkv
+#EXTINF:-1 group-title="zzvarios01" ,más aya de la luna
+http://vod.tuxchannel.tv/peliculas/720/over%20the%20moon%202020.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Mátalos Suavemente
+https://archive.org/download/solf-12/onai/SOLF12.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Mía... Te la apuesto (2018)
+https://dl.dropboxusercontent.com/s/fv3vz9m21ycie68/5LPN306-18p.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,Nacido para ser rey (2019)
+https://dl.dropboxusercontent.com/s/7zdcldyl9ad69be/SalynPM-The.kid.who.would.be.king.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,Nación asesina (2018)
+https://dl.dropboxusercontent.com/s/1a69lszel1wkvn1/SalynPM-A.N.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,nada (2018)
+https://dl.dropboxusercontent.com/s/oq2hji1oa2b45d8/SalynPM-D.T.N.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,Nadie sabe que estoy
+http://vod.tuxchannel.tv/peliculas/720/nadie%20sabe%20que%20estoy%20aqui%202020.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Navegando aguas misteriosas
+http://series.vodcontetmx.info/movies/espanol/Pirates_of_the_Caribbean_On_Stranger_Tides_2011(1865)/piratas_del_caribe_navegando_aguas_misteriosas.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Next Gen | Phoenix´DreamsTV
+https://archive.org/download/n3xSRR3610/n3xSRR3610.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Ni Te Me Acerques
+https://archive.org/download/barco_202101/N1%20t3%20m3%204c3r9u35.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Ni un paso en falso (2021)
+https://lh3.googleusercontent.com/RTwJ4HVLhx1qptRkSB-h5ie5dC90bjI3TKe6kb1W9dtV0hC0Saj1OcYg6oRBXQL61iYaZFlZKCWjUYHGKz6U2M71UT4hsYg_0rksMdhdB1WYn6zIJSoxN0QB1OsrjciPE8CQFegVdow=m22
+#EXTINF:-1 group-title="zzvarios01" ,Ninfomanía: primera parte 2013
+https://dl.dropboxusercontent.com/s/gq0l9eanrxozxzv/SalynPM-SPM4t3e.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,No dejes de mirar (2017)
+https://dl.dropboxusercontent.com/s/3at0fxmmglr9li9/SalynPM-N.D.D.M.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,No manches Frida 2 2019
+https://content-na.drive.amazonaws.com/cdproxy/share/xBf2JOWtOpnnhCWtWCAV3Ty3K041EDKRgblsrUqdir8/nodes/rkRLodYHTVCcDofVWbMCyg?nonce=4oyWAIeqTeWAETYsZWutoumgP5aohP_meHKgb-WR6E2uoUFegVQxWhQcucGVVSVH&download=true&ownerId=A1UL3LSS0WHJ1U
+#EXTINF:-1 group-title="zzvarios01" ,No Me Las Toquen
+https://archive.org/download/videoplayback37_202011/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback27.mkv
+#EXTINF:-1 group-title="zzvarios01" ,No te metas con Zohan
+https://archive.org/download/proyecto-u-2/ProyectoU2.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Noche de Miedo (2011)
+https://archive.org/download/3_20201017_20201017_1926/Today/2.mp4
+#EXTINF:-1 group-title="zzvarios01" ,NON-STOP(SIN ESCALAS)
+http://archive.org/download/3-ntr-3-n-4-nd-04-p-4-p-41-nf-4-n-71-l/N0N%24T0P4CC10N.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Nosotros Los Nobles | Phoenix´DreamsTV
+https://archive.org/download/NoLoNoSRREGIO_20180212/NoLoNoSRREGIO.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Nuestra Pandilla (1993)
+https://archive.org/download/videoplayback10_202003/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback32.avi
+#EXTINF:-1 group-title="zzvarios01" ,Nuestra Pandilla 2(2005)
+https://archive.org/download/videoplayback10_202003/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback21.avi
+#EXTINF:-1 group-title="zzvarios01" ,Nuevamente Amor
+https://archive.org/download/elbaile_202002/elbaile.mp4
+#EXTINF:-1 group-title="zzvarios01" ,OFFLINE LA VIDA NO ES UN VIDEOJUEGO
+http://ia601402.us.archive.org/22/items/1_20191127_20191127_1730/10.mp4
+#EXTINF:-1 group-title="zzvarios01" ,OLIMPO BAJO FUEGO
+http://archive.org/download/jojo.-dvd.-lat.-www.-hackstore.-net/OLIMPO.DVD.LAT.Www.Hackstore.Net.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Otra Película de Huevos y un Pollo
+https://archive.org/download/534_20191230/456.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Overbard
+https://dl.dropboxusercontent.com/s/zvrwsfvhksywxpf/overboard.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Paddington 1 (2014)
+https://dl.dropboxusercontent.com/s/i2dnitld1ys6q8b/SalynPM-SPM4d1n.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,Palm Springs (2020)
+https://dl.dropbox.com/s/rpcwk6o2z4kfcn7/Palm.Springs.2020.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Pantera Negra
+https://archive.org/download/299975a7bfe1d2f/299975a7bfe1d2f.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Papa por siempre
+https://archive.org/download/cacahuate/cacahuate.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Para toda la vida
+http://vod.tuxchannel.tv/peliculas/720/all%20my%20life%202020.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Parasitos | Phoenix´DreamsTV
+https://onedrive.live.com/download.aspx?cid=62FE6667D61E2E06&resid=62FE6667D61E2E06!3118&authkey=ANohO-EiyJ9nOcM
+#EXTINF:-1 group-title="zzvarios01" ,Parker (2013)
+https://archive.org/download/quimica1_202009/Parker%20%282013%29.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Parque Jurasico
+http://archive.org/download/1_20190715_20190715_2033/1.avi
+#EXTINF:-1 group-title="zzvarios01" ,Parque Jurasico III
+http://archive.org/download/1_20190715_20190715_2033/3.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Paternidad (2021)
+https://lh3.googleusercontent.com/1lzAKsM4ND4celBr6PL4YslycqVozdK0S9CDidom1KQiImwFfPlYdC4dYXGidf-EF_HfhZahpDtrhv83L1xczJ4CpdwQwyhQMJBHr29NeiucoanLpBH0xJQDyyO-rk9lgsxFGQpCX1Q=m18
+#EXTINF:-1 group-title="zzvarios01" ,Paul
+https://archive.org/download/1_20191226_20191226/5.avi
+#EXTINF:-1 group-title="zzvarios01" ,Paw Patrol La Película
+https://dl.dropbox.com/s/t4698nit5wrrl88/Paw%20Patrol%20the%20movie%20esp.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Pequeños Guerreros
+https://archive.org/download/3spe3c1as/r3c3t4r1o/p1m13ntaverde/p1m13ntaverde.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Perdi mi cuerpo
+https://dl.dropbox.com/s/5w139f1dys7xg82/I.Lost.My.Body.2019.SS_CANY.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Pesadilla en el infierno (2018)
+https://dl.dropboxusercontent.com/s/7vpro8lqhhqbik0/SalynPM-G.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,Peter Pan (1953)
+https://ia601408.us.archive.org/15/items/123a_20191206/576vg.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Phineas y Ferb La película de Candance contra el Universo  (2020)
+https://archive.org/download/videoplayback30_20201103/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback41.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Pinocchio (2019)
+https://archive.org/download/interstellar-2014/Pinocchio%20%282019%29.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Pinocho (1940)
+https://ia601408.us.archive.org/15/items/123a_20191206/998hb.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Piratas del Caribe 2 - El cofre de la muerte
+https://dl.dropbox.com/s/doxveva3t27as0i/Pirates.of.the.caribbean.dead.mans.chest.2006.1080p-dual-lat.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Piratas del Caribe 3 - En el fin del mundo
+https://dl.dropbox.com/s/vzv0dsmu8uoynui/Pirates.of.the.caribbean.at.worlds.end.2007.1080p-dual-lat.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Pixels (2015)
+https://dl.dropboxusercontent.com/s/47dw19fbbittdrj/SalynPM-Pix3ls.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,Pokémon la película: ¡Yo te elijo!  (2017)
+https://dl.dropboxusercontent.com/s/r7wqpio7wicyjot/SalynPM-Poke.movie.i.choose.you.2017.1080p.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,Pokémon: Detective Pikachu (2019)
+https://dl.dropboxusercontent.com/s/wlkpmwt9refz7ct/SalynPM-SPM2q8p.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,Pokémon: Mewtwo contraataca: Evolución
+https://archive.org/download/pk_20200227/pk.mkv
+#EXTINF:-1 group-title="zzvarios01" ,PRIMAL
+http://archive.org/download/mafaki1/Sub1d0_p4r4_5tr34ming_A85_v4r8/5.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Prisionero X
+https://dl.dropbox.com/s/tohm2fuxz6uupxo/Prisoner%20X.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Promare (2019)[DUAL]
+https://archive.org/download/androflix_202109/tutoriales/samba.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Proximity
+https://dl.dropbox.com/s/1wps6r6f7rv0cnm/Proximity%20%282020%29%C9%A2%CE%B5%D0%B3%E0%B8%A3%CF%83%C5%8B1620.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Proyecto Almanaque
+https://dl.dropboxusercontent.com/s/jrn5kyiy4dq4cym/Proyecto-Almanac.mp4?fbclid=IwAR1yIgHOOozsmax04dEEKAji8YWdcDJrFrVT5Iq26CU_E6yTftl80JjKpak
+#EXTINF:-1 group-title="zzvarios01" ,Proyecto power
+http://vod.tuxchannel.tv/peliculas/720/project%20power%202020.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Punto de Quiebre (2014)
+https://archive.org/download/sciyt/Mhuc/pqk.avi
+#EXTINF:-1 group-title="zzvarios01" ,Pura Energía
+https://archive.org/download/kohbn/ptol/kohbn.avi
+#EXTINF:-1 group-title="zzvarios01" ,Puños Mortales
+https://archive.org/download/040_20200504/040.avi
+#EXTINF:-1 group-title="zzvarios01" ,que fue del señor
+http://vod.tuxchannel.tv/peliculas/720/what%20happened%20to%20mr%20cha%202020.mkv
+#EXTINF:-1 group-title="zzvarios01" ,que pasó ayer 2
+http://vod.tuxchannel.tv/peliculas/720/the%20hangover%20part%20II.mkv
+#EXTINF:-1 group-title="zzvarios01" ,que pasó ayer 3
+http://vod.tuxchannel.tv/peliculas/720/the%20hangover%20part%20III.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Rango
+https://archive.org/download/00300_20190920/00300.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Rapido & Furioso 9
+https://archive.org/download/manguera_20210729_2256/F9.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Rapido y Furioso 2 Más Rápido y más Furioso
+https://archive.org/download/asdhjasdjhasdkj001/asdhjasdjhasdkj/asdhjasdjhasdkj%20002.MP4
+#EXTINF:-1 group-title="zzvarios01" ,rapidos y furiosos opcion 1
+https://archive.org/download/r-4-f-0-9/R4%20%26%20F0%209.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Ratatouille
+https://ia601402.us.archive.org/21/items/1e08_20191210/e910.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Raya | Phoenix'DreamsTV
+https://archive.org/download/r-4y-4/R4y4.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Rebeldes con causa
+http://archive.org/download/2193KAMWNEW/2193KAMWNEW.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Redada Asesina | Phoenix´DreamsTV
+https://archive.org/download/ReAsSRREGIO/ReAsSRREGIO.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Relic Herencia Maldita (2020)
+https://lh3.googleusercontent.com/X44KWoS_F1KvGqdv7WtyI61dhy8eB88Qbmp0JBNgcYck4lmSCRksK-fQ_pAZnT_Xpmp2Cu_ZON9sYvZ0khfJSUwSYHuu9RrQswPM4HGRrpIAlCu1miREz2v4JR-YljT9OO1aw_HmWdw=m37
+#EXTINF:-1 group-title="zzvarios01" ,RENDEL
+http://ia801401.us.archive.org/12/items/000_20191205_201912/3.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Rendel
+https://dl.dropboxusercontent.com/s/dlkhee84f7w40sy/Rendel.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Reservoir Dogs
+https://archive.org/download/maracuya/maracuya/maracuya.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Resident Evil 1: El Huesped maldito
+https://archive.org/download/r.-e.-h.-m/R.E.H.M.MP4
+#EXTINF:-1 group-title="zzvarios01" ,Resident Evil 2: Apocalipsis
+https://archive.org/download/6_20200518_20200518/2.MP4
+#EXTINF:-1 group-title="zzvarios01" ,Resident Evil 2: Apocalipsis (2004)
+https://dl.dropboxusercontent.com/s/g3m9g096g69gdq8/SalynPM-R.E.A.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,Resident Evil 3: Extincion
+https://archive.org/download/6_20200518_20200518/3.MP4
+#EXTINF:-1 group-title="zzvarios01" ,Resident Evil 3: La extinción (1994)
+https://dl.dropboxusercontent.com/s/no381sp6cshn9as/SalynPM-R.E.E.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,Resident Evil 4: La resurrección (2010)
+https://dl.dropboxusercontent.com/s/c5utky0vbxf4d1t/SalynPM-R.E.L.R.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,Resident Evil 4: Resurrection
+https://archive.org/download/6_20200518_20200518/4.MP4
+#EXTINF:-1 group-title="zzvarios01" ,Resident Evil 5: Venganza (2012)
+https://dl.dropboxusercontent.com/s/shc98tvnyc244ki/SalynPM-R.E.L.V.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,Resident Evil 6: Capitulo Final
+https://archive.org/download/6_20200518_20200518/6.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Resident Evil 6: Capítulo final (2016)
+https://dl.dropboxusercontent.com/s/i4fgi765qhu6yoq/SalynPM-R.E.C.F.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,Resident Evil : 5 La venganza
+https://archive.org/download/6_20200518_20200518/5.MP4
+#EXTINF:-1 group-title="zzvarios01" ,Resident Evil: Degeneracion
+https://archive.org/download/ygy_20191230/ygy.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Resident Evil: Degeneración (2008)
+https://dl.dropboxusercontent.com/s/zp292o868nh1txl/SalynPM-R.E.Deg.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,Resident Evil: Infierno (2012)
+https://dl.dropboxusercontent.com/s/2cj5wuvpe0ttukk/SalynPM-R.E.D.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,Resident Evil: La maldicion
+https://dl.dropbox.com/s/qamtxim7wnrdn8v/ResidentEvilDamnation56584653453536856.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Resident Evil: La Vendetta
+https://dl.dropbox.com/s/thvijufuebq9cav/Resident%20Evil_%20Vendetta.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Resident Evil: Vendetta (2017)
+https://dl.dropboxusercontent.com/s/sx2qtas8k52hqr6/SalynPM-R.E.V.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,return
+http://vod.tuxchannel.tv/peliculas/720/return%20of%20the%20tooth%20fairy%202020.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Rio
+https://ia601402.us.archive.org/21/items/1e08_20191210/1f00e.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Robocop 1
+https://archive.org/download/zzroti/zzroti/zzroti.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Robocop 3
+https://archive.org/download/zzroti3/zzroti3.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Rogue One: Una historia de Star Wars (2016)
+https://dl.dropboxusercontent.com/s/kyw3jvivl25nc4o/SalynPM-SPM2i6v.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,Ruega por Nosotros (2021)
+https://lh3.googleusercontent.com/c08npvjdJVGFrzO6EaIWACzRCuxNypHT-VOco11m74E7qGtgYzPRukZgbHcdkhlxmlVN1DBXURxx4z8FOv78zTqRGXyPB0_zrSDLciGtCEVmhS48yVNhOOZ8AV3mWRQ5V6yGG-DxMZ0=m37
+#EXTINF:-1 group-title="zzvarios01" ,Rápido y furioso
+https://archive.org/download/asdhjasdjhasdkj001/asdhjasdjhasdkj/asdhjasdjhasdkj%20001.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Rápido y furioso 2 (2003)
+https://dl.dropboxusercontent.com/s/dlxsubwqck2hbal/SalynPM-SPM7bz.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,Rápido y furioso 3: Reto Tokio
+https://archive.org/download/asdhjasdjhasdkj001/asdhjasdjhasdkj/asdhjasdjhasdkj%20003.MP4
+#EXTINF:-1 group-title="zzvarios01" ,Rápidos y furiosos
+https://archive.org/download/asdhjasdjhasdkj001/asdhjasdjhasdkj/asdhjasdjhasdkj%20004.MP4
+#EXTINF:-1 group-title="zzvarios01" ,Rápidos y furiosos 5: Sin control
+https://archive.org/download/qwertgf08/qwertgf/qwertgf%2005.MP4
+#EXTINF:-1 group-title="zzvarios01" ,Rápidos y furiosos 6
+https://archive.org/download/qwertgf08/qwertgf/qwertgf%2006.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Rápidos y furiosos 7
+https://archive.org/download/qwertgf08/qwertgf/qwertgf%2007.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Rápidos y furiosos 8
+https://archive.org/download/qwertgf08/qwertgf/qwertgf%2008.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Rápidos y furiosos: Hobbs & Shaw
+https://archive.org/download/hobysha/buho/hobysha.mp4
+#EXTINF:-1 group-title="zzvarios01" ,sabe yourselves
+http://vod.tuxchannel.tv/peliculas/720/save%20yourselves%202020.mkv
+#EXTINF:-1 group-title="zzvarios01" ,safety
+http://vod.tuxchannel.tv/peliculas/720/safety%202020.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Sahara
+https://dl.dropboxusercontent.com/s/0x82vdb9wd0k9fq/250392.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Samurai X El Fin (2021)
+https://lh3.googleusercontent.com/yPHhELJbKxBMkeBDj6efJfAL6MWiVjElCOrsRZ_qs7nJZMmoNt7Tjg28MSeGALnNvmYhY_ukMuCH5EbeLLuGQ4C7fooNUN2I4GVn0oFNcJUSotxReBEPGKHTZXtNHafETsCqKUEA12A=m18
+#EXTINF:-1 group-title="zzvarios01" ,Sangre Por Sangre
+https://archive.org/download/sang_20200511/Sang/Sang.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Sangre Por Sangre 1993
+https://dl.dropboxusercontent.com/s/ysl7dvfazhszknq/SalynPM-SPM3d5t.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,santana
+http://vod.tuxchannel.tv/peliculas/720/santana%202020.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Sargento Bilko
+https://archive.org/download/zapato2/zapato2.mkv
+#EXTINF:-1 group-title="zzvarios01" ,SAW VIII SUBTITULADO | Phoenix´DreamsTV
+https://archive.org/download/SVIIISRREGIO/SVIIISRREGIO.mkv
+#EXTINF:-1 group-title="zzvarios01" ,scaping My stalker
+http://vod.tuxchannel.tv/peliculas/720/escaping%20my%20stalker%202020.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Scary Movie 1
+https://dl.dropbox.com/s/glpmkktp503d2ou/SK4R1M0V131.avi
+#EXTINF:-1 group-title="zzvarios01" ,Scary Movie 2
+https://dl.dropbox.com/s/phhok3peq3lp76p/SK4R1M0V132.avi
+#EXTINF:-1 group-title="zzvarios01" ,Scary Movie 3
+https://dl.dropbox.com/s/jkfm4oesroz6998/5K4R1M0V133.avi
+#EXTINF:-1 group-title="zzvarios01" ,Scary Movie 4
+https://dl.dropbox.com/s/aiydply4qq508ks/SK4R1M0V134.avi
+#EXTINF:-1 group-title="zzvarios01" ,Scary Movie 5
+https://archive.org/download/sh-1_20200430/Artya/sh%202.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Scooby Doo 2: Monstruos sueltos
+https://archive.org/download/78954325002/78954_325002.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Scooby-Doo
+https://archive.org/download/78954325002/78954_325001.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Scooby-Doo y la carrera de los monstruos
+https://archive.org/download/ddd5d5-04/ddd5d5/ddd5d5-01.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Scooby-Doo! Misterio en la lucha libre
+https://archive.org/download/830202008/8302020/8302020-08.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Scre4m 4 (2001)
+https://dl.dropboxusercontent.com/s/4xd6bsrwflgac3e/5C934M4.1080p.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,Scream 1 (1986)
+https://dl.dropboxusercontent.com/s/l5ib7m63g1w1ypo/Scrm96-18pl4T.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,Scream 2 (1997)
+https://dl.dropboxusercontent.com/s/qcfxj73odjtrxcf/Scream%202%201997.MP4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,se busca papá
+http://vod.tuxchannel.tv/peliculas/720/se%20busca%20papa%202020.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Serpiente de cascabel  (2019)
+https://dl.dropboxusercontent.com/s/qqg2rrxcxc2spff/SalynPM-SPM2p5w.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,Sextillizos
+https://archive.org/download/3dsmallpeoplelaptoppr/S3XT1111Z0S.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Señales
+https://archive.org/download/dibujo_202004/dibujo/dibujo.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Shadow (2018)[MAN]
+https://archive.org/download/AndroFlix_202108/ANDROfLIX/FEDORA.mp4
+#EXTINF:-1 group-title="zzvarios01" ,SHARK
+http://ia801409.us.archive.org/30/items/000_20200106/4.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Showbiz kids
+http://vod.tuxchannel.tv/peliculas/720/showbiz%20kids%202020.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Shrek
+https://archive.org/download/00100_20190920/00100.avi
+#EXTINF:-1 group-title="zzvarios01" ,Shrek 2
+https://archive.org/download/00200_20190920/00200.avi
+#EXTINF:-1 group-title="zzvarios01" ,Shrek 3
+https://archive.org/download/sh3_20200512/sh3.avi
+#EXTINF:-1 group-title="zzvarios01" ,Shrek 4
+https://archive.org/download/00400_20190920/00400.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Si señor
+https://archive.org/download/si-senor/Si%2C%20se%C3%B1or/Si%2C%20Se%C3%B1or.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Si Yo Tuviera 30
+https://archive.org/download/agtbf/cassa/stv300.avi
+#EXTINF:-1 group-title="zzvarios01" ,Siberia (2018)
+https://archive.org/download/siberia-mandriva/Siberia%20%282018%29.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Sin City: La Ciudad del Pecado (2005)
+https://archive.org/download/sciyt/Mhuc/sciyt.avi
+#EXTINF:-1 group-title="zzvarios01" ,sin hijos
+http://vod.tuxchannel.tv/peliculas/720/sin%20hijos%202020.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Sing: Ven y Canta
+https://ia601402.us.archive.org/21/items/1e08_20191210/cbc0.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Skyliners (2020)
+https://dl.dropbox.com/s/hb7d3f6ino8xrw7/Skylines%20%282020%29%20HD%20720p%20Latino.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Skylines (2021)[Eng]
+https://archive.org/download/mandragora-linux/tmp77/Skylines%20%282021%29.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Snake Eyes: G.I. Joe Origins (2021)
+https://archive.org/download/vibora/vibora.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Snatch: Cerdos y Diamantes
+https://archive.org/download/solf-12/onai/scd.avi
+#EXTINF:-1 group-title="zzvarios01" ,Soldado Universal
+https://ia601507.us.archive.org/10/items/bfrbc/54ib5.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Soldado Universal 2: El retorno (1998)
+https://ia601507.us.archive.org/23/items/uhu_20191207/uhu.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Soldado Universal 3: Regeneracion
+https://ia601507.us.archive.org/23/items/uhu_20191207/ughp.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Soldado Universal 4: El Juicio Final
+https://ia601507.us.archive.org/23/items/uhu_20191207/82b57.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Solterisima
+http://vod.tuxchannel.tv/peliculas/720/seriously%20single%202020.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Son como niños
+https://dl.dropboxusercontent.com/s/b0rsesyno1h2cvj/son%20como%20ni%C3%B1os.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Son como niños 1 2010
+https://content-na.drive.amazonaws.com/cdproxy/share/r0fph6863vCakGFjkkRgXeRW0P2WaFGCDBqoawZuMuU/nodes/52J0kAiLQAq_7iyfJn3BjA?nonce=YkRC4ZYkX_v9EB9yaYnl8n6bJWz8NBEgN-T-66fJm6Jh6O_2jglxH4_5w1uR--OB&download=true&ownerId=A19RVH3N6WX969
+#EXTINF:-1 group-title="zzvarios01" ,Son como niños 2
+https://dl.dropboxusercontent.com/s/ewm0dtmuvk9u20x/son%20como%20ni%C3%B1os%202.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Son como niños 2 2013
+https://content-na.drive.amazonaws.com/cdproxy/share/rcBRqzni4bQyonpjVUHsl1frCiQFFxBuA6yBMAKah7w/nodes/_7ujuEjbSouSrd-QjOFwWg?nonce=ZBDK2FOsCe_TXhAHWhJRGiBhjYhFBFmzCNbiL48o76WmogCKsXFD3wVSSW2zd5rY&download=true&ownerId=A3Q0WPO6WQYJY2
+#EXTINF:-1 group-title="zzvarios01" ,Sonic: La Pelicula
+https://archive.org/download/50-n-1-c/50N1C.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Soul
+https://archive.org/download/soul.-2020/Soul.2020.mkv
+#EXTINF:-1 group-title="zzvarios01" ,SPENCER CONFIDENCIAL
+http://ia801505.us.archive.org/14/items/00000_20200410_2219/06.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Spider-Man
+https://archive.org/download/sapito1/sapito/sapito%201.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Spider-Man 2
+https://archive.org/download/ana_20200213/ANA.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Spider-Man: Far from Home
+https://archive.org/download/12931222/12931222.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Spider-Man: Homecoming
+https://archive.org/download/baby721/22142.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Spider-Man: Un Nuevo Universo
+https://archive.org/download/23kksk300/23kksk/23kksk500.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Spider-Man: Un nuevo universo (2018)
+https://dl.dropboxusercontent.com/s/c3rzd0ub2stohz3/SalynPM-S.V.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,SPIDERMAN 2
+http://archive.org/download/07_20191209/hoiho/05.mp4
+#EXTINF:-1 group-title="zzvarios01" ,SPIDERMAN 3
+http://archive.org/download/07_20191209/hoiho/03.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Spiderman 3.1
+https://archive.org/download/valores_202103/valor/valores.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Spiderman 3.1
+https://archive.org/download/platillo/platillo.mkv
+#EXTINF:-1 group-title="zzvarios01" ,SPIDERMAN HOMECOMING
+http://ia601402.us.archive.org/22/items/1_20191127_20191127_1730/9.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Spirit El indomable (2021)
+https://lh3.googleusercontent.com/873zEDruCpR5ZcY5tL23VnTKUwYXVHBHeRUZsl2jpzXK8rFNdgTEA-EPqhJcu0rJBozdB_zjlcpXg2OPF61P6ybzA7mDPO5_cj9GTfPq4PQsSQ76Q84I6YPk9Oh1doRWL4b0wnX_Ox0=m18
+#EXTINF:-1 group-title="zzvarios01" ,Sputnik Extrano Pasajero
+https://archive.org/download/barco_202101/59utn1c.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Spycies
+https://archive.org/download/3spe3c1as/r3c3t4r1o/3spe3c1as/3spe3c1as.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Star Girl
+https://archive.org/download/salvefaante/BOTON/chica%23.mkv
+#EXTINF:-1 group-title="zzvarios01" ,STAR WARS EPISODIO 1
+https://archive.org/download/1_20200514_20200514_1337/1.mp4
+#EXTINF:-1 group-title="zzvarios01" ,STAR WARS EPISODIO 2
+https://archive.org/download/1_20200514_20200514_1337/2.mp4
+#EXTINF:-1 group-title="zzvarios01" ,STAR WARS EPISODIO 3
+https://archive.org/download/3_20200514_20200514_1404/3.mp4
+#EXTINF:-1 group-title="zzvarios01" ,STAR WARS EPISODIO 4
+https://archive.org/download/3_20200514_20200514_1404/4.mp4
+#EXTINF:-1 group-title="zzvarios01" ,STAR WARS EPISODIO 5
+https://archive.org/download/6_20200514_20200514/5.mp4
+#EXTINF:-1 group-title="zzvarios01" ,STAR WARS EPISODIO 6
+https://archive.org/download/6_20200514_20200514/6.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Star Wars IX
+https://archive.org/download/03elojoblindado/Tuesday-2/SW-AS.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Star Wars: El despertar de la Fuerza (2015)
+https://dl.dropboxusercontent.com/s/f9ebeuwxl79vg1g/SalynPM-SPM9l4s.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,Star wars: Episodio I - La amenaza fantasma (1999)
+https://dl.dropboxusercontent.com/s/zocehzdpch7epmr/SalynPM-SPM1m2t.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,Star Wars: Episodio II - El ataque de los clones (2002)
+https://dl.dropboxusercontent.com/s/cj0ogf7jv5rtra9/SalynPM-SPM3z1t.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Stargate
+http://archive.org/download/npr82752_zoqqa_1_20190323/subid0_p4r4_stre4ming_a85/1.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Starship Troopers
+https://dl.dropboxusercontent.com/s/fhpb8e8ecqlot5e/8d219db01eb606ac32adb159fa25d8f3-720p.mp4?fbclid=IwAR2EUYK2f2AhqgT3ImypFKgSDYJnEtCwQ4l2YwkqIOtXsE7rJubdK6NhshQ
+#EXTINF:-1 group-title="zzvarios01" ,Starship Troopers 2: Héroe de la federación
+https://dl.dropboxusercontent.com/s/ahk8ssv5e0jm0zl/cbe5baaacdef1bea1a84e1cb2ccdd430-2-720p.mp4?fbclid=IwAR2R5YFsGoCti0LN0pSyiSO46aiu7uu5CF4TXPfOABf-x6csb4UosZvAczg
+#EXTINF:-1 group-title="zzvarios01" ,Starship Troopers 3: Merodeador
+https://dl.dropboxusercontent.com/s/xwuj7peijvyszi2/dc0d87d993d2dfc5e9e6d29b9a34af1a-3-720p.mp4?fbclid=IwAR2seX_LMVjgJhto_IzGO9HndcOV5LgOD7Ny_G9syhoFtcualHdigf4hsng
+#EXTINF:-1 group-title="zzvarios01" ,Starship Troopers 4: Invasion
+https://dl.dropboxusercontent.com/s/xo394ru84r4t575/afsf3Gdr36yG57zfy6465ugfds-4-720p.avi?fbclid=IwAR3lwWKmls2xcVYQ0ry7oZbQ48zlsXwl8sL-18QxP-1cC-w5Y2jqrz7zy40
+#EXTINF:-1 group-title="zzvarios01" ,Starship Troopers 5: El traidor de Marte
+https://dl.dropboxusercontent.com/s/8yavq2b9zexlz3f/asHdh627Jshs772hak82u-5-720.mp4?fbclid=IwAR25uHzZrPqdXCGUnzWoKu3pydvAzjEhaoRpmIXi8WUi-ihVb81IMo3eP4Q
+#EXTINF:-1 group-title="zzvarios01" ,Steel (1997)
+https://dl.dropbox.com/s/1s25z4w7jpgkydr/STEEL%20%281997%29.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Steven Universe: La película (2019)
+https://dl.dropboxusercontent.com/s/vdiqo0vn2tyodvd/SalynPM-SPM2a2l.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,Sudor y Gloria
+https://ia601507.us.archive.org/10/items/bfrbc/ovn.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Super papá oso (2019)
+https://archive.org/download/ubuntu_202010/Super%20Bear%20%282019%29.mkv
+#EXTINF:-1 group-title="zzvarios01" ,SuperCool
+https://archive.org/download/supercool2007byantyr/Super%20Cool%20%282007%29%20-%20by%20Antyr.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Superman hombre del
+http://vod.tuxchannel.tv/peliculas/720/superman%20man%20of%20tomorrow%202020.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Superman: Red Son
+https://archive.org/download/2020sonred1/2020sonred%20%281%29.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Survive Game (2021)
+https://archive.org/download/manguera_20211012/5urv1v3.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Sweet Girl (2021)[DUAL]
+https://archive.org/download/GIRLINUX/Girl.mkv
+#EXTINF:-1 group-title="zzvarios01" ,súpermonsters
+http://vod.tuxchannel.tv/peliculas/720/super%20monsters%20dia%20de%20los%20monsters%202020.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Taxi 2
+https://archive.org/download/taxderni/Tax2Cast.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Taxi 3
+https://archive.org/download/taxderni/Tax3Cast.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Taxi 4
+https://archive.org/download/taxderni/Tax4Cast.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Taxi Express
+https://archive.org/download/taxderni/Tax1Cast.mp4
+#EXTINF:-1 group-title="zzvarios01" ,TE AMO PHILLIP MORRIS
+http://archive.org/download/bi_20210117/BJ.avi
+#EXTINF:-1 group-title="zzvarios01" ,Ted
+https://archive.org/download/10010010/10010010.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Ted 2
+http://archive.org/download/PaqueteClinico1/Ted2PeliculaCompletaEnEspaolLatino-Youtube61465464645.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Teen Titans Go! La película (2018)
+https://dl.dropboxusercontent.com/s/v5qww1l2ixmxze5/SalynPM-Teen.titans.go.the.movie.2018.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,Tempus tormentus
+http://vod.tuxchannel.tv/peliculas/720/tempus%20tormentum%202018.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Tenacious D
+https://archive.org/download/gallina_202003/gallina/gallina.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Terminator
+http://archive.org/download/5_20190713_201907/1.avi
+#EXTINF:-1 group-title="zzvarios01" ,Terminator 2: Dia del juicio
+http://archive.org/download/5_20190713_201907/2.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Terminator 3: La rebelión de las maquinas
+http://archive.org/download/5_20190713_201907/3.avi
+#EXTINF:-1 group-title="zzvarios01" ,Terminator 3: La rebelión de las máquinas (2003)
+https://dl.dropboxusercontent.com/s/99zuuhknomxz90t/SalynPM-SPM7w9q.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,Terminator 4: Salvacion
+http://archive.org/download/5_20190713_201907/4.avi
+#EXTINF:-1 group-title="zzvarios01" ,Terminator: Genesis
+http://archive.org/download/5_20190713_201907/5.avi
+#EXTINF:-1 group-title="zzvarios01" ,Terminus | Phoenix´DreamsTV
+https://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Terremoto: La falla de San Andrés
+https://archive.org/download/00100_20190920_0442/00100.avi
+#EXTINF:-1 group-title="zzvarios01" ,Terror en Silent Hill (2006)
+https://dl.dropboxusercontent.com/s/r690u764lj5sn4f/SalynPM-S.H.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,Terror en Silent Hill 2: La revelación (2012)
+https://dl.dropboxusercontent.com/s/q61mdvd1ebdi0zh/SalynPM-S.H.2.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,Terror en Siria (2018)
+https://archive.org/download/almohadas_20210408/B3.mkv
+#EXTINF:-1 group-title="zzvarios01" ,The Breakfast Club
+https://dl.dropbox.com/s/l7zlf985v01h7d4/TheBreakfastClub%281985%29.avi
+#EXTINF:-1 group-title="zzvarios01" ,The Cable Guy
+https://dl.dropbox.com/s/ba0h3qejndmb7fo/The%20Cable%20Guy%201996.mkv
+#EXTINF:-1 group-title="zzvarios01" ,the call
+http://vod.tuxchannel.tv/peliculas/720/the%20call%202020.mkv
+#EXTINF:-1 group-title="zzvarios01" ,The Climbers (2019)
+https://archive.org/download/quimica1_202009/The%20Climbers%20%282019%29.mkv
+#EXTINF:-1 group-title="zzvarios01" ,The Domestics (2018)
+https://dl.dropboxusercontent.com/s/jl9fl2p8iqa6dze/The.domestics.2018.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,The Fanatic (2019)
+https://archive.org/download/linux_2020/The%20Fanatic%20%282019%29.mkv
+#EXTINF:-1 group-title="zzvarios01" ,The Imaginarium of Doctor Parnassus
+https://dl.dropboxusercontent.com/s/ybel9j3pxn5spkt/The.Imaginarium.of.Doctor.Parnassus.2009.mp4
+#EXTINF:-1 group-title="zzvarios01" ,The kid
+https://archive.org/download/ziinoca/opmp/troencu.mkv
+#EXTINF:-1 group-title="zzvarios01" ,The Last Days of American Crime
+https://dl.dropbox.com/s/6o3dyszxv5gqq9n/The.Last.Days.of.American.Crime.2020.%28SS_CANY%29.mp4
+#EXTINF:-1 group-title="zzvarios01" ,The Lovebirds
+https://dl.dropboxusercontent.com/s/praw50i7boz8qid/The.Lovebirds.2020.mp4
+#EXTINF:-1 group-title="zzvarios01" ,The Martian
+https://archive.org/download/mr_20200529/MR.mkv
+#EXTINF:-1 group-title="zzvarios01" ,The Misfits (2021)[DUAL]
+https://archive.org/download/androiflix/linux/debian.mp4
+#EXTINF:-1 group-title="zzvarios01" ,The Night Comes for Us
+https://archive.org/download/vigota/vigota.mp4
+#EXTINF:-1 group-title="zzvarios01" ,The Old Guard (2020)
+https://dl.dropbox.com/s/2dlws4f8y42dq3m/The.Old.Guard.2020.mp4
+#EXTINF:-1 group-title="zzvarios01" ,The Outlaws
+https://dl.dropbox.com/s/vgcs6zwszfeuebt/The%20Outlaws%20%282017%29SS_CANY.mp4
+#EXTINF:-1 group-title="zzvarios01" ,The Suicide Squad (2021)[DUAL]
+https://archive.org/download/manguera_202108/Th3%205u1c1d3%205qu4d%202.mkv
+#EXTINF:-1 group-title="zzvarios01" ,The Swing of Things (2020)
+https://dl.dropboxusercontent.com/s/x4v1wuwyuwn9zma/theswingofthings.mp4
+#EXTINF:-1 group-title="zzvarios01" ,The Warriors (1979)
+https://ia801400.us.archive.org/18/items/Guerreros/Guerreros.mp4
+#EXTINF:-1 group-title="zzvarios01" ,The Witcher Nightmare of the Wolf (2021)[eng]
+https://archive.org/download/androflix_20210823/TUTORIALES/SABAYON.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Think Like a Dog
+https://dl.dropbox.com/s/540ttslwq9jhl5s/ThinkLikeaDog%20%282020%29.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Thor
+https://archive.org/download/lso-32/43.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Thor: Ragnarok
+https://archive.org/download/sh-1_20200430/Artya/sh%201.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Tierra de Osos
+https://ia601402.us.archive.org/21/items/1e08_20191210/bf0c.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Tierra de Osos 2
+https://ia601402.us.archive.org/21/items/1e08_20191210/f163.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Tierra de zombies 2009
+https://dl.dropboxusercontent.com/s/hx0avpivgfcguqk/SalynPM-Zombieland.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,Todo Un Parto
+https://archive.org/download/tu-p_20200512/TuP.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Todos los perros van al cielo
+https://dl.dropbox.com/s/5tvxdt0vawserm7/Todos%20los%20perros%20van%20al%20cielo.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Todos Mis Amigos Estan Muertos (2020)
+https://archive.org/download/cobijas/70d0s%20m1s%204m1g05%203s7an%20mu3r705.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Tom y Jerry pelicula
+http://vod.tuxchannel.tv/peliculas/720/tom%20and%20jerry%202021.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Tomb Raider
+https://archive.org/download/tmbrder/tr/Tmb%20rder.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Tomorrow Man
+https://archive.org/download/00300_201912/00300.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Torrente 1
+https://archive.org/download/multiplos_de_54/1.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Torrente 2
+https://archive.org/download/multiplos_de_54/2.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Torrente 3
+https://archive.org/download/multiplos_de_54/3.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Torrente 4
+https://archive.org/download/multiplos_de_54/4.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Torrente 5
+https://archive.org/download/multiplos_de_54/5.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Total Recall
+https://dl.dropbox.com/s/n2tiqlufphe342w/Total%20Recall%20%28SS_CANY%29.mp4
+#EXTINF:-1 group-title="zzvarios01" ,tour wonan
+http://vod.tuxchannel.tv/peliculas/720/im%20your%20woman%202020.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Toy Story - Lamp Life (Corto)
+https://archive.org/download/lampara_202003/lampara.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Toy Story 1
+https://archive.org/download/01t6574568475645684685486545684/01%20t6574568475645684685486545684.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Toy Story 2
+https://archive.org/download/027tfduirdyf8yt8o7tot686t8or76e45i6dytyitfuot78typ7r/027tfduirdyf8yt8o7tot686t8or76e45i6dytyitfuot78typ7r.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Toy Story 3
+https://archive.org/download/3gefgyilegfielngfilsaegfyiserfyiditeidfseyifdyeldyefldy/3gefgyilegfiel%C3%B1gfilsaegfyiserfyiditeidfseyifdyeldyefldy.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Toy Story 4
+https://archive.org/download/ts4ps/ts4ps.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Toy Story: El Tiempo perdido
+https://archive.org/download/tiempoperd5346954976252380640degdsavdkjvasgxcvaductfadcfyaduytd/tiempoperd5346954976252380640degdsavdkjvasgxcvaductfadcfyaduytd.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Traffik (2019)
+https://dl.dropboxusercontent.com/s/7wuj8sgifapq3ex/SalynPM-T.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,Tragedy Girls | Phoenix´DreamsTV
+https://archive.org/download/tr4gSRREG10/tr4gSRREG10.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Transformers 1
+https://archive.org/download/the.addams.family.2019.hd.latino.720p/P3L122/7r4n5f0rm3r5%201.avi
+#EXTINF:-1 group-title="zzvarios01" ,Transformers 2
+https://archive.org/download/the.addams.family.2019.hd.latino.720p/P3L122/7r4n5f0rm3r5%202.avi
+#EXTINF:-1 group-title="zzvarios01" ,Transformers 3
+https://archive.org/download/the.addams.family.2019.hd.latino.720p/P3L122/7r4n5f0rm3r5%203.avi
+#EXTINF:-1 group-title="zzvarios01" ,Transformers 4
+https://archive.org/download/the.addams.family.2019.hd.latino.720p/P3L122/7r4n5f0rm3r5%204.avi
+#EXTINF:-1 group-title="zzvarios01" ,Transformers 5
+https://archive.org/download/the.addams.family.2019.hd.latino.720p/P3L122/Transformers%205%20El%20%C3%9Altimo%20Caballero.avi
+#EXTINF:-1 group-title="zzvarios01" ,Trascender
+https://archive.org/download/tmbrder/trsndr/trsndr.avi
+#EXTINF:-1 group-title="zzvarios01" ,trash truco christmas
+http://vod.tuxchannel.tv/peliculas/720/a%20trash%20truck%20christmas%202020.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Tremors
+https://dl.dropbox.com/s/9foxkipq2zznxnj/11b1c6d7fdb0b723ddb000feea0578faf4-720p.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Tremors 2
+https://dl.dropbox.com/s/rp6ft2fu7kkw1lr/2274f657949b2ac703d07af7747e0e65c3-720p.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Triple fontera (2019)
+https://archive.org/download/tr-1-pl-3-fron-73-r-4/TR1PL3%20FRON73R4.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Trolls 2 (2020)
+https://archive.org/download/tour_20200413/tour.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Un detective en el Kinder
+https://dl.dropbox.com/s/mqtx545d1p3dalv/un.d3t3ct1v3.3n.3l.k1nd3r.www.blog-peliculas.com.avi
+#EXTINF:-1 group-title="zzvarios01" ,Un detective suelto en Hollywood
+https://archive.org/download/789456_202003/789456_0101.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Un detective suelto en Hollywood II
+https://archive.org/download/789456_202003/789456_0102.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Un detective suelto en Hollywood III
+https://archive.org/download/789456_202003/789456_0103.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Un jefe en pañales (2017)
+https://lh3.googleusercontent.com/ymBBMcU5TNJF0NqOdGGKShaAH75ODcwAqDjO2N8vVzXlmt9bjYnMkXuR5j7ZWRlX7FX5BGkYiIvMKN6OfBlbY3WRDc6OxkBsJDJbdCRKnBlULsxsopJ_Ukj_aG_M5H0tgGCSTw=m37
+#EXTINF:-1 group-title="zzvarios01" ,Un lugar en silencio (2018)
+https://lh3.googleusercontent.com/fDw7CruyBOYBx0VT4kFlT7nwkZr5oe-Z1PmrDVd43piCRUy0mQ68WHQIpciU-8AdZLtM_NZeHNwAVlDygWzqP_s7gPNP4P1bB55kBQfIL4e0R--0RZGCW5mFGnWzxoC1v-fXIkh3WMk=m37
+#EXTINF:-1 group-title="zzvarios01" ,Un lugar en silencio Parte II (2021)
+https://lh3.googleusercontent.com/MfpTJxg8rxbMMfIxAoezrhwIoRK9qUUcb5uSb0jVgUf3GdWKEQA3sSt4SHOYG2g753wTR9ZNPFqLslFuCX6dO32NrKLw6H94_B2O89OIgxAxiDPOZspZhXDl8wUXu7AQlPuT06OGKjI=m18
+#EXTINF:-1 group-title="zzvarios01" ,un mundo al reves
+http://vod.tuxchannel.tv/peliculas/720/bia%20un%20mundo%20al%20reves%202021.mkv
+#EXTINF:-1 group-title="zzvarios01" ,un principe en nueva
+http://vod.tuxchannel.tv/peliculas/720/coming%202%20america%202021.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Un principe en Nueva York
+https://ia801402.us.archive.org/32/items/012551141477/012551_141477.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Un Show más: La Película
+https://archive.org/download/4b1_20200101/514.mp4
+#EXTINF:-1 group-title="zzvarios01" ,UNA JOVEN PAREJA DE IDIOTAS
+http://archive.org/download/bb_20210117/BC.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Una noche en el museo 2: la batalla del Smithsoniano (2009)
+https://dl.dropboxusercontent.com/s/1k21pkk3ka082l5/SalynPM-U.N.E.E.M.2.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,Una noche en el Roxbury
+https://archive.org/download/scr45-01/scr45-01/scr45-01.avi
+#EXTINF:-1 group-title="zzvarios01" ,UNA PAREJA DE IDIOTAS
+http://archive.org/download/bb_20210117/BA.avi
+#EXTINF:-1 group-title="zzvarios01" ,UNA PAREJA DE IDIOTAS 2
+http://archive.org/download/bb_20210117/BB.avi
+#EXTINF:-1 group-title="zzvarios01" ,Una Pareja Explosiva 1
+https://archive.org/download/rh1_20200302/Rh%20sg/rh1.avi
+#EXTINF:-1 group-title="zzvarios01" ,Una Pareja Explosiva 2
+https://archive.org/download/rh1_20200302/Rh%20sg/rh2.avi
+#EXTINF:-1 group-title="zzvarios01" ,Una Pareja Explosiva 3
+https://archive.org/download/rh1_20200302/Rh%20sg/rh3.avi
+#EXTINF:-1 group-title="zzvarios01" ,Una Película de Huevos
+https://archive.org/download/534_20191230/b76.mp4
+#EXTINF:-1 group-title="zzvarios01" ,UNA SERIE DE EVENTOS DESAFORTUNADOS
+http://archive.org/download/bi_20210117/BH.avi
+#EXTINF:-1 group-title="zzvarios01" ,Under the Eiffel Tower
+https://dl.dropbox.com/s/s78ftytpl0xjlo6/Under%20the%20Eiffel%20tower.mp4
+#EXTINF:-1 group-title="zzvarios01" ,uno de nosotros
+http://vod.tuxchannel.tv/peliculas/720/let%20him%20go%202020.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Unpregnant (2020)
+https://lh3.googleusercontent.com/nkzryVb3lS-rdlrDWdGL33OFp-FCELlnulHuU_KPMgB416uJtNYLuDBppiKdmRJai0wyiRGIRk96GnigsF66DjQamgZClm1OU-wUJ7htwq2NySsoChnvkO1bCGwGc-P2MuzD9Wqe6iY=m37
+#EXTINF:-1 group-title="zzvarios01" ,Up: Una aventura de altura
+https://archive.org/download/00200_20190814/00200.avi
+#EXTINF:-1 group-title="zzvarios01" ,V De Venganza
+https://archive.org/download/vdv_20200409/VDV.avi
+#EXTINF:-1 group-title="zzvarios01" ,Vacas vaqueras
+https://dl.dropboxusercontent.com/s/ctk5uzbj7x3rw8v/SalynPM-V.V.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,Van Helsing
+https://ia601408.us.archive.org/15/items/123a_20191206/123a.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Van Helsing
+https://dl.dropbox.com/s/78yalld8nmq1383/Van%20Helsing%20%282004%29.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Vecinos invasores
+https://archive.org/download/ax_20200528/vi.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Velvet Buzzsaw (2019)
+https://dl.dropboxusercontent.com/s/z5g9xhsc1g90gna/SalynPM-V.B.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Venganza Bajo Cero (2019)
+https://archive.org/download/3_20201017_20201017_1926/Today/4.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Venganza del más allá (2017)
+https://dl.dropboxusercontent.com/s/xf5v4psji8jd80t/SalynPM-Revenge.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,Venganza Implacable Opción 2
+https://archive.org/download/videoplayback2_20201229/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback10.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Venom (2018)
+https://dl.dropboxusercontent.com/s/tbojpd1d4tittem/SalynPM-V2.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,Verano del 84 (1995)
+https://dl.dropboxusercontent.com/s/go182wadn2kcuy3/SalynPM-Summer.of.84.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,Verdad o Reto (2018)
+https://dl.dropboxusercontent.com/s/dyea628y6qn0bmt/SalynPM-V.O.R.18.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" audio-track="mp4" ,Verdad o Reto | Phoenix´DreamsTV
+https://onedrive.live.com/download.aspx?cid=61BF9704CA96F884&resid=61BF9704CA96F884!1358&authkey=ANdX5tup-vBNhXM&ithint=video
+#EXTINF:-1 group-title="zzvarios01" ,Victor Frankenstein (2015)
+https://dl.dropboxusercontent.com/s/lam750xoajf1uo7/SalynPM-Victor.Frank.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,Vidas de papel
+http://vod.tuxchannel.tv/peliculas/720/paper%20lives%202021.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Virgen a los 40
+https://archive.org/download/raton_202004/raton/raton.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Vivo
+http://vod.tuxchannel.tv/peliculas/720/saraitda%20alive%202020.mkv
+#EXTINF:-1 group-title="zzvarios01" ,voces
+http://vod.tuxchannel.tv/peliculas/720/dont%20listen%202020.mkv
+#EXTINF:-1 group-title="zzvarios01" ,VOLVER AL FUTURO
+https://discontrol@ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4?disco
+#EXTINF:-1 group-title="zzvarios01" ,Volver al Futuro 2 | Phoenix´DreamsTV
+https://archive.org/download/qwerty2/qwerty2.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Volver al Futuro 3 | Phoenix´DreamsTV
+https://archive.org/download/qwerty3/qwerty3.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Volver al Futuro | Phoenix´DreamsTV
+https://archive.org/download/qwerty_202001/qwerty.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Volver al Futuro | Phoenix´DreamsTV
+https://archive.org/download/VolvAFuSRREGIO/VolvAFuSRREGIO.mkv
+#EXTINF:-1 group-title="zzvarios01" ,víctima del poder
+http://vod.tuxchannel.tv/peliculas/720/most%20wanted%202020.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Wall-E
+https://archive.org/download/dfgxhtf/d%20fgxhtf.avi
+#EXTINF:-1 group-title="zzvarios01" ,WALL·E (2008)
+https://dl.dropboxusercontent.com/s/n8r4p0vk12q2p7v/SalynPM-Wall.E.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,Waterworld
+https://archive.org/download/003_20200426_202004/003.mkv
+#EXTINF:-1 group-title="zzvarios01" ,we in at dawn
+http://vod.tuxchannel.tv/peliculas/720/we%20go%20in%20at%20dawn%202020.mkv
+#EXTINF:-1 group-title="zzvarios01" ,We're the Millers (2013)[Eng]
+https://archive.org/download/documentales_202101/We%27re%20the%20Millers%20%282013%29.mkv
+#EXTINF:-1 group-title="zzvarios01" ,White boy rick
+https://archive.org/download/7at_20200608/wht/wby.avi
+#EXTINF:-1 group-title="zzvarios01" ,Wifi Ralph
+https://archive.org/download/467764543557728/476457490142347546583683.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Wifi Ralph (op. 2)
+http://archive.org/download/ulakinw_w542c_mygeoweb_4/DFRT/9.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Wild Wild West: Las aventuras de Jim West (1999)
+https://archive.org/download/pssi_20200515/fryu/jwad.avi
+#EXTINF:-1 group-title="zzvarios01" ,Willy Wonka y la fabrica de chocolates
+https://archive.org/download/caramelo_202004/caramelo/caramelo.avi
+#EXTINF:-1 group-title="zzvarios01" ,Wolfwalkers: Espíritu de Lobo
+https://ia601504.us.archive.org/20/items/4915812364894339407/1_4915812364894339407.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Wolverine Inmortal
+https://dl.dropbox.com/s/3ctg9nkh2cl95jn/w0lv3r1n31nw0r74l.avi
+#EXTINF:-1 group-title="zzvarios01" ,Wonder  Woman  1984
+https://archive.org/download/videoplayback2_20201229/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback2.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Wonder Woman 84
+https://archive.org/download/ww-1984_202103/WW1984.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Wonder Woman 84 opcion 2
+https://archive.org/download/mujermaravilla_202103/mujermaravilla.mp4
+#EXTINF:-1 group-title="zzvarios01" ,Wrath of the Titans (2012)[ESP]
+https://archive.org/download/uploaded_202109/linux/ARCHLINUX.mkv
+#EXTINF:-1 group-title="zzvarios01" ,X MEN APOCALYPSIS
+http://archive.org/download/07_20191209/hoiho/07.mp4
+#EXTINF:-1 group-title="zzvarios01" ,X-Men - Días del Futuro Pasado
+https://dl.dropbox.com/s/bgj4p1c8xn1o3d4/xm3nd14sd3lfu7ur0p45ad0.avi
+#EXTINF:-1 group-title="zzvarios01" ,X-Men 1
+https://dl.dropbox.com/s/e3f642mdpiqjfef/xm3n1.avi
+#EXTINF:-1 group-title="zzvarios01" ,X-Men 2
+https://dl.dropbox.com/s/ijh9357wouvkduq/xm3n2.avi
+#EXTINF:-1 group-title="zzvarios01" ,X-Men 3
+https://dl.dropbox.com/s/rlbpbhz1s2qrffn/xm3n3.avi
+#EXTINF:-1 group-title="zzvarios01" ,X-Men Primera Generación
+https://dl.dropbox.com/s/lgdqczvpj610yd0/xm3n1r4g3n3r4c10n.avi
+#EXTINF:-1 group-title="zzvarios01" ,X-Men Wolverine
+https://dl.dropbox.com/s/a2sxer2f6zbgffp/xm3n0r1g3n35w0lv3r1n3.avi
+#EXTINF:-1 group-title="zzvarios01" ,X-Men: Apocalipsis
+https://dl.dropbox.com/s/hmtyf8bylhezvqc/xm3n4p0c4l1p515.mkv
+#EXTINF:-1 group-title="zzvarios01" ,X-Men: Dark Phoenix
+https://dl.dropbox.com/s/tucatoky8nnj3t9/xm3nd4rkph03n1x.mp4
+#EXTINF:-1 group-title="zzvarios01" ,X-Men: Dark Phoenix (Opción 2)
+https://archive.org/download/00300_201909/00300.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Yesterday
+https://archive.org/download/delfin_202004/delfin/delfin.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Yo antes de ti
+https://dl.dropbox.com/s/xxg9rsq88z0yjx9/eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjpbIjIwMC4yNC4xOTYuNyIsIm44cThkbnJjNzI2NyIsIm4iLDFdLCJleHAiOjE1OTE2MzI3NDB9.8lpCLW4cbLlF686ojy2OkCStqBVSsXDYUHiJNzn9iaM.mp4
+#EXTINF:-1 group-title="zzvarios01" ,yo soy Lorena
+http://vod.tuxchannel.tv/peliculas/720/i%20was%20lorena%20bobbitt%202020.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Yo soy Simón (2018)
+https://dl.dropboxusercontent.com/s/s6xpfin40mjgxze/SalynPM-Love.simon.2018.1080p.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,Yojimbo
+https://archive.org/download/faraon/faraon/faraon.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Your Name | Phoenix´DreamsTV
+https://archive.org/download/258DocNameRegio/258DocNameRegio.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Zapatos Rojos y los Siete Enanos (2019)
+https://archive.org/download/ubuntu_202010/Red%20Shoes%20and%20the%20Seven%20Dwarfs%20%282019%29.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Zombieland
+https://archive.org/download/patata/patata.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Zombieland 2: Tiro de gracia
+https://archive.org/download/00200_20200117_0628/00200.mkv
+#EXTINF:-1 group-title="zzvarios01" ,Zoolander
+https://dl.dropbox.com/s/o4hg954zhv408q8/Zoolander%282001%29.avi
+#EXTINF:-1 group-title="zzvarios01" ,Zootopia (2016)
+https://dl.dropboxusercontent.com/s/fezzhlyasrxkzax/SalynPM-Zootopia.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,¡Madre!  (2018)
+https://dl.dropboxusercontent.com/s/k5rpsepvtj291fn/SalynPM-Mother.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,¡Scooby!
+https://archive.org/download/sc_20200516/SC/SC.mkv
+#EXTINF:-1 group-title="zzvarios01" ,¡Scooby!(2020)
+https://archive.org/download/videoplayback37_202011/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback17.mkv
+#EXTINF:-1 group-title="zzvarios01" ,¿Y dónde está el policía?
+https://dl.dropbox.com/s/pr7qhtgg7ocfb3h/La%20Pistola%20Desnuda%201.avi
+#EXTINF:-1 group-title="zzvarios01" ,¿Y dónde está el policía? 2½
+https://dl.dropbox.com/s/l3umacgmapzbqiy/La%20Pistola%20Desnuda%202.avi
+#EXTINF:-1 group-title="zzvarios01" ,¿Y dónde está el policía? 33⅓
+https://dl.dropbox.com/s/dg4ah0wcfsv1b2d/La%20Pistola%20Desnuda%203.avi
+#EXTINF:-1 group-title="zzvarios01" ,¿Y dónde están las rubias? (2004)
+https://dl.dropboxusercontent.com/s/aez9sb22f2vuyve/SalynPM-Y-D.E.L.R.mp4?dl=0
+#EXTINF:-1 group-title="zzvarios01" ,Érase una vez en México (2003)
+https://archive.org/download/sciyt/Mhuc/11up.avi
+#EXTINF:-1 group-title="zzvarios01" ,último paradiso
+http://vod.tuxchannel.tv/peliculas/720/l%20ultimo%20paradiso%202020.mkv
