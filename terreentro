@@ -1,0 +1,49 @@
+#EXTM3U
+#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/La-Nacion-Mas-Logo.svg/1024px-La-Nacion-Mas-Logo.svg.png" ,001 LA NACION
+https://router.cdn.rcs.net.ar/anevia/live/localdisk/LN/SA_HLS/LN.m3u8
+#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/TLMX.png/220px-TLMX.png" ,002 TELEMAX
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1697350653_b1828000_sleng.m3u8
+#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/2560px-TN_todo_noticias_logo.svg.png" ,003 TN
+https://delivery.cdn.rcs.net.ar/mnp/tn/output.mpd
+#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/A24_%282019-1%29.png" ,004 A24
+https://delivery.cdn.rcs.net.ar/mnp/a24/output.mpd
+#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://www.canal26.com/media/image/2021/06/15/478186.jpg?s=2&a=309964" ,005 LATINA
+https://live-edge01.telecentro.net.ar/live/rltn.smil/.m3u8
+#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/C5N_logo.svg/1200px-C5N_logo.svg.png" ,006 C5N
+https://delivery.cdn.rcs.net.ar/mnp/c5n/output.mpd
+#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Canal_9_ba_logo.png" ,007 EL NUEVE
+https://delivery.cdn.rcs.net.ar/mnp/elnueve/output.mpd
+#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://1.bp.blogspot.com/-Z3CkwxY4fwY/YAJypg5UiPI/AAAAAAAA7vA/pzgUVEWEm6w7d-vCJEtQSU5MG8O-ixbkQCLcBGAsYHQ/s802/tvp-2020.png" ,008 TVP PUBLICA
+https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
+#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjYtbXxpTy5v2qUigUmOhWDwszpNDzeygAI25iS-6o_U48rh8YRupIL9BcXVngQob5iTcDrfQxvUsZakueEt9MARWBPeBpkpw92Zex96uIIrGE7Ky0x29r0e4gPp9yU6-MN1Onl0oukep350oTQwLWKqUoqqrq0iEOjzsAaVB4YR3FXPZvwx97iros7" ,009 TIERRA MIA
+http://live-edge01.telecentro.net.ar/live/smil:trm.smil/chunklist_w1074965827_b1864000_sleng.m3u8
+#EXTINF:0 group-title="00TELECENTRO" tvg-logo="http://telecentro.com.ar/img/meta-image.jpg" ,010 TELECENTRO PREVIEW
+http://streaming.latina101.com.ar:9000/Repetidoras
+#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://cdn.mitvstatic.com/channels/ar_musictop_m.png" ,011 MUSIC TOP
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w1038427347_b2028000_sleng.m3u8
+#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" ,012 TELEFE
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
+#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/800px-Canal_26_logo_%282022%29.svg.png" ,013 CANAL 26
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
+#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Logo_Canal_13_200_8.png" ,014 EL TRECE
+https://delivery.cdn.rcs.net.ar/mnp/el13/output.mpd
+#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/Am%C3%A9rica_2016-2018_2018-presente_logo_mosca.png/revision/latest?cb=20200123155022&path-prefix=es" ,015 AMERICA TV
+https://delivery.cdn.rcs.net.ar/mnp/america/output.mpd
+#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://vecinosfamosos.com/wp-content/uploads/2019/05/Net-TV.png" ,016 NET TV
+https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
+#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_10/large.1027530100_IP2.png.09507349c734309f8ec316ccd9633b41.png" ,017 IP INFORMACION PERIODISTICA
+https://delivery.cdn.rcs.net.ar/mnp/ip/output.mpd
+#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://i.imgur.com/9FDqljV.png" ,018 BAYRES TV
+https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
+#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://4.bp.blogspot.com/-RjXsOFCUJa0/WbWZpQWlwZI/AAAAAAAABnA/vAeBWck6LNw4HpNBxdg5unnmIbpYXo1GgCLcBGAs/s1600/cronica-hd.png" ,019 CRONICA
+https://delivery.cdn.rcs.net.ar/mnp/cronica/output.mpd
+#EXTINF:0 group-title="00TELECENTRO" tvg-logo="http://dns.k4livetv.com:8080/images/58bc5201444a7a7dc2f084c94ac631c4.png" ,020 SENADO TV
+http://laondatv.online:8080/leonardo/123456/416205
+#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_03/large.1.png.88a878d0728eabaaf34a4dd1cc3527d3.png" ,021 DTV DIPUTADOS TV
+https://epg.pw/stream/74b03fe72f052f43f6841ecfaac4c9a612626bdf6e28ae4acb7275316783f5f2.ctv
+#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://pbs.twimg.com/profile_images/1088570060887810048/IAlLnIgQ.jpg" ,022 CANAL DE LA CIUDAD
+https://corsproxy.io/?http://heroem3u.epizy.com/youtube/UCOV_Vx1baZJY9Tfvgm-UI3w.m3u8
+#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Canal_encuentro_2020.png/480px-Canal_encuentro_2020.png" ,023 ENCUENTRO
+https://delivery.cdn.rcs.net.ar/mnp/encuentro/output.mpd
+#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://i.postimg.cc/3xg7kw7j/DEPORTV.png" ,024 DEPORTV
+http://nubiatv.live:80/live/zero514/zero514/182937.ts
