@@ -17,5 +17,19 @@ https://delivery.cdn.rcs.net.ar/mnp/elnueve/output.mpd
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
 #EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjYtbXxpTy5v2qUigUmOhWDwszpNDzeygAI25iS-6o_U48rh8YRupIL9BcXVngQob5iTcDrfQxvUsZakueEt9MARWBPeBpkpw92Zex96uIIrGE7Ky0x29r0e4gPp9yU6-MN1Onl0oukep350oTQwLWKqUoqqrq0iEOjzsAaVB4YR3FXPZvwx97iros7" ,009 TIERRA MIA
 http://live-edge01.telecentro.net.ar/live/smil:trm.smil/chunklist_w1074965827_b1864000_sleng.m3u8
-#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://cdn.mitvstatic.com/channels/ar_musictop_m.png" ,0011 MUSIC TOP
+#EXTINF:0 group-title="00TELECENTRO" tvg-logo="http://telecentro.com.ar/img/meta-image.jpg" ,010 TELECENTRO PREVIEW
+no anda
+#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://cdn.mitvstatic.com/channels/ar_musictop_m.png" ,011 MUSIC TOP
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w1038427347_b2028000_sleng.m3u8
+#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" ,012 TELEFE
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
+#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/800px-Canal_26_logo_%282022%29.svg.png" ,013 CANAL 26
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
+#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Logo_Canal_13_200_8.png" ,014 EL TRECE
+https://delivery.cdn.rcs.net.ar/mnp/el13/output.mpd
+#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/Am%C3%A9rica_2016-2018_2018-presente_logo_mosca.png/revision/latest?cb=20200123155022&path-prefix=es" ,015 AMERICA TV
+https://delivery.cdn.rcs.net.ar/mnp/america/output.mpd
+#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://vecinosfamosos.com/wp-content/uploads/2019/05/Net-TV.png" ,016 NET TV
+https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
+#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_10/large.1027530100_IP2.png.09507349c734309f8ec316ccd9633b41.png" ,017 IP INFORMACION PERIODISTICA
+https://delivery.cdn.rcs.net.ar/mnp/ip/output.mpd
