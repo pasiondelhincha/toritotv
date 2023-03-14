@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://telecentro.com.ar/img/cm/channels/lanacionmas.png" ,001 LA NACION
+https://router.cdn.rcs.net.ar/anevia/live/localdisk/LN/SA_HLS/LN.m3u8
