@@ -45,5 +45,91 @@ https://epg.pw/stream/74b03fe72f052f43f6841ecfaac4c9a612626bdf6e28ae4acb72753167
 https://corsproxy.io/?http://heroem3u.epizy.com/youtube/UCOV_Vx1baZJY9Tfvgm-UI3w.m3u8
 #EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Canal_encuentro_2020.png/480px-Canal_encuentro_2020.png" ,023 ENCUENTRO
 https://delivery.cdn.rcs.net.ar/mnp/encuentro/output.mpd
-#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://i.postimg.cc/3xg7kw7j/DEPORTV.png" ,024 DEPORTV
+#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://i.postimg.cc/3xg7kw7j/DEPORTV.png" ,100 DEPORTV
 http://nubiatv.live:80/live/zero514/zero514/182937.ts
+#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://i.postimg.cc/W4MZq5wy/FOX-SPORT-1.png" ,101 FOX SPORT
+https://router.cdn.rcs.net.ar/mnp/fox_sport/output.mpd
+#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://i.postimg.cc/RF4H7wPZ/FOX-SPORT-2.png" ,102 FOX SPORT 2
+https://router.cdn.rcs.net.ar/mnp/fox_sport2/output.mpd
+#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://i.postimg.cc/qRwCjgYX/FOX-SPORT-3.png" ,103 FOX SPORT 3
+https://router.cdn.rcs.net.ar/mnp/fox_sport3/output.mpd
+#EXTINF:0 group-title="00TELECENTRO" parent-code="https://delivery.cdn.rcs.net.ar/mnp/espn2/output.mpd" tvg-logo="https://i.postimg.cc/Y9Y5pgzt/ESPN-2-en-vivo.png" ,104 ESPN 2
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN2/SA_HLS/ESPN2.m3u8
+#EXTINF:0 group-title="00TELECENTRO" parent-code="https://delivery.cdn.rcs.net.ar/mnp/espn/output.mpd" tvg-logo="https://w7.pngwing.com/pngs/318/371/png-transparent-espn-television-espn-extra-high-definition-video-lam-radio-hd-television-text-logo.png" ,105 ESPN
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN/SA_HLS/ESPN.m3u8
+#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://i.postimg.cc/HkNRX3Sp/TYC-SPORTS.png" ,106 TYC SPORTS
+https://delivery.cdn.rcs.net.ar/mnp/tyc/output.mpd
+#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png" ,107 DISCOVERY TURBO
+https://router.cdn.rcs.net.ar/mnp/dsc_turbo/output.mpd
+#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://i.postimg.cc/7P1Fd3LV/ESPN3-Logo.png" ,108 ESPN 3
+https://delivery.cdn.rcs.net.ar/mnp/espn3/output.mpd
+#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://i.imgur.com/xtw77iM.png" ,109 GARAGE TV
+http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
+#EXTINF:0 group-title="00TELECENTRO" ,110 GOLF CHANNEL
+https://delivery.cdn.rcs.net.ar/mnp/golf/output.mpd
+#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1200px-ESPN_Premium_logo.svg.png" ,111 ESPN PREMIUM
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN_Premium/SA_HLS/ESPN_Premium.m3u8
+#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://i.postimg.cc/ncqcD2GQ/TNT-SPORTS.png" ,112 TNT SPORTS
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/TNT_Sports/SA_HLS/TNT_Sports.m3u8
+#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/PX_Sports_-_Logo.png/512px-PX_Sports_-_Logo.png" ,113 PX SPORTS
+http://laondatv.online:8080/leonardo/123456/415986
+#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://i.imgur.com/GJbRWwH.png" ,200 PAKA PAKA
+https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/chunklist_w1073447281.m3u8
+#EXTINF:0 group-title="00TELECENTRO" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/DISNEY%20JUNIOR.png" ,201 DISNEY JUNIOR
+https://delivery.cdn.rcs.net.ar/mnp/disneyjr/output.mpd
+#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/800px-Cartoon_Network_2010_logo.svg.png" ,202 CARTOON NETWORK
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Cartoon_Network/SA_HLS/Cartoon_Network.m3u8
+#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://www.rk-ware.net/iptv/logos/disney_channel.png" ,203 DISNEY CHANNEL
+https://delivery.cdn.rcs.net.ar/mnp/disney/output.mpd
+#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Nick-logo.png" ,204 NICK
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Nick/SA_HLS/Nick.m3u8
+#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/512px-Cartoonito_-_Logo_2021.svg.png" ,205 CARTOONITO
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Boomerang/SA_HLS/Boomerang.m3u8
+#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/DreamWorks_Channel_Logo.svg/800px-DreamWorks_Channel_Logo.svg.png" ,206 DREAMWORKS
+http://hidra.live:80/msqbuynu/C55qy6Ihb6/304507
+#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://telefullenvivo.com/logos/discoverykids.png" ,207 DISCOVERY KIDS
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_Kids/SA_HLS/Discovery_Kids.m3u8
+#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Tve_clan.png" ,209 CLAN
+http://hidra.live:80/msqbuynu/C55qy6Ihb6/312759
+#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/1200px-Nick_Jr._logo_2009.svg.png" ,210 NICK JUNIOR
+https://delivery.cdn.rcs.net.ar/mnp/nickjr/output.mpd
+#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://telefullenvivo.com/logos/babyfirst.png" ,211 BABY TV
+https://delivery.cdn.rcs.net.ar/mnp/babytv/output.mpd
+#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://telefullenvivo.com/logos/tooncast.png" ,212 TOONCAST
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Tooncast/SA_HLS/Tooncast.m3u8
+#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/TVE.svg" ,302 TVE ESPAÑA
+http://186.5.31.251:8000/play/a0b7/index.m3u8
+#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/2560px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" ,303 CNN ESPAÑOL
+http://131.196.194.2:8000/play/a0cr/index.m3u8
+#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c1/Abc_color.PNG" ,304 ABC TV
+https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/live-audio_track_0_0_und=64000-video_track=1200000.m3u8
+#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png" ,305 TELEMUNDO INTERNACIONAL
+https://delivery.cdn.rcs.net.ar/mnp/telemundo/output.mpd
+#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://i.imgur.com/Poz3xfi.png" ,306 CGTN CHINA EN ESPAÑOL
+https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
+#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Rai_News_24_logo_%282022%29.svg/2560px-Rai_News_24_logo_%282022%29.svg.png" ,309 RAI ITALIA
+https://streamcdnc3-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/rainews_2400/chunklist.m3u8
+#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/640px-Fox_News_Channel_logo.svg.png" ,310 FOX NEWS
+http://45.225.95.170:8000/play/a0hw/index.m3u8
+#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://i.imgur.com/05S3yYZ.png" ,311 CNN
+https://delivery.cdn.rcs.net.ar/mnp/cnn/output.mpd
+#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://i.imgur.com/GjICLWN.png" ,312 BBC WORLD NEWS
+http://185.236.229.31:9981/play/a072
+#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://i.imgur.com/2betJXc.png" ,313 DEUTSCHE WELLE ESPAÑOL
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
+#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://i.imgur.com/x8rjGhp.png" ,314 TV5 FRANCIA
+https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
+#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" ,315 FRANCE 24 ESPAÑOL
+http://131.196.194.2:8000/play/a0br/index.m3u8
+#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://rndserv.xyz/images/rt.png" ,316 RT RUSIA ESPAÑOL
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/512px-Caracol_Televisi%C3%B3n_logo.svg.png" ,317 CARACOL
+http://190.60.37.68:8015/play/a0ak/index.m3u8
+#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fd/TVN_Emergencia_en_Chile_2017_%281%29.png/revision/latest/scale-to-width-down/250?cb=20200112153342&path-prefix=es" ,318 TVN CHILE
+http://45.225.95.170:8000/play/a0fy/index.m3u8
+#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://i.imgur.com/AfsVFfM.png" ,319 HISPAN TV IRAN ESPAÑOL
+https://live1.presstv.ir/live/hispan.m3u8
+#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://i.imgur.com/8t9mdg9.png" ,320 EURONEWS ESPAÑOL
+https://39997b2f529e4793961899e546833a75.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_EuroNewsLive/playlist.m3u8
+#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Canal_2_%28Las_Estrellas_2017%29.svg" ,321 CANAL DE LAS ESTRELLAS
+http://170.239.188.253:50000/play/a025/index.m3u8
