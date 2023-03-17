@@ -187,5 +187,47 @@ http://167.250.222.35:16000/play/a07w/index.m3u8
 http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/210868
 #EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://i.imgur.com/w5SOfyJ.png" ,427 EUROPA EUROPA
 http://167.250.222.35:16000/play/a04g/index.m3u8
+#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" ,450 HBO
+http://167.250.222.35:16000/play/a040/index.m3u8
+#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/512px-HBO2_logo.svg.png" ,451 HBO 2
+http://167.250.222.35:16000/play/a041/index.m3u8
+#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/512px-Logohboplus2019.svg.png" ,452 HBO PLUS
+http://167.250.222.35:16000/play/a042/index.m3u8
+#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/512px-HBO_Family.svg.png" ,453 HBO FAMILY
+http://167.250.222.35:16000/play/a043/index.m3u8
+#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/512px-HBO_Signature.svg.png" ,454 HBO IGNATURE
+http://hplay.xyz:80/LVH60Ml8Hc/O4XSkHm6Yj/34902
+#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/512px-HBO_Pop.svg.png" ,455 HBO POP
+http://170.239.188.253:50000/play/a02u/index.m3u8
+#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/512px-HBO_Xtreme.svg.png" ,456 HBO XTREME
+http://167.250.222.35:16000/play/a08k/index.m3u8
+#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/512px-HBO_Mundi.svg.png" ,457 HBO MUNDI
+http://hplay.xyz:80/LVH60Ml8Hc/O4XSkHm6Yj/312765
+#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://i.imgur.com/0gruEy1.png" ,500 NATGEO
+http://hplay.xyz:80/LVH60Ml8Hc/O4XSkHm6Yj/312903
+#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/512px-2019_Discovery_logo.svg.png" ,501 DISCOVERY
+http://167.250.222.35:16000/play/a07y/index.m3u8
+#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/512px-History_Logo.svg.png" ,502 H HISTORY
+http://167.250.222.35:16000/play/a02z/index.m3u8
+#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/512px-History2_logo_%282022%29.svg.png" ,503 H2 HISTORY 2
+http://hplay.xyz:80/LVH60Ml8Hc/O4XSkHm6Yj/312816
 #EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Discovery_H%26H_Logo_2022.webp/512px-Discovery_H%26H_Logo_2022.webp.png" ,504 DISCOVERY HOME AND HEALTH
 http://131.196.194.2:8000/play/a0et/index.m3u8
+#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/512px-2018_Animal_Planet_logo.svg.png" ,505 ANIMAL PLANET
+http://167.250.222.35:16000/play/a049/index.m3u8
+#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://i.imgur.com/V1xZV72.png" ,506 CIUDAD MAGAZINE
+http://hplay.xyz:80/LVH60Ml8Hc/O4XSkHm6Yj/123876
+#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://i.imgur.com/ByMyRI9.png" ,508 GOURMET
+http://nubiatv.live:80/live/zero514/zero514/378469.ts
+#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://i.imgur.com/cJC22gJ.png" ,509 MAS CHIC
+http://hplay.xyz:80/LVH60Ml8Hc/O4XSkHm6Yj/35056
+#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://i.imgur.com/2ahJoz4.png" ,510 GLITZ
+http://hplay.xyz:80/LVH60Ml8Hc/O4XSkHm6Yj/313186
+#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://i.imgur.com/D4nRp62.png" ,511 METRO
+http://laondatv.online:8080/leonardo/123456/416398
+#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://i.imgur.com/xFgJawa.png" ,512 ARGENTINISIMA
+https://stream1.sersat.com/hls/argentinisima.m3u8?
+#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/512px-TLC_Logo.svg.png" ,513 TLC
+http://hplay.xyz:80/LVH60Ml8Hc/O4XSkHm6Yj/34824
+#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://i.imgur.com/xJAFtSp.png" ,514 CONSTRUIR TV
+http://laondatv.online:8080/leonardo/123456/416208
