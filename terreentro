@@ -174,7 +174,7 @@ http://hplay.xyz:80/LVH60Ml8Hc/O4XSkHm6Yj/313134
 #EXTINF:0 group-title="00TELECENTRO" tvg-name="https://delivery.cdn.rcs.net.ar/mnp/trutv/output.mpd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TruTV_2014.svg/512px-TruTV_2014.svg.png" ,419 TRU TV
 http://170.239.188.253:50000/play/a03j/index.m3u8
 #EXTINF:0 group-title="00TELECENTRO" tvg-name="http://hidra.live:80/msqbuynu/C55qy6Ihb6/313055" tvg-logo="https://i.imgur.com/WIeZMKT.png" ,420 KANAL D DRAMA
-http://186.5.31.251:8000/play/a0a4/index.m3u8
+http://200.119.222.198:25470/play/a00p/index.m3u8
 #EXTINF:0 group-title="00TELECENTRO" tvg-name="https://delivery.cdn.rcs.net.ar/mnp/ae/output.mpd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/512px-A%26E_Network_logo.svg.png" ,421 A&E
 http://170.239.188.253:50000/play/a02n/index.m3u8
 #EXTINF:0 group-title="00TELECENTRO" tvg-name="https://delivery.cdn.rcs.net.ar/mnp/comedy/output.mpd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/512px-Comedy_Central_2018.svg.png" ,422 COMEDY CENTRAL
@@ -231,3 +231,79 @@ https://stream1.sersat.com/hls/argentinisima.m3u8?
 http://hplay.xyz:80/LVH60Ml8Hc/O4XSkHm6Yj/34824
 #EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://i.imgur.com/xJAFtSp.png" ,514 CONSTRUIR TV
 http://laondatv.online:8080/leonardo/123456/416208
+#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://i.imgur.com/NgIBbPX.png" ,516 RURAL
+https://cda2.alsolnet.com/elrural/live/chunklist_w503028649.m3u8
+#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://i.imgur.com/6l7us9Y.png" ,517 FOOD NETWORK
+http://200.119.222.198:25470/play/a019/index.m3u8
+#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Discovery_science_new_logo_2017.png/512px-Discovery_science_new_logo_2017.png" ,518 DISCOVERY SCIENCE
+http://laondatv.online:8080/leonardo/123456/491759
+#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://i.imgur.com/zsCZHMh.png" ,519 STAR TVE
+http://167.250.222.35:16000/play/a04k/index.m3u8
+#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://i.imgur.com/2kHUsl7.png" ,520 FILM & ARTS
+http://167.250.222.35:16000/play/a04b/index.m3u8
+#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/512px-HGTV_US_Logo_2015.svg.png" ,521 HOME AND GARDEN
+http://hplay.xyz:80/LVH60Ml8Hc/O4XSkHm6Yj/312818
+#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/512px-E%21_Logo_2012.svg.png" ,601  E!
+http://200.119.222.198:25470/play/a016/index.m3u8
+#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/512px-MTV-2021.svg.png" ,602 MTV
+http://200.119.222.198:25470/play/a01n/index.m3u8
+#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://i.imgur.com/RO9Dz3X.png" ,603 QUIERO MUSICA!
+http://hplay.xyz:80/LVH60Ml8Hc/O4XSkHm6Yj/43361
+#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://i.imgur.com/0N6OKea.png" ,605 MUCH MUSIC
+http://laondatv.online:8080/leonardo/123456/416183
+#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://i.imgur.com/gwpETyS.png" ,604 CM EL CANAL DE LA MUSICA
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/210843
+#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png" ,606 MTV 00S
+http://hplay.xyz:80/LVH60Ml8Hc/O4XSkHm6Yj/35033
+#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1200px-Htv_logo.svg.png" ,607 HTV MUSICA
+http://hplay.xyz:80/LVH60Ml8Hc/O4XSkHm6Yj/35025
+#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/MTV_Hits_2021.svg/512px-MTV_Hits_2021.svg.png" ,608 MTV HITS
+http://hplay.xyz:80/LVH60Ml8Hc/O4XSkHm6Yj/35019
+#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/NickMusic.svg/512px-NickMusic.svg.png" ,609 NICK MUSIC
+http://hplay.xyz:80/LVH60Ml8Hc/O4XSkHm6Yj/312756
+#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://i.imgur.com/St5DhAU.png" ,610 MTV LIVE
+http://hplay.xyz:80/LVH60Ml8Hc/O4XSkHm6Yj/35021
+#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://i.imgur.com/au5zhwP.png" ,611 MTV 90S
+http://51.89.67.79:25461/stalker348574985793/stalker348574985793/302
+#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://i.imgur.com/N9e5hv5.png" ,612 MTV 80S
+http://212.5.59.2:9882/play/a01f/index.m3u8
+#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://i.imgur.com/bb4WElO.png" ,613 VH1 CLASSICS
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2098828
+#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://i.imgur.com/pyOjdZs.png" ,614 RETRO MUSIC TV
+http://89.185.253.55/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://i.imgur.com/fkCasXI.png" ,615 RETRO PLUS
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
+#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://i.imgur.com/KdFk80C.png" ,1060 UNIVERSAL PREMIERE
+http://hplay.xyz:80/LVH60Ml8Hc/O4XSkHm6Yj/34875
+#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://i.imgur.com/XxfET68.png" ,1061 UNIVERSAL CINEMA
+http://hplay.xyz:80/LVH60Ml8Hc/O4XSkHm6Yj/34871
+#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://i.imgur.com/avBL8pQ.png" ,1062 UNIVERSAL COMEDY
+http://hplay.xyz:80/LVH60Ml8Hc/O4XSkHm6Yj/304508
+#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://i.imgur.com/OwSlGMu.png" ,1063 UNIVERSAL CRIME
+http://hplay.xyz:80/LVH60Ml8Hc/O4XSkHm6Yj/34853
+#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://i.imgur.com/mqfUD1R.png" ,1064 UNIVERSAL REALITY
+http://hplay.xyz:80/LVH60Ml8Hc/O4XSkHm6Yj/34853
+#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://i.imgur.com/AqR0Jkn.png" ,1077 DISCOVERY THEATER
+http://200.119.222.198:25470/play/a005/index.m3u8
+#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/512px-Logo_Lifetime_2020.svg.png" ,1082 LIFETIME
+http://hplay.xyz:80/LVH60Ml8Hc/O4XSkHm6Yj/35039
+#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://i.imgur.com/Yb3oUls.png" ,1087 DISCOVERY WORLD
+http://200.119.222.198:25470/play/a00l/index.m3u8
+#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://i.imgur.com/SiImXjJ.png" ,1100 VTV
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2055387
+#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://i.imgur.com/HndFaFP.png" ,1101 VTV PLUS
+http://laondatv.online:8080/leonardo/123456/279505
+#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/512px-TyC_Sports_logo.svg.png" ,1102 TYC SPORTS INTERNACIONAL
+http://170.83.242.9:5350/play/a00w
+#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://i2.paste.pics/c767dc0905ee282c6ea1b565625e7ca7.png" ,1103 CITY SPORTS
+https://videosenlared.fullstreaming.ar:3697/live/contenidos34live.m3u8?
+#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://i.postimg.cc/0QNF1F8J/DSPORTS.png" ,1104 DSPORTS
+http://hplay.xyz:80/LVH60Ml8Hc/O4XSkHm6Yj/123872
+#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://i.postimg.cc/0QNF1F8J/DSPORTS.png" ,1105 DSPORTS 2
+http://hplay.xyz:80/LVH60Ml8Hc/O4XSkHm6Yj/34612
+#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://i.postimg.cc/13pLGDC4/DSPORTS.png" ,1106 DSPORTS+
+http://hplay.xyz:80/LVH60Ml8Hc/O4XSkHm6Yj/123871
+#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://i.imgur.com/Xtu85tb.png" ,1107 NEO TV DIGITAL
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://radiotvlapoderosa.com.ar/imagenes/logo.png" ,1108 LA PODEROSA TV
+https://videostream.shockmedia.com.ar:19360/fmlapoderosaavellaneda01/fmlapoderosaavellaneda01.m3u8
