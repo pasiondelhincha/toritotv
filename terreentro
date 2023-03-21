@@ -10,7 +10,7 @@ https://ixp-nqn.origin.rcs.net.ar/anevia/live/localdisk/A24/SA_HLS/A24.m3u8?fbcl
 #EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://www.canal26.com/media/image/2021/06/15/478186.jpg?s=2&a=309964" ,005 LATINA
 https://live-edge01.telecentro.net.ar/live/rltn.smil/.m3u8
 #EXTINF:0 group-title="00TELECENTRO" tvg-name="https://delivery.cdn.rcs.net.ar/mnp/c5n/output.mpd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/C5N_logo.svg/1200px-C5N_logo.svg.png" ,006 C5N
-https://corsproxy.io/?http://heroem3u.epizy.com/youtube/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
+http://laondatv.online:8080/leonardo/123456/408603
 #EXTINF:0 group-title="00TELECENTRO" tvg-name="https://delivery.cdn.rcs.net.ar/mnp/elnueve/output.mpd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Canal_9_ba_logo.png" ,007 EL NUEVE
 https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com/v1/manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/1bcef56e-4be6-484b-a20a-44880b00f7d6/5.m3u8
 #EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://1.bp.blogspot.com/-Z3CkwxY4fwY/YAJypg5UiPI/AAAAAAAA7vA/pzgUVEWEm6w7d-vCJEtQSU5MG8O-ixbkQCLcBGAsYHQ/s802/tvp-2020.png" ,008 TVP PUBLICA
