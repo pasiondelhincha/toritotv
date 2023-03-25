@@ -12,7 +12,7 @@ https://live-edge01.telecentro.net.ar/live/rltn.smil/.m3u8
 #EXTINF:0 group-title="00TELECENTRO" tvg-name="https://delivery.cdn.rcs.net.ar/mnp/c5n/output.mpd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/C5N_logo.svg/1200px-C5N_logo.svg.png" ,006 C5N
 http://laondatv.online:8080/leonardo/123456/408603
 #EXTINF:0 group-title="00TELECENTRO" tvg-name="https://delivery.cdn.rcs.net.ar/mnp/elnueve/output.mpd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Canal_9_ba_logo.png" ,007 EL NUEVE
-https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com/v1/manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/1bcef56e-4be6-484b-a20a-44880b00f7d6/5.m3u8
+https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com/v1/manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/0df6d88d-304a-4d15-9cf8-eab1bc9b5e45/3.m3u8
 #EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://1.bp.blogspot.com/-Z3CkwxY4fwY/YAJypg5UiPI/AAAAAAAA7vA/pzgUVEWEm6w7d-vCJEtQSU5MG8O-ixbkQCLcBGAsYHQ/s802/tvp-2020.png" ,008 TVP PUBLICA
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
 #EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjYtbXxpTy5v2qUigUmOhWDwszpNDzeygAI25iS-6o_U48rh8YRupIL9BcXVngQob5iTcDrfQxvUsZakueEt9MARWBPeBpkpw92Zex96uIIrGE7Ky0x29r0e4gPp9yU6-MN1Onl0oukep350oTQwLWKqUoqqrq0iEOjzsAaVB4YR3FXPZvwx97iros7" ,009 TIERRA MIA
