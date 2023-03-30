@@ -9,8 +9,8 @@ http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/210864
 https://ixp-nqn.origin.rcs.net.ar/anevia/live/localdisk/A24/SA_HLS/A24.m3u8?fbclid=PAAaarzc3lvfYl8Wk1gLrdlsIBR_0ily2CcfInBv1Xae0sPL12eq9sYVFjq_U
 #EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://www.canal26.com/media/image/2021/06/15/478186.jpg?s=2&a=309964" ,005 LATINA
 https://live-edge01.telecentro.net.ar/live/rltn.smil/.m3u8
-#EXTINF:0 group-title="00TELECENTRO" tvg-name="https://delivery.cdn.rcs.net.ar/mnp/c5n/output.mpd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/C5N_logo.svg/1200px-C5N_logo.svg.png" ,006 C5N
-http://laondatv.online:8080/leonardo/123456/408603
+#EXTINF:0 group-title="00TELECENTRO" tvg-id="http://laondatv.online:8080/leonardo/123456/408603" tvg-name="https://delivery.cdn.rcs.net.ar/mnp/c5n/output.mpd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/C5N_logo.svg/1200px-C5N_logo.svg.png" ,006 C5N
+https://ythls.onrender.com/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
 #EXTINF:0 group-title="00TELECENTRO" tvg-name="https://delivery.cdn.rcs.net.ar/mnp/elnueve/output.mpd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Canal_9_ba_logo.png" ,007 EL NUEVE
 https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com/v1/manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/0df6d88d-304a-4d15-9cf8-eab1bc9b5e45/3.m3u8
 #EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://1.bp.blogspot.com/-Z3CkwxY4fwY/YAJypg5UiPI/AAAAAAAA7vA/pzgUVEWEm6w7d-vCJEtQSU5MG8O-ixbkQCLcBGAsYHQ/s802/tvp-2020.png" ,008 TVP PUBLICA
@@ -42,7 +42,7 @@ http://laondatv.online:8080/leonardo/123456/416205
 #EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_03/large.1.png.88a878d0728eabaaf34a4dd1cc3527d3.png" ,021 DTV DIPUTADOS TV
 https://epg.pw/stream/74b03fe72f052f43f6841ecfaac4c9a612626bdf6e28ae4acb7275316783f5f2.ctv
 #EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://pbs.twimg.com/profile_images/1088570060887810048/IAlLnIgQ.jpg" ,022 CANAL DE LA CIUDAD
-https://corsproxy.io/?http://heroem3u.epizy.com/youtube/UCOV_Vx1baZJY9Tfvgm-UI3w.m3u8
+https://ythls.onrender.com/channel/UCOV_Vx1baZJY9Tfvgm-UI3w.m3u8
 #EXTINF:0 group-title="00TELECENTRO" tvg-name="https://delivery.cdn.rcs.net.ar/mnp/encuentro/output.mpd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Canal_encuentro_2020.png/480px-Canal_encuentro_2020.png" ,023 ENCUENTRO
 https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/.m3u8
 #EXTINF:0 group-title="00TELECENTRO" tvg-name="http://nubiatv.live:80/live/zero514/zero514/182937.ts" tvg-logo="https://i.postimg.cc/3xg7kw7j/DEPORTV.png" ,100 DEPORTV
@@ -67,10 +67,10 @@ http://131.196.194.2:8000/play/a0ee/index.m3u8
 http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
 #EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://i.postimg.cc/wBbHMcRm/GOLF.png" ,110 GOLF CHANNEL
 http://hplay.xyz:80/LVH60Ml8Hc/O4XSkHm6Yj/34696
-#EXTINF:0 group-title="00TELECENTRO" tvg-name="https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN_Premium/SA_HLS/ESPN_Premium.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1200px-ESPN_Premium_logo.svg.png" ,111 ESPN PREMIUM
-http://131.196.194.2:8000/play/a0ex/index.m3u8
-#EXTINF:0 group-title="00TELECENTRO" tvg-name="https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/TNT_Sports/SA_HLS/TNT_Sports.m3u8" tvg-logo="https://i.postimg.cc/ncqcD2GQ/TNT-SPORTS.png" ,112 TNT SPORTS
-http://hplay.xyz:80/LVH60Ml8Hc/O4XSkHm6Yj/34684
+#EXTINF:0 group-title="00TELECENTRO" tvg-name="https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN_Premium/SA_HLS/ESPN_Premium.m3u8" parent-code="http://131.196.194.2:8000/play/a0ex/index.m3u8" audio-track="http://nubiatv.live:80/live/zero514/zero514/182370.ts" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1200px-ESPN_Premium_logo.svg.png" ,111 ESPN PREMIUM
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/32331.ts
+#EXTINF:0 group-title="00TELECENTRO" tvg-name="https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/TNT_Sports/SA_HLS/TNT_Sports.m3u8" parent-code="http://hplay.xyz:80/LVH60Ml8Hc/O4XSkHm6Yj/34684" tvg-logo="https://i.postimg.cc/ncqcD2GQ/TNT-SPORTS.png" ,112 TNT SPORTS
+http://sintoniaideal.com:25461/Phenixiptv/acAWT263n7LR/1901
 #EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/PX_Sports_-_Logo.png/512px-PX_Sports_-_Logo.png" ,113 PX SPORTS
 http://laondatv.online:8080/leonardo/123456/415986
 #EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://i.imgur.com/GJbRWwH.png" ,200 PAKA PAKA
@@ -297,12 +297,12 @@ http://laondatv.online:8080/leonardo/123456/279505
 http://170.83.242.9:5350/play/a00w
 #EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://i2.paste.pics/c767dc0905ee282c6ea1b565625e7ca7.png" ,1103 CITY SPORTS
 https://videosenlared.fullstreaming.ar:3697/live/contenidos34live.m3u8?
-#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://i.postimg.cc/0QNF1F8J/DSPORTS.png" ,1104 DSPORTS
-http://hplay.xyz:80/LVH60Ml8Hc/O4XSkHm6Yj/123872
-#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://i.postimg.cc/0QNF1F8J/DSPORTS.png" ,1105 DSPORTS 2
-http://hplay.xyz:80/LVH60Ml8Hc/O4XSkHm6Yj/34612
-#EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://i.postimg.cc/13pLGDC4/DSPORTS.png" ,1106 DSPORTS+
-http://hplay.xyz:80/LVH60Ml8Hc/O4XSkHm6Yj/123871
+#EXTINF:0 group-title="00TELECENTRO" tvg-name="http://hplay.xyz:80/LVH60Ml8Hc/O4XSkHm6Yj/123872" tvg-logo="https://i.postimg.cc/0QNF1F8J/DSPORTS.png" ,1104 DSPORTS
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/26524.ts
+#EXTINF:0 group-title="00TELECENTRO" tvg-name="http://hplay.xyz:80/LVH60Ml8Hc/O4XSkHm6Yj/34612" tvg-logo="https://i.postimg.cc/0QNF1F8J/DSPORTS.png" ,1105 DSPORTS 2
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/103064.ts
+#EXTINF:0 group-title="00TELECENTRO" tvg-name="http://hplay.xyz:80/LVH60Ml8Hc/O4XSkHm6Yj/123871" tvg-logo="https://i.postimg.cc/13pLGDC4/DSPORTS.png" ,1106 DSPORTS+
+http://185.53.88.153:8080/live/Phenixiptv/acAWT263n7LR/103065.ts
 #EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://i.imgur.com/Xtu85tb.png" ,1107 NEO TV DIGITAL
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://radiotvlapoderosa.com.ar/imagenes/logo.png" ,1108 LA PODEROSA TV
