@@ -242,7 +242,7 @@ http://167.250.222.35:16000/play/a04k/index.m3u8
 #EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://i.imgur.com/2kHUsl7.png" ,520 FILM & ARTS
 http://167.250.222.35:16000/play/a04b/index.m3u8
 #EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/512px-HGTV_US_Logo_2015.svg.png" ,521 HOME AND GARDEN
-http://181.78.65.53:8000/play/hgtv/index.m3u8
+https://bit2net.cdn.rcs.net.ar/mnp/dsc_hgtv_hls/playlist.m3u8
 #EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/512px-E%21_Logo_2012.svg.png" ,601  E!
 http://200.119.222.198:25470/play/a016/index.m3u8
 #EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/512px-MTV-2021.svg.png" ,602 MTV
