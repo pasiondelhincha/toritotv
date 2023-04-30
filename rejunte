@@ -1,0 +1,201 @@
+#EXTM3U
+#EXTINF:-1 group-title="Cambodia TV" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv3_kh.png" ,TV3
+http://103.145.48.58:9300/hls/live/TV3.m3u8
+#EXTINF:-1 group-title="Cambodia TV" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv5_kh.png" ,TV5
+http://103.145.48.58:9300/hls/live/TV5.m3u8
+#EXTINF:-1 group-title="Cambodia TV" tvg-logo="https://www.lyngsat.com/logo/tv/cc/ctv-9-kh.png" ,TV9
+http://103.145.48.58:9300/hls/live/TV9.m3u8
+#EXTINF:-1 group-title="Chinese TV" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-1-cn.png" ,CCTV 1
+http://103.145.48.58:9300/hls/live/CCTV 1.m3u8
+#EXTINF:-1 group-title="Chinese TV" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-2-cn.png" ,CCTV 2
+http://103.145.48.58:9300/hls/live/CCTV 2.m3u8
+#EXTINF:-1 group-title="Chinese TV" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-3-cn.png" ,CCTV 3
+http://103.145.48.58:9300/hls/live/CCTV 3.m3u8
+#EXTINF:-1 group-title="Chinese TV" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-4-cn.png" ,CCTV 4
+http://103.145.48.58:9300/hls/live/CCTV 4.m3u8
+#EXTINF:-1 group-title="Chinese TV" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-5-cn.png" ,CCTV 5
+http://103.145.48.58:9300/hls/live/CCTV 5.m3u8
+#EXTINF:-1 group-title="Chinese TV" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-5-plus-cn.png" ,CCTV 5+
+http://103.145.48.58:9300/hls/live/CCTV 5+.m3u8
+#EXTINF:-1 group-title="Chinese TV" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-6-cn.png" ,CCTV 6
+http://103.145.48.58:9300/hls/live/CCTV 6.m3u8
+#EXTINF:-1 group-title="Chinese TV" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-7-cn.png" ,CCTV 7
+http://103.145.48.58:9300/hls/live/CCTV 7.m3u8
+#EXTINF:-1 group-title="Chinese TV" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-8-cn.png" ,CCTV 8
+http://103.145.48.58:9300/hls/live/CCTV 8.m3u8
+#EXTINF:-1 group-title="Chinese TV" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-9-cn.png" ,CCTV 9
+http://103.145.48.58:9300/hls/live/CCTV 9.m3u8
+#EXTINF:-1 group-title="Chinese TV" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-10-cn.png" ,CCTV 10
+http://103.145.48.58:9300/hls/live/CCTV 10.m3u8
+#EXTINF:-1 group-title="Chinese TV" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-11-cn.png" ,CCTV 11
+http://103.145.48.58:9300/hls/live/CCTV 11.m3u8
+#EXTINF:-1 group-title="Chinese TV" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-12-cn.png" ,CCTV 12
+http://103.145.48.58:9300/hls/live/CCTV 12.m3u8
+#EXTINF:-1 group-title="Chinese TV" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-13-cn.png" ,CCTV 13
+http://103.145.48.58:9300/hls/live/CCTV 13.m3u8
+#EXTINF:-1 group-title="Chinese TV" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-14-cn.png" ,CCTV14
+http://103.145.48.58:9300/hls/live/CCTV 14.m3u8
+#EXTINF:-1 group-title="Chinese TV" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-golf-and-tennis-cn.png" ,C Golf
+http://103.145.48.58:9300/hls/live/C Golf.m3u8
+#EXTINF:-1 group-title="Chinese TV" tvg-logo="https://www.lyngsat.com/logo/tv/pp/phoenix_cn.png" ,Phoenix
+http://103.145.48.58:9300/hls/live/Phoenix.m3u8
+#EXTINF:-1 group-title="Chinese TV" tvg-logo="https://www.lyngsat.com/logo/tv/pp/phoenix_infonews.png" ,Phoenix News
+http://103.145.48.58:9300/hls/live/Phoenix News.m3u8
+#EXTINF:-1 group-title="Chinese TV" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv_entertainment.png" ,CCTV Ent.
+http://103.145.48.58:9300/hls/live/CCTV Ent..m3u8
+#EXTINF:-1 group-title="Chinese TV" tvg-logo="https://www.lyngsat.com/logo/tv/cc/china_movie_channel.png" ,China Movie
+http://103.145.48.58:9300/hls/live/China Movie.m3u8
+#EXTINF:-1 group-title="Chinese TV" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hebei_tv_cn.png" ,HeB TV
+http://103.145.48.58:9300/hls/live/HeB TV.m3u8
+#EXTINF:-1 group-title="Chinese TV" tvg-logo="https://www.lyngsat.com/logo/tv/gg/guangdong-sports-cn.png" ,F Sport
+http://103.145.48.58:9300/hls/live/F Sport.m3u8
+#EXTINF:-1 group-title="English TV" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery-channel-east-us.png" ,Discovery
+http://103.145.48.58:9300/hls/live/Discovery.m3u8
+#EXTINF:-1 group-title="English TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/301px-CNBC_logo.svg.png" ,CNBC
+http://103.145.48.58:9300/hls/live/CNBC.m3u8
+#EXTINF:-1 group-title="English TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/640px-Euronews_2016_logo.svg.png" ,Euro News
+http://103.145.48.58:9300/hls/live/Euro News.m3u8
+#EXTINF:-1 group-title="English TV" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten1hd.png" ,WE
+http://103.145.48.58:9300/hls/live/WE.m3u8
+#EXTINF:-1 group-title="English TV" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_asia.png" ,HBO
+http://103.145.48.58:9300/hls/live/HBO.m3u8
+#EXTINF:-1 group-title="English TV" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinemax-asia-us.png" ,Cinemax
+http://103.145.48.58:9300/hls/live/Cinemax.m3u8
+#EXTINF:-1 group-title="English TV" tvg-logo="https://i.postimg.cc/SxRB6brY/Cartoon-Network.png" ,Cartoon Network
+http://103.145.48.58:9300/hls/live/Cartoon Network.m3u8
+#EXTINF:-1 group-title="French TV" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv5monde-asie-fr.png" ,TV5 Monde
+http://103.145.48.58:9300/hls/live/TV5 Monde.m3u8
+#EXTINF:-1 group-title="German TV" tvg-logo="https://www.lyngsat.com/logo/tv/dd/deutsche_welle_tv_de.png" ,DW
+http://103.145.48.58:9300/hls/live/DW.m3u8
+#EXTINF:-1 group-title="India TV" tvg-logo="https://www.lyngsat.com/logo/tv/zz/zee_zing_asia.png" ,Zing
+http://103.145.48.58:9300/hls/live/Zing.m3u8
+#EXTINF:-1 group-title="India TV" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_tv_in.png" ,Sun TV
+http://103.145.48.58:9300/hls/live/Sun TV.m3u8
+#EXTINF:-1 group-title="Japanses TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/170px-NHK_World-Japan_TV.svg.png" ,NHK
+http://103.145.48.58:9300/hls/live/NHK.m3u8
+#EXTINF:-1 group-title="Korea TV" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kbs_world_kr.png" ,KBS
+http://103.145.48.58:9300/hls/live/KBS.m3u8
+#EXTINF:-1 group-title="Lao TV" tvg-logo="https://www.lyngsat.com/logo/tv/ll/lntv-1-la.png" ,LNTV 1
+http://103.145.48.58:9300/hls/live/LNTV 1.m3u8
+#EXTINF:-1 group-title="Lao TV" tvg-logo="https://www.lyngsat.com/logo/tv/ll/lao_national_tv3.png" ,LNTV 3
+http://103.145.48.58:9300/hls/live/LNTV 3.m3u8
+#EXTINF:-1 group-title="Lao TV" tvg-logo="https://www.lyngsat.com/logo/tv/ll/lao_ps_tv.png" ,LAO PSTV
+http://103.145.48.58:9300/hls/live/LAO PSTV.m3u8
+#EXTINF:-1 group-title="Lao TV" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mv-lao-hd-th.png" ,MV Lao
+http://103.145.48.58:9300/hls/live/MV Lao.m3u8
+#EXTINF:-1 group-title="Lao TV" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv_lao_la.png" ,TV Lao
+http://103.145.48.58:9300/hls/live/TV Lao.m3u8
+#EXTINF:-1 group-title="Lao TV" tvg-logo="https://www.lyngsat.com/logo/tv/ll/lao-star-la.png" ,LAO STAR
+http://103.145.48.58:9300/hls/live/LAO STAR.m3u8
+#EXTINF:-1 group-title="Lao TV" tvg-logo="https://www.lyngsat.com/logo/tv/ll/latv-la.png" ,LATV
+http://103.145.48.58:9300/hls/live/LATV.m3u8
+#EXTINF:-1 group-title="Lao TV" tvg-logo="https://www.lyngsat.com/logo/tv/ll/lao-estv-la.png" ,LAO ESTV
+http://103.145.48.58:9300/hls/live/LAO ESTV.m3u8
+#EXTINF:-1 group-title="Lao TV" tvg-logo="https://www.lyngsat.com/logo/tv/vv/vte-9-la.png" ,Vientiane 9
+http://103.145.48.58:9300/hls/live/Vientiane 9.m3u8
+#EXTINF:-1 group-title="Lao TV" tvg-logo="https://www.lyngsat.com/logo/corp/ll/laosat-la.png" ,LAOSAT TV
+http://103.145.48.58:9300/hls/live/LAOSAT TV.m3u8
+#EXTINF:-1 group-title="Lao TV" tvg-logo="https://www.lyngsat.com/logo/corp/ll/laosat-la.png" ,CPS TV
+http://103.145.48.58:9300/hls/live/CPS TV.m3u8
+#EXTINF:-1 group-title="Lao TV" tvg-logo="https://www.lyngsat.com/logo/corp/ll/laosat-la.png" ,LPB TV
+http://103.145.48.58:9300/hls/live/LPB TV.m3u8
+#EXTINF:-1 group-title="Lao TV" tvg-logo="https://www.lyngsat.com/logo/corp/ll/laosat-la.png" ,XKH TV
+http://103.145.48.58:9300/hls/live/XKH TV.m3u8
+#EXTINF:-1 group-title="Lao TV" tvg-logo="https://www.lyngsat.com/logo/corp/ll/laosat-la.png" ,ODX TV
+http://103.145.48.58:9300/hls/live/ODX TV.m3u8
+#EXTINF:-1 group-title="Myanmar TV" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mrtv-mm.png" ,MRTV
+http://103.145.48.58:9300/hls/live/MRTV.m3u8
+#EXTINF:-1 group-title="Russia TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/200px-Russia-today-logo.svg.png" ,Russia Today
+http://103.145.48.58:9300/hls/live/Russia Today.m3u8
+#EXTINF:-1 group-title="Russia TV" tvg-logo="https://seeklogo.com/images/R/rtr-planeta-logo-949A05B0C4-seeklogo.com.png" ,RTR PLANETA
+http://103.145.48.58:9300/hls/live/RTR PLANETA.m3u8
+#EXTINF:-1 group-title="Thailand TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Ch3HDLogo.png/200px-Ch3HDLogo.png" ,Thai 3
+http://103.145.48.58:9300/hls/live/Thai 3.m3u8
+#EXTINF:-1 group-title="Thailand TV" tvg-logo="https://www.lyngsat.com/logo/tv/tt/thai_tv_5_th.png" ,Thai 5
+http://103.145.48.58:9300/hls/live/Thai 5.m3u8
+#EXTINF:-1 group-title="Thailand TV" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbtv-channel-7-th.png" ,Thai 7
+http://103.145.48.58:9300/hls/live/Thai 7.m3u8
+#EXTINF:-1 group-title="Thailand TV" tvg-logo="https://www.lyngsat.com/logo/tv/tt/thai-channel-8-th.png" ,Thai 8
+http://103.145.48.58:9300/hls/live/Thai 8.m3u8
+#EXTINF:-1 group-title="Thailand TV" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mcot_th_hd.png" ,Thai 9
+http://103.145.48.58:9300/hls/live/Thai 9.m3u8
+#EXTINF:-1 group-title="Thailand TV" tvg-logo="https://www.lyngsat.com/logo/tv/bb/boonma-tv-th.png" ,Buma TV
+http://103.145.48.58:9300/hls/live/Buma TV.m3u8
+#EXTINF:-1 group-title="Thailand TV" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nbt_th_2.png" ,NBT
+http://103.145.48.58:9300/hls/live/NBT.m3u8
+#EXTINF:-1 group-title="Thailand TV" tvg-logo="https://www.lyngsat.com/logo/tv/tt/thai_pbs.png" ,PBS
+http://103.145.48.58:9300/hls/live/PBS.m3u8
+#EXTINF:-1 group-title="Thailand TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/58/Amarin_TV_logo.png" ,Amarin
+http://103.145.48.58:9300/hls/live/Amarin.m3u8
+#EXTINF:-1 group-title="Thailand TV" tvg-logo="https://www.lyngsat.com/logo/tv/oo/one-31-th.png" ,One
+http://103.145.48.58:9300/hls/live/One.m3u8
+#EXTINF:-1 group-title="Thailand TV" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gmm-25-th.png" ,GMM 25
+http://103.145.48.58:9300/hls/live/GMM 25.m3u8
+#EXTINF:-1 group-title="Thailand TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Nationtv.png/239px-Nationtv.png" ,Nation
+http://103.145.48.58:9300/hls/live/Nation.m3u8
+#EXTINF:-1 group-title="Thailand TV" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-asian-more-th.png" ,TSS
+http://103.145.48.58:9300/hls/live/TSS.m3u8
+#EXTINF:-1 group-title="Thailand TV" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jkn-18-th.png" ,JN18
+http://103.145.48.58:9300/hls/live/JN 18.m3u8
+#EXTINF:-1 group-title="Thailand TV" tvg-logo="https://www.lyngsat.com/logo/tv/aa/aljazeera-channel-al.png" ,Al Jazeera
+http://103.145.48.58:9300/hls/live/Al Jazeera.m3u8
+#EXTINF:-1 group-title="Thailand TV" tvg-logo="https://www.lyngsat.com/logo/tv/nn/news-1-th.png" ,News1
+http://103.145.48.58:9300/hls/live/News 1.m3u8
+#EXTINF:-1 group-title="Thailand TV" tvg-logo="https://www.lyngsat.com/logo/tv/ww/workpoint-23-th.png" ,Workpoint
+http://103.145.48.58:9300/hls/live/Workpoint.m3u8
+#EXTINF:-1 group-title="Thailand TV" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png" ,B Sport 1
+http://103.145.48.58:9300/hls/live/B Sport 1.m3u8
+#EXTINF:-1 group-title="Thailand TV" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa-fr.png" ,B Sport 2
+http://103.145.48.58:9300/hls/live/B Sport 2.m3u8
+#EXTINF:-1 group-title="Thailand TV" tvg-logo="https://www.lyngsat.com/logo/corp/ll/laosat-la.png" ,T Sport
+http://103.145.48.58:9300/hls/live/T Sport.m3u8
+#EXTINF:-1 group-title="Thailand TV" tvg-logo="https://i.postimg.cc/2y13ZKVQ/PPTV-2019.png" ,PPTV
+http://103.145.48.58:9300/hls/live/PPTV.m3u8
+#EXTINF:-1 group-title="Thailand TV" tvg-logo="https://www.lyngsat.com/logo/tv/ii/i_movie_th.png" ,SW 2
+http://103.145.48.58:9300/hls/live/SW 2.m3u8
+#EXTINF:-1 group-title="Thailand TV" tvg-logo="https://www.lyngsat.com/logo/tv/aa/a_film_th.png" ,A Film
+http://103.145.48.58:9300/hls/live/A Film.m3u8
+#EXTINF:-1 group-title="Thailand TV" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mono_29_th.png" ,MO 29
+http://103.145.48.58:9300/hls/live/MO 29.m3u8
+#EXTINF:-1 group-title="Thailand TV" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-shopping-th.png" ,M CH
+http://103.145.48.58:9300/hls/live/M CH.m3u8
+#EXTINF:-1 group-title="Thailand TV" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-4u-th.png" ,TS 2
+http://103.145.48.58:9300/hls/live/TS 2.m3u8
+#EXTINF:-1 group-title="Thailand TV" tvg-logo="https://www.lyngsat.com/logo/tv/bb/boomerang_th.png" ,Boom
+http://103.145.48.58:9300/hls/live/Boom.m3u8
+#EXTINF:-1 group-title="Thailand TV" tvg-logo="https://www.lyngsat.com/logo/tv/tt/toonee-th.png" ,Cartoon Club
+http://103.145.48.58:9300/hls/live/Cartoon Club.m3u8
+#EXTINF:-1 group-title="Thailand TV" tvg-logo="https://www.lyngsat.com/logo/tv/ss/samrujlok_tv_th.png" ,SMJ TV
+http://103.145.48.58:9300/hls/live/SMJ TV.m3u8
+#EXTINF:-1 group-title="Thailand TV" tvg-logo="https://www.lyngsat.com/logo/tv/tt/toon_toon_th.png" ,Toon
+http://103.145.48.58:9300/hls/live/Toon.m3u8
+#EXTINF:-1 group-title="Thailand TV" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-film-1-th.png" ,T Film HD
+http://103.145.48.58:9300/hls/live/live045.m3u8
+#EXTINF:-1 group-title="Thailand TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png" ,AP Animal
+http://103.145.48.58:9300/hls/live/AP Animal.m3u8
+#EXTINF:-1 group-title="Thailand TV" tvg-logo="https://www.lyngsat.com/logo/tv/aa/animal_show_hd_th.png" ,Animal
+http://103.145.48.58:9300/hls/live/Animal.m3u8
+#EXTINF:-1 group-title="Thailand TV" tvg-logo="https://www.lyngsat.com/logo/tv/mm/my_sci_th.png" ,MYS
+http://103.145.48.58:9300/hls/live/MYS.m3u8
+#EXTINF:-1 group-title="Thailand TV" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-movie-hits-th.png" ,Movie Hit
+http://103.145.48.58:9300/hls/live/live049.m3u8
+#EXTINF:-1 group-title="Thailand TV" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-film-asia-th.png" ,Film A
+http://103.145.48.58:9300/hls/live/Film A.m3u8
+#EXTINF:-1 group-title="Thailand TV" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-premiere-football-hd-1-th.png" ,TP 1
+http://103.145.48.58:9300/hls/live/TP 1.m3u8
+#EXTINF:-1 group-title="Thailand TV" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-premiere-football-hd-2-th.png" ,TP 2
+http://103.145.48.58:9300/hls/live/TP 2.m3u8
+#EXTINF:-1 group-title="Thailand TV" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-sports-1-th.png" ,TS HD
+http://103.145.48.58:9300/hls/live/live053.m3u8
+#EXTINF:-1 group-title="Thailand TV" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-sports-2-th.png" ,TS HD 2
+http://103.145.48.58:9300/hls/live/live054.m3u8
+#EXTINF:-1 group-title="Thailand TV" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-sports-3-th.png" ,TS HD 3
+http://103.145.48.58:9300/hls/live/live055.m3u8
+#EXTINF:-1 group-title="Thailand TV" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_xzyte.png" ,TXZ
+http://103.145.48.58:9300/hls/live/TXZ.m3u8
+#EXTINF:-1 group-title="Vietnam TV" tvg-logo="https://www.lyngsat.com/logo/tv/vv/vtv_vn_1.png" ,ViTV 1
+http://103.145.48.58:9300/hls/live/ViTV 1.m3u8
+#EXTINF:-1 group-title="Vietnam TV" tvg-logo="https://www.lyngsat.com/logo/tv/vv/vtv_vn_2.png" ,ViTV 2
+http://103.145.48.58:9300/hls/live/ViTV 2.m3u8
+#EXTINF:-1 group-title="Vietnam TV" tvg-logo="https://www.lyngsat.com/logo/tv/vv/vtv_vn_3.png" ,ViTV 3
+http://103.145.48.58:9300/hls/live/ViTV 3.m3u8
