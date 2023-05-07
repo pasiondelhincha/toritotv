@@ -8,7 +8,7 @@ https://ythls.onrender.com/channel/UCj6PcyLvpnIRT_2W_mwa9Aw.m3u8
 #EXTINF:0 group-title="00TELECENTRO" tvg-name="https://delivery.cdn.rcs.net.ar/mnp/a24/output.mpd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/A24_%282019-1%29.png" ,004 A24
 https://ixp-nqn.origin.rcs.net.ar/anevia/live/localdisk/A24/SA_HLS/A24.m3u8?fbclid=PAAaarzc3lvfYl8Wk1gLrdlsIBR_0ily2CcfInBv1Xae0sPL12eq9sYVFjq_U
 #EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://www.canal26.com/media/image/2021/06/15/478186.jpg?s=2&a=309964" ,005 LATINA
-https://live-edge01.telecentro.net.ar/live/rltn.smil/.m3u8
+https://live-edge01.telecentro.net.ar/live/smil:rltn.smil/chunklist_w480836891_b1428000_sleng.m3u8
 #EXTINF:0 group-title="00TELECENTRO" tvg-id="http://laondatv.online:8080/leonardo/123456/408603" tvg-name="https://delivery.cdn.rcs.net.ar/mnp/c5n/output.mpd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/C5N_logo.svg/1200px-C5N_logo.svg.png" ,006 C5N
 https://ythls.onrender.com/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
 #EXTINF:0 group-title="00TELECENTRO" tvg-name="https://delivery.cdn.rcs.net.ar/mnp/elnueve/output.mpd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Canal_9_ba_logo.png" ,007 EL NUEVE
