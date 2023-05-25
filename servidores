@@ -18015,3 +18015,404 @@ http://200.59.184.108:5000/play/a0c0
 http://200.59.184.108:5000/play/a0ci
 #EXTINF:-1 group-title="VENEZUELA TOTALCOM 20-04" ,zzEMM_VTV_b
 http://200.59.184.108:5000/play/a0bx
+#EXTM3U
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id ,& PICTURE
+http://live.globalflix.net:80/nazmul/nazmul/363.m3u8
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id group-title="Movie",& PICTURE
+http://live.globalflix.net:80/nazmul/nazmul/363.ts
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id ,02.Matri Bhumi HD
+http://live.globalflix.net:80/nazmul/nazmul/465.m3u8
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id group-title="Sports" tvg-logo="https://bit.ly/3Mi4XAi",02.Matri Bhumi HD
+http://live.globalflix.net:80/nazmul/nazmul/465.ts
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id ,1 Muz
+http://live.globalflix.net:80/nazmul/nazmul/367.m3u8
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id group-title="Music",1 Muz
+http://live.globalflix.net:80/nazmul/nazmul/367.ts
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id ,1+1 Спорт (720p) [Not 24/7]
+http://live.globalflix.net:80/nazmul/nazmul/52.m3u8
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id group-title="Sports" tvg-logo="http://live.globalflix.net:80/images/4ede8a594b06c177f1ad98eede2c4e61.png",1+1 Спорт (720p) [Not 24/7]
+http://live.globalflix.net:80/nazmul/nazmul/52.ts
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id ,2 MUSIC
+http://live.globalflix.net:80/nazmul/nazmul/683.m3u8
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id group-title="Music",2 MUSIC
+http://live.globalflix.net:80/nazmul/nazmul/683.ts
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id ,7 START MUSIC
+http://live.globalflix.net:80/nazmul/nazmul/565.m3u8
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id group-title="Music",7 START MUSIC
+http://live.globalflix.net:80/nazmul/nazmul/565.ts
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id ,Abu Dhabi Sports 1
+http://live.globalflix.net:80/nazmul/nazmul/568.m3u8
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id ,Abu Dhabi Sports 1
+http://live.globalflix.net:80/nazmul/nazmul/569.m3u8
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id group-title="Sports",Abu Dhabi Sports 1
+http://live.globalflix.net:80/nazmul/nazmul/568.ts
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id group-title="Sports",Abu Dhabi Sports 1
+http://live.globalflix.net:80/nazmul/nazmul/569.ts
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id ,Abu Dhabi Sports 2
+http://live.globalflix.net:80/nazmul/nazmul/570.m3u8
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id group-title="Sports",Abu Dhabi Sports 2
+http://live.globalflix.net:80/nazmul/nazmul/570.ts
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id ,Abu Dhabi Sports 2 (1080p)
+http://live.globalflix.net:80/nazmul/nazmul/54.m3u8
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id group-title="Sports" tvg-logo="http://live.globalflix.net:80/images/05dff672d4154a269004b2508a25dc87.png",Abu Dhabi Sports 2 (1080p)
+http://live.globalflix.net:80/nazmul/nazmul/54.ts
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id ,ACI Sport TV (1080p)
+http://live.globalflix.net:80/nazmul/nazmul/56.m3u8
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id group-title="Sports" tvg-logo="http://live.globalflix.net:80/images/04d2b38e4ff7bb708979e5cb9e9929be.png",ACI Sport TV (1080p)
+http://live.globalflix.net:80/nazmul/nazmul/56.ts
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id ,Alfa Sport (1080p) [Not 24/7]
+http://live.globalflix.net:80/nazmul/nazmul/60.m3u8
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id group-title="Sports" tvg-logo="http://live.globalflix.net:80/images/761718511506f439309a11466d922665.png",Alfa Sport (1080p) [Not 24/7]
+http://live.globalflix.net:80/nazmul/nazmul/60.ts
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id ,ALL Sports
+http://live.globalflix.net:80/nazmul/nazmul/579.m3u8
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id group-title="Sports",ALL Sports
+http://live.globalflix.net:80/nazmul/nazmul/579.ts
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id ,All Sports (720p)
+http://live.globalflix.net:80/nazmul/nazmul/61.m3u8
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id group-title="Sports" tvg-logo="http://live.globalflix.net:80/images/1debacec51cd8fc05a7d646d1c5aa6de.png",All Sports (720p)
+http://live.globalflix.net:80/nazmul/nazmul/61.ts
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id ,Arryadia
+http://live.globalflix.net:80/nazmul/nazmul/581.m3u8
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id group-title="Sports",Arryadia
+http://live.globalflix.net:80/nazmul/nazmul/581.ts
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id ,ATG
+http://live.globalflix.net:80/nazmul/nazmul/582.m3u8
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id group-title="Sports",ATG
+http://live.globalflix.net:80/nazmul/nazmul/582.ts
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id ,AXN HD
+http://live.globalflix.net:80/nazmul/nazmul/687.m3u8
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id ,AXS TV Now
+http://live.globalflix.net:80/nazmul/nazmul/467.m3u8
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id group-title="Movie",AXS TV Now
+http://live.globalflix.net:80/nazmul/nazmul/467.ts
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id ,AZ Cinema HD
+http://live.globalflix.net:80/nazmul/nazmul/688.m3u8
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id ,BABY TV
+http://live.globalflix.net:80/nazmul/n
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id group-title="Others",BABY TV
+http://live.globalflix.net:80/nazmul/nazmul/677.ts
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id ,Bahrain Sports 1 (720p) [Not 24/7]
+http://live.globalflix.net:80/nazmul/nazmul/64.m3u8
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id group-title="Sports" tvg-logo="http://live.globalflix.net:80/images/48e79359707200700f05b0e56f2d6f34.png",Bahrain Sports 1 (720p) [Not 24/7]
+http://live.globalflix.net:80/nazmul/nazmul/64.ts
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id ,Bahrain Sports 2 (720p) [Not 24/7]
+http://live.globalflix.net:80/nazmul/nazmul/65.m3u8
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id group-title="Sports" tvg-logo="http://live.globalflix.net:80/images/997c2f81e5a5226abfc79be63245464c.png",Bahrain Sports 2 (720p) [Not 24/7]
+http://live.globalflix.net:80/nazmul/nazmul/65.ts
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id ,CDR
+http://live.globalflix.net:80/nazmul/nazmul/374.m3u8
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id group-title="Sports" tvg-logo="http://live.globalflix.net:80/images/904844ad64fed458ab4d87854b9e1142.png",CDR
+http://live.globalflix.net:80/nazmul/nazmul/374.ts
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id ,CN
+http://live.globalflix.net:80/nazmul/nazmul/675.m3u8
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id group-title="Others",CN
+http://live.globalflix.net:80/nazmul/nazmul/675.ts
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id ,Disney JR
+http://live.globalflix.net:80/nazmul/nazmul/674.m3u8
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id group-title="Others",Disney JR
+http://live.globalflix.net:80/nazmul/nazmul/674.ts
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id ,DSTV (720p)
+http://live.globalflix.net:80/nazmul/nazmul/79.m3u8
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id group-title="Sports" tvg-logo="http://live.globalflix.net:80/images/7c222b16be3636a83cb0f8a98f4cbb9b.png",DSTV (720p)
+http://live.globalflix.net:80/nazmul/nazmul/79.ts
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id ,DT Play
+http://live.globalflix.net:80/nazmul/nazmul/411.m3u8
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id group-title="Sports" tvg-logo="http://live.globalflix.net:80/images/348938645e723c676ce91e284b058d62.png",DT Play
+http://live.globalflix.net:80/nazmul/nazmul/411.ts
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id ,dubai
+http://live.globalflix.net:80/nazmul/nazmul/461.m3u8
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id ,dubai
+http://live.globalflix.net:80/nazmul/nazmul/462.m3u8
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id group-title="Movie",dubai
+http://live.globalflix.net:80/nazmul/nazmul/461.ts
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id group-title="Others",dubai
+http://live.globalflix.net:80/nazmul/nazmul/462.ts
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id ,Dubai Racing 2 (1080p)
+http://live.globalflix.net:80/nazmul/nazmul/81.m3u8
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id group-title="Sports" tvg-logo="http://live.globalflix.net:80/images/f188570b6b802c340edff6a78f758a0e.png",Dubai Racing 2 (1080p)
+http://live.globalflix.net:80/nazmul/nazmul/81.ts
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id ,Dubai Racing 3 (1080p)
+http://live.globalflix.net:80/nazmul/nazmul/82.m3u8
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id group-title="Sports" tvg-logo="http://live.globalflix.net:80/images/62c69860ef35614cd496a3e89270ec68.png",Dubai Racing 3 (1080p)
+http://live.globalflix.net:80/nazmul/nazmul/82.ts
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id ,Dubai Sports 2
+http://live.globalflix.net:80/nazmul/nazmul/485.m3u8
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id group-title="Sports",Dubai Sports 2
+http://live.globalflix.net:80/nazmul/nazmul/485.ts
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id ,Dubai Sports 2 (720p)
+http://live.globalflix.net:80/nazmul/nazmul/85.m3u8
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id group-title="Sports" tvg-logo="http://live.globalflix.net:80/images/c32700676ebeb1537a0e7ad8e5c72930.png",Dubai Sports 2 (720p)
+http://live.globalflix.net:80/nazmul/nazmul/85.ts
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id ,Dubai Sports 3 (1080p) [Not 24/7]
+http://live.globalflix.net:80/nazmul/nazmul/86.m3u8
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id group-title="Sports" tvg-logo="http://live.globalflix.net:80/images/eadc95058414b9d95d3459f158be8184.png",Dubai Sports 3 (1080p) [Not 24/7]
+http://live.globalflix.net:80/nazmul/nazmul/86.ts
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id ,Edge sports
+http://live.globalflix.net:80/nazmul/nazmul/684.m3u8
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id group-title="Sports",Edge sports
+http://live.globalflix.net:80/nazmul/nazmul/684.ts
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id ,EDGEsport
+http://live.globalflix.net:80/nazmul/nazmul/402.m3u8
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id group-title="Sports" tvg-logo="http://live.globalflix.net:80/images/a108b9a92320cc39d4720abb13401db3.png",EDGEsport
+http://live.globalflix.net:80/nazmul/nazmul/402.ts
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id ,ESPN
+http://live.globalflix.net:80/nazmul/nazmul/725.m3u8
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id group-title="Sports",ESPN
+http://live.globalflix.net:80/nazmul/nazmul/725.ts
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id ,HERVEST TV USA
+http://live.globalflix.net:80/nazmul/nazmul/566.m3u8
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id ,IMPACT Wrestling
+http://live.globalflix.net:80/nazmul/nazmul/378.m3u8
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id group-title="Sports" tvg-logo="http://live.globalflix.net:80/images/dd87060618355d844850c584e8222d44.png",IMPACT Wrestling
+http://live.globalflix.net:80/nazmul/nazmul/378.ts
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id ,IMPACT Wrestling (1080p)
+http://live.globalflix.net:80/nazmul/nazmul/107.m3u8
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id group-title="Sports" tvg-logo="http://live.globalflix.net:80/images/dd87060618355d844850c584e8222d44.png",IMPACT Wrestling (1080p)
+http://live.globalflix.net:80/nazmul/nazmul/107.ts
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id ,KBP Sports (720p) [Not 24/7]
+http://live.globalflix.net:80/nazmul/nazmul/114.m3u8
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id group-title="Sports" tvg-logo="http://live.globalflix.net:80/images/848e03c9cea3e64a4de45392d5d5319a.png",KBP Sports (720p) [Not 24/7]
+http://live.globalflix.net:80/nazmul/nazmul/114.ts
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id ,kodak
+http://live.globalflix.net:80/nazmul/nazmul/724.m3u8
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id group-title="Movie",kodak
+http://live.globalflix.net:80/nazmul/nazmul/724.ts
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id ,KSA Sports 1 (1080p) [Not 24/7]
+http://live.globalflix.net:80/nazmul/nazmul/26.m3u8
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id group-title="Sports" tvg-logo="http://live.globalflix.net:80/images/e136af55910155e1d8fbe216efc53420.png",KSA Sports 1 (1080p) [Not 24/7]
+http://live.globalflix.net:80/nazmul/nazmul/26.ts
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id ,KSA Sports 2 (1080p) [Not 24/7]
+http://live.globalflix.net:80/nazmul/nazmul/115.m3u8
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id group-title="Sports" tvg-logo="http://live.globalflix.net:80/images/72087292f943978120c919ad39cc124e.png",KSA Sports 2 (1080p) [Not 24/7]
+http://live.globalflix.net:80/nazmul/nazmul/115.ts
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id ,KSA Sports 3 (1080p) [Not 24/7]
+http://live.globalflix.net:80/nazmul/nazmul/116.m3u8
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id group-title="Sports" tvg-logo="http://live.globalflix.net:80/images/29bb4b709e3416b87afa23777e6b138d.png",KSA Sports 3 (1080p) [Not 24/7]
+http://live.globalflix.net:80/nazmul/nazmul/116.ts
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id ,KSA Sports 4 (1080p) [Not 24/7]
+http://live.globalflix.net:80/nazmul/nazmul/38.m3u8
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id group-title="Sports" tvg-logo="http://live.globalflix.net:80/images/8ceaf30d2eb6c2aa0342cbb2997bc8e3.png",KSA Sports 4 (1080p) [Not 24/7]
+http://live.globalflix.net:80/nazmul/nazmul/38.ts
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id ,LOVE NATURE
+http://live.globalflix.net:80/nazmul/nazmul/678.m3u8
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id group-title="Movie",LOVE NATURE
+http://live.globalflix.net:80/nazmul/nazmul/678.ts
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id ,Matribhumi TV
+http://live.globalflix.net:80/nazmul/nazmul/326.m3u8
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id group-title="Movie",Matribhumi TV
+http://live.globalflix.net:80/nazmul/nazmul/326.ts
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id ,MB Music
+http://live.globalflix.net:80/nazmul/nazmul/364.m3u8
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id group-title="Movie",MB Music
+http://live.globalflix.net:80/nazmul/nazmul/364.ts
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id ,MBC KASA
+http://live.globalflix.net:80/nazmul/nazmul/469.m3u8
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id group-title="Movie",MBC KASA
+http://live.globalflix.net:80/nazmul/nazmul/469.ts
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id ,Movie Bangla
+http://live.globalflix.net:80/nazmul/nazmul/616.m3u8
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id group-title="Movie",Movie Bangla
+http://live.globalflix.net:80/nazmul/nazmul/616.ts
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id ,Movie Sphere
+http://live.globalflix.net:80/nazmul/nazmul/480.m3u8
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id group-title="Movie",Movie Sphere
+http://live.globalflix.net:80/nazmul/nazmul/480.ts
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id ,MOVIES1
+http://live.globalflix.net:80/nazmul/nazmul/645.m3u8
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id ,MOVIES2
+http://live.globalflix.net:80/nazmul/nazmul/646.m3u8
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id ,MTV HITS
+http://live.globalflix.net:80/nazmul/nazmul/726.m3u8
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id ,MUSIC BOX GOLD
+http://live.globalflix.net:80/nazmul/nazmul/365.m3u8
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id group-title="Music",MUSIC BOX GOLD
+http://live.globalflix.net:80/nazmul/nazmul/365.ts
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id ,Music TOP
+http://live.globalflix.net:80/nazmul/nazmul/484.m3u8
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id group-title="Music",Music TOP
+http://live.globalflix.net:80/nazmul/nazmul/484.ts
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id ,NET GEO WILD
+http://live.globalflix.net:80/nazmul/nazmul/676.m3u8
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id group-title="Others",NET GEO WILD
+http://live.globalflix.net:80/nazmul/nazmul/676.ts
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id ,Notion TV
+http://live.globalflix.net:80/nazmul/nazmul/617.m3u8
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id group-title="Movie",Notion TV
+http://live.globalflix.net:80/nazmul/nazmul/617.ts
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id ,NW Sport 1 (576p)
+http://live.globalflix.net:80/nazmul/nazmul/130.m3u8
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id group-title="Sports" tvg-logo="http://live.globalflix.net:80/images/d9c99e2c46c5c8c615be69198300bbc8.png",NW Sport 1 (576p)
+http://live.globalflix.net:80/nazmul/nazmul/130.ts
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id ,NW Sport 2 (576p)
+http://live.globalflix.net:80/nazmul/nazmul/131.m3u8
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id group-title="Sports" tvg-logo="http://live.globalflix.net:80/images/d9c99e2c46c5c8c615be69198300bbc8.png",NW Sport 2 (576p)
+http://live.globalflix.net:80/nazmul/nazmul/131.ts
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id ,Persiana Eranian
+http://live.globalflix.net:80/nazmul/nazmul/333.m3u8
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id group-title="Others",Persiana Eranian
+http://live.globalflix.net:80/nazmul/nazmul/333.ts
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id ,Persiana Family
+http://live.globalflix.net:80/nazmul/nazmul/330.m3u8
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id group-title="Others",Persiana Family
+http://live.globalflix.net:80/nazmul/nazmul/330.ts
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id ,Persiana HD
+http://live.globalflix.net:80/nazmul/nazmul/332.m3u8
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id group-title="Others",Persiana HD
+http://live.globalflix.net:80/nazmul/nazmul/332.ts
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id ,Persiana Movie
+http://live.globalflix.net:80/nazmul/nazmul/331.m3u8
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id group-title="Movie",Persiana Movie
+http://live.globalflix.net:80/nazmul/nazmul/331.ts
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id ,Persiana Music
+http://live.globalflix.net:80/nazmul/nazmul/335.m3u8
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id group-title="Music",Persiana Music
+http://live.globalflix.net:80/nazmul/nazmul/335.ts
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id ,POWER TORK
+http://live.globalflix.net:80/nazmul/nazmul/679.m3u8
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id ,Quran Makka
+http://live.globalflix.net:80/nazmul/nazmul/567.m3u8
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id group-title="Others",Quran Makka
+http://live.globalflix.net:80/nazmul/nazmul/567.ts
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id ,Rasi Hollywood
+http://live.globalflix.net:80/nazmul/nazmul/686.m3u8
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id ,Realitatea Sportivă (720p)
+http://live.globalflix.net:80/nazmul/nazmul/153.m3u8
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id group-title="Sports" tvg-logo="http://live.globalflix.net:80/images/e71f985282d9463cc46808dcdcc2e8e7.png",Realitatea Sportivă (720p)
+http://live.globalflix.net:80/nazmul/nazmul/153.ts
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id ,Red Bull TV (1080p)
+http://live.globalflix.net:80/nazmul/nazmul/154.m3u8
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id group-title="Sports" tvg-logo="http://live.globalflix.net:80/images/1549cf1b513627a06972c1646f4a8ed7.png",Red Bull TV (1080p)
+http://live.globalflix.net:80/nazmul/nazmul/154.ts
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id ,Red Bull TV (720p)
+http://live.globalflix.net:80/nazmul/nazmul/16.m3u8
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id group-title="Sports",Red Bull TV (720p)
+http://live.globalflix.net:80/nazmul/nazmul/16.ts
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id ,RTA Sports
+http://live.globalflix.net:80/nazmul/nazmul/155.m3u8
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id group-title="Sports" tvg-logo="http://live.globalflix.net:80/images/c08680f7a1399a46fb7ba595c9a795a6.png",RTA Sports
+http://live.globalflix.net:80/nazmul/nazmul/155.ts
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id ,Ru Sport
+http://live.globalflix.net:80/nazmul/nazmul/8.m3u8
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id group-title="Sports",Ru Sport
+http://live.globalflix.net:80/nazmul/nazmul/8.ts
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id ,S sports 1
+http://live.globalflix.net:80/nazmul/nazmul/669.m3u8
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id group-title="Sports",S sports 1
+http://live.globalflix.net:80/nazmul/nazmul/669.ts
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id ,S sports 2
+http://live.globalflix.net:80/nazmul/nazmul/670.m3u8
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id group-title="Sports",S sports 2
+http://live.globalflix.net:80/nazmul/nazmul/670.ts
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id ,San Marino RTV Sport (720p)
+http://live.globalflix.net:80/nazmul/nazmul/156.m3u8
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id group-title="Sports" tvg-logo="http://live.globalflix.net:80/images/2c19409e9d29447dd868df893fe4018a.png",San Marino RTV Sport (720p)
+http://live.globalflix.net:80/nazmul/nazmul/156.ts
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id ,Sananda
+http://live.globalflix.net:80/nazmul/nazmul/327.m3u8
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id group-title="Movie",Sananda
+http://live.globalflix.net:80/nazmul/nazmul/327.ts
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id ,Sharjah Sports TV (1080p)
+http://live.globalflix.net:80/nazmul/nazmul/157.m3u8
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id group-title="Sports" tvg-logo="http://live.globalflix.net:80/images/48681fea6e7ffbc8c2ea81c87528dfbe.jpg",Sharjah Sports TV (1080p)
+http://live.globalflix.net:80/nazmul/nazmul/157.ts
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id ,SHOW BOX
+http://live.globalflix.net:80/nazmul/nazmul/720.m3u8
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id ,Sport En France (720p)
+http://live.globalflix.net:80/nazmul/nazmul/45.m3u8
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id group-title="Sports" tvg-logo="http://live.globalflix.net:80/images/b46707f8fd3e28a6121161f34fdab1dd.png",Sport En France (720p)
+http://live.globalflix.net:80/nazmul/nazmul/45.ts
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id ,Sports tv
+http://live.globalflix.net:80/nazmul/nazmul/673.m3u8
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id group-title="Sports",Sports tv
+http://live.globalflix.net:80/nazmul/nazmul/673.ts
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id ,Sports TV (720p) [Geo-blocked]
+http://live.globalflix.net:80/nazmul/nazmul/39.m3u8
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id group-title="Sports",Sports TV (720p) [Geo-blocked]
+http://live.globalflix.net:80/nazmul/nazmul/39.ts
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id ,SportyStuff TV (1080p)
+http://live.globalflix.net:80/nazmul/nazmul/172.m3u8
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id group-title="Sports" tvg-logo="http://live.globalflix.net:80/images/315b0d1860b14ee9504018a665e7c662.png",SportyStuff TV (1080p)
+http://live.globalflix.net:80/nazmul/nazmul/172.ts
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id ,SSC extra
+http://live.globalflix.net:80/nazmul/nazmul/716.m3u8
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id group-title="Sports",SSC extra
+http://live.globalflix.net:80/nazmul/nazmul/716.ts
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id ,Star Jalsha no sell
+http://live.globalflix.net:80/nazmul/nazmul/718.m3u8
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id group-title="Sports",Star Jalsha no sell
+http://live.globalflix.net:80/nazmul/nazmul/718.ts
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id group-title="Movie",Star Sports
+http://live.globalflix.net:80/nazmul/nazmul/728.ts
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id ,Sun Music
+http://live.globalflix.net:80/nazmul/nazmul/362.m3u8
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id group-title="Music",Sun Music
+http://live.globalflix.net:80/nazmul/nazmul/362.ts
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id ,Swerve Sports (1080p)
+http://live.globalflix.net:80/nazmul/nazmul/180.m3u8
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id group-title="Sports" tvg-logo="http://live.globalflix.net:80/images/b113f37e540f821dc6633df75097d6b5.png",Swerve Sports (1080p)
+http://live.globalflix.net:80/nazmul/nazmul/180.ts
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id ,TÃ¼rkmenistan Sport
+http://live.globalflix.net:80/nazmul/nazmul/12.m3u8
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id group-title="Sports" tvg-logo="http://tv-online.in/wp-content/uploads/2015/09/Turkmen-sport-logo.jpg",TÃ¼rkmenistan Sport
+http://live.globalflix.net:80/nazmul/nazmul/12.ts
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id ,TRT  MUZUK
+http://live.globalflix.net:80/nazmul/nazmul/680.m3u8
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id group-title="Music",TRT  MUZUK
+http://live.globalflix.net:80/nazmul/nazmul/680.ts
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id ,TRT Sports 1
+http://live.globalflix.net:80/nazmul/nazmul/671.m3u8
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id group-title="Sports",TRT Sports 1
+http://live.globalflix.net:80/nazmul/nazmul/671.ts
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id ,TRT SPORTS 3
+http://live.globalflix.net:80/nazmul/nazmul/682.m3u8
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id group-title="Sports",TRT SPORTS 3
+http://live.globalflix.net:80/nazmul/nazmul/682.ts
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id ,TUDN
+http://live.globalflix.net:80/nazmul/nazmul/278.m3u8
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id group-title="Sports",TUDN
+http://live.globalflix.net:80/nazmul/nazmul/278.ts
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id ,TVMax (720p)
+http://live.globalflix.net:80/nazmul/nazmul/209.m3u8
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id group-title="Movie" tvg-logo="http://live.globalflix.net:80/images/9718924e0e07fd1c00807e79cd70ae7b.png",TVMax (720p)
+http://live.globalflix.net:80/nazmul/nazmul/209.ts
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id ,TVRI Sport
+http://live.globalflix.net:80/nazmul/nazmul/401.m3u8
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id group-title="Sports" tvg-logo="http://live.globalflix.net:80/images/b33460cce8bbc46bd51811f09586b96d.png",TVRI Sport
+http://live.globalflix.net:80/nazmul/nazmul/401.ts
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id ,TVRI Sport (720p)
+http://live.globalflix.net:80/nazmul/nazmul/210.m3u8
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id group-title="Sports" tvg-logo="http://live.globalflix.net:80/images/b33460cce8bbc46bd51811f09586b96d.png",TVRI Sport (720p)
+http://live.globalflix.net:80/nazmul/nazmul/210.ts
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id ,TVRI Sport HD (720p)
+http://live.globalflix.net:80/nazmul/nazmul/40.m3u8
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id group-title="Others",TVRI Sport HD (720p)
+http://live.globalflix.net:80/nazmul/nazmul/40.ts
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id ,TVS Boxing (360p)
+http://live.globalflix.net:80/nazmul/nazmul/211.m3u8
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id group-title="Sports" tvg-logo="http://live.globalflix.net:80/images/849733893b14d8e27f8b26cfb5251184.png",TVS Boxing (360p)
+http://live.globalflix.net:80/nazmul/nazmul/211.ts
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id ,TVS Sports
+http://live.globalflix.net:80/nazmul/nazmul/415.m3u8
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id group-title="Sports" tvg-logo="http://live.globalflix.net:80/images/bc14ab475252bfd47ef1d2bd38ff6fb0.png",TVS Sports
+http://live.globalflix.net:80/nazmul/nazmul/415.ts
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id ,TVS Sports Bureau
+http://live.globalflix.net:80/nazmul/nazmul/410.m3u8
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id group-title="Sports" tvg-logo="http://live.globalflix.net:80/images/4141c9c82a5d2cf4ced3e819210c427f.png",TVS Sports Bureau
+http://live.globalflix.net:80/nazmul/nazmul/410.ts
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id ,Unbeaten
+http://live.globalflix.net:80/nazmul/nazmul/217.m3u8
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id group-title="Sports" tvg-logo="http://live.globalflix.net:80/images/9589a0f5e0d0292a44ce719da0b7c391.png",Unbeaten
+http://live.globalflix.net:80/nazmul/nazmul/217.ts
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id ,VIA PLAY EXTRA
+http://live.globalflix.net:80/nazmul/nazmul/719.m3u8
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id group-title="Sports",VIA PLAY EXTRA
+http://live.globalflix.net:80/nazmul/nazmul/719.ts
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id ,ViX Lo Mejor De La Liga MX
+http://live.globalflix.net:80/nazmul/nazmul/220.m3u8
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id group-title="Sports" tvg-logo="http://live.globalflix.net:80/images/1008ad2266a2aa9d643a2699f24b4241.png",ViX Lo Mejor De La Liga MX
+http://live.globalflix.net:80/nazmul/nazmul/220.ts
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id ,Wow TV
+http://live.globalflix.net:80/nazmul/nazmul/360.m3u8
+#EXTINF:-1 group-title="SINGAPUR GLOBALFIX 25-05" tvg-id group-title="Movie",Wow TV
+http://live.globalflix.net:80/nazmul/nazmul/360.ts
