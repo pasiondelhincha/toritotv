@@ -228,7 +228,7 @@ http://laondatv.online:8080/ALBERTO82/57977/416398
 #EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://i.imgur.com/xFgJawa.png" ,512 ARGENTINISIMA
 https://stream1.sersat.com/hls/argentinisima.m3u8?
 #EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/512px-TLC_Logo.svg.png" ,513 TLC
-http://hplay.xyz:80/rtrboofc/pi519pvU9R/34824
+http://190.43.92.37:8989/play/a0wt/index.m3u8
 #EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://i.imgur.com/xJAFtSp.png" ,514 CONSTRUIR TV
 http://200.63.95.6:8000/play/a00r/index.m3u8
 #EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://i.imgur.com/NgIBbPX.png" ,516 RURAL
