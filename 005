@@ -1,0 +1,453 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="2e62f28cd0e34567c041f619e899230c" tvg-chno="1",DIGI Sport 1
+http://86.123.190.127:9981/stream/channelid/217211438?profile=pass
+#EXTINF:-1 tvg-id="eab5faf1f78f2c06fd1d65b14d4db5a1" tvg-chno="2",DIGI Sport 1 HD
+http://86.123.190.127:9981/stream/channelid/1912255978?profile=pass
+#EXTINF:-1 tvg-id="be5b430da5999e549fb0e90b05b92b4e" tvg-chno="3",DIGI Sport 2 HD
+http://86.123.190.127:9981/stream/channelid/222518206?profile=pass
+#EXTINF:-1 tvg-id="fd487dc931fc40470f728b093f1e58c7" tvg-chno="4",DIGI Sport 2
+http://86.123.190.127:9981/stream/channelid/1232947453?profile=pass
+#EXTINF:-1 tvg-id="d7dd18d06350ded4f54c443402be3442" tvg-chno="5",DIGI Sport 3 HD
+http://86.123.190.127:9981/stream/channelid/1343806935?profile=pass
+#EXTINF:-1 tvg-id="a3cd1a762f4e6a417979011765877dc2" tvg-chno="6",DIGI Sport 3
+http://86.123.190.127:9981/stream/channelid/1981468067?profile=pass
+#EXTINF:-1 tvg-id="1e414f4645600e069eed0b775d2349b4" tvg-chno="7",DIGI Sport 4 HD
+http://86.123.190.127:9981/stream/channelid/1179599134?profile=pass
+#EXTINF:-1 tvg-id="7828790027018c6889c605f391902722" tvg-chno="8",DIGI Sport 4
+http://86.123.190.127:9981/stream/channelid/7940216?profile=pass
+#EXTINF:-1 tvg-id="b6d1a6ca6181b9d92b9219a131582a74" tvg-chno="9",Eurosport HD
+http://86.123.190.127:9981/stream/channelid/1252446646?profile=pass
+#EXTINF:-1 tvg-id="11424747f82dd81c6315aa356b2dea90" tvg-chno="10",Eurosport
+http://86.123.190.127:9981/stream/channelid/1195852305?profile=pass
+#EXTINF:-1 tvg-id="6d025e78265baf29f14927c08de9c2b1" tvg-chno="11",Eurosport 2 HD
+http://86.123.190.127:9981/stream/channelid/2019426925?profile=pass
+#EXTINF:-1 tvg-id="6c82d5cdf1b79c56c6b632b2fdad29c0" tvg-chno="12",Eurosport 2
+http://86.123.190.127:9981/stream/channelid/1305838188?profile=pass
+#EXTINF:-1 tvg-id="684dc149eb79042455e4fa679c608a55" tvg-chno="13",PRIMA SPORT 1 HD
+http://86.123.190.127:9981/stream/channelid/1237405032?profile=pass
+#EXTINF:-1 tvg-id="1b55472e611e513dacf5b150c49da47b" tvg-chno="14",PRIMA SPORT 1
+http://86.123.190.127:9981/stream/channelid/776426779?profile=pass
+#EXTINF:-1 tvg-id="971b48f8405a4ca4c395306a07b2adb9" tvg-chno="15",PRIMA SPORT 2 HD
+http://86.123.190.127:9981/stream/channelid/2017991575?profile=pass
+#EXTINF:-1 tvg-id="b089465b4990d6c890259a9448022ac6" tvg-chno="16",PRIMA SPORT 2
+http://86.123.190.127:9981/stream/channelid/1531349424?profile=pass
+#EXTINF:-1 tvg-id="9161f7bdc85b484cead12205f8d0a3ac" tvg-chno="17",PRIMA SPORT 3 HD
+http://86.123.190.127:9981/stream/channelid/1039622545?profile=pass
+#EXTINF:-1 tvg-id="a33d347e718ccf0c17ef1de8a9347d9c" tvg-chno="18",PRIMA SPORT 3
+http://86.123.190.127:9981/stream/channelid/2117352867?profile=pass
+#EXTINF:-1 tvg-id="8203d33cc6d2193f98084f8fdf2b5f21" tvg-chno="19",Sportextra HD
+http://86.123.190.127:9981/stream/channelid/1020461954?profile=pass
+#EXTINF:-1 tvg-id="d705b0f3aa5ec9a640e0dc6d660c65a6" tvg-chno="20",PRO ARENA HD
+http://86.123.190.127:9981/stream/channelid/1940915671?profile=pass
+#EXTINF:-1 tvg-id="5c0c4bbce49d504949004a254c72a4aa" tvg-chno="21",PRO ARENA
+http://86.123.190.127:9981/stream/channelid/1011551324?profile=pass
+#EXTINF:-1 tvg-id="362515c1ddc0cad14a613425c9695213" tvg-chno="22",TVR1 HD
+http://86.123.190.127:9981/stream/channelid/1091904822?profile=pass
+#EXTINF:-1 tvg-id="3158f3644e19909d3e2565c5d0196f00" tvg-chno="23",TVR 1
+http://86.123.190.127:9981/stream/channelid/1693669425?profile=pass
+#EXTINF:-1 tvg-id="436b0368f4609f0727bf64f497a6e00e" tvg-chno="24",TVR2 HD
+http://86.123.190.127:9981/stream/channelid/1745054531?profile=pass
+#EXTINF:-1 tvg-id="40dfff0a7ed299fc63dfbde3065f4aec" tvg-chno="25",TVR 2
+http://86.123.190.127:9981/stream/channelid/184540992?profile=pass
+#EXTINF:-1 tvg-id="aff657196c11adb8af73a69c269cdb61" tvg-chno="26",TVR 3
+http://86.123.190.127:9981/stream/channelid/425195183?profile=pass
+#EXTINF:-1 tvg-id="3671191846b825f9b4ca95af8d3ab957" tvg-chno="27",PRO TV HD
+http://86.123.190.127:9981/stream/channelid/404320566?profile=pass
+#EXTINF:-1 tvg-id="cefa1a3735305d27b2c311c5546d0003" tvg-chno="28",PRO TV
+http://86.123.190.127:9981/stream/channelid/924515022?profile=pass
+#EXTINF:-1 tvg-id="ebd2549425463d655b55dad893dbf515" tvg-chno="29",Antena 1 HD
+http://86.123.190.127:9981/stream/channelid/341103339?profile=pass
+#EXTINF:-1 tvg-id="c5e0e6c7ec37a35b1e6d3a0ed5a94781" tvg-chno="30",Antena 1
+http://86.123.190.127:9981/stream/channelid/1206313157?profile=pass
+#EXTINF:-1 tvg-id="6d85021480227df4e081d27f511e96c6" tvg-chno="31",Kanal D HD
+http://86.123.190.127:9981/stream/channelid/335709549?profile=pass
+#EXTINF:-1 tvg-id="fcf29b0a92aae248697a69b7b3334e07" tvg-chno="32",Kanal D
+http://86.123.190.127:9981/stream/channelid/177992444?profile=pass
+#EXTINF:-1 tvg-id="e97a6a34b4bd22a04b8c02db29121d8e" tvg-chno="33",PRIMA TV HD
+http://86.123.190.127:9981/stream/channelid/879393513?profile=pass
+#EXTINF:-1 tvg-id="e58251c90bb439a632cabc584c7e12c6" tvg-chno="34",PRIMA TV
+http://86.123.190.127:9981/stream/channelid/1230078693?profile=pass
+#EXTINF:-1 tvg-id="14cae4a18517b96b4c266bad4275ae48" tvg-chno="35",Happy Channel HD
+http://86.123.190.127:9981/stream/channelid/568642068?profile=pass
+#EXTINF:-1 tvg-id="7153a4e39bd1cdb8ebc4f91d1d001f37" tvg-chno="36",Happy Channel
+http://86.123.190.127:9981/stream/channelid/1671713649?profile=pass
+#EXTINF:-1 tvg-id="5e219595e168029118e619bc5ace6229" tvg-chno="37",Antena Stars HD
+http://86.123.190.127:9981/stream/channelid/362094942?profile=pass
+#EXTINF:-1 tvg-id="055fbff408f75ba030bc7182790aa35a" tvg-chno="38",Antena Stars
+http://86.123.190.127:9981/stream/channelid/1958698757?profile=pass
+#EXTINF:-1 tvg-id="e633669cd2a62ff9e96f80e58e42839c" tvg-chno="39",National TV
+http://86.123.190.127:9981/stream/channelid/476460006?profile=pass
+#EXTINF:-1 tvg-id="a610e4f11914e2a30eecd23affbf9380" tvg-chno="40",National 24 Plus
+http://86.123.190.127:9981/stream/channelid/1910771878?profile=pass
+#EXTINF:-1 tvg-id="d631cabdb99e1f8fa725f5daaa67b54f" tvg-chno="41",Metropola TV HD
+http://86.123.190.127:9981/stream/channelid/1036661206?profile=pass
+#EXTINF:-1 tvg-id="cee7ef914aa3cef0bbe011f853bce629" tvg-chno="42",Metropola TV
+http://86.123.190.127:9981/stream/channelid/300935118?profile=pass
+#EXTINF:-1 tvg-id="400379b2c83ce33ee6104c70cb9675f9" tvg-chno="43",Etno TV HD
+http://86.123.190.127:9981/stream/channelid/846791488?profile=pass
+#EXTINF:-1 tvg-id="1ed640793008807f5f1db8dcebb15d32" tvg-chno="44",Etno TV
+http://86.123.190.127:9981/stream/channelid/2034292254?profile=pass
+#EXTINF:-1 tvg-id="8df51331c3a653fcce17a60732aacd15" tvg-chno="45",Kanal D2 HD
+http://86.123.190.127:9981/stream/channelid/823391629?profile=pass
+#EXTINF:-1 tvg-id="a6f98da2caa9d79503209bac9e79f9f6" tvg-chno="46",Kanal D2
+http://86.123.190.127:9981/stream/channelid/579729830?profile=pass
+#EXTINF:-1 tvg-id="c1de5fd3b22738284ebef80e4d81ff16" tvg-chno="47",A7
+http://86.123.190.127:9981/stream/channelid/1398791873?profile=pass
+#EXTINF:-1 tvg-id="611133d7db2f92ff736360960274f775" tvg-chno="48",Inedit TV
+http://86.123.190.127:9981/stream/channelid/1462964577?profile=pass
+#EXTINF:-1 tvg-id="30fd17b17869193c64eef8ff9e1c4a34" tvg-chno="49",Moldova TV
+http://86.123.190.127:9981/stream/channelid/823655728?profile=pass
+#EXTINF:-1 tvg-id="8efab9208629128bc1023790656684fb" tvg-chno="50",ARDEAL TV
+http://86.123.190.127:9981/stream/channelid/549059214?profile=pass
+#EXTINF:-1 tvg-id="a4d8858c33f07d607ee9c5431ebb6fd4" tvg-chno="51",Favorit TV
+http://86.123.190.127:9981/stream/channelid/210098340?profile=pass
+#EXTINF:-1 tvg-id="8a3e482dc884d99250338cccceb6be0b" tvg-chno="52",TeleMoldova Plus
+http://86.123.190.127:9981/stream/channelid/759709322?profile=pass
+#EXTINF:-1 tvg-id="65cca086816c2a0c9f3b16e82e1969d3" tvg-chno="53",Travel Mix
+http://86.123.190.127:9981/stream/channelid/111201381?profile=pass
+#EXTINF:-1 tvg-id="cb64be603a43953daf1f6c32ed4828d5" tvg-chno="54",TVR INFO HD
+http://86.123.190.127:9981/stream/channelid/1623090379?profile=pass
+#EXTINF:-1 tvg-id="67192e9ed91efb4c8cd0fc6fe9728ef7" tvg-chno="55",B1 HD
+http://86.123.190.127:9981/stream/channelid/506337639?profile=pass
+#EXTINF:-1 tvg-id="848e4819a271cbc6945d77c8fea4f43a" tvg-chno="56",B1
+http://86.123.190.127:9981/stream/channelid/424185476?profile=pass
+#EXTINF:-1 tvg-id="f9e2d14a8d7d357e0732e2484bd08537" tvg-chno="57",Romania TV HD
+http://86.123.190.127:9981/stream/channelid/1255269113?profile=pass
+#EXTINF:-1 tvg-id="db5c281d16446b1280329796462fbaf5" tvg-chno="58",Romania TV
+http://86.123.190.127:9981/stream/channelid/489184475?profile=pass
+#EXTINF:-1 tvg-id="f655c50017482f502613b9a82abdb470" tvg-chno="59",DIGI 24 HD
+http://86.123.190.127:9981/stream/channelid/12932598?profile=pass
+#EXTINF:-1 tvg-id="fb1a2bd66606b54ced8acb4ca80d1ce1" tvg-chno="60",DIGI 24
+http://86.123.190.127:9981/stream/channelid/1445665531?profile=pass
+#EXTINF:-1 tvg-id="8040c61195f3aa2028fdb902b4f04de6" tvg-chno="61",Antena 3 HD
+http://86.123.190.127:9981/stream/channelid/298205312?profile=pass
+#EXTINF:-1 tvg-id="ee32d0a6ab2434f53519f48b9f7288bb" tvg-chno="62",Antena 3
+http://86.123.190.127:9981/stream/channelid/651178734?profile=pass
+#EXTINF:-1 tvg-id="b9c7c32ba8e7c57f8e069c21c1015add" tvg-chno="63",Realitatea Plus HD
+http://86.123.190.127:9981/stream/channelid/734250937?profile=pass
+#EXTINF:-1 tvg-id="a84a0dc77e9ac4104f7e59ae69b92bf0" tvg-chno="64",Realitatea Plus
+http://86.123.190.127:9981/stream/channelid/1192053416?profile=pass
+#EXTINF:-1 tvg-id="556d6081a20dd032e6504bc77c2bcb97" tvg-chno="65",PRIMA NEWS
+http://86.123.190.127:9981/stream/channelid/23096661?profile=pass
+#EXTINF:-1 tvg-id="cafa0487434e80765947995da6b77223" tvg-chno="66",Euronews RO HD
+http://86.123.190.127:9981/stream/channelid/117766858?profile=pass
+#EXTINF:-1 tvg-id="e771980d9ff7fd792e86ace6da6a2b72" tvg-chno="67",Euronews RO
+http://86.123.190.127:9981/stream/channelid/228094439?profile=pass
+#EXTINF:-1 tvg-id="cf29721705625aad3a8810f2f9fa0030" tvg-chno="68",Aleph News
+http://86.123.190.127:9981/stream/channelid/393357775?profile=pass
+#EXTINF:-1 tvg-id="f71fe6ccbc860d718f1a5011244140e7" tvg-chno="69",NCN
+http://86.123.190.127:9981/stream/channelid/1290149879?profile=pass
+#EXTINF:-1 tvg-id="22b9abe80f50077b72c92e23f2feaae4" tvg-chno="70",Profit News
+http://86.123.190.127:9981/stream/channelid/1756084514?profile=pass
+#EXTINF:-1 tvg-id="35dbf5971473f9c7968d600f4b93a964" tvg-chno="72",CNN
+http://86.123.190.127:9981/stream/channelid/401988405?profile=pass
+#EXTINF:-1 tvg-id="2be1dc2f0d3a5c464751802f217910d8" tvg-chno="73",DW Deutsch
+http://86.123.190.127:9981/stream/channelid/803004715?profile=pass
+#EXTINF:-1 tvg-id="9b988168df6d7ce5029ed887a9ffa5a8" tvg-chno="74",BBC World News
+http://86.123.190.127:9981/stream/channelid/1753323675?profile=pass
+#EXTINF:-1 tvg-id="d3c4c80bf7a468509045e67dcb5df16f" tvg-chno="75",CGTN
+http://86.123.190.127:9981/stream/channelid/197706963?profile=pass
+#EXTINF:-1 tvg-id="fdee7d533721af39915354ba44abd527" tvg-chno="76",ACASA HD
+http://86.123.190.127:9981/stream/channelid/1400762109?profile=pass
+#EXTINF:-1 tvg-id="c8f0e3d0f6f1c5db85361ee3de419d3c" tvg-chno="77",ACASA
+http://86.123.190.127:9981/stream/channelid/1357115592?profile=pass
+#EXTINF:-1 tvg-id="5fcaf9149bd63dc0d1c2bef4060eb9bc" tvg-chno="78",ACASA GOLD HD
+http://86.123.190.127:9981/stream/channelid/351914591?profile=pass
+#EXTINF:-1 tvg-id="4a49590e1c98e225863f9a6a4254ec14" tvg-chno="79",ACASA GOLD
+http://86.123.190.127:9981/stream/channelid/240732490?profile=pass
+#EXTINF:-1 tvg-id="3c5ad85217f46d78daaa81690600cfe7" tvg-chno="80",FILM NOW HD
+http://86.123.190.127:9981/stream/channelid/1389910588?profile=pass
+#EXTINF:-1 tvg-id="5d9c05eb2a31f563746710210cd3a7ba" tvg-chno="81",FILM NOW
+http://86.123.190.127:9981/stream/channelid/1795529821?profile=pass
+#EXTINF:-1 tvg-id="71a1e61e8c256089be2d7d196126d31f" tvg-chno="82",PRO CINEMA HD
+http://86.123.190.127:9981/stream/channelid/518431089?profile=pass
+#EXTINF:-1 tvg-id="960c0d12ec785d7816cb818955b4f28e" tvg-chno="83",PRO CINEMA
+http://86.123.190.127:9981/stream/channelid/302845078?profile=pass
+#EXTINF:-1 tvg-id="1deee1b74d1fb41b2161575e407aa2f3" tvg-chno="84",Diva
+http://86.123.190.127:9981/stream/channelid/937553437?profile=pass
+#EXTINF:-1 tvg-id="bb23943292115c99aebf995b80ecf67a" tvg-chno="85",TV1000
+http://86.123.190.127:9981/stream/channelid/848569275?profile=pass
+#EXTINF:-1 tvg-id="628955ff1d98391e57a6f8a44de60b42" tvg-chno="86",Cinemaraton HD
+http://86.123.190.127:9981/stream/channelid/2136312162?profile=pass
+#EXTINF:-1 tvg-id="36013968455a748df7d2a8acb765baa2" tvg-chno="87",Cinemaraton
+http://86.123.190.127:9981/stream/channelid/1748566326?profile=pass
+#EXTINF:-1 tvg-id="4819baabd76aa7f02cdfa87027a176f2" tvg-chno="88",AXN HD
+http://86.123.190.127:9981/stream/channelid/733616456?profile=pass
+#EXTINF:-1 tvg-id="48b411bc5cce418a8100263ff330bc32" tvg-chno="89",AXN
+http://86.123.190.127:9981/stream/channelid/1007793224?profile=pass
+#EXTINF:-1 tvg-id="32e07b3b0c117df4c4a24e9e8a4ce775" tvg-chno="90",AXN White
+http://86.123.190.127:9981/stream/channelid/997974066?profile=pass
+#EXTINF:-1 tvg-id="41baab9e314f12440d6c5f80f1f6fda1" tvg-chno="91",AXN Black
+http://86.123.190.127:9981/stream/channelid/514570817?profile=pass
+#EXTINF:-1 tvg-id="2e693a19ee95dcbe17d73a4d27061998" tvg-chno="92",AXN Spin
+http://86.123.190.127:9981/stream/channelid/423258414?profile=pass
+#EXTINF:-1 tvg-id="59da4a54ef60dfd88db6b361af54aad4" tvg-chno="93",Warner TV
+http://86.123.190.127:9981/stream/channelid/1414191705?profile=pass
+#EXTINF:-1 tvg-id="16ae1bff3861d3c8bef68aeb7c2ac635" tvg-chno="94",Epic Drama
+http://86.123.190.127:9981/stream/channelid/2132520470?profile=pass
+#EXTINF:-1 tvg-id="52e94322ec71f9922ca15060a3d19396" tvg-chno="95",AMC HD
+http://86.123.190.127:9981/stream/channelid/574875986?profile=pass
+#EXTINF:-1 tvg-id="9d299f2d435b7b2ac7f1a9fd76c99a28" tvg-chno="96",AMC
+http://86.123.190.127:9981/stream/channelid/765405597?profile=pass
+#EXTINF:-1 tvg-id="8902b9d5ff9942919b198ab8c3234f93" tvg-chno="97",Film Cafe
+http://86.123.190.127:9981/stream/channelid/1438188169?profile=pass
+#EXTINF:-1 tvg-id="4210ed46fb74c84131c4d3269441e042" tvg-chno="98",Comedy Central
+http://86.123.190.127:9981/stream/channelid/1189941314?profile=pass
+#EXTINF:-1 tvg-id="0a09b863659ab9b59614eb842893d277" tvg-chno="99",PRIMA COMEDY
+http://86.123.190.127:9981/stream/channelid/1673005322?profile=pass
+#EXTINF:-1 tvg-id="983ae3ed0a2fe4cfb2dd11b61efacd26" tvg-chno="100",BBC First HD
+http://86.123.190.127:9981/stream/channelid/1843608216?profile=pass
+#EXTINF:-1 tvg-id="36e7468ae4789ce69db5b60864887a3b" tvg-chno="101",HBO HD
+http://86.123.190.127:9981/stream/channelid/172418870?profile=pass
+#EXTINF:-1 tvg-id="882868e8d2bd3d1b6c8776486373edb8" tvg-chno="102",HBO
+http://86.123.190.127:9981/stream/channelid/1751656584?profile=pass
+#EXTINF:-1 tvg-id="7e1d84b719ed3113163be96b9722e120" tvg-chno="103",HBO2 HD
+http://86.123.190.127:9981/stream/channelid/931405182?profile=pass
+#EXTINF:-1 tvg-id="8fd60dbb5b3df1734a402ae511ac4f0b" tvg-chno="104",HBO 2
+http://86.123.190.127:9981/stream/channelid/990762639?profile=pass
+#EXTINF:-1 tvg-id="2dd004c07631a5f40859dc3c5fa0c4a5" tvg-chno="105",HBO3 HD
+http://86.123.190.127:9981/stream/channelid/1074057261?profile=pass
+#EXTINF:-1 tvg-id="d722b8969f1d1788b9df5a3b33508f7b" tvg-chno="106",HBO 3
+http://86.123.190.127:9981/stream/channelid/381166295?profile=pass
+#EXTINF:-1 tvg-id="9eb0a65ec39265b2bfda0d879fede792" tvg-chno="107",Cinemax HD
+http://86.123.190.127:9981/stream/channelid/1587982494?profile=pass
+#EXTINF:-1 tvg-id="b788865528824b0275ac1b77ace5bfeb" tvg-chno="108",Cinemax
+http://86.123.190.127:9981/stream/channelid/1434880183?profile=pass
+#EXTINF:-1 tvg-id="18e17deade0b54a86903df48550fea61" tvg-chno="109",Cinemax2 HD
+http://86.123.190.127:9981/stream/channelid/1786634520?profile=pass
+#EXTINF:-1 tvg-id="a30c8250db985eb27b0d4ddbe29780f2" tvg-chno="110",Cinemax2
+http://86.123.190.127:9981/stream/channelid/1350700195?profile=pass
+#EXTINF:-1 tvg-id="657909a3dcce7dad861685db27be8877" tvg-chno="111",Bollywood TV HD
+http://86.123.190.127:9981/stream/channelid/587823461?profile=pass
+#EXTINF:-1 tvg-id="c9c8c5d3a17876b17a2d1144d8bc5227" tvg-chno="112",Bollywood TV
+http://86.123.190.127:9981/stream/channelid/1405470921?profile=pass
+#EXTINF:-1 tvg-id="833eb4d5588dafcde40e2eaba8ff4ee1" tvg-chno="113",CinemaEst
+http://86.123.190.127:9981/stream/channelid/1437875843?profile=pass
+#EXTINF:-1 tvg-id="a48cbd9db51af8eeeddafe03c7551b95" tvg-chno="114",Nickelodeon
+http://86.123.190.127:9981/stream/channelid/498961572?profile=pass
+#EXTINF:-1 tvg-id="5f45d0bdd74dba73dde6e6da5cb3a550" tvg-chno="115",Minimax
+http://86.123.190.127:9981/stream/channelid/1037059423?profile=pass
+#EXTINF:-1 tvg-id="53701853f25296c643a2060159b80d03" tvg-chno="116",Cartoon Network
+http://86.123.190.127:9981/stream/channelid/1394110547?profile=pass
+#EXTINF:-1 tvg-id="98700eaead17f1e8b51bd3ad9547f8e7" tvg-chno="117",Disney Channel
+http://86.123.190.127:9981/stream/channelid/772698264?profile=pass
+#EXTINF:-1 tvg-id="81373b558480d1debeaa134ef1cd67f7" tvg-chno="118",Disney Junior
+http://86.123.190.127:9981/stream/channelid/1429944193?profile=pass
+#EXTINF:-1 tvg-id="8dbed5adf6f2839d02d170f730068742" tvg-chno="119",Cartoonito
+http://86.123.190.127:9981/stream/channelid/768982669?profile=pass
+#EXTINF:-1 tvg-id="b856ab87eb0db44fe51978af3f9bf75b" tvg-chno="120",duckTV
+http://86.123.190.127:9981/stream/channelid/128669368?profile=pass
+#EXTINF:-1 tvg-id="4316fce37b2d87530b3960d00344599a" tvg-chno="121",TraLaLa
+http://86.123.190.127:9981/stream/channelid/1677465155?profile=pass
+#EXTINF:-1 tvg-id="2036cd20b9501663f7f638b0e0e9806a" tvg-chno="122",JimJam
+http://86.123.190.127:9981/stream/channelid/550319648?profile=pass
+#EXTINF:-1 tvg-id="acdebb9919609f02fa303a24f9db37c5" tvg-chno="123",Nick Jr
+http://86.123.190.127:9981/stream/channelid/431742636?profile=pass
+#EXTINF:-1 tvg-id="cd2dad81fac4e49b85e71a97406a7138" tvg-chno="124",Nicktoons
+http://86.123.190.127:9981/stream/channelid/28126669?profile=pass
+#EXTINF:-1 tvg-id="c1b39b9a15b0faef09b813d4864085ef" tvg-chno="125",DaVinci
+http://86.123.190.127:9981/stream/channelid/446411713?profile=pass
+#EXTINF:-1 tvg-id="3b8ec866a4a871e275ba00308da2ce22" tvg-chno="126",TeenNick
+http://86.123.190.127:9981/stream/channelid/1724419643?profile=pass
+#EXTINF:-1 tvg-id="a08f701423a760c739a0f2edf2027827" tvg-chno="127",DIGI WORLD HD
+http://86.123.190.127:9981/stream/channelid/342921120?profile=pass
+#EXTINF:-1 tvg-id="a0855ed704403fa674ccef07bb59894b" tvg-chno="128",DIGI WORLD
+http://86.123.190.127:9981/stream/channelid/1465812384?profile=pass
+#EXTINF:-1 tvg-id="34f8aec8dd415bfea21e841f7ec58cca" tvg-chno="129",DIGI LIFE HD
+http://86.123.190.127:9981/stream/channelid/1219426356?profile=pass
+#EXTINF:-1 tvg-id="e0a93c1f6259b2be30c0cd5ac8302aec" tvg-chno="130",DIGI LIFE
+http://86.123.190.127:9981/stream/channelid/524069344?profile=pass
+#EXTINF:-1 tvg-id="0399752f7bd377046bca74375de3e076" tvg-chno="131",DIGI ANIMAL WORLD HD
+http://86.123.190.127:9981/stream/channelid/796236035?profile=pass
+#EXTINF:-1 tvg-id="6ff1936e00cb54d484f7802335b600bd" tvg-chno="132",DIGI ANIMAL WORLD
+http://86.123.190.127:9981/stream/channelid/1855189359?profile=pass
+#EXTINF:-1 tvg-id="4a7c039ac644f3cde39277ed193fbe39" tvg-chno="133",Discovery HD
+http://86.123.190.127:9981/stream/channelid/436436042?profile=pass
+#EXTINF:-1 tvg-id="5fa2d550a08f125e5b7f3263c3202484" tvg-chno="134",Discovery
+http://86.123.190.127:9981/stream/channelid/1356178015?profile=pass
+#EXTINF:-1 tvg-id="12d9b591fe7de164a31246a3fc64b313" tvg-chno="135",TLC
+http://86.123.190.127:9981/stream/channelid/297130258?profile=pass
+#EXTINF:-1 tvg-id="b307c6fc6500217b1ac37890f9b81672" tvg-chno="136",History Channel HD
+http://86.123.190.127:9981/stream/channelid/2093352883?profile=pass
+#EXTINF:-1 tvg-id="fdf33f9114a304638930382ecd35beed" tvg-chno="137",History Channel
+http://86.123.190.127:9981/stream/channelid/289403901?profile=pass
+#EXTINF:-1 tvg-id="dcfd95b7497cc9e81ced9bcca678482c" tvg-chno="138",Nat Geo HD
+http://86.123.190.127:9981/stream/channelid/932576732?profile=pass
+#EXTINF:-1 tvg-id="f9933206e96ddce41e0f009e86cb9e44" tvg-chno="139",Nat Geo
+http://86.123.190.127:9981/stream/channelid/103977977?profile=pass
+#EXTINF:-1 tvg-id="85c1335fdf166c856dc8ef36bc77d1cd" tvg-chno="140",Viasat Nature HD
+http://86.123.190.127:9981/stream/channelid/1597227397?profile=pass
+#EXTINF:-1 tvg-id="d51a9ccb13e6ee7428d9dddda1547654" tvg-chno="141",Viasat Nature
+http://86.123.190.127:9981/stream/channelid/1268521685?profile=pass
+#EXTINF:-1 tvg-id="d15484b0aa48fef133ec3db10dc49971" tvg-chno="142",TV Paprika
+http://86.123.190.127:9981/stream/channelid/813978833?profile=pass
+#EXTINF:-1 tvg-id="5cc860d4f7bcb652574aa5951a8a21c9" tvg-chno="143",Travel Channel HD
+http://86.123.190.127:9981/stream/channelid/1415628892?profile=pass
+#EXTINF:-1 tvg-id="467496d4e6d4893ce2551c5f916a67e0" tvg-chno="144",Travel Channel
+http://86.123.190.127:9981/stream/channelid/1419146310?profile=pass
+#EXTINF:-1 tvg-id="840a5b1884f9e4092605f9aef08f17b5" tvg-chno="145",BBC Earth HD
+http://86.123.190.127:9981/stream/channelid/408619652?profile=pass
+#EXTINF:-1 tvg-id="8d2c4d661120b6bd59e186e50c20d981" tvg-chno="146",BBC Earth
+http://86.123.190.127:9981/stream/channelid/1716333709?profile=pass
+#EXTINF:-1 tvg-id="df955e02aef9ebff2ac421ebd67d9ac6" tvg-chno="147",Nat Geo Wild HD
+http://86.123.190.127:9981/stream/channelid/39753183?profile=pass
+#EXTINF:-1 tvg-id="027587f72f47f92066b013b5b9b4fa80" tvg-chno="148",Nat Geo Wild
+http://86.123.190.127:9981/stream/channelid/2005366018?profile=pass
+#EXTINF:-1 tvg-id="8e2aee701e4a61ad2a0cdb9884c5400f" tvg-chno="149",Viasat Explore HD
+http://86.123.190.127:9981/stream/channelid/1894656654?profile=pass
+#EXTINF:-1 tvg-id="4d19765edd9918d5d0ca520080b94544" tvg-chno="150",Viasat Explore
+http://86.123.190.127:9981/stream/channelid/1584798029?profile=pass
+#EXTINF:-1 tvg-id="daf75782aa9383428061afbd33aa157f" tvg-chno="151",Viasat History HD
+http://86.123.190.127:9981/stream/channelid/39319514?profile=pass
+#EXTINF:-1 tvg-id="d493bdb3462286a0fdf90cc4a7a062dd" tvg-chno="152",Viasat History
+http://86.123.190.127:9981/stream/channelid/868062164?profile=pass
+#EXTINF:-1 tvg-id="4e4e71e8660935e6d67be2865d1babcf" tvg-chno="153",CBS Reality
+http://86.123.190.127:9981/stream/channelid/1752256078?profile=pass
+#EXTINF:-1 tvg-id="5a0f55324a3d16933b2046daa14ebfdc" tvg-chno="154",HGTV HD
+http://86.123.190.127:9981/stream/channelid/844435290?profile=pass
+#EXTINF:-1 tvg-id="bcbefc31b615f6e8d009cd4801935d45" tvg-chno="155",HGTV
+http://86.123.190.127:9981/stream/channelid/838647484?profile=pass
+#EXTINF:-1 tvg-id="832eb10dcdfec7c6558e113bd51322f5" tvg-chno="156",Arcadia HD
+http://86.123.190.127:9981/stream/channelid/229715587?profile=pass
+#EXTINF:-1 tvg-id="1f2fe625cddaa1eabffa9f97afc9b009" tvg-chno="158",Fashion TV
+http://86.123.190.127:9981/stream/channelid/635842335?profile=pass
+#EXTINF:-1 tvg-id="1c5f0c4f313689d12332de46bd576cec" tvg-chno="159",E! Entertainment HD
+http://86.123.190.127:9981/stream/channelid/1326210844?profile=pass
+#EXTINF:-1 tvg-id="0c2961e910024b6acafbd74244820dc7" tvg-chno="160",E! Entertainment
+http://86.123.190.127:9981/stream/channelid/1767975180?profile=pass
+#EXTINF:-1 tvg-id="c3fe5bf1e9455158e7f9123c76a66237" tvg-chno="161",Trinitas
+http://86.123.190.127:9981/stream/channelid/1901854403?profile=pass
+#EXTINF:-1 tvg-id="55b4aca0ca25dc08d40e1c469380fd9e" tvg-chno="162",MariaTV
+http://86.123.190.127:9981/stream/channelid/548189269?profile=pass
+#EXTINF:-1 tvg-id="81b4256315a7eb6aec2dacc31a20ed5f" tvg-chno="163",Angelus TV
+http://86.123.190.127:9981/stream/channelid/1663415425?profile=pass
+#EXTINF:-1 tvg-id="fdde1f0eb558c2aed0299f84276fcc23" tvg-chno="164",Credo TV
+http://86.123.190.127:9981/stream/channelid/236969725?profile=pass
+#EXTINF:-1 tvg-id="d8c6449b1a1a02993859311e033bdbf9" tvg-chno="165",Alfa Omega
+http://86.123.190.127:9981/stream/channelid/457492184?profile=pass
+#EXTINF:-1 tvg-id="65a8a7b279bb9d72e70aabcf2ab8231f" tvg-chno="166",SperantaTV
+http://86.123.190.127:9981/stream/channelid/849848421?profile=pass
+#EXTINF:-1 tvg-id="a0bc3754985115b6a4f0fb6aefd18b73" tvg-chno="167",Atomic TV
+http://86.123.190.127:9981/stream/channelid/1412938912?profile=pass
+#EXTINF:-1 tvg-id="fbc98442396a0742649360c91c4c1ea4" tvg-chno="168",UTV HD
+http://86.123.190.127:9981/stream/channelid/1115998715?profile=pass
+#EXTINF:-1 tvg-id="6be056d148b0f24e64bfccce387267cd" tvg-chno="169",UTV
+http://86.123.190.127:9981/stream/channelid/1364648043?profile=pass
+#EXTINF:-1 tvg-id="a4299767f1b5c64fd18d765c304c05e7" tvg-chno="170",KISS TV
+http://86.123.190.127:9981/stream/channelid/1737959844?profile=pass
+#EXTINF:-1 tvg-id="bd7d570e8928c1a384a429c5f7412183" tvg-chno="171",HIT Music
+http://86.123.190.127:9981/stream/channelid/240614845?profile=pass
+#EXTINF:-1 tvg-id="d5b51e868be3573894a8cc73e24445e2" tvg-chno="172",MTV 00s
+http://86.123.190.127:9981/stream/channelid/102675925?profile=pass
+#EXTINF:-1 tvg-id="d7bd68d18a49901c28452a77b965882d" tvg-chno="173",MTV Europe
+http://86.123.190.127:9981/stream/channelid/1365818839?profile=pass
+#EXTINF:-1 tvg-id="3ed8fb2d1c3b847846bc04bb1a34863c" tvg-chno="174",Music Channel Ro
+http://86.123.190.127:9981/stream/channelid/771479614?profile=pass
+#EXTINF:-1 tvg-id="6ecda48b5412eab9a72e229bfdcdbad1" tvg-chno="175",MAGIC TV
+http://86.123.190.127:9981/stream/channelid/195349870?profile=pass
+#EXTINF:-1 tvg-id="573580d8ac2dcb1bb18bea182a29d913" tvg-chno="176",Mooz Dance
+http://86.123.190.127:9981/stream/channelid/1484797271?profile=pass
+#EXTINF:-1 tvg-id="0734ed93a634b46690d99cc940f0d00d" tvg-chno="177",Party Mix
+http://86.123.190.127:9981/stream/channelid/334312455?profile=pass
+#EXTINF:-1 tvg-id="406d56408205be8f1584b339d47ec13f" tvg-chno="178",ZU TV HD
+http://86.123.190.127:9981/stream/channelid/1079405888?profile=pass
+#EXTINF:-1 tvg-id="282473e0d9abc51870a54f00bebf5fa3" tvg-chno="179",ZU TV
+http://86.123.190.127:9981/stream/channelid/1618158632?profile=pass
+#EXTINF:-1 tvg-id="387594849d77fbfba37ee47490ad0078" tvg-chno="180",MEZZO
+http://86.123.190.127:9981/stream/channelid/76838200?profile=pass
+#EXTINF:-1 tvg-id="00d9b750bbd0a80faaeea6b01c6eaa93" tvg-chno="181",Emi Tv
+http://86.123.190.127:9981/stream/channelid/1354225920?profile=pass
+#EXTINF:-1 tvg-id="b2360fda2744cb006a93777d16e81596" tvg-chno="182",Balcan Music TV
+http://86.123.190.127:9981/stream/channelid/1510946482?profile=pass
+#EXTINF:-1 tvg-id="f74b9ebf13e61f18752568fef4d8415c" tvg-chno="183",TV AS
+http://86.123.190.127:9981/stream/channelid/1067338743?profile=pass
+#EXTINF:-1 tvg-id="6663b0f444245fc308a6772d19428707" tvg-chno="184",Traditional TV
+http://86.123.190.127:9981/stream/channelid/1957716838?profile=pass
+#EXTINF:-1 tvg-id="12bf7d359465ef6cad00aea2e703810b" tvg-chno="185",Hora TV HD
+http://86.123.190.127:9981/stream/channelid/897433362?profile=pass
+#EXTINF:-1 tvg-id="65fea7f82486cc5cda4a8204c326f488" tvg-chno="186",Orizont TV
+http://86.123.190.127:9981/stream/channelid/2024275557?profile=pass
+#EXTINF:-1 tvg-id="f9888e51753584744d95c619e5880cdf" tvg-chno="187",Taraf TV HD
+http://86.123.190.127:9981/stream/channelid/1368295673?profile=pass
+#EXTINF:-1 tvg-id="a040b01fb9727e89a55b83fa6cc89e0a" tvg-chno="188",Taraf TV
+http://86.123.190.127:9981/stream/channelid/531644576?profile=pass
+#EXTINF:-1 tvg-id="876dbd1a570a7c1367b1402de39a3fe4" tvg-chno="190",Telestar1
+http://86.123.190.127:9981/stream/channelid/448621959?profile=pass
+#EXTINF:-1 tvg-id="cc61f67a95a13d0e8f75b7ced09f006e" tvg-chno="192",MEDIKA TV
+http://86.123.190.127:9981/stream/channelid/2062967244?profile=pass
+#EXTINF:-1 tvg-id="869ea94f09a8fb5032ad7c6a7e9427d0" tvg-chno="193",Nasul TV
+http://86.123.190.127:9981/stream/channelid/1336516230?profile=pass
+#EXTINF:-1 tvg-id="3b2a7c4d06abff7bcd8a660da1993561" tvg-chno="194",Agro TV
+http://86.123.190.127:9981/stream/channelid/1299982907?profile=pass
+#EXTINF:-1 tvg-id="f7491ccfd1e43bbeec0a292d8e604d38" tvg-chno="195",Fishing and Hunting
+http://86.123.190.127:9981/stream/channelid/1327254007?profile=pass
+#EXTINF:-1 tvg-id="72028e4f2c9297be1fc72da88c25644d" tvg-chno="198",TVR Cultural HD
+http://86.123.190.127:9981/stream/channelid/1334706802?profile=pass
+#EXTINF:-1 tvg-id="4733ba1ffa5599159c98d9cbb0d973ce" tvg-chno="199",TV5 MONDE
+http://86.123.190.127:9981/stream/channelid/532296519?profile=pass
+#EXTINF:-1 tvg-id="fb539580aaf1bbb786a1c59651fa14c2" tvg-chno="200",SUPER RTL
+http://86.123.190.127:9981/stream/channelid/9786363?profile=pass
+#EXTINF:-1 tvg-id="302cc6150df720dd7c2a6f86866082db" tvg-chno="201",RTL Television
+http://86.123.190.127:9981/stream/channelid/365308976?profile=pass
+#EXTINF:-1 tvg-id="136d8c28fb5bd70fcedea6d12cdf04f1" tvg-chno="202",Rai 1
+http://86.123.190.127:9981/stream/channelid/680291603?profile=pass
+#EXTINF:-1 tvg-id="c3bafcd37b9fe539c6e6ec3016ef47fc" tvg-chno="203",Rai 3
+http://86.123.190.127:9981/stream/channelid/1409071811?profile=pass
+#EXTINF:-1 tvg-id="c79f8e015808f0b4e9cee537e2f4514a" tvg-chno="204",M1 Europe
+http://86.123.190.127:9981/stream/channelid/26124231?profile=pass
+#EXTINF:-1 tvg-id="9b0ee5ce922dc69a5400618477665f48" tvg-chno="205",Atomic Academy
+http://86.123.190.127:9981/stream/channelid/1323634331?profile=pass
+#EXTINF:-1 tvg-id="676b329ca3ce08e50da1838400bcb9d8" tvg-chno="206",Columna Tv
+http://86.123.190.127:9981/stream/channelid/473066343?profile=pass
+#EXTINF:-1 tvg-id="13a15fdc1a049a9a0fb4f9c755793f6a" tvg-chno="207",MDI TV
+http://86.123.190.127:9981/stream/channelid/1549771027?profile=pass
+#EXTINF:-1 tvg-id="178f565187bf2194d17f8f5973180365" tvg-chno="208",TV CITY
+http://86.123.190.127:9981/stream/channelid/1364627223?profile=pass
+#EXTINF:-1 tvg-id="7e3d30e11adbf170323d4870fa5990c6" tvg-chno="209",JOB TV
+http://86.123.190.127:9981/stream/channelid/1630551422?profile=pass
+#EXTINF:-1 tvg-id="55dc138169bf9667fe36e0bb7422bf1b" tvg-chno="210",SuperONE HD
+http://86.123.190.127:9981/stream/channelid/18078805?profile=pass
+#EXTINF:-1 tvg-id="00b14d9977b3016f9f072e5bd2cc764c" tvg-chno="211",SuperONE
+http://86.123.190.127:9981/stream/channelid/424521984?profile=pass
+#EXTINF:-1 tvg-id="a2ba11093e5745cecc83d5e2cec9b485" tvg-chno="250",DIGI 4K
+http://86.123.190.127:9981/stream/channelid/152156834?profile=pass
+#EXTINF:-1 tvg-id="df543ea5f0a73b7d73196af92153b300" tvg-chno="251",Love Nature 4K
+http://86.123.190.127:9981/stream/channelid/624841951?profile=pass
+#EXTINF:-1 tvg-id="5f8be6b6f084544d154020632b2ba60f" tvg-chno="252",Eurosport 4K
+http://86.123.190.127:9981/stream/channelid/921078623?profile=pass
+#EXTINF:-1 tvg-id="eb107fdee1030dc8486ada4d1efb870d" tvg-chno="1001",Digi FM
+http://86.123.190.127:9981/stream/channelid/1585385707?profile=pass
+#EXTINF:-1 tvg-id="a609a066abf67178e7bbb103ecfdd6bc" tvg-chno="1002",Pro FM
+http://86.123.190.127:9981/stream/channelid/1721764262?profile=pass
+#EXTINF:-1 tvg-id="e4152f665cb923dbd03433579094830c" tvg-chno="1003",Dance FM
+http://86.123.190.127:9981/stream/channelid/1714361828?profile=pass
+#EXTINF:-1 tvg-id="a447eb867097691168554c58d18f19a1" tvg-chno="1004",DIGI 24 FM
+http://86.123.190.127:9981/stream/channelid/116082596?profile=pass
+#EXTINF:-1 tvg-id="5bccfb1828f75b7c237253c9c1f6d525" tvg-chno="1005",Kiss FM
+http://86.123.190.127:9981/stream/channelid/419155035?profile=pass
+#EXTINF:-1 tvg-id="b3bced50ad11208859978fedb84e832c" tvg-chno="1006",EuropaFM
+http://86.123.190.127:9981/stream/channelid/1357757619?profile=pass
+#EXTINF:-1 tvg-id="9730d3266c034912a8cdfb28a6cb97e1" tvg-chno="1007",Virgin Radio
+http://86.123.190.127:9981/stream/channelid/651374743?profile=pass
+#EXTINF:-1 tvg-id="1261c45896e7bc080b9677b84a5622d9" tvg-chno="1008",Radio ZU
+http://86.123.190.127:9981/stream/channelid/1489264914?profile=pass
+#EXTINF:-1 tvg-id="76be85024cb6b144e6996c631d6047a4" tvg-chno="1009",Radio Sport Total
+http://86.123.190.127:9981/stream/channelid/42319478?profile=pass
+#EXTINF:-1 tvg-id="7511a774ea16499a74b1c022d4a03404" tvg-chno="1010",Radio Romania Actualitati
+http://86.123.190.127:9981/stream/channelid/1957106037?profile=pass
+#EXTINF:-1 tvg-id="538d748900370d4ba0b9d040ac37c334" tvg-chno="1011",Radio Guerilla
+http://86.123.190.127:9981/stream/channelid/158633299?profile=pass
+#EXTINF:-1 tvg-id="8f5b452c5058fbed016db0a4fcf5ae7b" tvg-chno="1012",Smart FM
+http://86.123.190.127:9981/stream/channelid/742742927?profile=pass
+#EXTINF:-1 tvg-id="862b820a1cec3b08324b216aa6d49b64" tvg-chno="1013",Radio Impuls
+http://86.123.190.127:9981/stream/channelid/176302982?profile=pass
+#EXTINF:-1 tvg-id="fdd3f700d3194cf4312bf86d178dc49b" tvg-chno="1014",Realitatea FM
+http://86.123.190.127:9981/stream/channelid/16241661?profile=pass
+#EXTINF:-1 tvg-id="fddc30102e2b25a281a97caed96022bc" tvg-chno="1015",Radio Maria Ro
+http://86.123.190.127:9981/stream/channelid/271637757?profile=pass
+#EXTINF:-1 tvg-id="8673d05ffa9b6306d6bf208c45ebaecf" tvg-chno="1016",Ercis FM
+http://86.123.190.127:9981/stream/channelid/1607496582?profile=pass
+#EXTINF:-1 tvg-id="055f2ca93082fe21c908310ae6a40990" tvg-chno="1017",Radio Romantic
+http://86.123.190.127:9981/stream/channelid/690773765?profile=pass
+#EXTINF:-1 tvg-id="f1bbb0ba759c08164e26fe8106743491" tvg-chno="1018",Radio Maria HU
+http://86.123.190.127:9981/stream/channelid/984660977?profile=pass
