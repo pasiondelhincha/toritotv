@@ -1,0 +1,1167 @@
+#EXTM3U
+#EXTINF:-1 group-title="ARGENTINA" ,13 Max Television | AR
+http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="ARGENTINA" ,24 HORAS
+http://45.238.54.253:8000/play/a015/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,24/7 Canal de Noticias
+http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="ARGENTINA" ,26TV (LOCAL_22)
+http://45.186.252.17:8000/play/a04a
+#EXTINF:-1 group-title="ARGENTINA" ,5TV (Corrientes) (480p)
+http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="ARGENTINA" ,5TV Corrientes
+http://www.coninfo.net:1935/tvcinco/live1/chunklist_w1546509083.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="ARGENTINA" ,5TV | AR
+http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="ARGENTINA" ,9LINK CHACO
+http://201.217.245.41:8081/testmelucas/canal9/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,A LIGA 1
+http://45.186.252.17:8000/play/a054
+#EXTINF:-1 group-title="ARGENTINA" ,A&E
+http://45.186.252.17:8000/play/a02a
+#EXTINF:-1 group-title="ARGENTINA" ,A&E  (clone)
+http://45.186.252.17:8000/play/a098
+#EXTINF:-1 group-title="ARGENTINA" ,A&E (Actualizador)
+http://45.186.252.17:8000/play/a083
+#EXTINF:-1 group-title="ARGENTINA" ,A24
+http://45.186.252.17:8000/play/a008
+#EXTINF:-1 group-title="ARGENTINA" ,A24 (clone)
+http://45.186.252.17:8000/play/a09r
+#EXTINF:-1 group-title="ARGENTINA" ,ABC
+http://72.76.116.158:8000/play/a08l/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,ABE Educativo TV
+http://45.5.151.150:8000/play/a03k/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Abya Yala TV
+http://45.5.151.150:8000/play/a03f/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,AE Mundo
+http://45.238.54.253:8000/play/a01n/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Agenda Minera TV
+http://45.5.151.150:8000/play/a037/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Aire de Santa Fe | AR
+https://sc1.stweb.tv/airedigital/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="ARGENTINA" ,AM Sports
+http://45.186.252.17:8000/play/a00f
+#EXTINF:-1 group-title="ARGENTINA" ,AM Sports (clone)
+http://45.186.252.17:8000/play/a09s
+#EXTINF:-1 group-title="ARGENTINA" ,AM Sports (Remoto)
+http://45.186.252.17:8000/play/a074
+#EXTINF:-1 group-title="ARGENTINA" ,AMC
+http://45.5.151.150:8000/play/a01i/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,AMC
+http://45.186.252.17:8000/play/a00j
+#EXTINF:-1 group-title="ARGENTINA" ,AMC (clone)
+http://45.186.252.17:8000/play/a09t
+#EXTINF:-1 group-title="ARGENTINA" ,AMERICA HD  36.1
+https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,America TV HD
+http://45.186.252.17:8000/play/a02i
+#EXTINF:-1 group-title="ARGENTINA" ,America TV HD (clone)
+http://45.186.252.17:8000/play/a099
+#EXTINF:-1 group-title="ARGENTINA" ,America TV PY
+http://45.238.54.253:8000/play/a02a/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,AmericaTV
+http://45.238.54.253:8000/play/a023/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Animal Planet
+http://45.5.151.150:8000/play/a03v/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Animal Planet
+http://45.238.54.253:8000/play/a01e/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Animal Planet HD
+http://45.5.151.150:8000/play/a045/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Anime Zone TV | AR
+http://azxtv.com/hls/stream.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="ARGENTINA" ,ATV
+http://45.238.54.253:8000/play/a025/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,atv HD
+https://emisoras.hn:8081/atv/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,AXN
+http://45.238.54.253:8000/play/a032/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,AXN HD
+http://45.5.151.150:8000/play/a00y/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,AXN HD
+http://45.186.252.17:8000/play/a02s
+#EXTINF:-1 group-title="ARGENTINA" ,AXN HD (clone)
+http://45.186.252.17:8000/play/a085
+#EXTINF:-1 group-title="ARGENTINA" ,Ayni TV
+http://45.5.151.150:8000/play/a03i/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Azahares Radio Multimedia | AR
+http://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="ARGENTINA" ,Baby TV
+http://45.5.151.150:8000/play/a01x/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Baby TV
+http://45.186.252.17:8000/play/a00y
+#EXTINF:-1 group-title="ARGENTINA" ,Baby TV (clone)
+http://45.186.252.17:8000/play/a09u
+#EXTINF:-1 group-title="ARGENTINA" ,BabyFirst
+http://45.238.54.253:8000/play/a00p/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,BAND HD
+http://45.5.151.150:8000/play/a02p/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Bethel TV
+http://45.5.151.150:8000/play/a038/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Bolivia TV7.2
+http://45.5.151.150:8000/play/a04s/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Bolivision HD
+http://45.5.151.150:8000/play/a03c/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,C9N
+http://45.238.54.253:8000/play/a02p/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Cadena 103 | AR
+http://arcast.net:1935/cadena103/cadena103/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="ARGENTINA" ,Cadena 3
+http://181.209.98.162:7780/play/a035/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,CADENA A HD
+http://45.5.151.150:8000/play/a03d/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Canal 10 Nortevision | AR
+https://vivo.solumedia.com:19360/nortevision/nortevision.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="ARGENTINA" ,Canal 12 Madryn TV | AR
+https://5f700d5b2c46f.streamlock.net:443/madryntv/madryntv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="ARGENTINA" ,CANAL 13
+http://45.238.54.253:8000/play/a00y/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Canal 13 La Rioja | AR
+http://arcast.net:1935/mp/mp/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="ARGENTINA" ,Canal 2 Sanagasta | AR
+https://stmvideo1.livecastv.com/canal2/canal2/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="ARGENTINA" ,Canal 20 Villamaria | AR
+https://cronos.aldeaglobal.net.ar/hls/canal20.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="ARGENTINA" ,Canal 22 Buenos Aires | AR
+https://5f700d5b2c46f.streamlock.net:443/canal22/canal22/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="ARGENTINA" ,CANAL 26
+http://200.115.193.177/live/26hd-720/.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Canal 26
+http://200.115.193.177:80/live/26hd-720/chunklist_w1196091674.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Canal 26
+http://200.115.193.177/live/26hd-180/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="ARGENTINA" ,Canal 26
+http://200.115.193.177/live/26hd-720/.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="ARGENTINA" ,Canal 26
+http://200.115.193.177/live/26hd-720/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="ARGENTINA" ,Canal 26
+http://live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="ARGENTINA" ,Canal 26
+http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="ARGENTINA" ,Canal 26
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="ARGENTINA" ,Canal 26
+http://live-edge01.telecentro.net.ar:1935/live/26hd-720/livestream.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="ARGENTINA" ,Canal 26  (San Justo-Arg.)
+http://200.115.193.177/live/26hd-720/.m3u8?CompartilhandoIPTV
+#EXTINF:-1 group-title="ARGENTINA" ,Canal 26  (San Justo-Arg.)
+http://live-edge01.telecentro.net.ar:1935/live/26hd-720/livestream.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Canal 26  (San Justo-Arg.)
+http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,CANAL 26  24.2
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w794690609_b2628000_sleng.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Canal 26 (San Justo-Arg.)
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w858131162_b414000_sleng.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Canal 26 HD (AR)
+https://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist.m3u8?ROGERIOTORRES
+#EXTINF:-1 group-title="ARGENTINA" ,Canal 26 | AR
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="ARGENTINA" ,Canal 4 Bahia Blanca | AR
+https://vivo.solumedia.com:19360/bvconline/bvconline.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="ARGENTINA" ,Canal 4 Jujuy | AR
+http://190.52.32.13:1935/canal4/smil:manifest.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="ARGENTINA" ,CANAL 4 TELEAIRE SAN MARTIN
+https://stmvideo2.livecastv.com/canal4/canal4/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Canal 6 Entre Rios | AR
+https://stmvideo1.livecastv.com/canal6er/canal6er/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="ARGENTINA" ,Canal 7 Jujuy | AR
+https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="ARGENTINA" ,CANAL 9 35.1
+https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com/v1/manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/0df6d88d-304a-4d15-9cf8-eab1bc9b5e45/3.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Canal 9 Litoral | AR
+https://stream.arcast.live/ahora/ahora/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="ARGENTINA" ,Canal 907 FM Comunicar | AR
+https://panel.dattalive.com/canal907/canal907/chunklist_w1205944599.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="ARGENTINA" ,Canal a
+http://45.186.252.17:8000/play/a00s
+#EXTINF:-1 group-title="ARGENTINA" ,Canal a (clone)
+http://45.186.252.17:8000/play/a09v
+#EXTINF:-1 group-title="ARGENTINA" ,CANAL ANTIESTRES
+http://38.91.106.58:11201/udp/239.1.1.61:2008
+#EXTINF:-1 group-title="ARGENTINA" ,Canal Caracol
+http://45.238.54.253:8000/play/a02h/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Canal Claro
+http://45.238.54.253:8000/play/a01y/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Canal Coop | AR
+https://panel.dattalive.com:443/8138/8138/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="ARGENTINA" ,Canal de la Ciudad
+http://45.186.252.17:8000/play/a031
+#EXTINF:-1 group-title="ARGENTINA" ,Canal de la Ciudad (clone)
+http://45.186.252.17:8000/play/a0aq
+#EXTINF:-1 group-title="ARGENTINA" ,Canal del Congreso
+http://45.238.54.253:8000/play/a02m/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Canal Estrellas
+http://45.238.54.253:8000/play/a01r/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Canal Institucional
+http://45.238.54.253:8000/play/a02l/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Canal Nueve Multivisi n (AR)
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Canal Nueve Multivisi n (AR)
+http://uni5rtmp.tulix.tv:1935/bettervida/bettervida/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Canal Nueve Multivisi n (AR)
+https://moiptvhls-i.akamaihd.net/hls/live/652315/secure/master.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Canal Nueve Multivisi n (AR)
+http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Canal Nueve Multivisi n (AR)
+http://azxtv.com/hls/stream.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Canal Nueve Multivisi n (AR)
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Canal Nueve Multivisi n (AR)
+http://190.52.32.13:1935/canal4/smil:manifest.smil/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Canal Nueve Multivisi n (AR)
+http://stmv4.questreaming.com/fenixlarioja/fenixlarioja/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Canal Nueve Multivisi n (AR)
+https://5f700d5b2c46f.streamlock.net/madryntv/madryntv/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Canal Nueve Multivisi n (AR)
+http://arcast.net:1935/mp/mp/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Canal Nueve Multivisi n (AR)
+http://200.115.193.177/live/26hd-720/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Canal Nueve Multivisi n (AR)
+https://5e7cdf2370883.streamlock.net/tdconline/tdconline/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Canal Nueve Multivisi n (AR)
+https://panel.dattalive.com/8250/8250/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Canal Nueve Multivisi n (AR)
+https://s8.stweb.tv/chacra/live/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Canal Nueve Multivisi n (AR)
+http://coninfo.net:1935/chacodxdtv/live/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Canal Nueve Multivisi n (AR)
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Canal Nueve Multivisi n (AR)
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Canal Nueve Multivisi n (AR)
+https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Canal Nueve Multivisi n (AR)
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Canal Nueve Multivisi n (AR)
+https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Canal Nueve Multivisi n (AR)
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Canal Nueve Multivisi n (AR)
+https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Canal Nueve Multivisi n (AR)
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Canal Nueve Multivisi n (AR)
+http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Canal Nueve Multivisi n (AR)
+http://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Canal Nueve Multivisi n (AR)
+http://cdnh4.iblups.com/hls/irtp.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Canal Nueve Multivisi n (AR)
+https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Canal Nueve Multivisi n (AR)
+https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Canal Nueve Multivisi n (AR)
+https://5f700d5b2c46f.streamlock.net/vertv/vertv/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Canal Provincial | AR
+https://streaming.telered.com.ar/provincial/streaming/mystream.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="ARGENTINA" ,Canal RCN
+http://45.238.54.253:8000/play/a02i/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Canal Uno
+http://45.238.54.253:8000/play/a02f/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Canal XFN * | AR
+https://streamconex.com:1936/canalxfn/canalxfn/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="ARGENTINA" ,CANTINAZO
+http://38.91.106.58:11201/udp/239.1.1.79:2008
+#EXTINF:-1 group-title="ARGENTINA" ,CANTINAZO HD
+http://38.91.106.58:11201/udp/239.1.1.15:2008
+#EXTINF:-1 group-title="ARGENTINA" ,Capital
+http://45.238.54.253:8000/play/a02x/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Cartoon Network
+http://45.5.151.150:8000/play/a00i/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Cartoon Network
+http://45.238.54.253:8000/play/a00i/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Cartoon Network HD
+http://45.186.252.17:8000/play/a03g
+#EXTINF:-1 group-title="ARGENTINA" ,Cartoon Network HD (x clone)
+http://45.186.252.17:8000/play/a0ar
+#EXTINF:-1 group-title="ARGENTINA" ,CBS 6 HD
+http://73.138.49.155:8000/play/a00m/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Chacra TV
+http://s8.stweb.tv:1935/chacra/live/chunks.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="ARGENTINA" ,Chacra TV | AR
+https://s8.stweb.tv/chacra/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="ARGENTINA" ,CHILEVISION
+http://45.5.151.150:8000/play/a03o/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,CHILEVISION
+http://45.5.151.150:8000/play/a040/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,CHV
+http://45.238.54.253:8000/play/a00x/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Cine.AR
+http://45.186.252.17:8000/play/a00o
+#EXTINF:-1 group-title="ARGENTINA" ,Cine.AR (clone)
+http://45.186.252.17:8000/play/a09w
+#EXTINF:-1 group-title="ARGENTINA" ,CineAr
+http://186.33.227.200:80/live-cont.ar/cinear/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Cinecanal
+http://45.5.151.150:8000/play/a009/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Cinecanal
+http://45.238.54.253:8000/play/a00a/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Cinecanal HD
+http://45.186.252.17:8000/play/a040
+#EXTINF:-1 group-title="ARGENTINA" ,Cinecanal HD (x clone)
+http://45.186.252.17:8000/play/a0as
+#EXTINF:-1 group-title="ARGENTINA" ,CINEMAX
+http://45.5.151.150:8000/play/a005/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Cinemax
+http://45.238.54.253:8000/play/a030/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Cinemax
+http://45.186.252.17:8000/play/a025
+#EXTINF:-1 group-title="ARGENTINA" ,Cinemax (clone)
+http://45.186.252.17:8000/play/a09a
+#EXTINF:-1 group-title="ARGENTINA" ,Cinerama Television
+http://45.5.151.150:8000/play/a03b/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,City TV
+http://45.238.54.253:8000/play/a02w/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,ciudad magazine
+http://45.186.252.17:8000/play/a011
+#EXTINF:-1 group-title="ARGENTINA" ,ciudad magazine (clone)
+http://45.186.252.17:8000/play/a09x
+#EXTINF:-1 group-title="ARGENTINA" ,Ciudad TV Chaco
+http://coninfo.net:1935/chacodxdtv/live/chunklist_w1251301598.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="ARGENTINA" ,Ciudad TV | AR
+http://coninfo.net:1935/chacodxdtv/live/chunklist_w1251301598.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="ARGENTINA" ,Claro Cinema
+http://45.238.54.253:8000/play/a03b/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Claro Sports
+http://45.238.54.253:8000/play/a00k/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,CN 24/7 Neuquen | AR
+https://panel.dattalive.com:443/6605140/smil:6605140.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="ARGENTINA" ,CNN Chile
+http://45.238.54.253:8000/play/a00f/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,CNN en Espaæol
+http://45.186.252.17:8000/play/a02h
+#EXTINF:-1 group-title="ARGENTINA" ,CNN en Espaæol (clone)
+http://45.186.252.17:8000/play/a09b
+#EXTINF:-1 group-title="ARGENTINA" ,CNN Espanol
+http://45.238.54.253:8000/play/a00t/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Comedy Central HD
+http://45.186.252.17:8000/play/a01i
+#EXTINF:-1 group-title="ARGENTINA" ,Comedy Central HD (clone)
+http://45.186.252.17:8000/play/a09y
+#EXTINF:-1 group-title="ARGENTINA" ,Cozi
+http://73.138.49.155:8000/play/a00o/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,CPE TV | AR
+https://stream.arcast.live/cpe/ngrp:cpe_all/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="ARGENTINA" ,Crðnica
+http://45.186.252.17:8000/play/a00a
+#EXTINF:-1 group-title="ARGENTINA" ,Crðnica (clone)
+http://45.186.252.17:8000/play/a09z
+#EXTINF:-1 group-title="ARGENTINA" ,CTV
+http://45.5.151.150:8000/play/a02u/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,DeporTV
+http://45.186.252.17:8000/play/a034
+#EXTINF:-1 group-title="ARGENTINA" ,DeporTV (clone)
+http://45.186.252.17:8000/play/a08p
+#EXTINF:-1 group-title="ARGENTINA" ,Discovery Channel
+http://45.238.54.253:8000/play/a01d/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Discovery Channel HD
+http://45.186.252.17:8000/play/a047
+#EXTINF:-1 group-title="ARGENTINA" ,Discovery Channel HD (clone)
+http://45.186.252.17:8000/play/a0au
+#EXTINF:-1 group-title="ARGENTINA" ,Discovery H&H
+http://45.5.151.150:8000/play/a00o/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Discovery H&H HD
+http://45.186.252.17:8000/play/a046
+#EXTINF:-1 group-title="ARGENTINA" ,Discovery H&H HD (clone)
+http://45.186.252.17:8000/play/a0av
+#EXTINF:-1 group-title="ARGENTINA" ,Discovery ID
+http://45.238.54.253:8000/play/a01w/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Discovery Kids
+http://45.5.151.150:8000/play/a00j/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Discovery Kids
+http://45.238.54.253:8000/play/a00s/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Discovery Kids
+http://45.186.252.17:8000/play/a03h
+#EXTINF:-1 group-title="ARGENTINA" ,Discovery Kids (clone)
+http://45.186.252.17:8000/play/a0aw
+#EXTINF:-1 group-title="ARGENTINA" ,Discovery Science
+http://45.186.252.17:8000/play/a015
+#EXTINF:-1 group-title="ARGENTINA" ,Discovery Science (clone)
+http://45.186.252.17:8000/play/a0a0
+#EXTINF:-1 group-title="ARGENTINA" ,Discovery Theater HD
+http://45.186.252.17:8000/play/a01k
+#EXTINF:-1 group-title="ARGENTINA" ,Discovery Theater HD (clone)
+http://45.186.252.17:8000/play/a0a1
+#EXTINF:-1 group-title="ARGENTINA" ,Discovery Turbo
+http://45.238.54.253:8000/play/a03d/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Discovery Turbo
+http://45.186.252.17:8000/play/a00g
+#EXTINF:-1 group-title="ARGENTINA" ,Discovery Turbo (clone)
+http://45.186.252.17:8000/play/a0a2
+#EXTINF:-1 group-title="ARGENTINA" ,Discovery World HD
+http://45.186.252.17:8000/play/a01m
+#EXTINF:-1 group-title="ARGENTINA" ,Discovery World HD (clone)
+http://45.186.252.17:8000/play/a0a4
+#EXTINF:-1 group-title="ARGENTINA" ,Disney Channel
+http://45.5.151.150:8000/play/a01w/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Disney Channel
+http://45.238.54.253:8000/play/a01c/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Disney Channel HD
+http://45.186.252.17:8000/play/a01c
+#EXTINF:-1 group-title="ARGENTINA" ,Disney Channel HD (x clone)
+http://45.186.252.17:8000/play/a0a5
+#EXTINF:-1 group-title="ARGENTINA" ,Disney JR
+http://45.5.151.150:8000/play/a02b/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Disney Jr
+http://45.238.54.253:8000/play/a014/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Disney Junior
+http://45.186.252.17:8000/play/a02b
+#EXTINF:-1 group-title="ARGENTINA" ,Disney Junior (clone)
+http://45.186.252.17:8000/play/a09c
+#EXTINF:-1 group-title="ARGENTINA" ,DTV
+http://45.5.151.150:8000/play/a03e/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,DW ESPAÑOL
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,E Entertainment
+http://45.238.54.253:8000/play/a01g/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,E! Entertainment
+http://45.186.252.17:8000/play/a02d
+#EXTINF:-1 group-title="ARGENTINA" ,E! Entertainment (clone)
+http://45.186.252.17:8000/play/a09d
+#EXTINF:-1 group-title="ARGENTINA" ,ECDF SD
+http://45.238.54.253:8000/play/a02y/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Ecuador TV
+http://45.238.54.253:8000/play/a02b/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Ecuavisa
+http://45.238.54.253:8000/play/a02j/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,EGPP 360
+http://45.5.151.150:8000/play/a036/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,El Canal  de las Estrellas
+http://45.5.151.150:8000/play/a03l/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,El Canal  de las Estrellas
+http://45.186.252.17:8000/play/a03n
+#EXTINF:-1 group-title="ARGENTINA" ,El Canal  de las Estrellas (clone)
+http://45.186.252.17:8000/play/a0ax
+#EXTINF:-1 group-title="ARGENTINA" ,El Gourmet
+http://45.5.151.150:8000/play/a00m/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,El Gourmet
+http://45.186.252.17:8000/play/a03k
+#EXTINF:-1 group-title="ARGENTINA" ,El Gourmet (clone)
+http://45.186.252.17:8000/play/a0ay
+#EXTINF:-1 group-title="ARGENTINA" ,El nueve
+https://2a1773fcc0c94a639b422d1cf7ba14b7.mediatailor.us-east-1.amazonaws.com/v1/master/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/live/channel09/live.isml/.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,El nueve 2
+https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com/v1/master/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/live/channel09/live.isml/b00d164f-be51-473e-a47c-b33aa1f44186.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,el nueve HD
+http://45.186.252.17:8000/play/a04o
+#EXTINF:-1 group-title="ARGENTINA" ,el nueve HD (clone)
+http://45.186.252.17:8000/play/a09e
+#EXTINF:-1 group-title="ARGENTINA" ,el trece HD
+http://45.186.252.17:8000/play/a03z
+#EXTINF:-1 group-title="ARGENTINA" ,el trece HD (XX clone)
+http://45.186.252.17:8000/play/a08c
+#EXTINF:-1 group-title="ARGENTINA" ,Encuentro
+http://186.33.227.200:80/live-cont.ar/encuentro/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Encuentro
+http://45.186.252.17:8000/play/a006
+#EXTINF:-1 group-title="ARGENTINA" ,Encuentro (clone)
+http://45.186.252.17:8000/play/a0be
+#EXTINF:-1 group-title="ARGENTINA" ,Enlace
+http://45.238.54.253:8000/play/a00n/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Esne TV
+http://45.238.54.253:8000/play/a03e/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,ESPN
+http://45.5.151.150:8000/play/a00u/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,ESPN
+http://45.238.54.253:8000/play/a01j/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,ESPN 2
+http://45.5.151.150:8000/play/a01r/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,ESPN 2
+http://45.238.54.253:8000/play/a017/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,ESPN 2 HD
+http://45.186.252.17:8000/play/a04l
+#EXTINF:-1 group-title="ARGENTINA" ,ESPN 2 HD (x clone)
+http://45.186.252.17:8000/play/a097
+#EXTINF:-1 group-title="ARGENTINA" ,ESPN 2 Latin
+http://45.238.54.253:8000/play/a01i/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,ESPN 3
+http://45.5.151.150:8000/play/a02e/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,ESPN 3
+http://45.238.54.253:8000/play/a03f/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,ESPN 3 HD
+http://45.186.252.17:8000/play/a022
+#EXTINF:-1 group-title="ARGENTINA" ,ESPN 3 HD (x clone)
+http://45.186.252.17:8000/play/a09f
+#EXTINF:-1 group-title="ARGENTINA" ,espn 4
+http://45.5.151.150:8000/play/a004/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,ESPN 4
+http://45.238.54.253:8000/play/a026/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,ESPN 4
+http://45.238.54.253:8000/play/a01h/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,ESPN CO
+http://45.238.54.253:8000/play/a02q/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,ESPN Extra HD
+http://45.186.252.17:8000/play/a03v
+#EXTINF:-1 group-title="ARGENTINA" ,ESPN Extra HD (clone)
+http://45.186.252.17:8000/play/a0az
+#EXTINF:-1 group-title="ARGENTINA" ,ESPN HD
+http://45.186.252.17:8000/play/a04m
+#EXTINF:-1 group-title="ARGENTINA" ,ESPN HD (x clone)
+http://45.186.252.17:8000/play/a09g
+#EXTINF:-1 group-title="ARGENTINA" ,ESPN Premium HD
+http://45.5.151.150:8000/play/a001/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,ESPN Premium HD
+http://45.186.252.17:8000/play/a07t
+#EXTINF:-1 group-title="ARGENTINA" ,ESPN Premium HD (clone)
+http://45.186.252.17:8000/play/a08j
+#EXTINF:-1 group-title="ARGENTINA" ,Europa Europa
+http://45.186.252.17:8000/play/a03j
+#EXTINF:-1 group-title="ARGENTINA" ,Europa Europa (clone)
+http://45.186.252.17:8000/play/a0b0
+#EXTINF:-1 group-title="ARGENTINA" ,Eventos HD
+http://181.209.98.162:7780/play/a05v/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Eventos HD
+http://45.186.252.17:8000/play/a02y
+#EXTINF:-1 group-title="ARGENTINA" ,Eventos HD (FTA)
+http://45.186.252.17:8000/play/a09h
+#EXTINF:-1 group-title="ARGENTINA" ,Exitos
+http://73.138.49.155:8000/play/a00l/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Fenix | AR
+https://stmvideo1.livecastv.com/fenixlarioja/fenixlarioja/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="ARGENTINA" ,Film & Arts HD
+http://45.186.252.17:8000/play/a01l
+#EXTINF:-1 group-title="ARGENTINA" ,Film & Arts HD (clone)
+http://45.186.252.17:8000/play/a0a6
+#EXTINF:-1 group-title="ARGENTINA" ,FOX 5
+http://72.76.116.158:8000/play/a075/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Fox Sports 1
+http://45.5.151.150:8000/play/a04q/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Fox Sports 1
+http://45.238.54.253:8000/play/a010/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Fox Sports 2
+http://45.5.151.150:8000/play/a01d/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Fox Sports 2
+http://45.238.54.253:8000/play/a01s/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Fox Sports 2 HD
+http://45.186.252.17:8000/play/a023
+#EXTINF:-1 group-title="ARGENTINA" ,Fox Sports 2 HD (x clone)
+http://45.186.252.17:8000/play/a09i
+#EXTINF:-1 group-title="ARGENTINA" ,Fox Sports 3
+http://181.209.98.162:7780/play/a05f/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Fox Sports 3
+http://45.238.54.253:8000/play/a01t/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Fox Sports 3 HD
+http://45.5.151.150:8000/play/a02d/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Fox Sports 3 HD
+http://45.186.252.17:8000/play/a01e
+#EXTINF:-1 group-title="ARGENTINA" ,Fox Sports 3 HD (clone)
+http://45.186.252.17:8000/play/a0a7
+#EXTINF:-1 group-title="ARGENTINA" ,Fox Sports HD
+http://45.5.151.150:8000/play/a00v/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Fox Sports HD
+http://45.186.252.17:8000/play/a03w
+#EXTINF:-1 group-title="ARGENTINA" ,Fox Sports HD (clone)
+http://45.186.252.17:8000/play/a0at
+#EXTINF:-1 group-title="ARGENTINA" ,France 24
+http://45.238.54.253:8000/play/a01x/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,FX
+http://45.238.54.253:8000/play/a034/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,FX HD
+http://45.186.252.17:8000/play/a01g
+#EXTINF:-1 group-title="ARGENTINA" ,FX HD (clone)
+http://45.186.252.17:8000/play/a0a3
+#EXTINF:-1 group-title="ARGENTINA" ,Galicia TV
+http://45.186.252.17:8000/play/a01b
+#EXTINF:-1 group-title="ARGENTINA" ,Galicia TV (clone)
+http://45.186.252.17:8000/play/a0a8
+#EXTINF:-1 group-title="ARGENTINA" ,GALICIA TV HD
+http://america-crtvg.flumotion.com/crtvg/america_high/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,GALICIA TV LQ
+http://america-crtvg.flumotion.com/crtvg/america_low/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,GALICIA TV SD
+http://america-crtvg.flumotion.com/crtvg/america_med/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,GamaTV
+http://45.238.54.253:8000/play/a02c/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,GigaVision
+http://45.5.151.150:8000/play/a03a/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Glitz
+http://45.186.252.17:8000/play/a012
+#EXTINF:-1 group-title="ARGENTINA" ,Glitz (clone)
+http://45.186.252.17:8000/play/a0a9
+#EXTINF:-1 group-title="ARGENTINA" ,Globo Internacional
+http://45.238.54.253:8000/play/a02e/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Gogoplay TV
+http://45.5.151.150:8000/play/a032/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,GOL TV
+http://45.238.54.253:8000/play/a01k/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,GOLDEN
+http://45.5.151.150:8000/play/a03r/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,HBO
+http://45.5.151.150:8000/play/a00e/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,HBO
+http://45.238.54.253:8000/play/a02z/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,HBO
+http://45.186.252.17:8000/play/a07p
+#EXTINF:-1 group-title="ARGENTINA" ,HBO (clone)
+http://45.186.252.17:8000/play/a08g
+#EXTINF:-1 group-title="ARGENTINA" ,HBO 2
+http://45.5.151.150:8000/play/a00g/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,HBO 2
+http://45.186.252.17:8000/play/a07r
+#EXTINF:-1 group-title="ARGENTINA" ,HBO 2 (clone)
+http://45.186.252.17:8000/play/a08l
+#EXTINF:-1 group-title="ARGENTINA" ,HBO Family
+http://45.5.151.150:8000/play/a00h/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,HBO Family
+http://45.238.54.253:8000/play/a013/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,HBO Family
+http://45.186.252.17:8000/play/a07s
+#EXTINF:-1 group-title="ARGENTINA" ,HBO Family (clone)
+http://45.186.252.17:8000/play/a08v
+#EXTINF:-1 group-title="ARGENTINA" ,HBO Mundi
+http://45.186.252.17:8000/play/a07j
+#EXTINF:-1 group-title="ARGENTINA" ,HBO Mundi (clone)
+http://45.186.252.17:8000/play/a08u
+#EXTINF:-1 group-title="ARGENTINA" ,HBO Plus
+http://45.5.151.150:8000/play/a00f/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,HBO Plus
+http://45.238.54.253:8000/play/a011/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,HBO Plus
+http://45.186.252.17:8000/play/a07q
+#EXTINF:-1 group-title="ARGENTINA" ,HBO Plus (clone)
+http://45.186.252.17:8000/play/a0b1
+#EXTINF:-1 group-title="ARGENTINA" ,HBO POP
+http://45.186.252.17:8000/play/a07i
+#EXTINF:-1 group-title="ARGENTINA" ,HBO POP (clone)
+http://45.186.252.17:8000/play/a08t
+#EXTINF:-1 group-title="ARGENTINA" ,HBO Signature
+http://45.186.252.17:8000/play/a07l
+#EXTINF:-1 group-title="ARGENTINA" ,HBO Signature (clone)
+http://45.186.252.17:8000/play/a08s
+#EXTINF:-1 group-title="ARGENTINA" ,HBO Xtreme
+http://45.5.151.150:8000/play/a01u/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,HBO Xtreme
+http://45.186.252.17:8000/play/a07k
+#EXTINF:-1 group-title="ARGENTINA" ,HBO Xtreme (clone)
+http://45.186.252.17:8000/play/a08r
+#EXTINF:-1 group-title="ARGENTINA" ,HBO XTREME SD
+http://45.238.54.253:8000/play/a012/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,HGTV
+http://45.186.252.17:8000/play/a014
+#EXTINF:-1 group-title="ARGENTINA" ,HGTV (clone)
+http://45.186.252.17:8000/play/a0aa
+#EXTINF:-1 group-title="ARGENTINA" ,History 2
+http://45.5.151.150:8000/play/a022/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,History 2
+http://45.186.252.17:8000/play/a013
+#EXTINF:-1 group-title="ARGENTINA" ,History 2 (clone)
+http://45.186.252.17:8000/play/a0ab
+#EXTINF:-1 group-title="ARGENTINA" ,History Channel
+http://45.238.54.253:8000/play/a009/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,History Channel HD
+http://45.186.252.17:8000/play/a02e
+#EXTINF:-1 group-title="ARGENTINA" ,History Channel HD (clone)
+http://45.186.252.17:8000/play/a09j
+#EXTINF:-1 group-title="ARGENTINA" ,HomeandHealth
+http://45.238.54.253:8000/play/a021/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,HTV
+http://45.186.252.17:8000/play/a019
+#EXTINF:-1 group-title="ARGENTINA" ,HTV (clone)
+http://45.186.252.17:8000/play/a0ac
+#EXTINF:-1 group-title="ARGENTINA" ,I-Sat
+http://45.238.54.253:8000/play/a00c/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,I-Sat
+http://45.186.252.17:8000/play/a037
+#EXTINF:-1 group-title="ARGENTINA" ,I-Sat (clone)
+http://45.186.252.17:8000/play/a0b2
+#EXTINF:-1 group-title="ARGENTINA" ,IN
+http://45.186.252.17:8000/play/a07h
+#EXTINF:-1 group-title="ARGENTINA" ,IN (clone)
+http://45.186.252.17:8000/play/a0ad
+#EXTINF:-1 group-title="ARGENTINA" ,IN Tv Bolivia
+http://45.5.151.150:8000/play/a03j/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Informacion Periodistica | AR
+https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="ARGENTINA" ,IP  24.5
+https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=4499968.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,La Nacion TV
+http://45.186.252.17:8000/play/a00c
+#EXTINF:-1 group-title="ARGENTINA" ,La Nacion TV (clone)
+http://45.186.252.17:8000/play/a0ae
+#EXTINF:-1 group-title="ARGENTINA" ,La Red
+http://45.238.54.253:8000/play/a00u/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,La Tele
+http://45.238.54.253:8000/play/a03h/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,La Tele
+http://45.186.252.17:8000/play/a07f
+#EXTINF:-1 group-title="ARGENTINA" ,La Tele (XX clone)
+http://45.186.252.17:8000/play/a08n
+#EXTINF:-1 group-title="ARGENTINA" ,Latina
+http://45.238.54.253:8000/play/a022/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Lifetime
+http://45.5.151.150:8000/play/a00d/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Lifetime
+http://45.238.54.253:8000/play/a00q/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Lifetime
+http://45.186.252.17:8000/play/a03b
+#EXTINF:-1 group-title="ARGENTINA" ,Lifetime (FTA)
+http://45.186.252.17:8000/play/a0b3
+#EXTINF:-1 group-title="ARGENTINA" ,Link TV | AR
+https://panel.dattalive.com:443/8128_1/8128_1/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="ARGENTINA" ,LX News
+http://73.138.49.155:8000/play/a00p/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Mega
+http://45.238.54.253:8000/play/a00w/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Metro
+http://45.186.252.17:8000/play/a010
+#EXTINF:-1 group-title="ARGENTINA" ,Metro (clone)
+http://45.186.252.17:8000/play/a08y
+#EXTINF:-1 group-title="ARGENTINA" ,Metropolitana FM | AR
+https://panel.dattalive.com/MetropolitanaFM/MetropolitanaFM/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="ARGENTINA" ,MTV
+http://45.238.54.253:8000/play/a00d/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,MTV
+http://45.186.252.17:8000/play/a017
+#EXTINF:-1 group-title="ARGENTINA" ,MTV (clone)
+http://45.186.252.17:8000/play/a0af
+#EXTINF:-1 group-title="ARGENTINA" ,MTV×00
+http://45.186.252.17:8000/play/a02g
+#EXTINF:-1 group-title="ARGENTINA" ,MTV×00 (clone)
+http://45.186.252.17:8000/play/a09k
+#EXTINF:-1 group-title="ARGENTINA" ,Multivisi n | AR
+https://panel.dattalive.com:443/8250/8250/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="ARGENTINA" ,Music Top
+http://200.115.193.177:80/live/musictop.smil/.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Music Top
+http://200.115.193.177:1935/live/musictop.smil/.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Music Top
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="ARGENTINA" ,Music Top
+http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="ARGENTINA" ,Music Top
+http://live-edge01.telecentro.net.ar/live/musictop.smil/.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="ARGENTINA" ,Music Top
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w538311571_b364000_sleng.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="ARGENTINA" ,Music Top
+http://live-edge01.telecentro.net.ar:1935/live/msctphd-720/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="ARGENTINA" ,Music TOP
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w1582140541_b364000_sleng.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="ARGENTINA" ,Music Top | AR
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="ARGENTINA" ,Nat Geo
+http://45.238.54.253:8000/play/a008/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Nat Geo HD
+http://45.186.252.17:8000/play/a04q
+#EXTINF:-1 group-title="ARGENTINA" ,Nat Geo HD (clone)
+http://45.186.252.17:8000/play/a09l
+#EXTINF:-1 group-title="ARGENTINA" ,NATGEO
+http://45.5.151.150:8000/play/a01v/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,NBC News HD
+http://73.138.49.155:8000/play/a00c/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,NEO TV DIGITAL  14.1
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,NET TV
+https://unlimited1-buenosaires.dps.live/nettv/nettv.smil/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,NET TV  27.2
+https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,NET TV AR
+http://38.103.148.85:80/nettv/nettv.smil/nettv/livestream2/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,NET TV AR
+http://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream2/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Net TV | AR
+https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="ARGENTINA" ,NHK World
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Nick Jr
+http://45.5.151.150:8000/play/a00k/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Nick Jr
+http://45.238.54.253:8000/play/a03c/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Nick Jr
+http://45.186.252.17:8000/play/a03i
+#EXTINF:-1 group-title="ARGENTINA" ,Nick Jr (clone)
+http://45.186.252.17:8000/play/a0b4
+#EXTINF:-1 group-title="ARGENTINA" ,Nickelodeon
+http://45.238.54.253:8000/play/a007/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Nickelodeon
+http://45.186.252.17:8000/play/a02c
+#EXTINF:-1 group-title="ARGENTINA" ,Nickelodeon (clone)
+http://45.186.252.17:8000/play/a09m
+#EXTINF:-1 group-title="ARGENTINA" ,nikkkelo
+http://45.5.151.150:8000/play/a01a/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,novatv HD
+https://emisoras.hn:8081/novatv/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,NPY
+http://45.238.54.253:8000/play/a02r/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,NTV
+http://45.238.54.253:8000/play/a01b/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Paka Paka
+http://186.33.227.200:80/live-cont.ar/pakapaka/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Pakapaka
+http://45.186.252.17:8000/play/a007
+#EXTINF:-1 group-title="ARGENTINA" ,Pakapaka (clone)
+http://45.186.252.17:8000/play/a0ag
+#EXTINF:-1 group-title="ARGENTINA" ,Palenque TV
+http://45.5.151.150:8000/play/a02z/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Panamericana TV
+http://45.238.54.253:8000/play/a024/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,ParaguayTV
+http://45.238.54.253:8000/play/a02d/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Paramount HD
+http://45.186.252.17:8000/play/a01j
+#EXTINF:-1 group-title="ARGENTINA" ,Paramount HD (clone)
+http://45.186.252.17:8000/play/a0ah
+#EXTINF:-1 group-title="ARGENTINA" ,PARAVISION
+http://45.238.54.253:8000/play/a02o/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,PASIONES
+http://45.5.151.150:8000/play/a00s/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,PAT HD
+http://45.5.151.150:8000/play/a033/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,PAT LPZ
+http://45.5.151.150:8000/play/a034/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Playboy
+http://45.5.151.150:8000/play/a02l/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Playboy
+http://45.186.252.17:8000/play/a01n
+#EXTINF:-1 group-title="ARGENTINA" ,Playboy (clone)
+http://45.186.252.17:8000/play/a0bd
+#EXTINF:-1 group-title="ARGENTINA" ,PlusTLT
+http://45.5.151.150:8000/play/a02x/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Power | AR
+https://live2.tensila.com/1-1-1.power-tv/hls/master.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="ARGENTINA" ,Promociones INTV
+http://45.5.151.150:8000/play/a006/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Prueba Canal 11 TVU - UAGRM
+http://45.5.151.150:8000/play/a02t/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,pucallpa
+http://45.186.252.17:8000/play/a07d
+#EXTINF:-1 group-title="ARGENTINA" ,Quiero Musica
+http://45.186.252.17:8000/play/a018
+#EXTINF:-1 group-title="ARGENTINA" ,Quiero Musica (clone)
+http://45.186.252.17:8000/play/a0ai
+#EXTINF:-1 group-title="ARGENTINA" ,Radiocanal San Francisco | AR
+http://204.199.3.2/.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="ARGENTINA" ,RAI Italia
+http://45.186.252.17:8000/play/a01a
+#EXTINF:-1 group-title="ARGENTINA" ,RAI Italia (clone)
+http://45.186.252.17:8000/play/a0aj
+#EXTINF:-1 group-title="ARGENTINA" ,RCN NOVELA
+http://45.5.151.150:8000/play/a02c/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,RCN Novelas
+http://45.238.54.253:8000/play/a01v/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Record
+http://45.5.151.150:8000/play/a041/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,RED AMERICA TV
+http://45.5.151.150:8000/play/a039/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Red Uno
+http://45.5.151.150:8000/play/a02s/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Red UNO SCZ
+http://45.5.151.150:8000/play/a02r/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,RTN | AR
+http://media.neuquen.gov.ar/rtn/television/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="ARGENTINA" ,RTP HD
+http://45.5.151.150:8000/play/a03g/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,RTS
+http://45.238.54.253:8000/play/a038/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Rural
+http://45.186.252.17:8000/play/a00z
+#EXTINF:-1 group-title="ARGENTINA" ,Rural (clone)
+http://45.186.252.17:8000/play/a0ak
+#EXTINF:-1 group-title="ARGENTINA" ,Senal Colombia
+http://45.238.54.253:8000/play/a02n/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,sextreme
+http://45.5.151.150:8000/play/a04a/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Sextreme
+http://45.186.252.17:8000/play/a01p
+#EXTINF:-1 group-title="ARGENTINA" ,Sextreme (clone)
+http://45.186.252.17:8000/play/a0bf
+#EXTINF:-1 group-title="ARGENTINA" ,Sicardi TV | AR
+https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="ARGENTINA" ,SIN LIMITES
+http://45.5.151.150:8000/play/a02f/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Sin Limites
+http://45.238.54.253:8000/play/a029/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Sitel Potosi
+http://45.5.151.150:8000/play/a035/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,SNN HD
+http://38.91.106.58:11201/udp/239.1.1.4:2008
+#EXTINF:-1 group-title="ARGENTINA" ,SNT
+http://45.238.54.253:8000/play/a00l/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,SOMOS AMBA TV
+http://45.5.151.150:8000/play/a014/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Sony
+http://45.238.54.253:8000/play/a031/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Sony HD
+http://45.186.252.17:8000/play/a04d
+#EXTINF:-1 group-title="ARGENTINA" ,Sony HD (clone)
+http://45.186.252.17:8000/play/a09n
+#EXTINF:-1 group-title="ARGENTINA" ,Sony Movies HD
+http://45.186.252.17:8000/play/a04h
+#EXTINF:-1 group-title="ARGENTINA" ,Sony Movies HD (clone)
+http://45.186.252.17:8000/play/a09o
+#EXTINF:-1 group-title="ARGENTINA" ,Space
+http://45.5.151.150:8000/play/a01h/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Space
+http://45.238.54.253:8000/play/a033/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Space
+http://45.186.252.17:8000/play/a00i
+#EXTINF:-1 group-title="ARGENTINA" ,Space (x clone)
+http://45.186.252.17:8000/play/a0al
+#EXTINF:-1 group-title="ARGENTINA" ,SSIPTV ARG TV
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df265697ec3510009df1ef0/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1d530-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ec2383fd-6e28-4df5-9d1c-b66eee700e0c&userId=&serverSideAds=true
+#EXTINF:-1 group-title="ARGENTINA" ,STAR CHANNEL
+http://45.238.54.253:8000/play/a00g/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Star Channel
+http://45.186.252.17:8000/play/a038
+#EXTINF:-1 group-title="ARGENTINA" ,Star Channel (x clone)
+http://45.186.252.17:8000/play/a0b5
+#EXTINF:-1 group-title="ARGENTINA" ,Star Channel HD
+http://45.5.151.150:8000/play/a00w/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Studio Universal
+http://45.5.151.150:8000/play/a01l/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Studio Universal
+http://45.238.54.253:8000/play/a016/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Studio Universal
+http://45.186.252.17:8000/play/a00m
+#EXTINF:-1 group-title="ARGENTINA" ,Studio Universal (clone)
+http://45.186.252.17:8000/play/a0ap
+#EXTINF:-1 group-title="ARGENTINA" ,Sublime Gracia TV | AR
+https://5f700d5b2c46f.streamlock.net:443/sublime/sublime/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="ARGENTINA" ,SURTV
+http://45.238.54.253:8000/play/a02s/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,SyFy
+http://45.238.54.253:8000/play/a00r/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,SyFy
+http://45.186.252.17:8000/play/a00n
+#EXTINF:-1 group-title="ARGENTINA" ,SyFy (clone)
+http://45.186.252.17:8000/play/a0ao
+#EXTINF:-1 group-title="ARGENTINA" ,TBS
+http://45.5.151.150:8000/play/a00b/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,TBS
+http://45.238.54.253:8000/play/a01z/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,TBS
+http://45.186.252.17:8000/play/a039
+#EXTINF:-1 group-title="ARGENTINA" ,TBS (clone)
+http://45.186.252.17:8000/play/a0b7
+#EXTINF:-1 group-title="ARGENTINA" ,TC Television
+http://45.238.54.253:8000/play/a02g/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,TCM
+http://45.5.151.150:8000/play/a01j/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,TCM
+http://45.238.54.253:8000/play/a00h/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,TCM
+http://45.186.252.17:8000/play/a00k
+#EXTINF:-1 group-title="ARGENTINA" ,TCM (clone)
+http://45.186.252.17:8000/play/a0an
+#EXTINF:-1 group-title="ARGENTINA" ,TDC TV Santa Fe | AR
+https://5e7cdf2370883.streamlock.net/tdconline/tdconline/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="ARGENTINA" ,Tele Estrella HD
+http://45.5.151.150:8000/play/a030/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Tele Estrella | AR
+https://stmvideo2.livecastv.com/telestrella/telestrella/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="ARGENTINA" ,Tele Mix * | AR
+https://panel.dattalive.com:443/8068/8068/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="ARGENTINA" ,Teleamazonas
+http://45.238.54.253:8000/play/a02k/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Teleantioquia
+http://45.238.54.253:8000/play/a035/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Telecafe
+http://45.238.54.253:8000/play/a03i/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Telecaribe
+http://45.238.54.253:8000/play/a03g/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,TELECREATIVA LANUS
+https://panel.dattalive.com/8012/8012/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Telecreativa | AR
+https://panel.dattalive.com:443/8012/8012/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="ARGENTINA" ,Telediez | AR
+https://videohd.live:19360/8020/8020.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="ARGENTINA" ,Telefe
+http://45.238.54.253:8000/play/a039/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,TELEFE 34.1 TDA HD"reproducir con MX PRO"
+https://live.obslivestream.com/telecolormux/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,TELEFE COM VPN
+https://mitelefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
+#EXTINF:-1 group-title="ARGENTINA" ,TELEFE COM VPN 2
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Telefe HD
+http://45.186.252.17:8000/play/a07n
+#EXTINF:-1 group-title="ARGENTINA" ,Telefe HD (XX clone)
+http://45.186.252.17:8000/play/a08o
+#EXTINF:-1 group-title="ARGENTINA" ,Telefuturo
+http://45.238.54.253:8000/play/a00m/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,TELEFÉ CLÁSICO
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de91cf02fc07c0009910465/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1ae23-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a367d0d9-b23d-4bb5-8d48-55f0cbeac4fb&userId=&serverSideAds=true
+#EXTINF:-1 group-title="ARGENTINA" ,TELEFÉ NOTICIAS
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f523aa5523ae000074745ec/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff334c2-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dffc36b9-57c6-4973-9903-2f83d465ac40&userId=&serverSideAds=true
+#EXTINF:-1 group-title="ARGENTINA" ,Teleislas
+http://45.238.54.253:8000/play/a02v/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Telemax
+http://live-edge01.telecentro.net.ar/live/tlxhd-720/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="ARGENTINA" ,TELEMAX  26.3
+https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Telemax  HD Argent.
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w950122583_b1828000_sleng.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Telemax | AR
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="ARGENTINA" ,TELEMUNDO
+http://72.76.116.158:8000/play/a07a/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Telemundo
+http://45.238.54.253:8000/play/a01u/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Telemundo 51 HD
+http://73.138.49.155:8000/play/a00n/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Telemundo 51 SD
+http://73.138.49.155:8000/play/a00k/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,TeleNord | AR
+http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="ARGENTINA" ,Telepacifico
+http://45.238.54.253:8000/play/a037/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Terramia TV | AR
+https://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="ARGENTINA" ,TLC
+http://45.238.54.253:8000/play/a01p/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,TlNovelas
+http://45.5.151.150:8000/play/a003/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,TLX
+http://live-edge01.telecentro.net.ar/live/tlxhd-720/master.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="ARGENTINA" ,TLX
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="ARGENTINA" ,tn hd
+http://45.5.151.150:8000/play/a00a/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,TN HD
+http://45.186.252.17:8000/play/a02l
+#EXTINF:-1 group-title="ARGENTINA" ,TN HD (x clone)
+http://45.186.252.17:8000/play/a09p
+#EXTINF:-1 group-title="ARGENTINA" ,TN Noticias
+http://45.90.105.74:25461/live/budtvsports/wTu27rKVNU/1811.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,TNT
+http://45.238.54.253:8000/play/a00j/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,TNT HD
+http://45.5.151.150:8000/play/a010/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,TNT HD
+http://45.186.252.17:8000/play/a042
+#EXTINF:-1 group-title="ARGENTINA" ,TNT HD (x clone)
+http://45.186.252.17:8000/play/a0b8
+#EXTINF:-1 group-title="ARGENTINA" ,TNT Series
+http://45.5.151.150:8000/play/a00c/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,TNT Series
+http://45.186.252.17:8000/play/a03a
+#EXTINF:-1 group-title="ARGENTINA" ,TNT Series (clone)
+http://45.186.252.17:8000/play/a0b9
+#EXTINF:-1 group-title="ARGENTINA" ,TNT SPORTS 2
+http://45.238.54.253:8000/play/a00z/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,TNT SPORTS 3
+http://45.238.54.253:8000/play/a01m/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,TNT Sports HD
+http://45.5.151.150:8000/play/a002/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,TNT Sports HD
+http://45.186.252.17:8000/play/a01f
+#EXTINF:-1 group-title="ARGENTINA" ,TNT Sports HD (clone)
+http://45.186.252.17:8000/play/a08h
+#EXTINF:-1 group-title="ARGENTINA" ,TOLE 2
+http://45.186.252.17:8000/play/a04s
+#EXTINF:-1 group-title="ARGENTINA" ,Trece
+http://45.238.54.253:8000/play/a03j/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Trece
+http://45.238.54.253:8000/play/a028/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,TRO
+http://45.238.54.253:8000/play/a02u/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,TruTV HD
+http://45.186.252.17:8000/play/a044
+#EXTINF:-1 group-title="ARGENTINA" ,TruTV HD (x clone)
+http://45.186.252.17:8000/play/a0ba
+#EXTINF:-1 group-title="ARGENTINA" ,TV CAMARA
+http://45.238.54.253:8000/play/a03k/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,TV Dos Salta | AR
+https://vivo.solumedia.com:19360/tv2salta/tv2salta.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="ARGENTINA" ,TV NUEVO TIEMPO
+http://45.5.151.150:8000/play/a03h/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,TV Peru
+http://45.238.54.253:8000/play/a027/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,TV Publica
+http://45.186.252.17:8000/play/a01r
+#EXTINF:-1 group-title="ARGENTINA" ,TV PUBLICA - SINAL ORIGINAL
+https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all_1080p.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,TV PUBLICA - SINAL ORIGINAL
+https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all_720p.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,TV PUBLICA - SINAL ORIGINAL
+https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,TV PUBLICA - SINAL ORIGINAL
+https://s@cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all_1080p.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,TV PUBLICA - SINAL ORIGINAL 2
+https://s@cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,TV Publica HD (XX clone)
+http://45.186.252.17:8000/play/a08k
+#EXTINF:-1 group-title="ARGENTINA" ,TV5
+http://45.5.151.150:8000/play/a03y/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,TVE
+http://45.238.54.253:8000/play/a00o/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,TVE
+http://45.186.252.17:8000/play/a03q
+#EXTINF:-1 group-title="ARGENTINA" ,TVE (clone)
+http://45.186.252.17:8000/play/a0bb
+#EXTINF:-1 group-title="ARGENTINA" ,TVN
+http://45.238.54.253:8000/play/a00v/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,TVU PANDO
+http://45.5.151.150:8000/play/a02v/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,TVU SUCRE UNIVERSIDAD SAN FRANCISCO XAVIER
+http://45.5.151.150:8000/play/a02y/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,TyC
+http://45.238.54.253:8000/play/a01l/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,TyC Sports
+http://45.5.151.150:8000/play/a01c/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,TyC Sports HD
+http://45.186.252.17:8000/play/a01d
+#EXTINF:-1 group-title="ARGENTINA" ,TyC Sports HD (clone)
+http://45.186.252.17:8000/play/a0am
+#EXTINF:-1 group-title="ARGENTINA" ,UCL
+http://45.5.151.150:8000/play/a03z/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Uni Teve | AR
+https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="ARGENTINA" ,Unicanal
+http://45.238.54.253:8000/play/a03a/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,UNIMAS
+http://72.76.116.158:8000/play/a08b/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Unimas HD
+http://73.138.49.155:8000/play/a00j/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,UNIVERSAL
+http://45.5.151.150:8000/play/a011/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Universal
+http://45.238.54.253:8000/play/a00b/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Universal
+http://45.186.252.17:8000/play/a028
+#EXTINF:-1 group-title="ARGENTINA" ,Universal (clone)
+http://45.186.252.17:8000/play/a09q
+#EXTINF:-1 group-title="ARGENTINA" ,universal cinema
+http://45.5.151.150:8000/play/a027/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Universal Cinema SD
+http://45.238.54.253:8000/play/a019/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Universal Comedy SD
+http://45.238.54.253:8000/play/a01a/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,universal premiere
+http://45.5.151.150:8000/play/a01e/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Universal Premiere SD
+http://45.238.54.253:8000/play/a018/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,UNIVISION
+http://72.76.116.158:8000/play/a07t/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Univision 23 HD
+http://73.138.49.155:8000/play/a00f/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Venus
+http://45.5.151.150:8000/play/a02m/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Venus
+http://45.238.54.253:8000/play/a01o/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Venus
+http://45.186.252.17:8000/play/a01o
+#EXTINF:-1 group-title="ARGENTINA" ,Venus (clone)
+http://45.186.252.17:8000/play/a0bc
+#EXTINF:-1 group-title="ARGENTINA" ,ViaX
+http://45.238.54.253:8000/play/a01q/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Volver
+http://45.186.252.17:8000/play/a00l
+#EXTINF:-1 group-title="ARGENTINA" ,Volver (clone)
+http://45.186.252.17:8000/play/a08q
+#EXTINF:-1 group-title="ARGENTINA" ,Warner
+http://45.238.54.253:8000/play/a01f/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,warner chanel
+http://45.5.151.150:8000/play/a00t/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Warner Channel
+http://45.186.252.17:8000/play/a027
+#EXTINF:-1 group-title="ARGENTINA" ,Warner Channel (clone)
+http://45.186.252.17:8000/play/a084
+#EXTINF:-1 group-title="ARGENTINA" ,WILLAX
+http://45.238.54.253:8000/play/a020/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Win
+http://45.238.54.253:8000/play/a036/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,XTO TV
+http://45.5.151.150:8000/play/a031/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Zona Latina
+http://45.238.54.253:8000/play/a00e/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Zoom
+http://45.238.54.253:8000/play/a02t/index.m3u8
