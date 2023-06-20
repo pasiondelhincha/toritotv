@@ -276,9 +276,9 @@ https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/play
 #EXTINF:0 group-title="00TELECENTRO" tvg-name="http://hplay.xyz:80/rtrboofc/pi519pvU9R/34875" tvg-logo="https://i.imgur.com/KdFk80C.png" ,1060 UNIVERSAL PREMIERE
 http://45.238.54.253:8000/play/a018/index.m3u8
 #EXTINF:0 group-title="00TELECENTRO" tvg-name="http://hplay.xyz:80/rtrboofc/pi519pvU9R/34871" tvg-logo="https://i.imgur.com/XxfET68.png" ,1061 UNIVERSAL CINEMA
-http://45.238.54.253:8000/play/a019/index.m3u8
+http://45.238.20.235:8000/play/a16f/index.m3u8
 #EXTINF:0 group-title="00TELECENTRO" tvg-id="http://hplay.xyz:80/rtrboofc/pi519pvU9R/304508" tvg-logo="https://i.imgur.com/avBL8pQ.png" ,1062 UNIVERSAL COMEDY
-http://45.238.54.253:8000/play/a01a/index.m3u8
+http://45.238.20.235:8000/play/a16g/index.m3u8
 #EXTINF:0 group-title="00TELECENTRO" tvg-name="http://hplay.xyz:80/rtrboofc/pi519pvU9R/34853" tvg-logo="https://i.imgur.com/OwSlGMu.png" ,1063 UNIVERSAL CRIME
 http://45.184.111.158:8000/play/a0ih/index.m3u8
 #EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://i.imgur.com/mqfUD1R.png" ,1064 UNIVERSAL REALITY
@@ -286,7 +286,7 @@ http://45.184.111.158:8000/play/a0ig/index.m3u8
 #EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://i.imgur.com/AqR0Jkn.png" ,1077 DISCOVERY THEATER
 http://45.184.111.158:8000/play/a0i8/index.m3u8
 #EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/512px-Logo_Lifetime_2020.svg.png" ,1082 LIFETIME
-http://hplay.xyz:80/rtrboofc/pi519pvU9R/35039
+http://45.5.151.150:8000/play/a00d/index.m3u8
 #EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://i.imgur.com/Yb3oUls.png" ,1087 DISCOVERY WORLD
 http://181.115.238.188:6100/play/a08m
 #EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://i.imgur.com/SiImXjJ.png" ,1100 VTV
