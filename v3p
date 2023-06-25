@@ -1,77 +1,77 @@
 #EXTM3U
-#EXTINF:-1 ,CANAL 1
+#EXTINF:-1 group-title="PELICULAS Y SERIES" ,CANAL 1 AE
 https://v3.playerlatino.live/stream/m3u8/1
 #EXTINF:-1 ,CANAL 2
 https://v3.playerlatino.live/stream/m3u8/2
-#EXTINF:-1 ,CANAL 3
+#EXTINF:-1 group-title="INTERES GENERAL Y ENTRETENIMIENTO" ,CANAL 3 ANIMAL PLANET
 https://v3.playerlatino.live/stream/m3u8/3
-#EXTINF:-1 ,CANAL 4
+#EXTINF:-1 group-title="CANALES" ,CANAL 4 UNO MEXICO
 https://v3.playerlatino.live/stream/m3u8/4
-#EXTINF:-1 ,CANAL 5
+#EXTINF:-1 group-title="CANALES" ,CANAL 7 AZTECA
 https://v3.playerlatino.live/stream/m3u8/5
 #EXTINF:-1 ,CANAL 6
 https://v3.playerlatino.live/stream/m3u8/6
-#EXTINF:-1 ,CANAL 7
+#EXTINF:-1 group-title="INFANTILES" ,CANAL 7 BABY TV
 https://v3.playerlatino.live/stream/m3u8/7
-#EXTINF:-1 ,CANAL 8
+#EXTINF:-1 group-title="MUSICA" ,CANAL 8 BANDAMAX
 https://v3.playerlatino.live/stream/m3u8/8
-#EXTINF:-1 ,CANAL 9
+#EXTINF:-1 group-title="DEPORTES" ,CANAL 9 BEIN SPORTS Ñ
 https://v3.playerlatino.live/stream/m3u8/9
-#EXTINF:-1 ,CANAL 9
-https://v3.playerlatino.live/stream/m3u8/10
 #EXTINF:-1 ,CANAL 10
+https://v3.playerlatino.live/stream/m3u8/10
+#EXTINF:-1 group-title="INFANTILES" ,CANAL 11 CARTOONITO
 https://v3.playerlatino.live/stream/m3u8/11
 #EXTINF:-1 ,CANAL 12
 https://v3.playerlatino.live/stream/m3u8/12
 #EXTINF:-1 ,CANAL 13
 https://v3.playerlatino.live/stream/m3u8/13
-#EXTINF:-1 ,CANAL 14
+#EXTINF:-1 group-title="CANALES" ,CANAL 14 CANAL 5 MX
 https://v3.playerlatino.live/stream/m3u8/14
 #EXTINF:-1 ,CANAL 15
 https://v3.playerlatino.live/stream/m3u8/15
 #EXTINF:-1 ,CANAL 16
 https://v3.playerlatino.live/stream/m3u8/16
-#EXTINF:-1 ,CANAL 17
+#EXTINF:-1 group-title="INFANTILES" ,CANAL 17 CARTOON NETWORK
 https://v3.playerlatino.live/stream/m3u8/17
-#EXTINF:-1 ,CANAL 18
+#EXTINF:-1 group-title="PELICULAS Y SERIES" ,CANAL 18 CINECANAL
 https://v3.playerlatino.live/stream/m3u8/18
-#EXTINF:-1 ,CANAL 19
+#EXTINF:-1 group-title="PELICULAS Y SERIES" ,CANAL 19 CINEMAX
 https://v3.playerlatino.live/stream/m3u8/19
-#EXTINF:-1 ,CANAL 20
+#EXTINF:-1 group-title="PELICULAS Y SERIES" ,CANAL 20 DPELICULA
 https://v3.playerlatino.live/stream/m3u8/20
 #EXTINF:-1 ,CANAL 21
 https://v3.playerlatino.live/stream/m3u8/21
-#EXTINF:-1 ,CANAL 22
+#EXTINF:-1 group-title="INTERES GENERAL Y ENTRETENIMIENTO" ,CANAL 22 DISCOVERY
 https://v3.playerlatino.live/stream/m3u8/22
-#EXTINF:-1 ,CANAL 23
+#EXTINF:-1 group-title="INTERES GENERAL Y ENTRETENIMIENTO" ,CANAL 23 HGTV
 https://v3.playerlatino.live/stream/m3u8/23
-#EXTINF:-1 ,CANAL 24
+#EXTINF:-1 group-title="INTERES GENERAL Y ENTRETENIMIENTO" ,CANAL 24 DISCOVERY H&H
 https://v3.playerlatino.live/stream/m3u8/24
-#EXTINF:-1 ,CANAL 25
+#EXTINF:-1 group-title="INFANTILES" ,CANAL 25 DISCOVERY KIDS
 https://v3.playerlatino.live/stream/m3u8/25
-#EXTINF:-1 ,CANAL 26
+#EXTINF:-1 group-title="INTERES GENERAL Y ENTRETENIMIENTO" ,CANAL 26 DISCOVERY SCIENCE
 https://v3.playerlatino.live/stream/m3u8/26
-#EXTINF:-1 ,CANAL 27
+#EXTINF:-1 group-title="INTERES GENERAL Y ENTRETENIMIENTO" ,CANAL 27 DISCOVERY THEATER
 https://v3.playerlatino.live/stream/m3u8/27
-#EXTINF:-1 ,CANAL 28
+#EXTINF:-1 group-title="INTERES GENERAL Y ENTRETENIMIENTO" ,CANAL 28 DISCOVERY TURBO
 https://v3.playerlatino.live/stream/m3u8/28
-#EXTINF:-1 ,CANAL 29
+#EXTINF:-1 group-title="INFANTILES" ,CANAL 29 DISNEY CHANNEL ING
 https://v3.playerlatino.live/stream/m3u8/29
-#EXTINF:-1 ,CANAL 30
+#EXTINF:-1 group-title="INFANTILES" ,CANAL 30 DISNEY JUNIOR LATINO
 https://v3.playerlatino.live/stream/m3u8/30
 #EXTINF:-1 ,CANAL 31
 https://v3.playerlatino.live/stream/m3u8/31
-#EXTINF:-1 ,CANAL 32
+#EXTINF:-1 group-title="INTERES GENERAL Y ENTRETENIMIENTO" ,CANAL 32 DISTRITO COMEDIA
 https://v3.playerlatino.live/stream/m3u8/32
-#EXTINF:-1 ,CANAL 33
+#EXTINF:-1 group-title="INTERES GENERAL Y ENTRETENIMIENTO" ,CANAL 33 E!
 https://v3.playerlatino.live/stream/m3u8/33
-#EXTINF:-1 ,CANAL 34
+#EXTINF:-1 group-title="DEPORTES" ,CANAL 34 ESPN MX
 https://v3.playerlatino.live/stream/m3u8/34
-#EXTINF:-1 ,CANAL 35
+#EXTINF:-1 group-title="DEPORTES" ,CANAL 35 ESPN 2 MX
 https://v3.playerlatino.live/stream/m3u8/35
-#EXTINF:-1 ,CANAL 36
+#EXTINF:-1 group-title="DEPORTES" ,CANAL 36 ESPN 3 MX
 https://v3.playerlatino.live/stream/m3u8/36
-#EXTINF:-1 ,CANAL 37
+#EXTINF:-1 group-title="DEPORTES" ,CANAL 37 ESPN EXTRA
 https://v3.playerlatino.live/stream/m3u8/37
 #EXTINF:-1 ,CANAL 38
 https://v3.playerlatino.live/stream/m3u8/38
@@ -81,7 +81,7 @@ https://v3.playerlatino.live/stream/m3u8/39
 https://v3.playerlatino.live/stream/m3u8/40
 #EXTINF:-1 ,CANAL 41
 https://v3.playerlatino.live/stream/m3u8/41
-#EXTINF:-1 ,CANAL 42
+#EXTINF:-1 group-title="PELICULAS Y SERIES" ,CANAL 42 ISAT
 https://v3.playerlatino.live/stream/m3u8/42
 #EXTINF:-1 ,CANAL 43
 https://v3.playerlatino.live/stream/m3u8/43
@@ -101,43 +101,43 @@ https://v3.playerlatino.live/stream/m3u8/49
 https://v3.playerlatino.live/stream/m3u8/50
 #EXTINF:-1 ,CANAL 51
 https://v3.playerlatino.live/stream/m3u8/51
-#EXTINF:-1 ,CANAL 52
+#EXTINF:-1 group-title="DEPORTES" ,CANAL 52 ESPN 4 MX
 https://v3.playerlatino.live/stream/m3u8/52
-#EXTINF:-1 ,CANAL 53
+#EXTINF:-1 group-title="DEPORTES" ,CANAL 53 FOX SPORTS 2
 https://v3.playerlatino.live/stream/m3u8/53
-#EXTINF:-1 ,CANAL 54
+#EXTINF:-1 ,CANAL 54 FOX SPORTS 3
 https://v3.playerlatino.live/stream/m3u8/54
 #EXTINF:-1 ,CANAL 55
 https://v3.playerlatino.live/stream/m3u8/55
-#EXTINF:-1 ,CANAL 56
+#EXTINF:-1 group-title="INTERES GENERAL Y ENTRETENIMIENTO" ,CANAL 56 NN LATINO NOVELAS
 https://v3.playerlatino.live/stream/m3u8/56
-#EXTINF:-1 ,CANAL 57
+#EXTINF:-1 group-title="PELICULAS Y SERIES" ,CANAL 57 GOLDEN
 https://v3.playerlatino.live/stream/m3u8/57
-#EXTINF:-1 ,CANAL 58
+#EXTINF:-1 group-title="PELICULAS Y SERIES" ,CANAL 58 GOLDEN EDGE
 https://v3.playerlatino.live/stream/m3u8/58
-#EXTINF:-1 ,CANAL 59
+#EXTINF:-1 group-title="PELICULAS Y SERIES" ,CANAL 59 GOLDEN PREMIER
 https://v3.playerlatino.live/stream/m3u8/59
-#EXTINF:-1 ,CANAL 60
+#EXTINF:-1 group-title="PELICULAS Y SERIES" ,CANAL 60 GOLDEN PREMIER
 https://v3.playerlatino.live/stream/m3u8/60
-#EXTINF:-1 ,CANAL 61
+#EXTINF:-1 group-title="INTERES GENERAL Y ENTRETENIMIENTO" ,CANAL 61 H2 HISTORY2
 https://v3.playerlatino.live/stream/m3u8/61
-#EXTINF:-1 ,CANAL 62
+#EXTINF:-1 group-title="PELICULAS Y SERIES" ,CANAL 62 HBO
 https://v3.playerlatino.live/stream/m3u8/62
-#EXTINF:-1 ,CANAL 63
+#EXTINF:-1 group-title="PELICULAS Y SERIES" ,CANAL 63 HBO FAMILY ING
 https://v3.playerlatino.live/stream/m3u8/63
-#EXTINF:-1 ,CANAL 64
+#EXTINF:-1 group-title="PELICULAS Y SERIES" ,CANAL 64 HBO+
 https://v3.playerlatino.live/stream/m3u8/64
-#EXTINF:-1 ,CANAL 65
+#EXTINF:-1 group-title="DEPORTES" ,CANAL 65 ESPN PREMIUM
 https://v3.playerlatino.live/stream/m3u8/65
-#EXTINF:-1 ,CANAL 66
+#EXTINF:-1 group-title="INTERES GENERAL Y ENTRETENIMIENTO" ,CANAL 66 HTV
 https://v3.playerlatino.live/stream/m3u8/66
-#EXTINF:-1 ,CANAL 67
+#EXTINF:-1 group-title="INTERES GENERAL Y ENTRETENIMIENTO" ,CANAL 67 HISTORY
 https://v3.playerlatino.live/stream/m3u8/67
-#EXTINF:-1 ,CANAL 68
+#EXTINF:-1 group-title="INTERES GENERAL Y ENTRETENIMIENTO" ,CANAL 68 DISCOVERY ID
 https://v3.playerlatino.live/stream/m3u8/68
-#EXTINF:-1 ,CANAL 69
+#EXTINF:-1 group-title="MUSICA" ,CANAL 69 MTV 00S
 https://v3.playerlatino.live/stream/m3u8/69
-#EXTINF:-1 ,CANAL 70
+#EXTINF:-1 group-title="MUSICA" ,CANAL 70 MTV HITS
 https://v3.playerlatino.live/stream/m3u8/70
 #EXTINF:-1 ,CANAL 71
 https://v3.playerlatino.live/stream/m3u8/71
@@ -149,13 +149,13 @@ https://v3.playerlatino.live/stream/m3u8/73
 https://v3.playerlatino.live/stream/m3u8/74
 #EXTINF:-1 ,CANAL 75
 https://v3.playerlatino.live/stream/m3u8/75
-#EXTINF:-1 ,CANAL 76
+#EXTINF:-1 group-title="INTERES GENERAL Y ENTRETENIMIENTO" ,CANAL 76 NATGEO
 https://v3.playerlatino.live/stream/m3u8/76
-#EXTINF:-1 ,CANAL 77
+#EXTINF:-1 group-title="INTERES GENERAL Y ENTRETENIMIENTO" ,CANAL 77 NATGEO MUNDO
 https://v3.playerlatino.live/stream/m3u8/77
-#EXTINF:-1 ,CANAL 78
+#EXTINF:-1 group-title="INFANTILES" ,CANAL 78 NICK
 https://v3.playerlatino.live/stream/m3u8/78
-#EXTINF:-1 ,CANAL 79
+#EXTINF:-1 group-title="INFANTILES" ,CANAL 79 NICK JR
 https://v3.playerlatino.live/stream/m3u8/79
 #EXTINF:-1 ,CANAL 80
 https://v3.playerlatino.live/stream/m3u8/80
@@ -163,79 +163,79 @@ https://v3.playerlatino.live/stream/m3u8/80
 https://v3.playerlatino.live/stream/m3u8/81
 #EXTINF:-1 ,CANAL 82
 https://v3.playerlatino.live/stream/m3u8/82
-#EXTINF:-1 ,CANAL 83
+#EXTINF:-1 group-title="PELICULAS Y SERIES" ,CANAL 83 SPACE
 https://v3.playerlatino.live/stream/m3u8/83
-#EXTINF:-1 ,CANAL 84
+#EXTINF:-1 group-title="PELICULAS Y SERIES" ,CANAL 84 STUDIO UNIVERSAL
 https://v3.playerlatino.live/stream/m3u8/84
-#EXTINF:-1 ,CANAL 85
+#EXTINF:-1 group-title="PELICULAS Y SERIES" ,CANAL 85 TCM
 https://v3.playerlatino.live/stream/m3u8/85
-#EXTINF:-1 ,CANAL 86
+#EXTINF:-1 group-title="DEPORTES" ,CANAL 86 TUDN
 https://v3.playerlatino.live/stream/m3u8/86
-#EXTINF:-1 ,CANAL 87
+#EXTINF:-1 group-title="INTERES GENERAL Y ENTRETENIMIENTO" ,CANAL 87 DISCOVERY
 https://v3.playerlatino.live/stream/m3u8/87
 #EXTINF:-1 ,CANAL 88
 https://v3.playerlatino.live/stream/m3u8/88
 #EXTINF:-1 ,CANAL 89
 https://v3.playerlatino.live/stream/m3u8/89
-#EXTINF:-1 ,CANAL 90
+#EXTINF:-1 group-title="PELICULAS Y SERIES" ,CANAL 90 TNT
 https://v3.playerlatino.live/stream/m3u8/90
-#EXTINF:-1 ,CANAL 91
+#EXTINF:-1 group-title="MUSICA" ,CANAL 91 TELEHIT
 https://v3.playerlatino.live/stream/m3u8/91
-#EXTINF:-1 ,CANAL 92
+#EXTINF:-1 group-title="CANALES" ,CANAL 92 TELEMUNDO
 https://v3.playerlatino.live/stream/m3u8/92
 #EXTINF:-1 ,CANAL 93
 https://v3.playerlatino.live/stream/m3u8/93
-#EXTINF:-1 ,CANAL 94
+#EXTINF:-1 group-title="INTERES GENERAL Y ENTRETENIMIENTO" ,CANAL 94 TLN TELENOVELAS
 https://v3.playerlatino.live/stream/m3u8/94
-#EXTINF:-1 ,CANAL 95
+#EXTINF:-1 group-title="INFANTILES" ,CANAL 95 TOONCAST
 https://v3.playerlatino.live/stream/m3u8/95
 #EXTINF:-1 ,CANAL 96
 https://v3.playerlatino.live/stream/m3u8/96
 #EXTINF:-1 ,CANAL 97
 https://v3.playerlatino.live/stream/m3u8/97
-#EXTINF:-1 ,CANAL 98
+#EXTINF:-1 group-title="CANALES" ,CANAL 98 UNICABLE
 https://v3.playerlatino.live/stream/m3u8/98
-#EXTINF:-1 ,CANAL 99
+#EXTINF:-1 group-title="CANALES" ,CANAL 99 UNIVISION
 https://v3.playerlatino.live/stream/m3u8/99
-#EXTINF:-1 ,CANAL 90
-https://v3.playerlatino.live/stream/m3u8/100
-#EXTINF:-1 ,CANAL 91
-https://v3.playerlatino.live/stream/m3u8/101
-#EXTINF:-1 ,CANAL 92
-https://v3.playerlatino.live/stream/m3u8/102
-#EXTINF:-1 ,CANAL 93
-https://v3.playerlatino.live/stream/m3u8/103
-#EXTINF:-1 ,CANAL 94
-https://v3.playerlatino.live/stream/m3u8/104
-#EXTINF:-1 ,CANAL 95
-https://v3.playerlatino.live/stream/m3u8/105
-#EXTINF:-1 ,CANAL 96
-https://v3.playerlatino.live/stream/m3u8/106
-#EXTINF:-1 ,CANAL 97
-https://v3.playerlatino.live/stream/m3u8/107
-#EXTINF:-1 ,CANAL 98
-https://v3.playerlatino.live/stream/m3u8/108
-#EXTINF:-1 ,CANAL 99
-https://v3.playerlatino.live/stream/m3u8/109
 #EXTINF:-1 ,CANAL 100
-https://v3.playerlatino.live/stream/m3u8/110
-#EXTINF:-1 ,CANAL 101
-https://v3.playerlatino.live/stream/m3u8/111
+https://v3.playerlatino.live/stream/m3u8/100
+#EXTINF:-1 group-title="MUSICA" ,CANAL 101 MTV HITS
+https://v3.playerlatino.live/stream/m3u8/101
 #EXTINF:-1 ,CANAL 102
-https://v3.playerlatino.live/stream/m3u8/112
+https://v3.playerlatino.live/stream/m3u8/102
 #EXTINF:-1 ,CANAL 103
-https://v3.playerlatino.live/stream/m3u8/113
+https://v3.playerlatino.live/stream/m3u8/103
 #EXTINF:-1 ,CANAL 104
-https://v3.playerlatino.live/stream/m3u8/114
+https://v3.playerlatino.live/stream/m3u8/104
 #EXTINF:-1 ,CANAL 105
-https://v3.playerlatino.live/stream/m3u8/115
+https://v3.playerlatino.live/stream/m3u8/105
 #EXTINF:-1 ,CANAL 106
-https://v3.playerlatino.live/stream/m3u8/116
+https://v3.playerlatino.live/stream/m3u8/106
 #EXTINF:-1 ,CANAL 107
-https://v3.playerlatino.live/stream/m3u8/117
+https://v3.playerlatino.live/stream/m3u8/107
 #EXTINF:-1 ,CANAL 108
-https://v3.playerlatino.live/stream/m3u8/118
+https://v3.playerlatino.live/stream/m3u8/108
 #EXTINF:-1 ,CANAL 109
+https://v3.playerlatino.live/stream/m3u8/109
+#EXTINF:-1 ,CANAL 110
+https://v3.playerlatino.live/stream/m3u8/110
+#EXTINF:-1 ,CANAL 111
+https://v3.playerlatino.live/stream/m3u8/111
+#EXTINF:-1 ,CANAL 112
+https://v3.playerlatino.live/stream/m3u8/112
+#EXTINF:-1 ,CANAL 113
+https://v3.playerlatino.live/stream/m3u8/113
+#EXTINF:-1 ,CANAL 114
+https://v3.playerlatino.live/stream/m3u8/114
+#EXTINF:-1 ,CANAL 115
+https://v3.playerlatino.live/stream/m3u8/115
+#EXTINF:-1 ,CANAL 116
+https://v3.playerlatino.live/stream/m3u8/116
+#EXTINF:-1 ,CANAL 117
+https://v3.playerlatino.live/stream/m3u8/117
+#EXTINF:-1 ,CANAL 118
+https://v3.playerlatino.live/stream/m3u8/118
+#EXTINF:-1 ,CANAL 119
 https://v3.playerlatino.live/stream/m3u8/119
 #EXTINF:-1 ,CANAL 120
 https://v3.playerlatino.live/stream/m3u8/120
@@ -267,11 +267,11 @@ https://v3.playerlatino.live/stream/m3u8/132
 https://v3.playerlatino.live/stream/m3u8/133
 #EXTINF:-1 ,CANAL 134
 https://v3.playerlatino.live/stream/m3u8/134
-#EXTINF:-1 ,CANAL 135
+#EXTINF:-1 group-title="INTERES GENERAL Y ENTRETENIMIENTO" ,CANAL 135 COMEDY CENTRAL
 https://v3.playerlatino.live/stream/m3u8/135
-#EXTINF:-1 ,CANAL 136
+#EXTINF:-1 group-title="CANALES" ,CANAL 136 CNN ESPAÑOL
 https://v3.playerlatino.live/stream/m3u8/136
-#EXTINF:-1 ,CANAL 137
+#EXTINF:-1 group-title="PELICULAS Y SERIES" ,CANAL 137 STUDIO UNIVERSAL
 https://v3.playerlatino.live/stream/m3u8/137
 #EXTINF:-1 ,CANAL 138
 https://v3.playerlatino.live/stream/m3u8/138
@@ -287,33 +287,33 @@ https://v3.playerlatino.live/stream/m3u8/142
 https://v3.playerlatino.live/stream/m3u8/143
 #EXTINF:-1 ,CANAL 144
 https://v3.playerlatino.live/stream/m3u8/144
-#EXTINF:-1 ,CANAL 145
+#EXTINF:-1 group-title="PELICULAS Y SERIES" ,CANAL 145 SONY CHANNEL
 https://v3.playerlatino.live/stream/m3u8/145
 #EXTINF:-1 ,CANAL 146
 https://v3.playerlatino.live/stream/m3u8/146
 #EXTINF:-1 ,CANAL 147
 https://v3.playerlatino.live/stream/m3u8/147
-#EXTINF:-1 ,CANAL 148
+#EXTINF:-1 group-title="DEPORTES" ,CANAL 148 AYM SPORTS
 https://v3.playerlatino.live/stream/m3u8/148
-#EXTINF:-1 ,CANAL 149
+#EXTINF:-1 group-title="PELICULAS Y SERIES" ,CANAL 149 FILM & ARTS
 https://v3.playerlatino.live/stream/m3u8/149
 #EXTINF:-1 ,CANAL 150
 https://v3.playerlatino.live/stream/m3u8/150
-#EXTINF:-1 ,CANAL 151
+#EXTINF:-1 group-title="PELICULAS Y SERIES" ,CANAL 151 SYFY
 https://v3.playerlatino.live/stream/m3u8/151
-#EXTINF:-1 ,CANAL 152
+#EXTINF:-1 group-title="PELICULAS Y SERIES" ,CANAL 152 LIFETIME
 https://v3.playerlatino.live/stream/m3u8/152
-#EXTINF:-1 ,CANAL 153
+#EXTINF:-1 group-title="PELICULAS Y SERIES" ,CANAL 153 ISAT
 https://v3.playerlatino.live/stream/m3u8/153
 #EXTINF:-1 ,CANAL 154
 https://v3.playerlatino.live/stream/m3u8/154
 #EXTINF:-1 ,CANAL 155
 https://v3.playerlatino.live/stream/m3u8/155
-#EXTINF:-1 ,CANAL 156
+#EXTINF:-1 group-title="DEPORTES" ,CANAL 156 ESPN
 https://v3.playerlatino.live/stream/m3u8/156
-#EXTINF:-1 ,CANAL 157
+#EXTINF:-1 group-title="INTERES GENERAL Y ENTRETENIMIENTO" ,CANAL 157 GOURMET
 https://v3.playerlatino.live/stream/m3u8/157
-#EXTINF:-1 ,CANAL 158
+#EXTINF:-1 group-title="INTERES GENERAL Y ENTRETENIMIENTO" ,CANAL 158 GLITZ
 https://v3.playerlatino.live/stream/m3u8/158
 #EXTINF:-1 ,CANAL 159
 https://v3.playerlatino.live/stream/m3u8/159
@@ -327,9 +327,9 @@ https://v3.playerlatino.live/stream/m3u8/162
 https://v3.playerlatino.live/stream/m3u8/163
 #EXTINF:-1 ,CANAL 164
 https://v3.playerlatino.live/stream/m3u8/164
-#EXTINF:-1 ,CANAL 165
+#EXTINF:-1 group-title="INTERES GENERAL Y ENTRETENIMIENTO" ,CANAL 165 CLIC
 https://v3.playerlatino.live/stream/m3u8/165
-#EXTINF:-1 ,CANAL 166
+#EXTINF:-1 group-title="INTERES GENERAL Y ENTRETENIMIENTO" ,CANAL 166 CORAZON
 https://v3.playerlatino.live/stream/m3u8/166
 #EXTINF:-1 ,CANAL 167
 https://v3.playerlatino.live/stream/m3u8/167
@@ -339,7 +339,7 @@ https://v3.playerlatino.live/stream/m3u8/168
 https://v3.playerlatino.live/stream/m3u8/169
 #EXTINF:-1 ,CANAL 170
 https://v3.playerlatino.live/stream/m3u8/170
-#EXTINF:-1 ,CANAL 171
+#EXTINF:-1 ,CANAL 171 TBS
 https://v3.playerlatino.live/stream/m3u8/171
 #EXTINF:-1 ,CANAL 172
 https://v3.playerlatino.live/stream/m3u8/172
@@ -355,7 +355,7 @@ https://v3.playerlatino.live/stream/m3u8/176
 https://v3.playerlatino.live/stream/m3u8/177
 #EXTINF:-1 ,CANAL 178
 https://v3.playerlatino.live/stream/m3u8/178
-#EXTINF:-1 ,CANAL 179
+#EXTINF:-1 group-title="PELICULAS Y SERIES" ,CANAL 179 TNT
 https://v3.playerlatino.live/stream/m3u8/179
 #EXTINF:-1 ,CANAL 180
 https://v3.playerlatino.live/stream/m3u8/180
@@ -363,25 +363,25 @@ https://v3.playerlatino.live/stream/m3u8/180
 https://v3.playerlatino.live/stream/m3u8/181
 #EXTINF:-1 ,CANAL 182
 https://v3.playerlatino.live/stream/m3u8/182
-#EXTINF:-1 ,CANAL 183
+#EXTINF:-1 group-title="PELICULAS Y SERIES" ,CANAL 183 AMC
 https://v3.playerlatino.live/stream/m3u8/183
-#EXTINF:-1 ,CANAL 184
+#EXTINF:-1 group-title="PELICULAS Y SERIES" ,CANAL 184 UNIVERSAL
 https://v3.playerlatino.live/stream/m3u8/184
 #EXTINF:-1 ,CANAL 185
 https://v3.playerlatino.live/stream/m3u8/185
 #EXTINF:-1 ,CANAL 186
 https://v3.playerlatino.live/stream/m3u8/186
-#EXTINF:-1 ,CANAL 187
+#EXTINF:-1 group-title="INTERES GENERAL Y ENTRETENIMIENTO" ,CANAL 187 DISCOVERY WORLD
 https://v3.playerlatino.live/stream/m3u8/187
 #EXTINF:-1 ,CANAL 188
 https://v3.playerlatino.live/stream/m3u8/188
-#EXTINF:-1 ,CANAL 189
+#EXTINF:-1 group-title="INTERES GENERAL Y ENTRETENIMIENTO" ,CANAL 189 HOLA TV
 https://v3.playerlatino.live/stream/m3u8/189
 #EXTINF:-1 ,CANAL 190
 https://v3.playerlatino.live/stream/m3u8/190
 #EXTINF:-1 ,CANAL 191
 https://v3.playerlatino.live/stream/m3u8/191
-#EXTINF:-1 ,CANAL 192
+#EXTINF:-1 group-title="DEPORTES" ,CANAL 192 FOX SPORT PREMIUM MX
 https://v3.playerlatino.live/stream/m3u8/192
 #EXTINF:-1 ,CANAL 193
 https://v3.playerlatino.live/stream/m3u8/193
@@ -393,11 +393,11 @@ https://v3.playerlatino.live/stream/m3u8/195
 https://v3.playerlatino.live/stream/m3u8/196
 #EXTINF:-1 ,CANAL 197
 https://v3.playerlatino.live/stream/m3u8/197
-#EXTINF:-1 ,CANAL 198
+#EXTINF:-1 group-title="CANALES" ,CANAL 198 CHILEVISION
 https://v3.playerlatino.live/stream/m3u8/198
 #EXTINF:-1 ,CANAL 199
 https://v3.playerlatino.live/stream/m3u8/199
-#EXTINF:-1 ,CANAL 200
+#EXTINF:-1 group-title="PELICULAS Y SERIES" ,CANAL 200 PARAMOUNT
 https://v3.playerlatino.live/stream/m3u8/200
 #EXTINF:-1 ,CANAL 201
 https://v3.playerlatino.live/stream/m3u8/201
@@ -515,7 +515,7 @@ https://v3.playerlatino.live/stream/m3u8/256
 https://v3.playerlatino.live/stream/m3u8/257
 #EXTINF:-1 ,CANAL 258
 https://v3.playerlatino.live/stream/m3u8/258
-#EXTINF:-1 ,CANAL 259
+#EXTINF:-1 group-title="DEPORTES" ,CANAL 259 DSPORTS
 https://v3.playerlatino.live/stream/m3u8/259
 #EXTINF:-1 ,CANAL 260
 https://v3.playerlatino.live/stream/m3u8/260
@@ -571,33 +571,33 @@ https://v3.playerlatino.live/stream/m3u8/284
 https://v3.playerlatino.live/stream/m3u8/285
 #EXTINF:-1 ,CANAL 286
 https://v3.playerlatino.live/stream/m3u8/286
-#EXTINF:-1 ,CANAL 287
+#EXTINF:-1 group-title="DEPORTES" ,CANAL 287 GOL TV
 https://v3.playerlatino.live/stream/m3u8/287
 #EXTINF:-1 ,CANAL 288
 https://v3.playerlatino.live/stream/m3u8/288
 #EXTINF:-1 ,CANAL 289
 https://v3.playerlatino.live/stream/m3u8/289
-#EXTINF:-1 ,CANAL 290
+#EXTINF:-1 group-title="CANALES" ,CANAL 290 CARACOL
 https://v3.playerlatino.live/stream/m3u8/290
 #EXTINF:-1 ,CANAL 291
 https://v3.playerlatino.live/stream/m3u8/291
-#EXTINF:-1 ,CANAL 292
+#EXTINF:-1 group-title="DEPORTES" ,CANAL 292 WINSPORTS +
 https://v3.playerlatino.live/stream/m3u8/292
 #EXTINF:-1 ,CANAL 293
 https://v3.playerlatino.live/stream/m3u8/293
 #EXTINF:-1 ,CANAL 294
 https://v3.playerlatino.live/stream/m3u8/294
-#EXTINF:-1 ,CANAL 295
+#EXTINF:-1 group-title="PELICULAS Y SERIES" ,CANAL 295 CINE LATINO
 https://v3.playerlatino.live/stream/m3u8/295
 #EXTINF:-1 ,CANAL 296
 https://v3.playerlatino.live/stream/m3u8/296
 #EXTINF:-1 ,CANAL 297
 https://v3.playerlatino.live/stream/m3u8/297
-#EXTINF:-1 ,CANAL 298
+#EXTINF:-1 group-title="CANALES" ,CANAL 298 ANTENA 3
 https://v3.playerlatino.live/stream/m3u8/298
 #EXTINF:-1 ,CANAL 299
 https://v3.playerlatino.live/stream/m3u8/299
-#EXTINF:-1 ,CANAL 300
+#EXTINF:-1 group-title="PELICULAS Y SERIES" ,CANAL 300 HBO2
 https://v3.playerlatino.live/stream/m3u8/300
 #EXTINF:-1 ,CANAL 301
 https://v3.playerlatino.live/stream/m3u8/301
@@ -631,13 +631,13 @@ https://v3.playerlatino.live/stream/m3u8/314
 https://v3.playerlatino.live/stream/m3u8/315
 #EXTINF:-1 ,CANAL 316
 https://v3.playerlatino.live/stream/m3u8/316
-#EXTINF:-1 ,CANAL 317
+#EXTINF:-1 group-title="CANALES" ,CANAL 317 LATINA PERU
 https://v3.playerlatino.live/stream/m3u8/317
-#EXTINF:-1 ,CANAL 318
+#EXTINF:-1 group-title="DEPORTES" ,CANAL 318 TNT SPORTS CHILE
 https://v3.playerlatino.live/stream/m3u8/318
 #EXTINF:-1 ,CANAL 319
 https://v3.playerlatino.live/stream/m3u8/319
-#EXTINF:-1 ,CANAL 320
+#EXTINF:-1 group-title="CANALES" ,CANAL 320 TELE AMAZONAS
 https://v3.playerlatino.live/stream/m3u8/320
 #EXTINF:-1 ,CANAL 321
 https://v3.playerlatino.live/stream/m3u8/321
@@ -653,11 +653,11 @@ https://v3.playerlatino.live/stream/m3u8/325
 https://v3.playerlatino.live/stream/m3u8/326
 #EXTINF:-1 ,CANAL 327
 https://v3.playerlatino.live/stream/m3u8/327
-#EXTINF:-1 ,CANAL 328
+#EXTINF:-1 group-title="DEPORTES" ,CANAL 328 CLARO SPORTS
 https://v3.playerlatino.live/stream/m3u8/328
-#EXTINF:-1 ,CANAL 329
+#EXTINF:-1 group-title="24/7" ,CANAL 329 DRAGON BALL
 https://v3.playerlatino.live/stream/m3u8/329
-#EXTINF:-1 ,CANAL 330
+#EXTINF:-1 group-title="DEPORTES" ,CANAL 330 TDP DEPORTES ESPAÑA
 https://v3.playerlatino.live/stream/m3u8/330
 #EXTINF:-1 ,CANAL 331
 https://v3.playerlatino.live/stream/m3u8/331
@@ -679,7 +679,7 @@ https://v3.playerlatino.live/stream/m3u8/338
 https://v3.playerlatino.live/stream/m3u8/339
 #EXTINF:-1 ,CANAL 340
 https://v3.playerlatino.live/stream/m3u8/340
-#EXTINF:-1 ,CANAL 341
+#EXTINF:-1 group-title="CANALES" ,CANAL 341 IMAGEN MX
 https://v3.playerlatino.live/stream/m3u8/341
 #EXTINF:-1 ,CANAL 342
 https://v3.playerlatino.live/stream/m3u8/342
@@ -711,7 +711,7 @@ https://v3.playerlatino.live/stream/m3u8/354
 https://v3.playerlatino.live/stream/m3u8/355
 #EXTINF:-1 ,CANAL 356
 https://v3.playerlatino.live/stream/m3u8/356
-#EXTINF:-1 ,CANAL 357
+#EXTINF:-1 group-title="24/7" ,CANAL 357 LOS SIMPSONS
 https://v3.playerlatino.live/stream/m3u8/357
 #EXTINF:-1 ,CANAL 358
 https://v3.playerlatino.live/stream/m3u8/358
@@ -725,21 +725,21 @@ https://v3.playerlatino.live/stream/m3u8/361
 https://v3.playerlatino.live/stream/m3u8/362
 #EXTINF:-1 ,CANAL 363
 https://v3.playerlatino.live/stream/m3u8/363
-#EXTINF:-1 ,CANAL 364
+#EXTINF:-1 group-title="PELICULAS Y SERIES" ,CANAL 364 MOVISTAR ACCION
 https://v3.playerlatino.live/stream/m3u8/364
 #EXTINF:-1 ,CANAL 365
 https://v3.playerlatino.live/stream/m3u8/365
-#EXTINF:-1 ,CANAL 366
+#EXTINF:-1 group-title="DEPORTES" ,CANAL 366 MOVISTAR DEPORTES
 https://v3.playerlatino.live/stream/m3u8/366
-#EXTINF:-1 ,CANAL 367
+#EXTINF:-1 group-title="DEPORTES" ,CANAL 367 MOVISTAR LIGA DE CAMPEONES
 https://v3.playerlatino.live/stream/m3u8/367
 #EXTINF:-1 ,CANAL 368
 https://v3.playerlatino.live/stream/m3u8/368
-#EXTINF:-1 ,CANAL 369
+#EXTINF:-1 group-title="ZZ" ,CANAL 369 TOROS
 https://v3.playerlatino.live/stream/m3u8/369
-#EXTINF:-1 ,CANAL 370
+#EXTINF:-1 group-title="INTERES GENERAL Y ENTRETENIMIENTO" ,CANAL 370 MOVISTAR COMEDIA
 https://v3.playerlatino.live/stream/m3u8/370
-#EXTINF:-1 ,CANAL 371
+#EXTINF:-1 group-title="PELICULAS Y SERIES" ,CANAL 371 MOVISTAR CINE Ñ
 https://v3.playerlatino.live/stream/m3u8/371
 #EXTINF:-1 ,CANAL 372
 https://v3.playerlatino.live/stream/m3u8/372
@@ -749,7 +749,7 @@ https://v3.playerlatino.live/stream/m3u8/373
 https://v3.playerlatino.live/stream/m3u8/374
 #EXTINF:-1 ,CANAL 375
 https://v3.playerlatino.live/stream/m3u8/375
-#EXTINF:-1 ,CANAL 376
+#EXTINF:-1 group-title="DEPORTES" ,CANAL 376 BEIN SPORTS Ñ
 https://v3.playerlatino.live/stream/m3u8/376
 #EXTINF:-1 ,CANAL 377
 https://v3.playerlatino.live/stream/m3u8/377
@@ -777,9 +777,9 @@ https://v3.playerlatino.live/stream/m3u8/387
 https://v3.playerlatino.live/stream/m3u8/388
 #EXTINF:-1 ,CANAL 389
 https://v3.playerlatino.live/stream/m3u8/389
-#EXTINF:-1 ,CANAL 390
+#EXTINF:-1 group-title="CANALES" ,CANAL 390 RCN COLOMBIA
 https://v3.playerlatino.live/stream/m3u8/390
-#EXTINF:-1 ,CANAL 391
+#EXTINF:-1 group-title="CANALES" ,CANAL 391 CARACOL
 https://v3.playerlatino.live/stream/m3u8/391
 #EXTINF:-1 ,CANAL 392
 https://v3.playerlatino.live/stream/m3u8/392
@@ -795,11 +795,11 @@ https://v3.playerlatino.live/stream/m3u8/396
 https://v3.playerlatino.live/stream/m3u8/397
 #EXTINF:-1 ,CANAL 398
 https://v3.playerlatino.live/stream/m3u8/398
-#EXTINF:-1 ,CANAL 399
+#EXTINF:-1 group-title="CANALES" ,CANAL 399 BH TV PERU
 https://v3.playerlatino.live/stream/m3u8/399
-#EXTINF:-1 ,CANAL 400
+#EXTINF:-1 group-title="24/7" ,CANAL 400 EL CHAVO
 https://v3.playerlatino.live/stream/m3u8/400
-#EXTINF:-1 ,CANAL 401
+#EXTINF:-1 group-title="DEPORTES" ,CANAL 401 CDO CHILE
 https://v3.playerlatino.live/stream/m3u8/401
 #EXTINF:-1 ,CANAL 402
 https://v3.playerlatino.live/stream/m3u8/402
@@ -809,7 +809,7 @@ https://v3.playerlatino.live/stream/m3u8/403
 https://v3.playerlatino.live/stream/m3u8/404
 #EXTINF:-1 ,CANAL 405
 https://v3.playerlatino.live/stream/m3u8/405
-#EXTINF:-1 ,CANAL 406
+#EXTINF:-1 group-title="CANALES" ,CANAL 406 A MAS +  MX
 https://v3.playerlatino.live/stream/m3u8/406
 #EXTINF:-1 ,CANAL 407
 https://v3.playerlatino.live/stream/m3u8/407
@@ -817,51 +817,51 @@ https://v3.playerlatino.live/stream/m3u8/407
 https://v3.playerlatino.live/stream/m3u8/408
 #EXTINF:-1 ,CANAL 409
 https://v3.playerlatino.live/stream/m3u8/409
-#EXTINF:-1 ,CANAL 410
+#EXTINF:-1 group-title="DEPORTES" ,CANAL 410 FOX SPORTS 2 ARG
 https://v3.playerlatino.live/stream/m3u8/410
-#EXTINF:-1 ,CANAL 411
+#EXTINF:-1 group-title="CANALES" ,CANAL 411 CANAL DE LAS ESTRELLAS
 https://v3.playerlatino.live/stream/m3u8/411
 #EXTINF:-1 ,CANAL 412
 https://v3.playerlatino.live/stream/m3u8/412
-#EXTINF:-1 ,CANAL 413
+#EXTINF:-1 group-title="CANALES" ,CANAL 413 TLNOVELAS UNIVISION
 https://v3.playerlatino.live/stream/m3u8/413
 #EXTINF:-1 ,CANAL 414
 https://v3.playerlatino.live/stream/m3u8/414
 #EXTINF:-1 ,CANAL 415
 https://v3.playerlatino.live/stream/m3u8/415
-#EXTINF:-1 ,CANAL 416
+#EXTINF:-1 group-title="24/7" ,CANAL 416 PADRE DE FAMILIA
 https://v3.playerlatino.live/stream/m3u8/416
-#EXTINF:-1 ,CANAL 417
+#EXTINF:-1 group-title="24/7" ,CANAL 417 CHESPIRITO
 https://v3.playerlatino.live/stream/m3u8/417
-#EXTINF:-1 ,CANAL 418
+#EXTINF:-1 group-title="24/7" ,CANAL 418 EL CHAPULIN COLORADO
 https://v3.playerlatino.live/stream/m3u8/418
-#EXTINF:-1 ,CANAL 419
+#EXTINF:-1 group-title="24/7" ,CANAL 419 RANMA 1/2
 https://v3.playerlatino.live/stream/m3u8/419
-#EXTINF:-1 ,CANAL 420
+#EXTINF:-1 group-title="24/7" ,CANAL 420 POKEMON
 https://v3.playerlatino.live/stream/m3u8/420
-#EXTINF:-1 ,CANAL 421
+#EXTINF:-1 group-title="24/7" ,CANAL 421 TOM Y JERRY
 https://v3.playerlatino.live/stream/m3u8/421
-#EXTINF:-1 ,CANAL 422
+#EXTINF:-1 group-title="24/7" ,CANAL 422 SCOOBY DOO
 https://v3.playerlatino.live/stream/m3u8/422
 #EXTINF:-1 ,CANAL 423
 https://v3.playerlatino.live/stream/m3u8/423
-#EXTINF:-1 ,CANAL 424
+#EXTINF:-1 group-title="24/7" ,CANAL 424 DRAGON BALL
 https://v3.playerlatino.live/stream/m3u8/424
-#EXTINF:-1 ,CANAL 425
+#EXTINF:-1 group-title="24/7" ,CANAL 425 DRAGON BALL
 https://v3.playerlatino.live/stream/m3u8/425
-#EXTINF:-1 ,CANAL 426
+#EXTINF:-1 group-title="24/7" ,CANAL 426 ALF
 https://v3.playerlatino.live/stream/m3u8/426
-#EXTINF:-1 ,CANAL 427
+#EXTINF:-1 group-title="24/7" ,CANAL 427 CABALLEROS DEL ZODIACO
 https://v3.playerlatino.live/stream/m3u8/427
-#EXTINF:-1 ,CANAL 428
+#EXTINF:-1 group-title="24/7" ,CANAL 428 CANTINFLAS ANIMADO
 https://v3.playerlatino.live/stream/m3u8/428
 #EXTINF:-1 ,CANAL 429
 https://v3.playerlatino.live/stream/m3u8/429
-#EXTINF:-1 ,CANAL 430
+#EXTINF:-1 group-title="24/7" ,CANAL 430 EL PRINCIPE DEL RAP
 https://v3.playerlatino.live/stream/m3u8/430
-#EXTINF:-1 ,CANAL 431
+#EXTINF:-1 group-title="24/7" ,CANAL 431 MR BEAN
 https://v3.playerlatino.live/stream/m3u8/431
-#EXTINF:-1 ,CANAL 432
+#EXTINF:-1 group-title="24/7" ,CANAL 432 SUPERCAMPEONES
 https://v3.playerlatino.live/stream/m3u8/432
 #EXTINF:-1 ,CANAL 433
 https://v3.playerlatino.live/stream/m3u8/433
@@ -885,13 +885,13 @@ https://v3.playerlatino.live/stream/m3u8/441
 https://v3.playerlatino.live/stream/m3u8/442
 #EXTINF:-1 ,CANAL 443
 https://v3.playerlatino.live/stream/m3u8/443
-#EXTINF:-1 ,CANAL 444
+#EXTINF:-1 group-title="PELICULAS Y SERIES" ,CANAL 444 A3SERIES
 https://v3.playerlatino.live/stream/m3u8/444
 #EXTINF:-1 ,CANAL 445
 https://v3.playerlatino.live/stream/m3u8/445
 #EXTINF:-1 ,CANAL 446
 https://v3.playerlatino.live/stream/m3u8/446
-#EXTINF:-1 ,CANAL 447
+#EXTINF:-1 group-title="CANALES" ,CANAL 447 ADN40 MX
 https://v3.playerlatino.live/stream/m3u8/447
 #EXTINF:-1 ,CANAL 448
 https://v3.playerlatino.live/stream/m3u8/448
@@ -945,11 +945,11 @@ https://v3.playerlatino.live/stream/m3u8/471
 https://v3.playerlatino.live/stream/m3u8/472
 #EXTINF:-1 ,CANAL 473
 https://v3.playerlatino.live/stream/m3u8/473
-#EXTINF:-1 ,CANAL 474
+#EXTINF:-1 group-title="PELICULAS Y SERIES" ,CANAL 474 A&E SOUTH
 https://v3.playerlatino.live/stream/m3u8/474
-#EXTINF:-1 ,CANAL 475
+#EXTINF:-1 group-title="PELICULAS Y SERIES" ,CANAL 475 AMC
 https://v3.playerlatino.live/stream/m3u8/475
-#EXTINF:-1 ,CANAL 476
+#EXTINF:-1 group-title="PELICULAS Y SERIES" ,CANAL 476 AXN
 https://v3.playerlatino.live/stream/m3u8/476
 #EXTINF:-1 ,CANAL 477
 https://v3.playerlatino.live/stream/m3u8/477
@@ -957,25 +957,25 @@ https://v3.playerlatino.live/stream/m3u8/477
 https://v3.playerlatino.live/stream/m3u8/478
 #EXTINF:-1 ,CANAL 479
 https://v3.playerlatino.live/stream/m3u8/479
-#EXTINF:-1 ,CANAL 480
+#EXTINF:-1 group-title="INTERES GENERAL Y ENTRETENIMIENTO" ,CANAL 480 COMEDY CENTRAL
 https://v3.playerlatino.live/stream/m3u8/480
-#EXTINF:-1 ,CANAL 481
+#EXTINF:-1 group-title="PELICULAS Y SERIES" ,CANAL 481 DPELICULA
 https://v3.playerlatino.live/stream/m3u8/481
 #EXTINF:-1 ,CANAL 482
 https://v3.playerlatino.live/stream/m3u8/482
-#EXTINF:-1 ,CANAL 483
+#EXTINF:-1 group-title="INTERES GENERAL Y ENTRETENIMIENTO" ,CANAL 483 E!
 https://v3.playerlatino.live/stream/m3u8/483
-#EXTINF:-1 ,CANAL 484
+#EXTINF:-1 group-title="DEPORTES" ,CANAL 484 ESPN 2 MX
 https://v3.playerlatino.live/stream/m3u8/484
-#EXTINF:-1 ,CANAL 485
+#EXTINF:-1 group-title="DEPORTES" ,CANAL 485 ESPN 3 MX
 https://v3.playerlatino.live/stream/m3u8/485
 #EXTINF:-1 ,CANAL 486
 https://v3.playerlatino.live/stream/m3u8/486
-#EXTINF:-1 ,CANAL 487
+#EXTINF:-1 group-title="DEPORTES" ,CANAL 487 ESPN EXTRA ARG
 https://v3.playerlatino.live/stream/m3u8/487
 #EXTINF:-1 ,CANAL 488
 https://v3.playerlatino.live/stream/m3u8/488
-#EXTINF:-1 ,CANAL 489
+#EXTINF:-1 group-title="PELICULAS Y SERIES" ,CANAL 489 STAR CHANNEL
 https://v3.playerlatino.live/stream/m3u8/489
 #EXTINF:-1 ,CANAL 490
 https://v3.playerlatino.live/stream/m3u8/490
@@ -983,27 +983,27 @@ https://v3.playerlatino.live/stream/m3u8/490
 https://v3.playerlatino.live/stream/m3u8/491
 #EXTINF:-1 ,CANAL 492
 https://v3.playerlatino.live/stream/m3u8/492
-#EXTINF:-1 ,CANAL 493
+#EXTINF:-1 group-title="DEPORTES" ,CANAL 493 ESPN 4
 https://v3.playerlatino.live/stream/m3u8/493
-#EXTINF:-1 ,CANAL 494
+#EXTINF:-1 group-title="DEPORTES" ,CANAL 494 ESPN EXTRA
 https://v3.playerlatino.live/stream/m3u8/494
-#EXTINF:-1 ,CANAL 495
+#EXTINF:-1 group-title="PELICULAS Y SERIES" ,CANAL 495 FX
 https://v3.playerlatino.live/stream/m3u8/495
 #EXTINF:-1 ,CANAL 496
 https://v3.playerlatino.live/stream/m3u8/496
 #EXTINF:-1 ,CANAL 497
 https://v3.playerlatino.live/stream/m3u8/497
-#EXTINF:-1 ,CANAL 498
+#EXTINF:-1 group-title="PELICULAS Y SERIES" ,CANAL 498 SONY CHANNEL
 https://v3.playerlatino.live/stream/m3u8/498
-#EXTINF:-1 ,CANAL 499
+#EXTINF:-1 group-title="PELICULAS Y SERIES" ,CANAL 499 SPACE
 https://v3.playerlatino.live/stream/m3u8/499
-#EXTINF:-1 ,CANAL 500
+#EXTINF:-1 group-title="PELICULAS Y SERIES" ,CANAL 500 TNT
 https://v3.playerlatino.live/stream/m3u8/500
-#EXTINF:-1 ,CANAL 501
+#EXTINF:-1 group-title="INTERES GENERAL Y ENTRETENIMIENTO" ,CANAL 501 TRU TV
 https://v3.playerlatino.live/stream/m3u8/501
-#EXTINF:-1 ,CANAL 502
+#EXTINF:-1 group-title="PELICULAS Y SERIES" ,CANAL 502 UNIVERSAL TV
 https://v3.playerlatino.live/stream/m3u8/502
-#EXTINF:-1 ,CANAL 503
+#EXTINF:-1 group-title="PELICULAS Y SERIES" ,CANAL 503 WB TV LATINO
 https://v3.playerlatino.live/stream/m3u8/503
 #EXTINF:-1 ,CANAL 504
 https://v3.playerlatino.live/stream/m3u8/504
@@ -1015,51 +1015,51 @@ https://v3.playerlatino.live/stream/m3u8/506
 https://v3.playerlatino.live/stream/m3u8/507
 #EXTINF:-1 ,CANAL 508
 https://v3.playerlatino.live/stream/m3u8/508
-#EXTINF:-1 ,CANAL 509
+#EXTINF:-1 group-title="DEPORTES" ,CANAL 509 TNT SPORTS ARG
 https://v3.playerlatino.live/stream/m3u8/509
 #EXTINF:-1 ,CANAL 510
 https://v3.playerlatino.live/stream/m3u8/510
-#EXTINF:-1 ,CANAL 511
+#EXTINF:-1 group-title="DEPORTES" ,CANAL 511 FOX SPORTS 3 ARG
 https://v3.playerlatino.live/stream/m3u8/511
-#EXTINF:-1 ,CANAL 512
+#EXTINF:-1 group-title="DEPORTES" ,CANAL 512 FOX SPORTS PREMIUM
 https://v3.playerlatino.live/stream/m3u8/512
 #EXTINF:-1 ,CANAL 513
 https://v3.playerlatino.live/stream/m3u8/513
-#EXTINF:-1 ,CANAL 514
+#EXTINF:-1 group-title="DEPORTES" ,CANAL 514 GOL TV
 https://v3.playerlatino.live/stream/m3u8/514
-#EXTINF:-1 ,CANAL 515
+#EXTINF:-1 group-title="PPV" ,CANAL 515 CINE 37
 https://v3.playerlatino.live/stream/m3u8/515
 #EXTINF:-1 ,CANAL 516
 https://v3.playerlatino.live/stream/m3u8/516
 #EXTINF:-1 ,CANAL 517
 https://v3.playerlatino.live/stream/m3u8/517
-#EXTINF:-1 ,CANAL 518
+#EXTINF:-1 group-title="24/7" ,CANAL 518 BOB ESPONJA
 https://v3.playerlatino.live/stream/m3u8/518
-#EXTINF:-1 ,CANAL 519
+#EXTINF:-1 group-title="24/7" ,CANAL 519 CORAJE
 https://v3.playerlatino.live/stream/m3u8/519
-#EXTINF:-1 ,CANAL 520
+#EXTINF:-1 group-title="24/7" ,CANAL 520 DRAGON BALL
 https://v3.playerlatino.live/stream/m3u8/520
-#EXTINF:-1 ,CANAL 521
+#EXTINF:-1 group-title="24/7" ,CANAL 521 DORAEMON
 https://v3.playerlatino.live/stream/m3u8/521
-#EXTINF:-1 ,CANAL 522
+#EXTINF:-1 group-title="24/7" ,CANAL 522 DIBUJITOS
 https://v3.playerlatino.live/stream/m3u8/522
-#EXTINF:-1 ,CANAL 523
+#EXTINF:-1 group-title="24/7" ,CANAL 523 ANIME
 https://v3.playerlatino.live/stream/m3u8/523
-#EXTINF:-1 ,CANAL 524
+#EXTINF:-1 group-title="24/7" ,CANAL 524 DIBUJITOS WARNER
 https://v3.playerlatino.live/stream/m3u8/524
-#EXTINF:-1 ,CANAL 525
+#EXTINF:-1 group-title="24/7" ,CANAL 525 CHILI WILLY
 https://v3.playerlatino.live/stream/m3u8/525
 #EXTINF:-1 ,CANAL 526
 https://v3.playerlatino.live/stream/m3u8/526
-#EXTINF:-1 ,CANAL 527
+#EXTINF:-1 group-title="DEPORTES" ,CANAL 527 FOX SPORTS MX
 https://v3.playerlatino.live/stream/m3u8/527
-#EXTINF:-1 ,CANAL 528
+#EXTINF:-1 group-title="DEPORTES" ,CANAL 528 ESPN EXTRA
 https://v3.playerlatino.live/stream/m3u8/528
 #EXTINF:-1 ,CANAL 529
 https://v3.playerlatino.live/stream/m3u8/529
-#EXTINF:-1 ,CANAL 530
+#EXTINF:-1 group-title="DEPORTES" ,CANAL 530 ESPN MX
 https://v3.playerlatino.live/stream/m3u8/530
-#EXTINF:-1 ,CANAL 531
+#EXTINF:-1 group-title="DEPORTES" ,CANAL 531 ESPN 2 MX
 https://v3.playerlatino.live/stream/m3u8/531
 #EXTINF:-1 ,CANAL 532
 https://v3.playerlatino.live/stream/m3u8/532
@@ -1263,49 +1263,49 @@ https://v3.playerlatino.live/stream/m3u8/630
 https://v3.playerlatino.live/stream/m3u8/631
 #EXTINF:-1 ,CANAL 632
 https://v3.playerlatino.live/stream/m3u8/632
-#EXTINF:-1 ,CANAL 633
+#EXTINF:-1 group-title="INTERES GENERAL Y ENTRETENIMIENTO" ,CANAL 633 ANIMAL PLANET
 https://v3.playerlatino.live/stream/m3u8/633
-#EXTINF:-1 ,CANAL 634
+#EXTINF:-1 group-title="CANALES" ,CANAL 634 UNO MX
 https://v3.playerlatino.live/stream/m3u8/634
-#EXTINF:-1 ,CANAL 635
+#EXTINF:-1 group-title="DEPORTES" ,CANAL 635 AZTECA
 https://v3.playerlatino.live/stream/m3u8/635
-#EXTINF:-1 ,CANAL 636
+#EXTINF:-1 group-title="CANALES" ,CANAL 636 CANAL DE LAS ESTRELLAS
 https://v3.playerlatino.live/stream/m3u8/636
-#EXTINF:-1 ,CANAL 637
+#EXTINF:-1 group-title="INFANTILES" ,CANAL 637 CARTOON NETWORK
 https://v3.playerlatino.live/stream/m3u8/637
-#EXTINF:-1 ,CANAL 638
+#EXTINF:-1 group-title="PELICULAS Y SERIES" ,CANAL 638 CINEMAX
 https://v3.playerlatino.live/stream/m3u8/638
-#EXTINF:-1 ,CANAL 639
+#EXTINF:-1 group-title="INTERES GENERAL Y ENTRETENIMIENTO" ,CANAL 639 DISCOVERY
 https://v3.playerlatino.live/stream/m3u8/639
-#EXTINF:-1 ,CANAL 640
+#EXTINF:-1 group-title="INTERES GENERAL Y ENTRETENIMIENTO" ,CANAL 640 DISCOVERY H&H
 https://v3.playerlatino.live/stream/m3u8/640
-#EXTINF:-1 ,CANAL 641
+#EXTINF:-1 group-title="INFANTILES" ,CANAL 641 DISCOVERY KIDS
 https://v3.playerlatino.live/stream/m3u8/641
-#EXTINF:-1 ,CANAL 642
+#EXTINF:-1 group-title="INTERES GENERAL Y ENTRETENIMIENTO" ,CANAL 642 HISTORY
 https://v3.playerlatino.live/stream/m3u8/642
 #EXTINF:-1 ,CANAL 643
 https://v3.playerlatino.live/stream/m3u8/643
-#EXTINF:-1 ,CANAL 644
+#EXTINF:-1 group-title="INTERES GENERAL Y ENTRETENIMIENTO" ,CANAL 644 NATGEO
 https://v3.playerlatino.live/stream/m3u8/644
-#EXTINF:-1 ,CANAL 645
+#EXTINF:-1 group-title="INFANTILES" ,CANAL 645 NICK
 https://v3.playerlatino.live/stream/m3u8/645
-#EXTINF:-1 ,CANAL 646
+#EXTINF:-1 group-title="INFANTILES" ,CANAL 646 TEEN NICK
 https://v3.playerlatino.live/stream/m3u8/646
 #EXTINF:-1 ,CANAL 647
 https://v3.playerlatino.live/stream/m3u8/647
-#EXTINF:-1 ,CANAL 648
+#EXTINF:-1 group-title="PELICULAS Y SERIES" ,CANAL 648 SYFY
 https://v3.playerlatino.live/stream/m3u8/648
-#EXTINF:-1 ,CANAL 649
+#EXTINF:-1 group-title="MUSICA" ,CANAL 649 TELEHIT
 https://v3.playerlatino.live/stream/m3u8/649
-#EXTINF:-1 ,CANAL 650
+#EXTINF:-1 group-title="PELICULAS Y SERIES" ,CANAL 650 TNT
 https://v3.playerlatino.live/stream/m3u8/650
 #EXTINF:-1 ,CANAL 651
 https://v3.playerlatino.live/stream/m3u8/651
 #EXTINF:-1 ,CANAL 652
 https://v3.playerlatino.live/stream/m3u8/652
-#EXTINF:-1 ,CANAL 653
+#EXTINF:-1 group-title="CANALES" ,CANAL 653 UNICABLE
 https://v3.playerlatino.live/stream/m3u8/653
-#EXTINF:-1 ,CANAL 654
+#EXTINF:-1 group-title="PELICULAS Y SERIES" ,CANAL 654 HBO
 https://v3.playerlatino.live/stream/m3u8/654
 #EXTINF:-1 ,CANAL 655
 https://v3.playerlatino.live/stream/m3u8/655
@@ -1313,69 +1313,69 @@ https://v3.playerlatino.live/stream/m3u8/655
 https://v3.playerlatino.live/stream/m3u8/656
 #EXTINF:-1 ,CANAL 657
 https://v3.playerlatino.live/stream/m3u8/657
-#EXTINF:-1 ,CANAL 658
+#EXTINF:-1 group-title="DEPORTES" ,CANAL 658 ESPN PREMIUM
 https://v3.playerlatino.live/stream/m3u8/658
 #EXTINF:-1 ,CANAL 659
 https://v3.playerlatino.live/stream/m3u8/659
 #EXTINF:-1 ,CANAL 660
 https://v3.playerlatino.live/stream/m3u8/660
-#EXTINF:-1 ,CANAL 661
+#EXTINF:-1 group-title="24/7" ,CANAL 661 ANIME
 https://v3.playerlatino.live/stream/m3u8/661
-#EXTINF:-1 ,CANAL 662
+#EXTINF:-1 group-title="PPV" ,CANAL 662 CINE
 https://v3.playerlatino.live/stream/m3u8/662
-#EXTINF:-1 ,CANAL 663
+#EXTINF:-1 group-title="24/7" ,CANAL 663 ANIME
 https://v3.playerlatino.live/stream/m3u8/663
-#EXTINF:-1 ,CANAL 664
+#EXTINF:-1 group-title="24/7" ,CANAL 664 ANIME
 https://v3.playerlatino.live/stream/m3u8/664
 #EXTINF:-1 ,CANAL 665
 https://v3.playerlatino.live/stream/m3u8/665
 #EXTINF:-1 ,CANAL 666
 https://v3.playerlatino.live/stream/m3u8/666
-#EXTINF:-1 ,CANAL 667
+#EXTINF:-1 group-title="DEPORTES" ,CANAL 667 DSPORTS 2
 https://v3.playerlatino.live/stream/m3u8/667
 #EXTINF:-1 ,CANAL 668
 https://v3.playerlatino.live/stream/m3u8/668
-#EXTINF:-1 ,CANAL 669
+#EXTINF:-1 group-title="24/7" ,CANAL 669 LOS PICAPIEDRA
 https://v3.playerlatino.live/stream/m3u8/669
-#EXTINF:-1 ,CANAL 670
+#EXTINF:-1 group-title="24/7" ,CANAL 670 DINOSAURIOS
 https://v3.playerlatino.live/stream/m3u8/670
-#EXTINF:-1 ,CANAL 671
+#EXTINF:-1 group-title="24/7" ,CANAL 671 LA PANTERA ROSA
 https://v3.playerlatino.live/stream/m3u8/671
-#EXTINF:-1 ,CANAL 672
+#EXTINF:-1 group-title="24/7" ,CANAL 672 ANIME CHINITAS
 https://v3.playerlatino.live/stream/m3u8/672
-#EXTINF:-1 ,CANAL 673
+#EXTINF:-1 group-title="PPV" ,CANAL 673 CINE
 https://v3.playerlatino.live/stream/m3u8/673
 #EXTINF:-1 ,CANAL 674
 https://v3.playerlatino.live/stream/m3u8/674
-#EXTINF:-1 ,CANAL 675
+#EXTINF:-1 group-title="PPV" ,CANAL 675 CINE
 https://v3.playerlatino.live/stream/m3u8/675
-#EXTINF:-1 ,CANAL 676
+#EXTINF:-1 group-title="PPV" ,CANAL 676 CINE
 https://v3.playerlatino.live/stream/m3u8/676
-#EXTINF:-1 ,CANAL 677
+#EXTINF:-1 group-title="24/7" ,CANAL 677 DIBUJITO
 https://v3.playerlatino.live/stream/m3u8/677
-#EXTINF:-1 ,CANAL 678
+#EXTINF:-1 group-title="PPV" ,CANAL 678 CINE
 https://v3.playerlatino.live/stream/m3u8/678
 #EXTINF:-1 ,CANAL 679
 https://v3.playerlatino.live/stream/m3u8/679
-#EXTINF:-1 ,CANAL 680
+#EXTINF:-1 group-title="PPV" ,CANAL 680 CINE
 https://v3.playerlatino.live/stream/m3u8/680
 #EXTINF:-1 ,CANAL 681
 https://v3.playerlatino.live/stream/m3u8/681
-#EXTINF:-1 ,CANAL 682
+#EXTINF:-1 group-title="PPV" ,CANAL 682 CINE
 https://v3.playerlatino.live/stream/m3u8/682
 #EXTINF:-1 ,CANAL 683
 https://v3.playerlatino.live/stream/m3u8/683
-#EXTINF:-1 ,CANAL 684
+#EXTINF:-1 group-title="PPV" ,CANAL 684 CINE
 https://v3.playerlatino.live/stream/m3u8/684
 #EXTINF:-1 ,CANAL 685
 https://v3.playerlatino.live/stream/m3u8/685
-#EXTINF:-1 ,CANAL 686
+#EXTINF:-1 group-title="DEPORTES" ,CANAL 686 GOL PERU
 https://v3.playerlatino.live/stream/m3u8/686
-#EXTINF:-1 ,CANAL 687
+#EXTINF:-1 group-title="PPV" ,CANAL 687 CINE
 https://v3.playerlatino.live/stream/m3u8/687
-#EXTINF:-1 ,CANAL 688
+#EXTINF:-1 group-title="PPV" ,CANAL 688 CINE
 https://v3.playerlatino.live/stream/m3u8/688
-#EXTINF:-1 ,CANAL 689
+#EXTINF:-1 group-title="PPV" ,CANAL 689 CINE
 https://v3.playerlatino.live/stream/m3u8/689
 #EXTINF:-1 ,CANAL 690
 https://v3.playerlatino.live/stream/m3u8/690
@@ -1385,15 +1385,15 @@ https://v3.playerlatino.live/stream/m3u8/691
 https://v3.playerlatino.live/stream/m3u8/692
 #EXTINF:-1 ,CANAL 693
 https://v3.playerlatino.live/stream/m3u8/693
-#EXTINF:-1 ,CANAL 694
+#EXTINF:-1 group-title="PPV" ,CANAL 694 CINE
 https://v3.playerlatino.live/stream/m3u8/694
 #EXTINF:-1 ,CANAL 695
 https://v3.playerlatino.live/stream/m3u8/695
-#EXTINF:-1 ,CANAL 696
+#EXTINF:-1 group-title="24/7" ,CANAL 696 NN ENTRETENIMIENTO
 https://v3.playerlatino.live/stream/m3u8/696
 #EXTINF:-1 ,CANAL 697
 https://v3.playerlatino.live/stream/m3u8/697
-#EXTINF:-1 ,CANAL 698
+#EXTINF:-1 group-title="DEPORTES" ,CANAL 698 TUDN
 https://v3.playerlatino.live/stream/m3u8/698
 #EXTINF:-1 ,CANAL 699
 https://v3.playerlatino.live/stream/m3u8/699
@@ -1401,45 +1401,45 @@ https://v3.playerlatino.live/stream/m3u8/699
 https://v3.playerlatino.live/stream/m3u8/700
 #EXTINF:-1 ,CANAL 701
 https://v3.playerlatino.live/stream/m3u8/701
-#EXTINF:-1 ,CANAL 702
+#EXTINF:-1 group-title="PPV" ,CANAL 702 CINE
 https://v3.playerlatino.live/stream/m3u8/702
 #EXTINF:-1 ,CANAL 703
 https://v3.playerlatino.live/stream/m3u8/703
 #EXTINF:-1 ,CANAL 704
 https://v3.playerlatino.live/stream/m3u8/704
-#EXTINF:-1 ,CANAL 705
+#EXTINF:-1 group-title="PPV" ,CANAL 705 CINE
 https://v3.playerlatino.live/stream/m3u8/705
-#EXTINF:-1 ,CANAL 706
+#EXTINF:-1 group-title="PPV" ,CANAL 706 CINE
 https://v3.playerlatino.live/stream/m3u8/706
-#EXTINF:-1 ,CANAL 707
+#EXTINF:-1 group-title="PPV" ,CANAL 707 CINE
 https://v3.playerlatino.live/stream/m3u8/707
-#EXTINF:-1 ,CANAL 708
+#EXTINF:-1 group-title="DEPORTES" ,CANAL 708 VTV
 https://v3.playerlatino.live/stream/m3u8/708
-#EXTINF:-1 ,CANAL 709
+#EXTINF:-1 group-title="PPV" ,CANAL 709 CINE
 https://v3.playerlatino.live/stream/m3u8/709
-#EXTINF:-1 ,CANAL 710
+#EXTINF:-1 group-title="PPV" ,CANAL 710 CINE
 https://v3.playerlatino.live/stream/m3u8/710
 #EXTINF:-1 ,CANAL 711
 https://v3.playerlatino.live/stream/m3u8/711
 #EXTINF:-1 ,CANAL 712
 https://v3.playerlatino.live/stream/m3u8/712
-#EXTINF:-1 ,CANAL 713
+#EXTINF:-1 group-title="PELICULAS Y SERIES" ,CANAL 713 AXN ESPAÑA
 https://v3.playerlatino.live/stream/m3u8/713
 #EXTINF:-1 ,CANAL 714
 https://v3.playerlatino.live/stream/m3u8/714
 #EXTINF:-1 ,CANAL 715
 https://v3.playerlatino.live/stream/m3u8/715
-#EXTINF:-1 ,CANAL 716
+#EXTINF:-1 group-title="PELICULAS Y SERIES" ,CANAL 716 WB TV ESPAÑA
 https://v3.playerlatino.live/stream/m3u8/716
 #EXTINF:-1 ,CANAL 717
 https://v3.playerlatino.live/stream/m3u8/717
 #EXTINF:-1 ,CANAL 718
 https://v3.playerlatino.live/stream/m3u8/718
-#EXTINF:-1 ,CANAL 719
+#EXTINF:-1 group-title="24/7" ,CANAL 719 COMEDY CENTRAL
 https://v3.playerlatino.live/stream/m3u8/719
 #EXTINF:-1 ,CANAL 720
 https://v3.playerlatino.live/stream/m3u8/720
-#EXTINF:-1 ,CANAL 721
+#EXTINF:-1 group-title="24/7" ,CANAL 721 PINKY Y CEREBRO
 https://v3.playerlatino.live/stream/m3u8/721
 #EXTINF:-1 ,CANAL 722
 https://v3.playerlatino.live/stream/m3u8/722
@@ -1447,13 +1447,13 @@ https://v3.playerlatino.live/stream/m3u8/722
 https://v3.playerlatino.live/stream/m3u8/723
 #EXTINF:-1 ,CANAL 724
 https://v3.playerlatino.live/stream/m3u8/724
-#EXTINF:-1 ,CANAL 725
+#EXTINF:-1 group-title="DEPORTES" ,CANAL 725 TNT SPORTS CHILE
 https://v3.playerlatino.live/stream/m3u8/725
 #EXTINF:-1 ,CANAL 726
 https://v3.playerlatino.live/stream/m3u8/726
-#EXTINF:-1 ,CANAL 727
+#EXTINF:-1 group-title="INTERES GENERAL Y ENTRETENIMIENTO" ,CANAL 727 DISCOVERY TURBO
 https://v3.playerlatino.live/stream/m3u8/727
-#EXTINF:-1 ,CANAL 728
+#EXTINF:-1 group-title="PPV" ,CANAL 728 CINE
 https://v3.playerlatino.live/stream/m3u8/728
 #EXTINF:-1 ,CANAL 729
 https://v3.playerlatino.live/stream/m3u8/729
@@ -1461,25 +1461,25 @@ https://v3.playerlatino.live/stream/m3u8/729
 https://v3.playerlatino.live/stream/m3u8/730
 #EXTINF:-1 ,CANAL 731
 https://v3.playerlatino.live/stream/m3u8/731
-#EXTINF:-1 ,CANAL 732
+#EXTINF:-1 group-title="PELICULAS Y SERIES" ,CANAL 732 HBO 2
 https://v3.playerlatino.live/stream/m3u8/732
 #EXTINF:-1 ,CANAL 733
 https://v3.playerlatino.live/stream/m3u8/733
-#EXTINF:-1 ,CANAL 734
+#EXTINF:-1 group-title="PELICULAS Y SERIES" ,CANAL 734 AE
 https://v3.playerlatino.live/stream/m3u8/734
 #EXTINF:-1 ,CANAL 735
 https://v3.playerlatino.live/stream/m3u8/735
-#EXTINF:-1 ,CANAL 736
+#EXTINF:-1 group-title="CANALES" ,CANAL 736 CANAL DE LAS ESTRELLAS
 https://v3.playerlatino.live/stream/m3u8/736
 #EXTINF:-1 ,CANAL 737
 https://v3.playerlatino.live/stream/m3u8/737
-#EXTINF:-1 ,CANAL 738
+#EXTINF:-1 group-title="PELICULAS Y SERIES" ,CANAL 738 CINECANAL
 https://v3.playerlatino.live/stream/m3u8/738
-#EXTINF:-1 ,CANAL 739
+#EXTINF:-1 group-title="PELICULAS Y SERIES" ,CANAL 739 CINEMAX
 https://v3.playerlatino.live/stream/m3u8/739
 #EXTINF:-1 ,CANAL 740
 https://v3.playerlatino.live/stream/m3u8/740
-#EXTINF:-1 ,CANAL 741
+#EXTINF:-1 group-title="INTERES GENERAL Y ENTRETENIMIENTO" ,CANAL 741 DISCOVERY
 https://v3.playerlatino.live/stream/m3u8/741
 #EXTINF:-1 ,CANAL 742
 https://v3.playerlatino.live/stream/m3u8/742
@@ -1493,7 +1493,7 @@ https://v3.playerlatino.live/stream/m3u8/745
 https://v3.playerlatino.live/stream/m3u8/746
 #EXTINF:-1 ,CANAL 747
 https://v3.playerlatino.live/stream/m3u8/747
-#EXTINF:-1 ,CANAL 748
+#EXTINF:-1 group-title="DEPORTES" ,CANAL 748 FOX SPORTS MX
 https://v3.playerlatino.live/stream/m3u8/748
 #EXTINF:-1 ,CANAL 749
 https://v3.playerlatino.live/stream/m3u8/749
@@ -1501,13 +1501,13 @@ https://v3.playerlatino.live/stream/m3u8/749
 https://v3.playerlatino.live/stream/m3u8/750
 #EXTINF:-1 ,CANAL 751
 https://v3.playerlatino.live/stream/m3u8/751
-#EXTINF:-1 ,CANAL 752
+#EXTINF:-1 group-title="PELICULAS Y SERIES" ,CANAL 752 TNT
 https://v3.playerlatino.live/stream/m3u8/752
 #EXTINF:-1 ,CANAL 753
 https://v3.playerlatino.live/stream/m3u8/753
-#EXTINF:-1 ,CANAL 754
+#EXTINF:-1 group-title="DEPORTES" ,CANAL 754 WINSPORTS
 https://v3.playerlatino.live/stream/m3u8/754
-#EXTINF:-1 ,CANAL 755
+#EXTINF:-1 group-title="INTERES GENERAL Y ENTRETENIMIENTO" ,CANAL 755 PASIONES
 https://v3.playerlatino.live/stream/m3u8/755
 #EXTINF:-1 ,CANAL 756
 https://v3.playerlatino.live/stream/m3u8/756
@@ -1527,37 +1527,37 @@ https://v3.playerlatino.live/stream/m3u8/762
 https://v3.playerlatino.live/stream/m3u8/763
 #EXTINF:-1 ,CANAL 764
 https://v3.playerlatino.live/stream/m3u8/764
-#EXTINF:-1 ,CANAL 765
+#EXTINF:-1 group-title="CANALES" ,CANAL 765 CANAL 13 CHILE
 https://v3.playerlatino.live/stream/m3u8/765
-#EXTINF:-1 ,CANAL 766
+#EXTINF:-1 group-title="CANALES" ,CANAL 766 MEGA TV ESPAÑA
 https://v3.playerlatino.live/stream/m3u8/766
-#EXTINF:-1 ,CANAL 767
+#EXTINF:-1 group-title="CANALES" ,CANAL 767 EL TRECE INTERNACIONAL
 https://v3.playerlatino.live/stream/m3u8/767
 #EXTINF:-1 ,CANAL 768
 https://v3.playerlatino.live/stream/m3u8/768
-#EXTINF:-1 ,CANAL 769
+#EXTINF:-1 group-title="DEPORTES" ,CANAL 769 FOX SPORTS ARG
 https://v3.playerlatino.live/stream/m3u8/769
 #EXTINF:-1 ,CANAL 770
 https://v3.playerlatino.live/stream/m3u8/770
-#EXTINF:-1 ,CANAL 771
+#EXTINF:-1 group-title="CANALES" ,CANAL 771 NN TV COMPRAS
 https://v3.playerlatino.live/stream/m3u8/771
-#EXTINF:-1 ,CANAL 772
+#EXTINF:-1 group-title="CANALES" ,CANAL 772 EL NUEVE
 https://v3.playerlatino.live/stream/m3u8/772
-#EXTINF:-1 ,CANAL 773
+#EXTINF:-1 group-title="CANALES" ,CANAL 773 CANAL 5 HONDURAS
 https://v3.playerlatino.live/stream/m3u8/773
-#EXTINF:-1 ,CANAL 774
+#EXTINF:-1 group-title="CANALES" ,CANAL 774 CANAL 1 COLOMBIA
 https://v3.playerlatino.live/stream/m3u8/774
-#EXTINF:-1 ,CANAL 775
+#EXTINF:-1 group-title="CANALES" ,CANAL 775 CANAL 1 COLOMBIA
 https://v3.playerlatino.live/stream/m3u8/775
-#EXTINF:-1 ,CANAL 776
+#EXTINF:-1 group-title="PPV" ,CANAL 776 CINE
 https://v3.playerlatino.live/stream/m3u8/776
 #EXTINF:-1 ,CANAL 777
 https://v3.playerlatino.live/stream/m3u8/777
-#EXTINF:-1 ,CANAL 778
+#EXTINF:-1 group-title="CANALES" ,CANAL 778 CANAL 5 URUGUAY
 https://v3.playerlatino.live/stream/m3u8/778
-#EXTINF:-1 ,CANAL 779
+#EXTINF:-1 group-title="CANALES" ,CANAL 779 HCH HONDURAS
 https://v3.playerlatino.live/stream/m3u8/779
-#EXTINF:-1 ,CANAL 780
+#EXTINF:-1 group-title="CANALES" ,CANAL 780 AMERICA TV PERU
 https://v3.playerlatino.live/stream/m3u8/780
 #EXTINF:-1 ,CANAL 781
 https://v3.playerlatino.live/stream/m3u8/781
@@ -1571,7 +1571,7 @@ https://v3.playerlatino.live/stream/m3u8/784
 https://v3.playerlatino.live/stream/m3u8/785
 #EXTINF:-1 ,CANAL 786
 https://v3.playerlatino.live/stream/m3u8/786
-#EXTINF:-1 ,CANAL 787
+#EXTINF:-1 group-title="INFANTILES" ,CANAL 787 CLAN
 https://v3.playerlatino.live/stream/m3u8/787
 #EXTINF:-1 ,CANAL 788
 https://v3.playerlatino.live/stream/m3u8/788
@@ -1593,39 +1593,39 @@ https://v3.playerlatino.live/stream/m3u8/795
 https://v3.playerlatino.live/stream/m3u8/796
 #EXTINF:-1 ,CANAL 797
 https://v3.playerlatino.live/stream/m3u8/797
-#EXTINF:-1 ,CANAL 798
+#EXTINF:-1 group-title="24/7" ,CANAL 798 NN
 https://v3.playerlatino.live/stream/m3u8/798
 #EXTINF:-1 ,CANAL 799
 https://v3.playerlatino.live/stream/m3u8/799
-#EXTINF:-1 ,CANAL 800
+#EXTINF:-1 group-title="PPV" ,CANAL 800 CINE
 https://v3.playerlatino.live/stream/m3u8/800
-#EXTINF:-1 ,CANAL 801
+#EXTINF:-1 group-title="DEPORTES" ,CANAL 801 TUDN
 https://v3.playerlatino.live/stream/m3u8/801
-#EXTINF:-1 ,CANAL 802
+#EXTINF:-1 group-title="DEPORTES" ,CANAL 802 WINSPORTS +
 https://v3.playerlatino.live/stream/m3u8/802
-#EXTINF:-1 ,CANAL 803
+#EXTINF:-1 group-title="MUSICA" ,CANAL 803 MTV
 https://v3.playerlatino.live/stream/m3u8/803
 #EXTINF:-1 ,CANAL 804
 https://v3.playerlatino.live/stream/m3u8/804
 #EXTINF:-1 ,CANAL 805
 https://v3.playerlatino.live/stream/m3u8/805
-#EXTINF:-1 ,CANAL 806
+#EXTINF:-1 group-title="CANALES" ,CANAL 806 NRT 6 MX
 https://v3.playerlatino.live/stream/m3u8/806
 #EXTINF:-1 ,CANAL 807
 https://v3.playerlatino.live/stream/m3u8/807
-#EXTINF:-1 ,CANAL 808
+#EXTINF:-1 group-title="24/7" ,CANAL 808 CANDY CANDY
 https://v3.playerlatino.live/stream/m3u8/808
 #EXTINF:-1 ,CANAL 809
 https://v3.playerlatino.live/stream/m3u8/809
-#EXTINF:-1 ,CANAL 810
+#EXTINF:-1 group-title="24/7" ,CANAL 810 LOS AÑOS MARAVILLOSOS
 https://v3.playerlatino.live/stream/m3u8/810
 #EXTINF:-1 ,CANAL 811
 https://v3.playerlatino.live/stream/m3u8/811
-#EXTINF:-1 ,CANAL 812
+#EXTINF:-1 group-title="24/7" ,CANAL 812 GARFIELD
 https://v3.playerlatino.live/stream/m3u8/812
 #EXTINF:-1 ,CANAL 813
 https://v3.playerlatino.live/stream/m3u8/813
-#EXTINF:-1 ,CANAL 814
+#EXTINF:-1 group-title="PELICULAS Y SERIES" ,CANAL 814 HBO XTREME
 https://v3.playerlatino.live/stream/m3u8/814
 #EXTINF:-1 ,CANAL 815
 https://v3.playerlatino.live/stream/m3u8/815
@@ -1641,41 +1641,41 @@ https://v3.playerlatino.live/stream/m3u8/819
 https://v3.playerlatino.live/stream/m3u8/820
 #EXTINF:-1 ,CANAL 821
 https://v3.playerlatino.live/stream/m3u8/821
-#EXTINF:-1 ,CANAL 822
+#EXTINF:-1 group-title="DEPORTES" ,CANAL 822 TUDN
 https://v3.playerlatino.live/stream/m3u8/822
 #EXTINF:-1 ,CANAL 823
 https://v3.playerlatino.live/stream/m3u8/823
-#EXTINF:-1 ,CANAL 824
+#EXTINF:-1 group-title="INFANTILES" ,CANAL 824 TOONCAST
 https://v3.playerlatino.live/stream/m3u8/824
-#EXTINF:-1 ,CANAL 825
+#EXTINF:-1 group-title="INTERES GENERAL Y ENTRETENIMIENTO" ,CANAL 825 DISCOVERY ID
 https://v3.playerlatino.live/stream/m3u8/825
-#EXTINF:-1 ,CANAL 826
+#EXTINF:-1 group-title="INFANTILES" ,CANAL 826 DISNEY JR LATINO
 https://v3.playerlatino.live/stream/m3u8/826
 #EXTINF:-1 ,CANAL 827
 https://v3.playerlatino.live/stream/m3u8/827
-#EXTINF:-1 ,CANAL 828
+#EXTINF:-1 group-title="MUSICA" ,CANAL 828 MTV
 https://v3.playerlatino.live/stream/m3u8/828
 #EXTINF:-1 ,CANAL 829
 https://v3.playerlatino.live/stream/m3u8/829
-#EXTINF:-1 ,CANAL 830
+#EXTINF:-1 group-title="PELICULAS Y SERIES" ,CANAL 830 STUDIO UNIVERSAL
 https://v3.playerlatino.live/stream/m3u8/830
-#EXTINF:-1 ,CANAL 831
+#EXTINF:-1 group-title="INTERES GENERAL Y ENTRETENIMIENTO" ,CANAL 831 TBS
 https://v3.playerlatino.live/stream/m3u8/831
-#EXTINF:-1 ,CANAL 832
+#EXTINF:-1 group-title="INTERES GENERAL Y ENTRETENIMIENTO" ,CANAL 832 TLN TELENOVELAS
 https://v3.playerlatino.live/stream/m3u8/832
-#EXTINF:-1 ,CANAL 833
+#EXTINF:-1 group-title="MUSICA" ,CANAL 833 BANDAMAX
 https://v3.playerlatino.live/stream/m3u8/833
-#EXTINF:-1 ,CANAL 834
+#EXTINF:-1 group-title="INTERES GENERAL Y ENTRETENIMIENTO" ,CANAL 834 CORAZON
 https://v3.playerlatino.live/stream/m3u8/834
-#EXTINF:-1 ,CANAL 835
+#EXTINF:-1 group-title="CANALES" ,CANAL 835 AZTECA INTERNACIONAL
 https://v3.playerlatino.live/stream/m3u8/835
 #EXTINF:-1 ,CANAL 836
 https://v3.playerlatino.live/stream/m3u8/836
 #EXTINF:-1 ,CANAL 837
 https://v3.playerlatino.live/stream/m3u8/837
-#EXTINF:-1 ,CANAL 838
+#EXTINF:-1 group-title="DEPORTES" ,CANAL 838 NBA TV CANADA
 https://v3.playerlatino.live/stream/m3u8/838
-#EXTINF:-1 ,CANAL 839
+#EXTINF:-1 group-title="DEPORTES" ,CANAL 839 FOX SPORTS 3 MX
 https://v3.playerlatino.live/stream/m3u8/839
 #EXTINF:-1 ,CANAL 840
 https://v3.playerlatino.live/stream/m3u8/840
@@ -1685,11 +1685,11 @@ https://v3.playerlatino.live/stream/m3u8/841
 https://v3.playerlatino.live/stream/m3u8/842
 #EXTINF:-1 ,CANAL 843
 https://v3.playerlatino.live/stream/m3u8/843
-#EXTINF:-1 ,CANAL 844
+#EXTINF:-1 group-title="PELICULAS Y SERIES" ,CANAL 844 DHE
 https://v3.playerlatino.live/stream/m3u8/844
-#EXTINF:-1 ,CANAL 845
+#EXTINF:-1 group-title="24/7" ,CANAL 845 EL GALLO CLAUDIO
 https://v3.playerlatino.live/stream/m3u8/845
-#EXTINF:-1 ,CANAL 846
+#EXTINF:-1 group-title="PPV" ,CANAL 846 CINE
 https://v3.playerlatino.live/stream/m3u8/846
 #EXTINF:-1 ,CANAL 847
 https://v3.playerlatino.live/stream/m3u8/847
@@ -1753,85 +1753,85 @@ https://v3.playerlatino.live/stream/m3u8/875
 https://v3.playerlatino.live/stream/m3u8/876
 #EXTINF:-1 ,CANAL 877
 https://v3.playerlatino.live/stream/m3u8/877
-#EXTINF:-1 ,CANAL 878
+#EXTINF:-1 group-title="DEPORTES" ,CANAL 878 AFIZZIONADOS
 https://v3.playerlatino.live/stream/m3u8/878
 #EXTINF:-1 ,CANAL 879
 https://v3.playerlatino.live/stream/m3u8/879
 #EXTINF:-1 ,CANAL 880
 https://v3.playerlatino.live/stream/m3u8/880
-#EXTINF:-1 ,CANAL 881
+#EXTINF:-1 group-title="DEPORTES" ,CANAL 881 WINSPORTS + HD
 https://v3.playerlatino.live/stream/m3u8/881
-#EXTINF:-1 ,CANAL 882
+#EXTINF:-1 group-title="INFANTILES" ,CANAL 882 TEEN NICK
 https://v3.playerlatino.live/stream/m3u8/882
 #EXTINF:-1 ,CANAL 883
 https://v3.playerlatino.live/stream/m3u8/883
 #EXTINF:-1 ,CANAL 884
 https://v3.playerlatino.live/stream/m3u8/884
-#EXTINF:-1 ,CANAL 885
+#EXTINF:-1 group-title="CANALES" ,CANAL 885 TVC HONDURAS
 https://v3.playerlatino.live/stream/m3u8/885
-#EXTINF:-1 ,CANAL 886
+#EXTINF:-1 group-title="24/7" ,CANAL 886 LA ROSA DE GUADALUPE
 https://v3.playerlatino.live/stream/m3u8/886
-#EXTINF:-1 ,CANAL 887
+#EXTINF:-1 group-title="24/7" ,CANAL 887 NN
 https://v3.playerlatino.live/stream/m3u8/887
-#EXTINF:-1 ,CANAL 888
+#EXTINF:-1 group-title="24/7" ,CANAL 888 NN
 https://v3.playerlatino.live/stream/m3u8/888
-#EXTINF:-1 ,CANAL 889
+#EXTINF:-1 group-title="24/7" ,CANAL 889 SUPERHEROES
 https://v3.playerlatino.live/stream/m3u8/889
-#EXTINF:-1 ,CANAL 890
+#EXTINF:-1 group-title="DEPORTES" ,CANAL 890 MOVISTAR LIGA DE CAMPEONES
 https://v3.playerlatino.live/stream/m3u8/890
-#EXTINF:-1 ,CANAL 891
+#EXTINF:-1 group-title="CANALES" ,CANAL 891 NN LATINO
 https://v3.playerlatino.live/stream/m3u8/891
-#EXTINF:-1 ,CANAL 892
+#EXTINF:-1 group-title="DEPORTES" ,CANAL 892 EL CANAL EL FUTBOL
 https://v3.playerlatino.live/stream/m3u8/892
 #EXTINF:-1 ,CANAL 893
 https://v3.playerlatino.live/stream/m3u8/893
-#EXTINF:-1 ,CANAL 894
+#EXTINF:-1 group-title="24/7" ,CANAL 894 LOS SIMPSONS
 https://v3.playerlatino.live/stream/m3u8/894
-#EXTINF:-1 ,CANAL 895
+#EXTINF:-1 group-title="24/7" ,CANAL 895 LOS SIMPSONS
 https://v3.playerlatino.live/stream/m3u8/895
-#EXTINF:-1 ,CANAL 896
+#EXTINF:-1 group-title="24/7" ,CANAL 896 LOS SIMPSONS
 https://v3.playerlatino.live/stream/m3u8/896
-#EXTINF:-1 ,CANAL 897
+#EXTINF:-1 group-title="24/7" ,CANAL 897 LOS SIMPSONS
 https://v3.playerlatino.live/stream/m3u8/897
 #EXTINF:-1 ,CANAL 898
 https://v3.playerlatino.live/stream/m3u8/898
-#EXTINF:-1 ,CANAL 899
+#EXTINF:-1 group-title="24/7" ,CANAL 899 LOS SIMPSONS
 https://v3.playerlatino.live/stream/m3u8/899
-#EXTINF:-1 ,CANAL 900
+#EXTINF:-1 group-title="DEPORTES" ,CANAL 900 SKY SPORTS LATINO
 https://v3.playerlatino.live/stream/m3u8/900
-#EXTINF:-1 ,CANAL 901
+#EXTINF:-1 group-title="PELICULAS Y SERIES" ,CANAL 901 UNIVERSAL PREMIERE
 https://v3.playerlatino.live/stream/m3u8/901
-#EXTINF:-1 ,CANAL 902
+#EXTINF:-1 group-title="PELICULAS Y SERIES" ,CANAL 902 UNIVERSAL CINEMA
 https://v3.playerlatino.live/stream/m3u8/902
-#EXTINF:-1 ,CANAL 903
+#EXTINF:-1 group-title="PELICULAS Y SERIES" ,CANAL 903 UNIVERSAL COMEDY
 https://v3.playerlatino.live/stream/m3u8/903
-#EXTINF:-1 ,CANAL 904
+#EXTINF:-1 group-title="INTERES GENERAL Y ENTRETENIMIENTO" ,CANAL 904 UNIVERSAL CRIME
 https://v3.playerlatino.live/stream/m3u8/904
-#EXTINF:-1 ,CANAL 905
+#EXTINF:-1 group-title="INTERES GENERAL Y ENTRETENIMIENTO" ,CANAL 905 UNIVERSAL REALITY
 https://v3.playerlatino.live/stream/m3u8/905
-#EXTINF:-1 ,CANAL 906
+#EXTINF:-1 group-title="DEPORTES" ,CANAL 906 TNT SPORTS CHILE
 https://v3.playerlatino.live/stream/m3u8/906
-#EXTINF:-1 ,CANAL 907
+#EXTINF:-1 group-title="24/7" ,CANAL 907 CASO CERRADO
 https://v3.playerlatino.live/stream/m3u8/907
-#EXTINF:-1 ,CANAL 908
+#EXTINF:-1 group-title="24/7" ,CANAL 908 CSI MIAMI
 https://v3.playerlatino.live/stream/m3u8/908
-#EXTINF:-1 ,CANAL 909
+#EXTINF:-1 group-title="24/7" ,CANAL 909 JORGE EL CURIOSO
 https://v3.playerlatino.live/stream/m3u8/909
 #EXTINF:-1 ,CANAL 910
 https://v3.playerlatino.live/stream/m3u8/910
 #EXTINF:-1 ,CANAL 911
 https://v3.playerlatino.live/stream/m3u8/911
-#EXTINF:-1 ,CANAL 912
+#EXTINF:-1 group-title="PPV" ,CANAL 912 CINE
 https://v3.playerlatino.live/stream/m3u8/912
-#EXTINF:-1 ,CANAL 913
+#EXTINF:-1 group-title="PPV" ,CANAL 913 CINE
 https://v3.playerlatino.live/stream/m3u8/913
-#EXTINF:-1 ,CANAL 914
+#EXTINF:-1 group-title="PPV" ,CANAL 914 CINE
 https://v3.playerlatino.live/stream/m3u8/914
-#EXTINF:-1 ,CANAL 915
+#EXTINF:-1 group-title="PPV" ,CANAL 915 CINE
 https://v3.playerlatino.live/stream/m3u8/915
-#EXTINF:-1 ,CANAL 916
+#EXTINF:-1 group-title="DEPORTES" ,CANAL 916 MOVISTAR LA LIGA
 https://v3.playerlatino.live/stream/m3u8/916
-#EXTINF:-1 ,CANAL 917
+#EXTINF:-1 group-title="PPV" ,CANAL 917 CINE
 https://v3.playerlatino.live/stream/m3u8/917
 #EXTINF:-1 ,CANAL 918
 https://v3.playerlatino.live/stream/m3u8/918
@@ -1841,23 +1841,23 @@ https://v3.playerlatino.live/stream/m3u8/919
 https://v3.playerlatino.live/stream/m3u8/920
 #EXTINF:-1 ,CANAL 921
 https://v3.playerlatino.live/stream/m3u8/921
-#EXTINF:-1 ,CANAL 922
+#EXTINF:-1 group-title="CANALES" ,CANAL 922 5HD
 https://v3.playerlatino.live/stream/m3u8/922
 #EXTINF:-1 ,CANAL 923
 https://v3.playerlatino.live/stream/m3u8/923
-#EXTINF:-1 ,CANAL 924
+#EXTINF:-1 group-title="24/7" ,CANAL 924 LAS ESPIAS DE CHURCHILL
 https://v3.playerlatino.live/stream/m3u8/924
-#EXTINF:-1 ,CANAL 925
+#EXTINF:-1 group-title="DEPORTES" ,CANAL 925 MOVISTAR DEPORTES
 https://v3.playerlatino.live/stream/m3u8/925
-#EXTINF:-1 ,CANAL 926
+#EXTINF:-1 group-title="24/7" ,CANAL 926 CSI LAS VEGAS
 https://v3.playerlatino.live/stream/m3u8/926
-#EXTINF:-1 ,CANAL 927
+#EXTINF:-1 group-title="CANALES" ,CANAL 927 TELE 1 ESPAÑA
 https://v3.playerlatino.live/stream/m3u8/927
 #EXTINF:-1 ,CANAL 928
 https://v3.playerlatino.live/stream/m3u8/928
-#EXTINF:-1 ,CANAL 929
+#EXTINF:-1 group-title="CANALES" ,CANAL 929 MEGA TV ESPAÑA
 https://v3.playerlatino.live/stream/m3u8/929
-#EXTINF:-1 ,CANAL 930
+#EXTINF:-1 group-title="CANALES" ,CANAL 930 24 HORAS ESPAÑA
 https://v3.playerlatino.live/stream/m3u8/930
 #EXTINF:-1 ,CANAL 931
 https://v3.playerlatino.live/stream/m3u8/931
@@ -1867,7 +1867,7 @@ https://v3.playerlatino.live/stream/m3u8/932
 https://v3.playerlatino.live/stream/m3u8/933
 #EXTINF:-1 ,CANAL 934
 https://v3.playerlatino.live/stream/m3u8/934
-#EXTINF:-1 ,CANAL 935
+#EXTINF:-1 group-title="DEPORTES" ,CANAL 935 DSPORTS +
 https://v3.playerlatino.live/stream/m3u8/935
 #EXTINF:-1 ,CANAL 936
 https://v3.playerlatino.live/stream/m3u8/936
@@ -1875,41 +1875,41 @@ https://v3.playerlatino.live/stream/m3u8/936
 https://v3.playerlatino.live/stream/m3u8/937
 #EXTINF:-1 ,CANAL 938
 https://v3.playerlatino.live/stream/m3u8/938
-#EXTINF:-1 ,CANAL 939
+#EXTINF:-1 group-title="DEPORTES" ,CANAL 939 AFIZZIONADOS
 https://v3.playerlatino.live/stream/m3u8/939
-#EXTINF:-1 ,CANAL 940
+#EXTINF:-1 group-title="DEPORTES" ,CANAL 940 #VAMOS!
 https://v3.playerlatino.live/stream/m3u8/940
-#EXTINF:-1 ,CANAL 941
+#EXTINF:-1 group-title="CANALES" ,CANAL 941 CANAL 5 MX
 https://v3.playerlatino.live/stream/m3u8/941
 #EXTINF:-1 ,CANAL 942
 https://v3.playerlatino.live/stream/m3u8/942
-#EXTINF:-1 ,CANAL 943
+#EXTINF:-1 group-title="CANALES" ,CANAL 943 CANAL 6 MX
 https://v3.playerlatino.live/stream/m3u8/943
-#EXTINF:-1 ,CANAL 944
+#EXTINF:-1 group-title="CANALES" ,CANAL 944 STAR TVE
 https://v3.playerlatino.live/stream/m3u8/944
-#EXTINF:-1 ,CANAL 945
+#EXTINF:-1 group-title="PELICULAS Y SERIES" ,CANAL 945 A3SERIES
 https://v3.playerlatino.live/stream/m3u8/945
-#EXTINF:-1 ,CANAL 946
+#EXTINF:-1 group-title="INTERES GENERAL Y ENTRETENIMIENTO" ,CANAL 946 CANAL BITME MX
 https://v3.playerlatino.live/stream/m3u8/946
 #EXTINF:-1 ,CANAL 947
 https://v3.playerlatino.live/stream/m3u8/947
-#EXTINF:-1 ,CANAL 948
+#EXTINF:-1 group-title="24/7" ,CANAL 948 ANIME
 https://v3.playerlatino.live/stream/m3u8/948
-#EXTINF:-1 ,CANAL 949
+#EXTINF:-1 group-title="24/7" ,CANAL 949 DIBUJITOS
 https://v3.playerlatino.live/stream/m3u8/949
 #EXTINF:-1 ,CANAL 950
 https://v3.playerlatino.live/stream/m3u8/950
-#EXTINF:-1 ,CANAL 951
+#EXTINF:-1 group-title="DEPORTES" ,CANAL 951 ESPN MX
 https://v3.playerlatino.live/stream/m3u8/951
-#EXTINF:-1 ,CANAL 952
+#EXTINF:-1 ,CANAL 952 ESPN PREMIUM
 https://v3.playerlatino.live/stream/m3u8/952
-#EXTINF:-1 ,CANAL 953
+#EXTINF:-1 group-title="MUSICA" ,CANAL 953 MTV 00S
 https://v3.playerlatino.live/stream/m3u8/953
-#EXTINF:-1 ,CANAL 954
+#EXTINF:-1 group-title="MUSICA" ,CANAL 954 MTV
 https://v3.playerlatino.live/stream/m3u8/954
-#EXTINF:-1 ,CANAL 955
+#EXTINF:-1 group-title="MUSICA" ,CANAL 955 MTV 80S
 https://v3.playerlatino.live/stream/m3u8/955
-#EXTINF:-1 ,CANAL 956
+#EXTINF:-1 group-title="DEPORTES" ,CANAL 956 TUDN
 https://v3.playerlatino.live/stream/m3u8/956
 #EXTINF:-1 ,CANAL 957
 https://v3.playerlatino.live/stream/m3u8/957
@@ -1919,49 +1919,49 @@ https://v3.playerlatino.live/stream/m3u8/958
 https://v3.playerlatino.live/stream/m3u8/959
 #EXTINF:-1 ,CANAL 960
 https://v3.playerlatino.live/stream/m3u8/960
-#EXTINF:-1 ,CANAL 961
+#EXTINF:-1 group-title="INTERES GENERAL Y ENTRETENIMIENTO" ,CANAL 961 FOOD NETWORK
 https://v3.playerlatino.live/stream/m3u8/961
 #EXTINF:-1 ,CANAL 962
 https://v3.playerlatino.live/stream/m3u8/962
 #EXTINF:-1 ,CANAL 963
 https://v3.playerlatino.live/stream/m3u8/963
-#EXTINF:-1 ,CANAL 964
+#EXTINF:-1 group-title="DEPORTES" ,CANAL 964 MOVISTAR GOLF
 https://v3.playerlatino.live/stream/m3u8/964
 #EXTINF:-1 ,CANAL 965
 https://v3.playerlatino.live/stream/m3u8/965
 #EXTINF:-1 ,CANAL 966
 https://v3.playerlatino.live/stream/m3u8/966
-#EXTINF:-1 ,CANAL 967
+#EXTINF:-1 group-title="CANALES" ,CANAL 967 TELE 2 ESPAÑA
 https://v3.playerlatino.live/stream/m3u8/967
-#EXTINF:-1 ,CANAL 968
+#EXTINF:-1 group-title="PELICULAS Y SERIES" ,CANAL 968 HBO FAMILY
 https://v3.playerlatino.live/stream/m3u8/968
-#EXTINF:-1 ,CANAL 969
+#EXTINF:-1 group-title="PELICULAS Y SERIES" ,CANAL 969 SYFY ESPAÑA
 https://v3.playerlatino.live/stream/m3u8/969
-#EXTINF:-1 ,CANAL 970
+#EXTINF:-1 group-title="PELICULAS Y SERIES" ,CANAL 970 PARAMOUNT ESPAÑA
 https://v3.playerlatino.live/stream/m3u8/970
-#EXTINF:-1 ,CANAL 971
+#EXTINF:-1 group-title="PELICULAS Y SERIES" ,CANAL 971 HBO XTREME
 https://v3.playerlatino.live/stream/m3u8/971
-#EXTINF:-1 ,CANAL 972
+#EXTINF:-1 group-title="DEPORTES" ,CANAL 972 ESPN PREMIUM
 https://v3.playerlatino.live/stream/m3u8/972
 #EXTINF:-1 ,CANAL 973
 https://v3.playerlatino.live/stream/m3u8/973
-#EXTINF:-1 ,CANAL 974
+#EXTINF:-1 group-title="DEPORTES" ,CANAL 974 DSPORTS
 https://v3.playerlatino.live/stream/m3u8/974
-#EXTINF:-1 ,CANAL 975
+#EXTINF:-1 group-title="DEPORTES" ,CANAL 975 DSPORTS 2
 https://v3.playerlatino.live/stream/m3u8/975
-#EXTINF:-1 ,CANAL 976
+#EXTINF:-1 group-title="PELICULAS Y SERIES" ,CANAL 976 MOVISTAR ESTRENOS
 https://v3.playerlatino.live/stream/m3u8/976
-#EXTINF:-1 ,CANAL 977
+#EXTINF:-1 group-title="PELICULAS Y SERIES" ,CANAL 977 HBO SIGNATURE
 https://v3.playerlatino.live/stream/m3u8/977
 #EXTINF:-1 ,CANAL 978
 https://v3.playerlatino.live/stream/m3u8/978
-#EXTINF:-1 ,CANAL 979
+#EXTINF:-1 group-title="CANALES" ,CANAL 979 CANAL 6 MX
 https://v3.playerlatino.live/stream/m3u8/979
 #EXTINF:-1 ,CANAL 980
 https://v3.playerlatino.live/stream/m3u8/980
-#EXTINF:-1 ,CANAL 981
+#EXTINF:-1 group-title="PELICULAS Y SERIES" ,CANAL 981 AMC INGLES
 https://v3.playerlatino.live/stream/m3u8/981
-#EXTINF:-1 ,CANAL 982
+#EXTINF:-1 group-title="PELICULAS Y SERIES" ,CANAL 982 WB TV ESPAÑA
 https://v3.playerlatino.live/stream/m3u8/982
 #EXTINF:-1 ,CANAL 983
 https://v3.playerlatino.live/stream/m3u8/983
@@ -1969,13 +1969,13 @@ https://v3.playerlatino.live/stream/m3u8/983
 https://v3.playerlatino.live/stream/m3u8/984
 #EXTINF:-1 ,CANAL 985
 https://v3.playerlatino.live/stream/m3u8/985
-#EXTINF:-1 ,CANAL 986
+#EXTINF:-1 group-title="CANALES" ,CANAL 986 CANAL 7 AZTECA MX
 https://v3.playerlatino.live/stream/m3u8/986
-#EXTINF:-1 ,CANAL 987
+#EXTINF:-1 group-title="DEPORTES" ,CANAL 987 FOX SPORTS PREMIUM
 https://v3.playerlatino.live/stream/m3u8/987
-#EXTINF:-1 ,CANAL 988
+#EXTINF:-1 group-title="DEPORTES" ,CANAL 988 FOX SPORTS 3
 https://v3.playerlatino.live/stream/m3u8/988
-#EXTINF:-1 ,CANAL 989
+#EXTINF:-1 group-title="DEPORTES" ,CANAL 989 SKY SPORTS
 https://v3.playerlatino.live/stream/m3u8/989
 #EXTINF:-1 ,CANAL 990
 https://v3.playerlatino.live/stream/m3u8/990
@@ -1991,9 +1991,9 @@ https://v3.playerlatino.live/stream/m3u8/994
 https://v3.playerlatino.live/stream/m3u8/995
 #EXTINF:-1 ,CANAL 996
 https://v3.playerlatino.live/stream/m3u8/996
-#EXTINF:-1 ,CANAL 997
+#EXTINF:-1 group-title="DEPORTES" ,CANAL 997 TUDN
 https://v3.playerlatino.live/stream/m3u8/997
-#EXTINF:-1 ,CANAL 998
+#EXTINF:-1 group-title="DEPORTES" ,CANAL 998 FOX SPORTS MX
 https://v3.playerlatino.live/stream/m3u8/998
 #EXTINF:-1 ,CANAL 999
 https://v3.playerlatino.live/stream/m3u8/999
@@ -2005,35 +2005,35 @@ https://v3.playerlatino.live/stream/m3u8/1001
 https://v3.playerlatino.live/stream/m3u8/1002
 #EXTINF:-1 ,CANAL 1003
 https://v3.playerlatino.live/stream/m3u8/1003
-#EXTINF:-1 ,CANAL 1004
+#EXTINF:-1 group-title="PPV" ,CANAL 1004 CINE
 https://v3.playerlatino.live/stream/m3u8/1004
-#EXTINF:-1 ,CANAL 1005
+#EXTINF:-1 group-title="24/7" ,CANAL 1005 TIMON Y PUMBA
 https://v3.playerlatino.live/stream/m3u8/1005
-#EXTINF:-1 ,CANAL 1006
+#EXTINF:-1 group-title="24/7" ,CANAL 1006 ANIME
 https://v3.playerlatino.live/stream/m3u8/1006
-#EXTINF:-1 ,CANAL 1007
+#EXTINF:-1 group-title="PPV" ,CANAL 1007 CINE
 https://v3.playerlatino.live/stream/m3u8/1007
-#EXTINF:-1 ,CANAL 1008
+#EXTINF:-1 group-title="PPV" ,CANAL 1008 CINE
 https://v3.playerlatino.live/stream/m3u8/1008
-#EXTINF:-1 ,CANAL 1009
+#EXTINF:-1 group-title="PPV" ,CANAL 1009 CINE
 https://v3.playerlatino.live/stream/m3u8/1009
-#EXTINF:-1 ,CANAL 1010
+#EXTINF:-1 group-title="PPV" ,CANAL 1010 CINE
 https://v3.playerlatino.live/stream/m3u8/1010
-#EXTINF:-1 ,CANAL 1011
+#EXTINF:-1 group-title="PELICULAS Y SERIES" ,CANAL 1011 DE PELICULA HD
 https://v3.playerlatino.live/stream/m3u8/1011
 #EXTINF:-1 ,CANAL 1012
 https://v3.playerlatino.live/stream/m3u8/1012
-#EXTINF:-1 ,CANAL 1013
+#EXTINF:-1 group-title="PPV" ,CANAL 1013 CINE
 https://v3.playerlatino.live/stream/m3u8/1013
 #EXTINF:-1 ,CANAL 1014
 https://v3.playerlatino.live/stream/m3u8/1014
-#EXTINF:-1 ,CANAL 1015
+#EXTINF:-1 group-title="PPV" ,CANAL 1015 CINE
 https://v3.playerlatino.live/stream/m3u8/1015
-#EXTINF:-1 ,CANAL 1016
+#EXTINF:-1 group-title="PPV" ,CANAL 1016 CINE
 https://v3.playerlatino.live/stream/m3u8/1016
-#EXTINF:-1 ,CANAL 1017
+#EXTINF:-1 group-title="PPV" ,CANAL 1017 CINE
 https://v3.playerlatino.live/stream/m3u8/1017
-#EXTINF:-1 ,CANAL 1018
+#EXTINF:-1 group-title="PPV" ,CANAL 1018 CINE
 https://v3.playerlatino.live/stream/m3u8/1018
 #EXTINF:-1 ,CANAL 1019
 https://v3.playerlatino.live/stream/m3u8/1019
@@ -2041,11 +2041,11 @@ https://v3.playerlatino.live/stream/m3u8/1019
 https://v3.playerlatino.live/stream/m3u8/1020
 #EXTINF:-1 ,CANAL 1021
 https://v3.playerlatino.live/stream/m3u8/1021
-#EXTINF:-1 ,CANAL 1022
+#EXTINF:-1 group-title="PPV" ,CANAL 1022 CINE
 https://v3.playerlatino.live/stream/m3u8/1022
-#EXTINF:-1 ,CANAL 1023
+#EXTINF:-1 group-title="PPV" ,CANAL 1023 CINE
 https://v3.playerlatino.live/stream/m3u8/1023
-#EXTINF:-1 ,CANAL 1024
+#EXTINF:-1 group-title="PPV" ,CANAL 1024 CINE
 https://v3.playerlatino.live/stream/m3u8/1024
 #EXTINF:-1 ,CANAL 1025
 https://v3.playerlatino.live/stream/m3u8/1025
