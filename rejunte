@@ -1,365 +1,391 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="MaximumTv " tvg-logo="" group-title="SHQIPTARE",MaximumTv 
+#EXTINF:-1 group-title="SHQIPTARE",MaximumTv
 http://brutus.biz:2082/osmani/osmani/885
-#EXTINF:-1 tvg-id="493c25a6ed17cbf1e529392caa0c59a7" tvg-name="Top Channel HD" tvg-logo="" group-title="SHQIPTARE",Top Channel HD
+#EXTINF:-1 group-title="SHQIPTARE",Top Channel HD
 http://brutus.biz:2082/osmani/osmani/184
-#EXTINF:-1 tvg-id="33d8851a1b51a4ed5eac1dc1cedce2e2" tvg-name="Klan HD" tvg-logo="" group-title="SHQIPTARE",Klan HD
+#EXTINF:-1 group-title="SHQIPTARE",Klan HD
 http://brutus.biz:2082/osmani/osmani/185
-#EXTINF:-1 tvg-id="86f3b7288e077243bcc011d22e8a7b28" tvg-name="Abc News HD" tvg-logo="" group-title="SHQIPTARE",Abc News HD
+#EXTINF:-1 group-title="SHQIPTARE",Abc News HD
 http://brutus.biz:2082/osmani/osmani/186
-#EXTINF:-1 tvg-id="fcba3e81918046ea83d9957eaec93897" tvg-name="VizionPlus HD" tvg-logo="" group-title="SHQIPTARE",VizionPlus HD
+#EXTINF:-1 group-title="SHQIPTARE",VizionPlus HD
 http://brutus.biz:2082/osmani/osmani/188
-#EXTINF:-1 tvg-id="9e106317ee9c28eed1a67a221b3db5c6" tvg-name="Top News" tvg-logo="" group-title="SHQIPTARE",Top News
+#EXTINF:-1 group-title="SHQIPTARE",Top News
 http://brutus.biz:2082/osmani/osmani/193
-#EXTINF:-1 tvg-id="" tvg-name="INFO 24 HD" tvg-logo="" group-title="SHQIPTARE",INFO 24 HD
+#EXTINF:-1 group-title="SHQIPTARE",INFO 24 HD
 http://brutus.biz:2082/osmani/osmani/882
-#EXTINF:-1 tvg-id="0f71d3339bbb04be57e3d22263f8726c" tvg-name="Klan News" tvg-logo="" group-title="SHQIPTARE",Klan News
+#EXTINF:-1 group-title="SHQIPTARE",Klan News
 http://brutus.biz:2082/osmani/osmani/196
-#EXTINF:-1 tvg-id="0f321b300cfacf6e96db364e99bc314f" tvg-name="News 24" tvg-logo="" group-title="SHQIPTARE",News 24
+#EXTINF:-1 group-title="SHQIPTARE",News 24
 http://brutus.biz:2082/osmani/osmani/214
-#EXTINF:-1 tvg-id="b59a8d1d3ace3d09820241888d01e206" tvg-name="SYRI HD" tvg-logo="" group-title="SHQIPTARE",SYRI HD
+#EXTINF:-1 group-title="SHQIPTARE",SYRI HD
 http://brutus.biz:2082/osmani/osmani/192
-#EXTINF:-1 tvg-id="2bef157934afef38bcabe120618955ac" tvg-name="Ora News" tvg-logo="" group-title="SHQIPTARE",Ora News
+#EXTINF:-1 group-title="SHQIPTARE",Ora News
 http://brutus.biz:2082/osmani/osmani/212
-#EXTINF:-1 tvg-id="8638ee37a2bdb562b2487468483e460b" tvg-name="EURONEWS ALBANIA HD" tvg-logo="" group-title="SHQIPTARE",EURONEWS ALBANIA HD
+#EXTINF:-1 group-title="SHQIPTARE",EURONEWS ALBANIA HD
 http://brutus.biz:2082/osmani/osmani/191
-#EXTINF:-1 tvg-id="aeaa8695451ba3e1159c56cb69ce2e9c" tvg-name="RTV Ora" tvg-logo="" group-title="SHQIPTARE",RTV Ora
+#EXTINF:-1 group-title="SHQIPTARE",RTV Ora
 http://brutus.biz:2082/osmani/osmani/213
-#EXTINF:-1 tvg-id="42b92aaa2d5ef7893afd4c28a194dd6c" tvg-name="Report TV" tvg-logo="" group-title="SHQIPTARE",Report TV
+#EXTINF:-1 group-title="SHQIPTARE",Report TV
 http://brutus.biz:2082/osmani/osmani/210
-#EXTINF:-1 tvg-id="" tvg-name="MCN Tv" tvg-logo="" group-title="SHQIPTARE",MCN Tv
+#EXTINF:-1 group-title="SHQIPTARE",MCN Tv
 http://brutus.biz:2082/osmani/osmani/548
-#EXTINF:-1 tvg-id="64703021d121ed9997e5d1a1ab15f633" tvg-name="SCAN" tvg-logo="" group-title="SHQIPTARE",SCAN
+#EXTINF:-1 group-title="SHQIPTARE",SCAN
 http://brutus.biz:2082/osmani/osmani/190
-#EXTINF:-1 tvg-id="99517c92a76b8da249ae964617523b4b" tvg-name="Klan Plus HD" tvg-logo="" group-title="SHQIPTARE",Klan Plus HD
+#EXTINF:-1 group-title="SHQIPTARE",Klan Plus HD
 http://brutus.biz:2082/osmani/osmani/187
-#EXTINF:-1 tvg-id="" tvg-name="Klan Kosova HD" tvg-logo="" group-title="SHQIPTARE",Klan Kosova HD
+#EXTINF:-1 group-title="SHQIPTARE",Klan Kosova HD
 http://brutus.biz:2082/osmani/osmani/425
-#EXTINF:-1 tvg-id="d00cd82b571495e72fc362f9ac4ba670" tvg-name="KLAN MACEDONIA" tvg-logo="" group-title="SHQIPTARE",KLAN MACEDONIA
+#EXTINF:-1 group-title="SHQIPTARE",KLAN MACEDONIA
 http://brutus.biz:2082/osmani/osmani/194
-#EXTINF:-1 tvg-id="f0d985301c62cdffe97f3a9e1edbbb62" tvg-name="RTSH HD" tvg-logo="" group-title="SHQIPTARE",RTSH HD
+#EXTINF:-1 group-title="SHQIPTARE",RTSH HD
 http://brutus.biz:2082/osmani/osmani/197
-#EXTINF:-1 tvg-id="f19201dd3a522717df7d71795f5a3632" tvg-name="RTSH 2 HD" tvg-logo="" group-title="SHQIPTARE",RTSH 2 HD
+#EXTINF:-1 group-title="SHQIPTARE",RTSH 2 HD
 http://brutus.biz:2082/osmani/osmani/198
-#EXTINF:-1 tvg-id="4e73f9bc66069cc4725533764d3e54f6" tvg-name="RTSH 3" tvg-logo="" group-title="SHQIPTARE",RTSH 3
+#EXTINF:-1 group-title="SHQIPTARE",RTSH 3
 http://brutus.biz:2082/osmani/osmani/199
-#EXTINF:-1 tvg-id="ed145532400964cafdedde6c45f9f623" tvg-name="RTSH Sport HD" tvg-logo="" group-title="SHQIPTARE",RTSH Sport HD
+#EXTINF:-1 group-title="SHQIPTARE",RTSH Sport HD
 http://brutus.biz:2082/osmani/osmani/200
-#EXTINF:-1 tvg-id="83f116c9ff289c81b3006a91bad49708" tvg-name="RTSH Shqip" tvg-logo="" group-title="SHQIPTARE",RTSH Shqip
+#EXTINF:-1 group-title="SHQIPTARE",RTSH Shqip
 http://brutus.biz:2082/osmani/osmani/201
-#EXTINF:-1 tvg-id="b1caf1cdc8e7c30986c8d637f4eb459c" tvg-name="RTSH Muzike" tvg-logo="" group-title="SHQIPTARE",RTSH Muzike
+#EXTINF:-1 group-title="SHQIPTARE",RTSH Muzike
 http://brutus.biz:2082/osmani/osmani/202
-#EXTINF:-1 tvg-id="fcba3e81918046ea83d9957eaec93897" tvg-name="RTSH Film" tvg-logo="" group-title="SHQIPTARE",RTSH Film
+#EXTINF:-1 group-title="SHQIPTARE",RTSH Film
 http://brutus.biz:2082/osmani/osmani/203
-#EXTINF:-1 tvg-id="773fd24b5a0ee1fe7885850fed809858" tvg-name="RTSH Femije" tvg-logo="" group-title="SHQIPTARE",RTSH Femije
+#EXTINF:-1 group-title="SHQIPTARE",RTSH Femije
 http://brutus.biz:2082/osmani/osmani/204
-#EXTINF:-1 tvg-id="f294b1893bf382daed722100a1d254c0" tvg-name="RTSH Shkolle" tvg-logo="" group-title="SHQIPTARE",RTSH Shkolle
+#EXTINF:-1 group-title="SHQIPTARE",RTSH Shkolle
 http://brutus.biz:2082/osmani/osmani/205
-#EXTINF:-1 tvg-id="25a5f35e6b7fbde7c3c76a56b83b21ff" tvg-name="RTSH 24 HD" tvg-logo="" group-title="SHQIPTARE",RTSH 24 HD
+#EXTINF:-1 group-title="SHQIPTARE",RTSH 24 HD
 http://brutus.biz:2082/osmani/osmani/206
-#EXTINF:-1 tvg-id="" tvg-name="SITI Shqip" tvg-logo="" group-title="SHQIPTARE",SITI Shqip
+#EXTINF:-1 group-title="SHQIPTARE",SITI Shqip
 http://brutus.biz:2082/osmani/osmani/877
-#EXTINF:-1 tvg-id="" tvg-name="CITY TV" tvg-logo="" group-title="SHQIPTARE",CITY TV
+#EXTINF:-1 group-title="SHQIPTARE",CITY TV
 http://brutus.biz:2082/osmani/osmani/878
-#EXTINF:-1 tvg-id="" tvg-name="Folklorit TV" tvg-logo="" group-title="SHQIPTARE",Folklorit TV
+#EXTINF:-1 group-title="SHQIPTARE",Folklorit TV
 http://brutus.biz:2082/osmani/osmani/879
-#EXTINF:-1 tvg-id="3e14bb6d7d06402a6a4220e5972ff413" tvg-name="Klan Music" tvg-logo="" group-title="SHQIPTARE",Klan Music
+#EXTINF:-1 group-title="SHQIPTARE",Klan Music
 http://brutus.biz:2082/osmani/osmani/195
-#EXTINF:-1 tvg-id="278e6768483f31d73cc9662f262183f2" tvg-name="SUPERSONIC TV" tvg-logo="" group-title="SHQIPTARE",SUPERSONIC TV
+#EXTINF:-1 group-title="SHQIPTARE",SUPERSONIC TV
 http://brutus.biz:2082/osmani/osmani/416
-#EXTINF:-1 tvg-id="f475a47ef5f5f6ec38ff715385644e08" tvg-name="STV Folk" tvg-logo="" group-title="SHQIPTARE",STV Folk
+#EXTINF:-1 group-title="SHQIPTARE",STV Folk
 http://brutus.biz:2082/osmani/osmani/417
-#EXTINF:-1 tvg-id="43c7265d902ab9914383e438fccac2af" tvg-name="MELODY TV" tvg-logo="" group-title="SHQIPTARE",MELODY TV
+#EXTINF:-1 group-title="SHQIPTARE",MELODY TV
 http://brutus.biz:2082/osmani/osmani/418
-#EXTINF:-1 tvg-id="" tvg-name="BBF" tvg-logo="" group-title="SHQIPTARE",BBF
+#EXTINF:-1 group-title="SHQIPTARE",BBF
 http://brutus.biz:2082/osmani/osmani/889
-#EXTINF:-1 tvg-id="" tvg-name="Folk+" tvg-logo="" group-title="SHQIPTARE",Folk+
+#EXTINF:-1 group-title="SHQIPTARE",Folk+
 http://brutus.biz:2082/osmani/osmani/890
-#EXTINF:-1 tvg-id="RTK 1" tvg-name="RTK 1" tvg-logo="" group-title="SHQIPTARE",RTK 1
+#EXTINF:-1 group-title="SHQIPTARE",RTK 1
 http://brutus.biz:2082/osmani/osmani/339
-#EXTINF:-1 tvg-id="" tvg-name="RTK 2" tvg-logo="" group-title="SHQIPTARE",RTK 2
+#EXTINF:-1 group-title="SHQIPTARE",RTK 2
 http://brutus.biz:2082/osmani/osmani/340
-#EXTINF:-1 tvg-id="" tvg-name="RTK 3" tvg-logo="" group-title="SHQIPTARE",RTK 3
+#EXTINF:-1 group-title="SHQIPTARE",RTK 3
 http://brutus.biz:2082/osmani/osmani/341
-#EXTINF:-1 tvg-id="" tvg-name="DUKAGJINI TV" tvg-logo="" group-title="SHQIPTARE",DUKAGJINI TV
+#EXTINF:-1 group-title="SHQIPTARE",DUKAGJINI TV
 http://brutus.biz:2082/osmani/osmani/426
-#EXTINF:-1 tvg-id="" tvg-name="ALSAT M" tvg-logo="" group-title="SHQIPTARE",ALSAT M
+#EXTINF:-1 group-title="SHQIPTARE",ALSAT M
 http://brutus.biz:2082/osmani/osmani/338
-#EXTINF:-1 tvg-id="KTV" tvg-name="KTV" tvg-logo="" group-title="SHQIPTARE",KTV
+#EXTINF:-1 group-title="SHQIPTARE",KTV
 http://brutus.biz:2082/osmani/osmani/343
-#EXTINF:-1 tvg-id="" tvg-name="ATV KOSOVA" tvg-logo="" group-title="SHQIPTARE",ATV KOSOVA
+#EXTINF:-1 group-title="SHQIPTARE",ATV KOSOVA
 http://brutus.biz:2082/osmani/osmani/512
-#EXTINF:-1 tvg-id="5295bf816d51c4a3b3bc6cc1562a135b" tvg-name="T7" tvg-logo="" group-title="SHQIPTARE",T7
+#EXTINF:-1 group-title="SHQIPTARE",T7
 http://brutus.biz:2082/osmani/osmani/427
-#EXTINF:-1 tvg-id="RTV 21" tvg-name="RTV 21" tvg-logo="" group-title="SHQIPTARE",RTV 21
+#EXTINF:-1 group-title="SHQIPTARE",RTV 21
 http://brutus.biz:2082/osmani/osmani/344
-#EXTINF:-1 tvg-id="" tvg-name="RTV 21 Maqedoni" tvg-logo="" group-title="SHQIPTARE",RTV 21 Maqedoni
+#EXTINF:-1 group-title="SHQIPTARE",RTV 21 Maqedoni
 http://brutus.biz:2082/osmani/osmani/451
-#EXTINF:-1 tvg-id="21 Junior" tvg-name="RTV 21 HD JUNIOR" tvg-logo="" group-title="SHQIPTARE",RTV 21 HD JUNIOR
+#EXTINF:-1 group-title="SHQIPTARE",RTV 21 HD JUNIOR
 http://brutus.biz:2082/osmani/osmani/345
-#EXTINF:-1 tvg-id="" tvg-name="RTV 21 MIX" tvg-logo="" group-title="SHQIPTARE",RTV 21 MIX
+#EXTINF:-1 group-title="SHQIPTARE",RTV 21 MIX
 http://brutus.biz:2082/osmani/osmani/347
-#EXTINF:-1 tvg-id="21 Popullore" tvg-name="RTV 21 POPULLORE" tvg-logo="" group-title="SHQIPTARE",RTV 21 POPULLORE
+#EXTINF:-1 group-title="SHQIPTARE",RTV 21 POPULLORE
 http://brutus.biz:2082/osmani/osmani/350
-#EXTINF:-1 tvg-id="" tvg-name="TV Mitrovica" tvg-logo="" group-title="SHQIPTARE",TV Mitrovica
+#EXTINF:-1 group-title="SHQIPTARE",TV Mitrovica
 http://brutus.biz:2082/osmani/osmani/537
-#EXTINF:-1 tvg-id="3cd7d5856f8fbde771813109bfc51620" tvg-name="Top Channel USA" tvg-logo="http://51.158.145.100/picons/logos/topchannel.png" group-title="SHQIPTARE",Top Channel USA
+#EXTINF:-1 group-title="SHQIPTARE" tvg-logo="http://51.158.145.100/picons/logos/topchannel.png",Top Channel USA
 http://brutus.biz:2082/osmani/osmani/439
-#EXTINF:-1 tvg-id="dc6c02fcdd54e84946576c444af015f0" tvg-name="Klan HD USA" tvg-logo="" group-title="SHQIPTARE",Klan HD USA
+#EXTINF:-1 group-title="SHQIPTARE",Klan HD USA
 http://brutus.biz:2082/osmani/osmani/440
-#EXTINF:-1 tvg-id="dc2f8042045cde0471d99436a59b231d" tvg-name="ABC News USA" tvg-logo="" group-title="SHQIPTARE",ABC News USA
+#EXTINF:-1 group-title="SHQIPTARE",ABC News USA
 http://brutus.biz:2082/osmani/osmani/443
-#EXTINF:-1 tvg-id="67fc312da8472d7f557167fd8bec3193" tvg-name="Vizion Plus HD USA" tvg-logo="" group-title="SHQIPTARE",Vizion Plus HD USA
+#EXTINF:-1 group-title="SHQIPTARE",Vizion Plus HD USA
 http://brutus.biz:2082/osmani/osmani/441
-#EXTINF:-1 tvg-id="2bef157934afef38bcabe120618955ac" tvg-name="ORA News USA" tvg-logo="" group-title="SHQIPTARE",ORA News USA
+#EXTINF:-1 group-title="SHQIPTARE",ORA News USA
 http://brutus.biz:2082/osmani/osmani/444
-#EXTINF:-1 tvg-id="0f321b300cfacf6e96db364e99bc314f" tvg-name="News 24 USA" tvg-logo="" group-title="SHQIPTARE",News 24 USA
+#EXTINF:-1 group-title="SHQIPTARE",News 24 USA
 http://brutus.biz:2082/osmani/osmani/442
-#EXTINF:-1 tvg-id="b5adb86dc98ef87dfadbce9a1ecff69d" tvg-name="GOLD HD" tvg-logo="" group-title="DIGITALB",GOLD HD
+#EXTINF:-1 group-title="DIGITALB",GOLD HD
 http://brutus.biz:2082/osmani/osmani/216
-#EXTINF:-1 tvg-id="77759684cdaa4e8f8d49a4accb3ec4d9" tvg-name="MAX HD" tvg-logo="" group-title="DIGITALB",MAX HD
+#EXTINF:-1 group-title="DIGITALB",MAX HD
 http://brutus.biz:2082/osmani/osmani/217
-#EXTINF:-1 tvg-id="" tvg-name="Big Brother Albania 1" tvg-logo="" group-title="DIGITALB",Big Brother Albania 1
-http://brutus.biz:2082/osmani/osmani/908
-#EXTINF:-1 tvg-id="" tvg-name="Big Brother Albania 2" tvg-logo="" group-title="DIGITALB",Big Brother Albania 2
-http://brutus.biz:2082/osmani/osmani/909
-#EXTINF:-1 tvg-id="461874297b0c716c863f98514a8f770c" tvg-name="Family HD" tvg-logo="" group-title="DIGITALB",Family HD
+#EXTINF:-1 group-title="DIGITALB",Family HD
 http://brutus.biz:2082/osmani/osmani/218
-#EXTINF:-1 tvg-id="8887f839c20fc11d7a7fa44625d86427" tvg-name="T HD" tvg-logo="" group-title="DIGITALB",T HD
+#EXTINF:-1 group-title="DIGITALB",T HD
 http://brutus.biz:2082/osmani/osmani/219
-#EXTINF:-1 tvg-id="fcba3e81918046ea83d9957eaec93897" tvg-name="TDC" tvg-logo="" group-title="DIGITALB",TDC
+#EXTINF:-1 group-title="DIGITALB",TDC
 http://brutus.biz:2082/osmani/osmani/511
-#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="" group-title="DIGITALB",TLC
+#EXTINF:-1 group-title="DIGITALB",TLC
 http://brutus.biz:2082/osmani/osmani/671
-#EXTINF:-1 tvg-id="b99bd399741df422b8f9f0fff0fece42" tvg-name="My Music" tvg-logo="" group-title="DIGITALB",My Music
+#EXTINF:-1 group-title="DIGITALB",My Music
 http://brutus.biz:2082/osmani/osmani/857
-#EXTINF:-1 tvg-id="d1ed13e9c9c0fd686c32053f786bc0c2" tvg-name="EuroFilm" tvg-logo="" group-title="DIGITALB",EuroFilm
+#EXTINF:-1 group-title="DIGITALB",EuroFilm
 http://brutus.biz:2082/osmani/osmani/220
-#EXTINF:-1 tvg-id="744860bf8db9770506e4be55bfd0d742" tvg-name="Stinet" tvg-logo="" group-title="DIGITALB",Stinet
+#EXTINF:-1 group-title="DIGITALB",Stinet
 http://brutus.biz:2082/osmani/osmani/221
-#EXTINF:-1 tvg-id="fcba3e81918046ea83d9957eaec93897" tvg-name="Film Autor" tvg-logo="" group-title="DIGITALB",Film Autor
+#EXTINF:-1 group-title="DIGITALB",Film Autor
 http://brutus.biz:2082/osmani/osmani/222
-#EXTINF:-1 tvg-id="e3c17fbe94df67fa014004d7ed6b630f" tvg-name="Film Hits HD" tvg-logo="" group-title="DIGITALB",Film Hits HD
+#EXTINF:-1 group-title="DIGITALB",Film Hits HD
 http://brutus.biz:2082/osmani/osmani/223
-#EXTINF:-1 tvg-id="4c2239670b090d94f0fd7947c3407f05" tvg-name="Film Thriller" tvg-logo="" group-title="DIGITALB",Film Thriller
+#EXTINF:-1 group-title="DIGITALB",Film Thriller
 http://brutus.biz:2082/osmani/osmani/224
-#EXTINF:-1 tvg-id="8cd375f0dce69dfbcc2c4fa3f63c3e17" tvg-name="Film Drame" tvg-logo="" group-title="DIGITALB",Film Drame
+#EXTINF:-1 group-title="DIGITALB",Film Drame
 http://brutus.biz:2082/osmani/osmani/225
-#EXTINF:-1 tvg-id="31ea8358e76501f88e4dd8f9a608b8c5" tvg-name="Film Aksion HD" tvg-logo="" group-title="DIGITALB",Film Aksion HD
+#EXTINF:-1 group-title="DIGITALB",Film Aksion HD
 http://brutus.biz:2082/osmani/osmani/226
-#EXTINF:-1 tvg-id="db4c9c15b13cd63148727d946fb92803" tvg-name="Film Komedi" tvg-logo="" group-title="DIGITALB",Film Komedi
+#EXTINF:-1 group-title="DIGITALB",Film Komedi
 http://brutus.biz:2082/osmani/osmani/227
-#EXTINF:-1 tvg-id="210b074f2114aef185ae684e71042552" tvg-name="Bang Bang" tvg-logo="" group-title="DIGITALB",Bang Bang
+#EXTINF:-1 group-title="DIGITALB",Bang Bang
 http://brutus.biz:2082/osmani/osmani/228
-#EXTINF:-1 tvg-id="bd90429cbb14d272be4c891baf6088b7" tvg-name="Cufo TV" tvg-logo="" group-title="DIGITALB",Cufo TV
+#EXTINF:-1 group-title="DIGITALB",Cufo TV
 http://brutus.biz:2082/osmani/osmani/229
-#EXTINF:-1 tvg-id="" tvg-name="Baby TV" tvg-logo="" group-title="DIGITALB",Baby TV
+#EXTINF:-1 group-title="DIGITALB",Baby TV
 http://brutus.biz:2082/osmani/osmani/670
-#EXTINF:-1 tvg-id="b7798388bda732a557a6435482f78c5a" tvg-name="Junior TV" tvg-logo="" group-title="DIGITALB",Junior TV
+#EXTINF:-1 group-title="DIGITALB",Junior TV
 http://brutus.biz:2082/osmani/osmani/230
-#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon HD" tvg-logo="" group-title="DIGITALB",Nickelodeon HD
+#EXTINF:-1 group-title="DIGITALB",Nickelodeon HD
 http://brutus.biz:2082/osmani/osmani/862
-#EXTINF:-1 tvg-id="" tvg-name="Nicktoons" tvg-logo="" group-title="DIGITALB",Nicktoons
+#EXTINF:-1 group-title="DIGITALB",Nicktoons
 http://brutus.biz:2082/osmani/osmani/863
-#EXTINF:-1 tvg-id="40a8b39db83926a6c911ab95ab541cc1" tvg-name="24 Kitchen" tvg-logo="" group-title="DIGITALB",24 Kitchen
+#EXTINF:-1 group-title="DIGITALB",24 Kitchen
 http://brutus.biz:2082/osmani/osmani/419
-#EXTINF:-1 tvg-id="f855366f1c4d7282ab6d95fe64729d94" tvg-name="FOX" tvg-logo="" group-title="DIGITALB",FOX
+#EXTINF:-1 group-title="DIGITALB",FOX
 http://brutus.biz:2082/osmani/osmani/420
-#EXTINF:-1 tvg-id="b4c635d52cd14bbd90a92781e2f57f6e" tvg-name="Discovery Channel HD" tvg-logo="" group-title="DIGITALB",Discovery Channel HD
+#EXTINF:-1 group-title="DIGITALB",Discovery Channel HD
 http://brutus.biz:2082/osmani/osmani/858
-#EXTINF:-1 tvg-id="540aaf55a34250c855fee00d848d2541" tvg-name="Discovery Science HD" tvg-logo="" group-title="DIGITALB",Discovery Science HD
+#EXTINF:-1 group-title="DIGITALB",Discovery Science HD
 http://brutus.biz:2082/osmani/osmani/859
-#EXTINF:-1 tvg-id="b5170555b2f978573d18199a613cfed3" tvg-name="Travel Channel HD" tvg-logo="" group-title="DIGITALB",Travel Channel HD
+#EXTINF:-1 group-title="DIGITALB",Travel Channel HD
 http://brutus.biz:2082/osmani/osmani/861
-#EXTINF:-1 tvg-id="18eb226f17a353ecc9eb084d1f1071a0" tvg-name="Kanal 10" tvg-logo="" group-title="DIGITALB",Kanal 10
+#EXTINF:-1 group-title="DIGITALB",Kanal 10
 http://brutus.biz:2082/osmani/osmani/422
-#EXTINF:-1 tvg-id="24222fd3262ed502fc380bc60ebd27c0" tvg-name="EXP shkence" tvg-logo="" group-title="DIGITALB",EXP shkence
+#EXTINF:-1 group-title="DIGITALB",EXP shkence
 http://brutus.biz:2082/osmani/osmani/236
-#EXTINF:-1 tvg-id="3597196d96f779a7332f765c80571dce" tvg-name="EXP histori" tvg-logo="" group-title="DIGITALB",EXP histori
+#EXTINF:-1 group-title="DIGITALB",EXP histori
 http://brutus.biz:2082/osmani/osmani/237
-#EXTINF:-1 tvg-id="6dc28e6fceb84a041af7613b0a94d3b7" tvg-name="EXP natyra" tvg-logo="" group-title="DIGITALB",EXP natyra
+#EXTINF:-1 group-title="DIGITALB",EXP natyra
 http://brutus.biz:2082/osmani/osmani/238
-#EXTINF:-1 tvg-id="fcba3e81918046ea83d9957eaec93897" tvg-name="MTV Live HD" tvg-logo="" group-title="DIGITALB",MTV Live HD
+#EXTINF:-1 group-title="DIGITALB",MTV Live HD
 http://brutus.biz:2082/osmani/osmani/245
-#EXTINF:-1 tvg-id="" tvg-name="Kanali 7" tvg-logo="" group-title="TRING",Kanali 7
+#EXTINF:-1 group-title="TRING",Kanali 7
 http://brutus.biz:2082/osmani/osmani/507
-#EXTINF:-1 tvg-id="ab273e8842bbba74f35a8732030f40b4" tvg-name="Tring Shqip" tvg-logo="" group-title="TRING",Tring Shqip
+#EXTINF:-1 group-title="TRING",Tring Shqip
 http://brutus.biz:2082/osmani/osmani/247
-#EXTINF:-1 tvg-id="8de7a27a8576365eb91dae7ac40f778e" tvg-name="Tring Super HD" tvg-logo="" group-title="TRING",Tring Super HD
+#EXTINF:-1 group-title="TRING",Tring Super HD
 http://brutus.biz:2082/osmani/osmani/248
-#EXTINF:-1 tvg-id="1e8b4bad36e56a41470361a3a2c1ec78" tvg-name="Tring Life HD" tvg-logo="" group-title="TRING",Tring Life HD
+#EXTINF:-1 group-title="TRING",Tring Life HD
 http://brutus.biz:2082/osmani/osmani/504
-#EXTINF:-1 tvg-id="604a2751b868f79b88e31616278e2015" tvg-name="Tring Fantasy" tvg-logo="" group-title="TRING",Tring Fantasy
+#EXTINF:-1 group-title="TRING",Tring Fantasy
 http://brutus.biz:2082/osmani/osmani/284
-#EXTINF:-1 tvg-id="15bd110b803a59977be9fca6b6301228" tvg-name="Tring Comedy" tvg-logo="" group-title="TRING",Tring Comedy
+#EXTINF:-1 group-title="TRING",Tring Comedy
 http://brutus.biz:2082/osmani/osmani/505
-#EXTINF:-1 tvg-id="6f3d15b29132ce67312a820aa3463ba5" tvg-name="Tring Action HD" tvg-logo="" group-title="TRING",Tring Action HD
+#EXTINF:-1 group-title="TRING",Tring Action HD
 http://brutus.biz:2082/osmani/osmani/249
-#EXTINF:-1 tvg-id="0c590b3f7384f1c81bc8ebfc0f5280aa" tvg-name="Jolly HD" tvg-logo="" group-title="TRING",Jolly HD
+#EXTINF:-1 group-title="TRING",Jolly HD
 http://brutus.biz:2082/osmani/osmani/283
-#EXTINF:-1 tvg-id="521f77fb9db91793c5634e1773ed4514" tvg-name="Living HD" tvg-logo="" group-title="TRING",Living HD
+#EXTINF:-1 group-title="TRING",Living HD
 http://brutus.biz:2082/osmani/osmani/431
-#EXTINF:-1 tvg-id="8906715f846ff7d1f65ec0e8bd0e7a63" tvg-name="KANAL D DRAMA" tvg-logo="" group-title="TRING",KANAL D DRAMA
+#EXTINF:-1 group-title="TRING",KANAL D DRAMA
 http://brutus.biz:2082/osmani/osmani/437
-#EXTINF:-1 tvg-id="699cbdba04400acea999ff8bc0559d81" tvg-name="3 Plus" tvg-logo="" group-title="TRING",3 Plus
+#EXTINF:-1 group-title="TRING",3 Plus
 http://brutus.biz:2082/osmani/osmani/286
-#EXTINF:-1 tvg-id="" tvg-name="Tring Novelas" tvg-logo="" group-title="TRING",Tring Novelas
+#EXTINF:-1 group-title="TRING",Tring Novelas
 http://brutus.biz:2082/osmani/osmani/888
-#EXTINF:-1 tvg-id="" tvg-name="Tring Collecton" tvg-logo="" group-title="TRING",Tring Collecton
+#EXTINF:-1 group-title="TRING",Tring Collecton
 http://brutus.biz:2082/osmani/osmani/893
-#EXTINF:-1 tvg-id="" tvg-name="Tring Classic" tvg-logo="" group-title="TRING",Tring Classic
+#EXTINF:-1 group-title="TRING",Tring Classic
 http://brutus.biz:2082/osmani/osmani/894
-#EXTINF:-1 tvg-id="" tvg-name="Tring Smile" tvg-logo="" group-title="TRING",Tring Smile
+#EXTINF:-1 group-title="TRING",Tring Smile
 http://brutus.biz:2082/osmani/osmani/896
-#EXTINF:-1 tvg-id="" tvg-name="Muse" tvg-logo="" group-title="TRING",Muse
+#EXTINF:-1 group-title="TRING",Muse
 http://brutus.biz:2082/osmani/osmani/898
-#EXTINF:-1 tvg-id="0f538163b3391098cdb032aa1906c4cd" tvg-name="Tring Planet" tvg-logo="" group-title="TRING",Tring Planet
+#EXTINF:-1 group-title="TRING",Tring Planet
 http://brutus.biz:2082/osmani/osmani/254
-#EXTINF:-1 tvg-id="039eafd0adbae8c98ca7e947789c642f" tvg-name="Tring World" tvg-logo="" group-title="TRING",Tring World
+#EXTINF:-1 group-title="TRING",Tring World
 http://brutus.biz:2082/osmani/osmani/255
-#EXTINF:-1 tvg-id="c9425aee1d7fd05c55f779d36f5ca1a0" tvg-name="Tring Tring" tvg-logo="" group-title="TRING",Tring Tring
+#EXTINF:-1 group-title="TRING",Tring Tring
 http://brutus.biz:2082/osmani/osmani/251
-#EXTINF:-1 tvg-id="3a4bf0362dbb3841846c64bf92dc3b4d" tvg-name="Tip TV" tvg-logo="" group-title="TRING",Tip TV
+#EXTINF:-1 group-title="TRING",Tip TV
 http://brutus.biz:2082/osmani/osmani/503
-#EXTINF:-1 tvg-id="6b1eb32b14d73d304cd8b10b35125414" tvg-name="SUPER SPORT 1" tvg-logo="" group-title="SPORT",SUPER SPORT 1
+#EXTINF:-1 group-title="SPORT",SUPER SPORT 1
 http://brutus.biz:2082/osmani/osmani/256
-#EXTINF:-1 tvg-id="c1aa04e42f86d8cc3b855cd89737ca72" tvg-name="SUPER SPORT 2" tvg-logo="" group-title="SPORT",SUPER SPORT 2
+#EXTINF:-1 group-title="SPORT",SUPER SPORT 2
 http://brutus.biz:2082/osmani/osmani/257
-#EXTINF:-1 tvg-id="5167f52a1ddb31c3a24c544ca60a3ead" tvg-name="SUPER SPORT 3" tvg-logo="" group-title="SPORT",SUPER SPORT 3
+#EXTINF:-1 group-title="SPORT",SUPER SPORT 3
 http://brutus.biz:2082/osmani/osmani/258
-#EXTINF:-1 tvg-id="7ec07fe52350a5f9c1b38b9b330a05c8" tvg-name="SUPER SPORT 4" tvg-logo="" group-title="SPORT",SUPER SPORT 4
+#EXTINF:-1 group-title="SPORT",SUPER SPORT 4
 http://brutus.biz:2082/osmani/osmani/259
-#EXTINF:-1 tvg-id="eccc33fd34e1f4c7b166f208b89d70c6" tvg-name="SUPER SPORT 5" tvg-logo="" group-title="SPORT",SUPER SPORT 5
+#EXTINF:-1 group-title="SPORT",SUPER SPORT 5
 http://brutus.biz:2082/osmani/osmani/260
-#EXTINF:-1 tvg-id="b14aecfbfebb4fea4df9cac46903fd5c" tvg-name="SUPER SPORT 6" tvg-logo="" group-title="SPORT",SUPER SPORT 6
+#EXTINF:-1 group-title="SPORT",SUPER SPORT 6
 http://brutus.biz:2082/osmani/osmani/261
-#EXTINF:-1 tvg-id="41418d1f3f4abfb5eed041d86e20d0f1" tvg-name="SUPER SPORT 7" tvg-logo="" group-title="SPORT",SUPER SPORT 7
+#EXTINF:-1 group-title="SPORT",SUPER SPORT 7
 http://brutus.biz:2082/osmani/osmani/262
-#EXTINF:-1 tvg-id="e0ca547ba229f86d9dcb302cee0fa1c1" tvg-name="EUROSPORT 1 HD" tvg-logo="" group-title="SPORT",EUROSPORT 1 HD
-http://brutus.biz:2082/osmani/osmani/435
-#EXTINF:-1 tvg-id="ffa4c20c4f55f3c9a43667bce47c5d53" tvg-name="EUROSPORT 2 HD" tvg-logo="" group-title="SPORT",EUROSPORT 2 HD
-http://brutus.biz:2082/osmani/osmani/436
-#EXTINF:-1 tvg-id="" tvg-name="SUPERLIGA SHQIPTARE 1" tvg-logo="" group-title="SPORT",SUPERLIGA SHQIPTARE 1
-http://brutus.biz:2082/osmani/osmani/903
-#EXTINF:-1 tvg-id="80404a1572422dc1b1a4797dff7ba625" tvg-name="TRING SPORT 1" tvg-logo="" group-title="SPORT",TRING SPORT 1
+#EXTINF:-1 group-title="SPORT",TRING SPORT 1
 http://brutus.biz:2082/osmani/osmani/263
-#EXTINF:-1 tvg-id="41d9dc1869fb3a6ff0b96c9e3f632191" tvg-name="TRING SPORT 2" tvg-logo="" group-title="SPORT",TRING SPORT 2
+#EXTINF:-1 group-title="SPORT",TRING SPORT 2
 http://brutus.biz:2082/osmani/osmani/264
-#EXTINF:-1 tvg-id="1d26355e58cbe672f35d7590af1a5758" tvg-name="TRING SPORT 3" tvg-logo="" group-title="SPORT",TRING SPORT 3
+#EXTINF:-1 group-title="SPORT",TRING SPORT 3
 http://brutus.biz:2082/osmani/osmani/265
-#EXTINF:-1 tvg-id="53409ae72a521aa8a47ff57e0a7c55f7" tvg-name="TRING SPORT 4" tvg-logo="" group-title="SPORT",TRING SPORT 4
+#EXTINF:-1 group-title="SPORT",TRING SPORT 4
 http://brutus.biz:2082/osmani/osmani/266
-#EXTINF:-1 tvg-id="" tvg-name="Kujtesa Sport 1" tvg-logo="" group-title="SPORT",Kujtesa Sport 1
+#EXTINF:-1 group-title="SPORT",OVERSPORT 1 HD
+http://brutus.biz:2082/osmani/osmani/911
+#EXTINF:-1 group-title="SPORT",OVERSPORT 2 HD
+http://brutus.biz:2082/osmani/osmani/903
+#EXTINF:-1 group-title="SPORT",OVERSPORT 3 HD
+http://brutus.biz:2082/osmani/osmani/912
+#EXTINF:-1 group-title="SPORT",OVERSPORT 4 HD
+http://brutus.biz:2082/osmani/osmani/913
+#EXTINF:-1 group-title="SPORT",EUROSPORT 1 HD
+http://brutus.biz:2082/osmani/osmani/435
+#EXTINF:-1 group-title="SPORT",EUROSPORT 2 HD
+http://brutus.biz:2082/osmani/osmani/436
+#EXTINF:-1 group-title="SPORT",Kujtesa Sport 1
 http://brutus.biz:2082/osmani/osmani/351
-#EXTINF:-1 tvg-id="" tvg-name="Kujtesa Sport 2" tvg-logo="" group-title="SPORT",Kujtesa Sport 2
+#EXTINF:-1 group-title="SPORT",Kujtesa Sport 2
 http://brutus.biz:2082/osmani/osmani/352
-#EXTINF:-1 tvg-id="" tvg-name="Kujtesa Sport 3" tvg-logo="" group-title="SPORT",Kujtesa Sport 3
+#EXTINF:-1 group-title="SPORT",Kujtesa Sport 3
 http://brutus.biz:2082/osmani/osmani/353
-#EXTINF:-1 tvg-id="" tvg-name="Kujtesa Sport 4" tvg-logo="" group-title="SPORT",Kujtesa Sport 4
+#EXTINF:-1 group-title="SPORT",Kujtesa Sport 4
 http://brutus.biz:2082/osmani/osmani/354
-#EXTINF:-1 tvg-id="" tvg-name="ART Sport 1" tvg-logo="" group-title="SPORT",ART Sport 1
+#EXTINF:-1 group-title="SPORT",ART Sport 1
 http://brutus.biz:2082/osmani/osmani/355
-#EXTINF:-1 tvg-id="" tvg-name="ART Sport 2" tvg-logo="" group-title="SPORT",ART Sport 2
+#EXTINF:-1 group-title="SPORT",ART Sport 2
 http://brutus.biz:2082/osmani/osmani/356
-#EXTINF:-1 tvg-id="" tvg-name="ART Sport 3" tvg-logo="" group-title="SPORT",ART Sport 3
+#EXTINF:-1 group-title="SPORT",ART Sport 3
 http://brutus.biz:2082/osmani/osmani/357
-#EXTINF:-1 tvg-id="" tvg-name="SPORT KLUB  2" tvg-logo="" group-title="SPORT",SPORT KLUB  2
-http://brutus.biz:2082/osmani/osmani/6
-#EXTINF:-1 tvg-id="" tvg-name="SPORT KLUB  3" tvg-logo="" group-title="SPORT",SPORT KLUB  3
-http://brutus.biz:2082/osmani/osmani/7
-#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 1" tvg-logo="" group-title="SPORT",Arena Sport 1
-http://brutus.biz:2082/osmani/osmani/9
-#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 2" tvg-logo="" group-title="SPORT",Arena Sport 2
-http://brutus.biz:2082/osmani/osmani/10
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 1" tvg-logo="" group-title="SPORT",ELEVEN SPORTS 1
-http://brutus.biz:2082/osmani/osmani/846
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 2" tvg-logo="" group-title="SPORT",ELEVEN SPORTS 2
-http://brutus.biz:2082/osmani/osmani/847
-#EXTINF:-1 tvg-id="" tvg-name="FIGHT Network" tvg-logo="" group-title="SPORT",FIGHT Network
-http://brutus.biz:2082/osmani/osmani/19
-#EXTINF:-1 tvg-id="" tvg-name="CANAL+ Sport" tvg-logo="" group-title="SPORT",CANAL+ Sport
-http://brutus.biz:2082/osmani/osmani/23
-#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT 1" tvg-logo="" group-title="SPORT",RMC SPORT 1
-http://brutus.biz:2082/osmani/osmani/35
-#EXTINF:-1 tvg-id="" tvg-name="RMC PORTS 2" tvg-logo="" group-title="SPORT",RMC PORTS 2
-http://brutus.biz:2082/osmani/osmani/36
-#EXTINF:-1 tvg-id="6b68d28434ee2e434fcfa0cba1418c60" tvg-name="Alpha HD" tvg-logo="" group-title="GREKE",Alpha HD
-http://brutus.biz:2082/osmani/osmani/364
-#EXTINF:-1 tvg-id="50446e3873ffaed65e11e4e520f78a27" tvg-name="MEGA HD" tvg-logo="" group-title="GREKE",MEGA HD
-http://brutus.biz:2082/osmani/osmani/378
-#EXTINF:-1 tvg-id="594d654ffb1ae0718b0f972580b9b068" tvg-name="ANTENA 1" tvg-logo="" group-title="GREKE",ANTENA 1
-http://brutus.biz:2082/osmani/osmani/363
-#EXTINF:-1 tvg-id="539328f492cd61bd2c73619c186333bb" tvg-name="SKAI HD" tvg-logo="" group-title="GREKE",SKAI HD
-http://brutus.biz:2082/osmani/osmani/423
-#EXTINF:-1 tvg-id="876b447bbd01ba5712fe8cfe61aafb5a" tvg-name="Makedonia.tv" tvg-logo="" group-title="GREKE",Makedonia.tv
-http://brutus.biz:2082/osmani/osmani/455
-#EXTINF:-1 tvg-id="668db5604d79cbbc9798f586efce0b90" tvg-name="Open HD" tvg-logo="" group-title="GREKE",Open HD
-http://brutus.biz:2082/osmani/osmani/430
-#EXTINF:-1 tvg-id="88b304d20c877e227b5e0e1fbe90328a" tvg-name="STAR HD" tvg-logo="" group-title="GREKE",STAR HD
-http://brutus.biz:2082/osmani/osmani/429
-#EXTINF:-1 tvg-id="" tvg-name="ERT 1 HD" tvg-logo="" group-title="GREKE",ERT 1 HD
-http://brutus.biz:2082/osmani/osmani/374
-#EXTINF:-1 tvg-id="" tvg-name="ERT 2 HD" tvg-logo="" group-title="GREKE",ERT 2 HD
-http://brutus.biz:2082/osmani/osmani/375
-#EXTINF:-1 tvg-id="" tvg-name="Rai 1" tvg-logo="" group-title="ITALIANE",Rai 1
-http://brutus.biz:2082/osmani/osmani/400
-#EXTINF:-1 tvg-id="" tvg-name="Rai 2" tvg-logo="" group-title="ITALIANE",Rai 2
-http://brutus.biz:2082/osmani/osmani/401
-#EXTINF:-1 tvg-id="" tvg-name="Rai 3" tvg-logo="" group-title="ITALIANE",Rai 3
-http://brutus.biz:2082/osmani/osmani/402
-#EXTINF:-1 tvg-id="" tvg-name="Rai Movie" tvg-logo="" group-title="ITALIANE",Rai Movie
-http://brutus.biz:2082/osmani/osmani/403
-#EXTINF:-1 tvg-id="" tvg-name="Rai News24" tvg-logo="" group-title="ITALIANE",Rai News24
-http://brutus.biz:2082/osmani/osmani/404
-#EXTINF:-1 tvg-id="" tvg-name="Rai Premium" tvg-logo="" group-title="ITALIANE",Rai Premium
-http://brutus.biz:2082/osmani/osmani/405
-#EXTINF:-1 tvg-id="" tvg-name="Rai Yoyo" tvg-logo="" group-title="ITALIANE",Rai Yoyo
-http://brutus.biz:2082/osmani/osmani/408
-#EXTINF:-1 tvg-id="" tvg-name="Canale 5" tvg-logo="" group-title="ITALIANE",Canale 5
-http://brutus.biz:2082/osmani/osmani/409
-#EXTINF:-1 tvg-id="" tvg-name="Italia 1" tvg-logo="" group-title="ITALIANE",Italia 1
-http://brutus.biz:2082/osmani/osmani/547
-#EXTINF:-1 tvg-id="" tvg-name="Rete 4" tvg-logo="" group-title="ITALIANE",Rete 4
-http://brutus.biz:2082/osmani/osmani/410
-#EXTINF:-1 tvg-id="" tvg-name="Mediaset Extra" tvg-logo="" group-title="ITALIANE",Mediaset Extra
-http://brutus.biz:2082/osmani/osmani/412
-#EXTINF:-1 tvg-id="" tvg-name="Iris Mediaset" tvg-logo="" group-title="ITALIANE",Iris Mediaset
-http://brutus.biz:2082/osmani/osmani/413
-#EXTINF:-1 tvg-id="" tvg-name="Top Crime Mediaset" tvg-logo="" group-title="ITALIANE",Top Crime Mediaset
-http://brutus.biz:2082/osmani/osmani/574
-#EXTINF:-1 tvg-id="" tvg-name="TRT 1 FHD" tvg-logo="" group-title="TURKE",TRT 1 FHD
-http://brutus.biz:2082/osmani/osmani/97
-#EXTINF:-1 tvg-id="" tvg-name="TRT 2 FHD" tvg-logo="" group-title="TURKE",TRT 2 FHD
-http://brutus.biz:2082/osmani/osmani/98
-#EXTINF:-1 tvg-id="" tvg-name="SHOW TV FHD" tvg-logo="" group-title="TURKE",SHOW TV FHD
-http://brutus.biz:2082/osmani/osmani/101
-#EXTINF:-1 tvg-id="" tvg-name="Star Tv HD" tvg-logo="" group-title="TURKE",Star Tv HD
-http://brutus.biz:2082/osmani/osmani/549
-#EXTINF:-1 tvg-id="" tvg-name="KANAL 7 FHD" tvg-logo="" group-title="TURKE",KANAL 7 FHD
-http://brutus.biz:2082/osmani/osmani/102
-#EXTINF:-1 tvg-id="" tvg-name="KANAL D FHD" tvg-logo="" group-title="TURKE",KANAL D FHD
-http://brutus.biz:2082/osmani/osmani/104
-#EXTINF:-1 tvg-id="" tvg-name="ART KINO 2" tvg-logo="" group-title="KINEMA",ART KINO 2
-http://brutus.biz:2082/osmani/osmani/361
-#EXTINF:-1 tvg-id="" tvg-name="CineStar Premier 1" tvg-logo="" group-title="KINEMA",CineStar Premier 1
-http://brutus.biz:2082/osmani/osmani/873
-#EXTINF:-1 tvg-id="" tvg-name="CineStar Action" tvg-logo="" group-title="KINEMA",CineStar Action
-http://brutus.biz:2082/osmani/osmani/875
-#EXTINF:-1 tvg-id="" tvg-name="RTL" tvg-logo="" group-title="GJERMANE",RTL
-http://brutus.biz:2082/osmani/osmani/392
-#EXTINF:-1 tvg-id="" tvg-name="Super RTL" tvg-logo="" group-title="GJERMANE",Super RTL
-http://brutus.biz:2082/osmani/osmani/445
-#EXTINF:-1 tvg-id="" tvg-name="Pro7" tvg-logo="" group-title="GJERMANE",Pro7
-http://brutus.biz:2082/osmani/osmani/393
-#EXTINF:-1 tvg-id="" tvg-name="VOX" tvg-logo="" group-title="GJERMANE",VOX
-http://brutus.biz:2082/osmani/osmani/394
-#EXTINF:-1 tvg-id="" tvg-name="Sat 1 Gold" tvg-logo="" group-title="GJERMANE",Sat 1 Gold
-http://brutus.biz:2082/osmani/osmani/396
-#EXTINF:-1 tvg-id="" tvg-name="ZDF" tvg-logo="" group-title="GJERMANE",ZDF
-http://brutus.biz:2082/osmani/osmani/398
-#EXTINF:-1 tvg-id="" tvg-name="KIKA" tvg-logo="" group-title="GJERMANE",KIKA
-http://brutus.biz:2082/osmani/osmani/399
-#EXTINF:-1 tvg-id="" tvg-name="SPORT KLUB  1" tvg-logo="" group-title="SPORT",SPORT KLUB  1
+#EXTINF:-1 group-title="SPORT",SPORT KLUB  1
 http://brutus.biz:2082/osmani/osmani/5
-#EXTINF:-1 tvg-id="" tvg-name="fptest" tvg-logo="" group-title="KINEMA",fptest
+#EXTINF:-1 group-title="SPORT",SPORT KLUB  2
+http://brutus.biz:2082/osmani/osmani/6
+#EXTINF:-1 group-title="SPORT",SPORT KLUB  3
+http://brutus.biz:2082/osmani/osmani/7
+#EXTINF:-1 group-title="SPORT",Arena Sport 1
+http://brutus.biz:2082/osmani/osmani/9
+#EXTINF:-1 group-title="SPORT",Arena Sport 2
+http://brutus.biz:2082/osmani/osmani/10
+#EXTINF:-1 group-title="SPORT",BT SPORT 1 FHD
+http://brutus.biz:2082/osmani/osmani/921
+#EXTINF:-1 group-title="SPORT",BT SPORT 2 FHD
+http://brutus.biz:2082/osmani/osmani/922
+#EXTINF:-1 group-title="SPORT",BT SPORT 3 FHD
+http://brutus.biz:2082/osmani/osmani/923
+#EXTINF:-1 group-title="SPORT",BT SPORT 4 FHD
+http://brutus.biz:2082/osmani/osmani/924
+#EXTINF:-1 group-title="SPORT",ELEVEN SPORTS 1
+http://brutus.biz:2082/osmani/osmani/846
+#EXTINF:-1 group-title="SPORT",ELEVEN SPORTS 2
+http://brutus.biz:2082/osmani/osmani/847
+#EXTINF:-1 group-title="SPORT",FIGHT Network
+http://brutus.biz:2082/osmani/osmani/19
+#EXTINF:-1 group-title="SPORT",CANAL+ Sport
+http://brutus.biz:2082/osmani/osmani/23
+#EXTINF:-1 group-title="SPORT",M. LA LIGA FHD
+http://brutus.biz:2082/osmani/osmani/920
+#EXTINF:-1 group-title="SPORT",SKY SPORTS F1 FHD
+http://brutus.biz:2082/osmani/osmani/925
+#EXTINF:-1 group-title="SPORT",RMC SPORT 1
+http://brutus.biz:2082/osmani/osmani/35
+#EXTINF:-1 group-title="SPORT",RMC PORTS 2
+http://brutus.biz:2082/osmani/osmani/36
+#EXTINF:-1 group-title="SPORT",DAZN 1 HD - DE
+http://brutus.biz:2082/osmani/osmani/914
+#EXTINF:-1 group-title="SPORT",DAZN 2 HD - DE
+http://brutus.biz:2082/osmani/osmani/915
+#EXTINF:-1 group-title="SPORT",DAZN 1 FHD - ES
+http://brutus.biz:2082/osmani/osmani/916
+#EXTINF:-1 group-title="SPORT",DAZN 2 FHD - ES
+http://brutus.biz:2082/osmani/osmani/917
+#EXTINF:-1 group-title="SPORT",DAZN 3 FHD - ES
+http://brutus.biz:2082/osmani/osmani/918
+#EXTINF:-1 group-title="SPORT",DAZN 4 FHD - ES
+http://brutus.biz:2082/osmani/osmani/919
+#EXTINF:-1 group-title="GREKE",Alpha HD
+http://brutus.biz:2082/osmani/osmani/364
+#EXTINF:-1 group-title="GREKE",MEGA HD
+http://brutus.biz:2082/osmani/osmani/378
+#EXTINF:-1 group-title="GREKE",ANTENA 1
+http://brutus.biz:2082/osmani/osmani/363
+#EXTINF:-1 group-title="GREKE",SKAI HD
+http://brutus.biz:2082/osmani/osmani/423
+#EXTINF:-1 group-title="GREKE",Makedonia.tv
+http://brutus.biz:2082/osmani/osmani/455
+#EXTINF:-1 group-title="GREKE",Open HD
+http://brutus.biz:2082/osmani/osmani/430
+#EXTINF:-1 group-title="GREKE",STAR HD
+http://brutus.biz:2082/osmani/osmani/429
+#EXTINF:-1 group-title="GREKE",ERT 1 HD
+http://brutus.biz:2082/osmani/osmani/374
+#EXTINF:-1 group-title="GREKE",ERT 2 HD
+http://brutus.biz:2082/osmani/osmani/375
+#EXTINF:-1 group-title="ITALIANE",Rai 1
+http://brutus.biz:2082/osmani/osmani/400
+#EXTINF:-1 group-title="ITALIANE",Rai 2
+http://brutus.biz:2082/osmani/osmani/401
+#EXTINF:-1 group-title="ITALIANE",Rai 3
+http://brutus.biz:2082/osmani/osmani/402
+#EXTINF:-1 group-title="ITALIANE",Rai Movie
+http://brutus.biz:2082/osmani/osmani/403
+#EXTINF:-1 group-title="ITALIANE",Rai News24
+http://brutus.biz:2082/osmani/osmani/404
+#EXTINF:-1 group-title="ITALIANE",Rai Premium
+http://brutus.biz:2082/osmani/osmani/405
+#EXTINF:-1 group-title="ITALIANE",Rai Yoyo
+http://brutus.biz:2082/osmani/osmani/408
+#EXTINF:-1 group-title="ITALIANE",Canale 5
+http://brutus.biz:2082/osmani/osmani/409
+#EXTINF:-1 group-title="ITALIANE",Italia 1
+http://brutus.biz:2082/osmani/osmani/547
+#EXTINF:-1 group-title="ITALIANE",Rete 4
+http://brutus.biz:2082/osmani/osmani/410
+#EXTINF:-1 group-title="ITALIANE",Mediaset Extra
+http://brutus.biz:2082/osmani/osmani/412
+#EXTINF:-1 group-title="ITALIANE",Iris Mediaset
+http://brutus.biz:2082/osmani/osmani/413
+#EXTINF:-1 group-title="ITALIANE",Top Crime Mediaset
+http://brutus.biz:2082/osmani/osmani/574
+#EXTINF:-1 group-title="TURKE",TRT 1 FHD
+http://brutus.biz:2082/osmani/osmani/97
+#EXTINF:-1 group-title="TURKE",TRT 2 FHD
+http://brutus.biz:2082/osmani/osmani/98
+#EXTINF:-1 group-title="TURKE",SHOW TV FHD
+http://brutus.biz:2082/osmani/osmani/101
+#EXTINF:-1 group-title="TURKE",Star Tv HD
+http://brutus.biz:2082/osmani/osmani/549
+#EXTINF:-1 group-title="TURKE",KANAL 7 FHD
+http://brutus.biz:2082/osmani/osmani/102
+#EXTINF:-1 group-title="TURKE",KANAL D FHD
+http://brutus.biz:2082/osmani/osmani/104
+#EXTINF:-1 group-title="KINEMA",ART KINO 2
+http://brutus.biz:2082/osmani/osmani/361
+#EXTINF:-1 group-title="KINEMA",CineStar Premier 1
+http://brutus.biz:2082/osmani/osmani/873
+#EXTINF:-1 group-title="KINEMA",CineStar Action
+http://brutus.biz:2082/osmani/osmani/875
+#EXTINF:-1 group-title="GJERMANE",RTL
+http://brutus.biz:2082/osmani/osmani/392
+#EXTINF:-1 group-title="GJERMANE",Super RTL
+http://brutus.biz:2082/osmani/osmani/445
+#EXTINF:-1 group-title="GJERMANE",Pro7
+http://brutus.biz:2082/osmani/osmani/393
+#EXTINF:-1 group-title="GJERMANE",VOX
+http://brutus.biz:2082/osmani/osmani/394
+#EXTINF:-1 group-title="GJERMANE",Sat 1 Gold
+http://brutus.biz:2082/osmani/osmani/396
+#EXTINF:-1 group-title="GJERMANE",ZDF
+http://brutus.biz:2082/osmani/osmani/398
+#EXTINF:-1 group-title="GJERMANE",KIKA
+http://brutus.biz:2082/osmani/osmani/399
+#EXTINF:-1 group-title="KINEMA",fptest
 http://brutus.biz:2082/osmani/osmani/910
