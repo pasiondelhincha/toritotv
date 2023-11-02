@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0 group-title="00TELECENTRO" tvg-name="https://router.cdn.rcs.net.ar/anevia/live/localdisk/LN/SA_HLS/LN.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/La-Nacion-Mas-Logo.svg/1024px-La-Nacion-Mas-Logo.svg.png" ,001 LA NACION
-http://45.186.252.17:8000/play/a00c
+https://ythls.onrender.com/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
 #EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/TLMX.png/220px-TLMX.png" ,002 TELEMAX
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1697350653_b1828000_sleng.m3u8
 #EXTINF:0 group-title="00TELECENTRO" tvg-name="https://delivery.cdn.rcs.net.ar/mnp/tn/output.mpd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/2560px-TN_todo_noticias_logo.svg.png" ,003 TN
@@ -138,9 +138,9 @@ http://45.5.151.150:8000/play/a054/index.m3u8
 #EXTINF:0 group-title="00TELECENTRO" tvg-id="https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/chunklist_w1905927469.m3u8" tvg-logo="https://i.imgur.com/Iozv4tT.png" ,400 CINEAR
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/chunklist_w1905927469.m3u8
 #EXTINF:0 group-title="00TELECENTRO" tvg-logo="https://i.imgur.com/4fMWhUE.png" ,401 SYFY
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/189
+http://190.110.111.26:9980/play/a0cx/index.m3u8
 #EXTINF:0 group-title="00TELECENTRO" parent-code="https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/FX/SA_HLS/FX.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/512px-FX_International_logo.svg.png" ,402 FX
-http://45.181.122.169:8000/play/a024
+http://190.110.111.26:9980/play/a068/index.m3u8
 #EXTINF:0 group-title="00TELECENTRO" tvg-name="https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Star_Channel/SA_HLS/Star_Channel.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/512px-Star_Channel_2020.svg.png" ,403 STAR CHANNEL
 http://45.181.122.169:8000/play/a01l
 #EXTINF:0 group-title="00TELECENTRO" tvg-name="https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Universal/SA_HLS/Universal.m3u8" tvg-logo="https://i.imgur.com/jnjvR5f.png" ,404 UNIVERSAL
@@ -160,9 +160,9 @@ http://170.254.172.10:8000/play/a04g/index.m3u8
 #EXTINF:0 group-title="00TELECENTRO" tvg-name="https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Sony/SA_HLS/Sony.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/512px-Sony_Channel_Logo.png" ,411 SONY CHANNEL
 http://dnsplay.xyz:80/rwngtbmi/60sPa6Nx2n/34938
 #EXTINF:0 group-title="00TELECENTRO" tvg-name="https://delivery.cdn.rcs.net.ar/mnp/cinemax/output.mpd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/512px-Cinemax_%28Yellow%29.svg.png" ,412 CINEMAX
-http://dnsplay.xyz:80/rwngtbmi/60sPa6Nx2n/313036
+http://190.110.111.26:9980/play/a064/index.m3u8
 #EXTINF:0 group-title="00TELECENTRO" tvg-name="https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Studio_Universal/SA_HLS/Studio_Universal.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/512px-StudioUniversal2016.png" ,413 STUDIO UNIVERSAL
-http://dnsplay.xyz:80/rwngtbmi/60sPa6Nx2n/313045
+http://190.110.111.26:9980/play/a0j1/index.m3u8
 #EXTINF:0 group-title="00TELECENTRO" tvg-name="https://delivery.cdn.rcs.net.ar/mnp/tntseries/output.mpd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" ,414 TNT SERIES
 http://dnsplay.xyz:80/rwngtbmi/60sPa6Nx2n/34964
 #EXTINF:0 group-title="00TELECENTRO" tvg-name="https://delivery.cdn.rcs.net.ar/mnp/isat/output.mpd" tvg-logo="https://i.imgur.com/37KIhdl.png" ,415 I-SAT
