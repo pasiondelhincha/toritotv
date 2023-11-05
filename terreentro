@@ -5,6 +5,8 @@ https://archive.org/download/cumplean-os/CUMPLEA%C3%91OS.mp4
 http://168.197.196.98:9981/stream/channelid/47778796?profile=pass
 #EXTINF:0 group-title="CINE Y SERIES" tvg-name="https://delivery.cdn.rcs.net.ar/mnp/ae/output.mpd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/512px-A%26E_Network_logo.svg.png" ,A&E
 http://168.197.196.98:9981/stream/channelid/38267091?profile=pass
+#EXTINF:0 group-title="CINE Y SERIES" tvg-logo="https://fotografias.atresseries.com/clipping/cmsimages02/2018/02/22/20C2BFA8-ACA3-47DA-AAFB-188D456AB2A9/27.jpg" ,A3SERIES
+http://181.78.12.119:16123/play/a0a9/index.m3u8
 #EXTINF:0 group-title="CINE Y SERIES" tvg-logo="https://i.imgur.com/rpIAikI.png" ,AMC
 http://168.197.196.98:9981/stream/channelid/689066518?profile=pass
 #EXTINF:0 group-title="CINE Y SERIES" tvg-name="https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/AXN/SA_HLS/AXN.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" ,AXN
@@ -23,6 +25,10 @@ http://45.5.151.151:8000/play/a00l/index.m3u8
 http://168.197.196.98:9981/stream/channelid/1737732228?profile=pass
 #EXTINF:0 group-title="CINE Y SERIES" tvg-logo="http://www.radiosargentina.com.ar/png/VI-GENTV.png" ,GEN TV
 https://inliveserver.com:1936/14056/14056/chunklist_w804806754.m3u8
+#EXTINF:0 group-title="CINE Y SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png" ,GOLDEN
+http://181.78.12.119:16123/play/ch46/index.m3u8
+#EXTINF:0 group-title="CINE Y SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Golden_Edge_Logo_2020.png" ,GOLDEN EDGE
+http://181.78.12.119:16123/play/ch47/index.m3u8
 #EXTINF:0 group-title="CINE Y SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" ,HBO
 http://168.197.196.98:9981/stream/channelid/2085585075?profile=pass
 #EXTINF:0 group-title="CINE Y SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/512px-HBO2_logo.svg.png" ,HBO 2
@@ -41,6 +47,8 @@ http://200.24.206.132:8000/play/a0cn/index.m3u8
 http://45.5.151.151:8000/play/a01u/index.m3u8
 #EXTINF:0 group-title="CINE Y SERIES" tvg-name="https://delivery.cdn.rcs.net.ar/mnp/isat/output.mpd" tvg-logo="https://i.imgur.com/37KIhdl.png" ,I-SAT
 http://168.197.196.98:9981/stream/channelid/655478302?profile=pass
+#EXTINF:0 group-title="CINE Y SERIES" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/52cd8bc0ebc97b48ca09202a5fd9f80d.png" ,MORBIDO TV
+http://iptvtree.net:8080/1eae94e3/GpDddDC8ddMxhY2n/198054
 #EXTINF:0 group-title="CINE Y SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png" ,PARAMOUNT NETWORK
 http://168.197.196.98:9981/stream/channelid/1243090545?profile=pass
 #EXTINF:0 group-title="CINE Y SERIES" tvg-name="https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Sony/SA_HLS/Sony.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/512px-Sony_Channel_Logo.png" ,SONY CHANNEL
