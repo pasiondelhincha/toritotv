@@ -66,7 +66,7 @@ http://200.24.206.132:8000/play/a012/index.m3u8
 #EXTINF:0 group-title="CINE Y SERIES" tvg-name="http://hplay.xyz:80/rtrboofc/pi519pvU9R/34902" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/512px-HBO_Signature.svg.png" ,HBO SIGNATURE
 http://200.24.206.132:8000/play/a0cn/index.m3u8
 #EXTINF:0 group-title="CINE Y SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/512px-HBO_Xtreme.svg.png" ,HBO XTREME
-http://45.5.151.151:8000/play/a01u/index.m3u8
+http://dnsplay.xyz:80/ugapgzwa/08qHf6Xx5o/313053.ts
 #EXTINF:0 group-title="CINE Y SERIES" tvg-name="https://delivery.cdn.rcs.net.ar/mnp/isat/output.mpd" tvg-logo="https://i.imgur.com/37KIhdl.png" ,I-SAT
 http://168.197.196.98:9981/stream/channelid/655478302?profile=pass
 #EXTINF:0 group-title="CINE Y SERIES" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/52cd8bc0ebc97b48ca09202a5fd9f80d.png" ,MORBIDO TV
@@ -93,16 +93,16 @@ http://168.197.196.98:9981/stream/channelid/1112853275?profile=pass
 http://168.197.196.98:9981/stream/channelid/952874561?profile=pass
 #EXTINF:0 group-title="CINE Y SERIES" tvg-name="https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Universal/SA_HLS/Universal.m3u8" tvg-logo="https://i.imgur.com/jnjvR5f.png" ,UNIVERSAL
 http://168.197.196.98:9981/stream/channelid/1043262239?profile=pass
-#EXTINF:0 group-title="CINE Y SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png" ,UNIVERSAL
-http://zuihaode.site:8080/drsantana2006/K3mUCbsfJ1/3413
+#EXTINF:0 group-title="CINE Y SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png" ,UNIVERSAL TV
+http://dnsplay.xyz:80/ugapgzwa/08qHf6Xx5o/313049.ts
 #EXTINF:0 group-title="CINE Y SERIES" tvg-logo="https://i.imgur.com/XxfET68.png" ,UNIVERSAL CINEMA
-http://201.190.41.118:56903/play/a09g/index.m3u8
+http://dnsplay.xyz:80/ugapgzwa/08qHf6Xx5o/312948.ts
 #EXTINF:0 group-title="CINE Y SERIES" tvg-logo="https://i.imgur.com/avBL8pQ.png" ,UNIVERSAL COMEDY
 http://dnsplay.xyz:80/ugapgzwa/08qHf6Xx5o/34856.ts
 #EXTINF:0 group-title="CINE Y SERIES" tvg-name="http://hplay.xyz:80/rtrboofc/pi519pvU9R/34853" tvg-logo="https://i.imgur.com/OwSlGMu.png" ,UNIVERSAL CRIME
 http://dnsplay.xyz:80/ugapgzwa/08qHf6Xx5o/302741.ts
 #EXTINF:0 group-title="CINE Y SERIES" tvg-logo="https://i.imgur.com/KdFk80C.png" ,UNIVERSAL PREMIERE
-http://201.190.41.118:56903/play/a099/index.m3u8
+http://dnsplay.xyz:80/ugapgzwa/08qHf6Xx5o/34875.ts
 #EXTINF:0 group-title="CINE Y SERIES" tvg-logo="https://i.imgur.com/mqfUD1R.png" ,UNIVERSAL REALITY
 http://dnsplay.xyz:80/ugapgzwa/08qHf6Xx5o/34864.ts
 #EXTINF:0 group-title="CINE Y SERIES" tvg-logo="https://i.imgur.com/PYvSZMb.png" ,VOLVER
@@ -220,9 +220,9 @@ https://d107yb993altze.cloudfront.net/out/v1/772e0b0193134726ad84693b7baca6c6/in
 #EXTINF:0 group-title="DEPORTES" tvg-logo="https://www.totalmedios.com/img/noticias/2014/11/54785c051f4c7__838x390.jpg" ,TYC SPORTS PLAY 14
 https://dj8bzwveg7go9.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/index_16.m3u8
 #EXTINF:0 group-title="DEPORTES" tvg-logo="https://i.imgur.com/SiImXjJ.png" ,VTV
-http://zuihaode.site:8080/drsantana2006/K3mUCbsfJ1/122340
+http://dnsplay.xyz:80/ugapgzwa/08qHf6Xx5o/304373.ts
 #EXTINF:0 group-title="DEPORTES" tvg-logo="https://i.imgur.com/HndFaFP.png" ,VTV PLUS
-http://zuihaode.site:8080/drsantana2006/K3mUCbsfJ1/14182
+http://dnsplay.xyz:80/ugapgzwa/08qHf6Xx5o/304377.ts
 #EXTINF:0 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Win_Sport_logo.png" ,WIN SPORTS
 http://8.242.126.186:7777/play/a01w/index.m3u8
 #EXTINF:0 group-title="DEPORTES" tvg-logo="https://bolavip.com/__export/1580751109215/sites/bolavip/img/2020/02/03/win_crop1580751108551.png_267849830.png" ,WIN SPORTS PLUS
@@ -355,24 +355,6 @@ http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1697350653_b1
 http://168.197.196.98:9981/stream/channelid/876597797?profile=pass
 #EXTINF:0 group-title="LOCAL" tvg-logo="https://1.bp.blogspot.com/-Z3CkwxY4fwY/YAJypg5UiPI/AAAAAAAA7vA/pzgUVEWEm6w7d-vCJEtQSU5MG8O-ixbkQCLcBGAsYHQ/s802/tvp-2020.png" ,TVP PUBLICA
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
-#EXTINF:0 group-title="MOVISTAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8d/Movistar_TV_logo_2018.png" ,CINEMA00
-http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=507619&extension=ts&play_token=T3HuVEXjrf
-#EXTINF:0 group-title="MOVISTAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8d/Movistar_TV_logo_2018.png" ,CINEMA01
-http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=507617&extension=ts&play_token=GRq1kuwvbY
-#EXTINF:0 group-title="MOVISTAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8d/Movistar_TV_logo_2018.png" ,CINEMA02
-http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=507616&extension=ts&play_token=vhphKQbwnV
-#EXTINF:0 group-title="MOVISTAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8d/Movistar_TV_logo_2018.png" ,CINEMA03
-http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=507615&extension=ts&play_token=MDBjCPbHPn
-#EXTINF:0 group-title="MOVISTAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8d/Movistar_TV_logo_2018.png" ,CINEMA04
-http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=507614&extension=ts&play_token=Xim3PTfIJP
-#EXTINF:0 group-title="MOVISTAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8d/Movistar_TV_logo_2018.png" ,CINEMA05
-http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=507609&extension=ts&play_token=Uwexr4qpwy
-#EXTINF:0 group-title="MOVISTAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8d/Movistar_TV_logo_2018.png" ,CINEMA06
-http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=507612&extension=ts&play_token=dvsszwS27o
-#EXTINF:0 group-title="MOVISTAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8d/Movistar_TV_logo_2018.png" ,CINEMA07
-http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=507611&extension=ts&play_token=Mja1pamiAk
-#EXTINF:0 group-title="MOVISTAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8d/Movistar_TV_logo_2018.png" ,CINEMA08
-http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=507610&extension=ts&play_token=E4jzoJufIQ
 #EXTINF:0 group-title="MUSICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1200px-Htv_logo.svg.png" ,HTV MUSICA
 http://190.60.37.126:8001/play/a05e/index.m3u8
 #EXTINF:0 group-title="MUSICA" tvg-logo="https://www.latina101.com.ar/images/logo.png" ,LATINA
