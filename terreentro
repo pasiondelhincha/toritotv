@@ -475,8 +475,6 @@ https://dhmxbo9piuo21.cloudfront.net/out/v1/84ee2b0cce384a30abd70b05562ddd91/ind
 https://d107yb993altze.cloudfront.net/out/v1/772e0b0193134726ad84693b7baca6c6/index.m3u8
 #EXTINF:0 group-title="FUTBOL ARGENTINO" tvg-logo="https://www.totalmedios.com/img/noticias/2014/11/54785c051f4c7__838x390.jpg" ,TYC SPORTS PLAY 14
 https://dj8bzwveg7go9.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/index_16.m3u8
-#EXTINF:0 group-title="http://173419528354669006.of1030ok.xyz:80/play/fe1028087/BubxYqH5VD/669006.ts" tvg-logo="https://i.imgur.com/zsCZHMh.png" ,STAR TVE
-http://170.254.172.10:8000/play/a043/index.m3u8
 #EXTINF:0 group-title="INFANTILES" tvg-logo="https://i.postimg.cc/52gfdMxp/BABY-TV.jpg" ,BABY TV
 http://168.197.196.98:9981/stream/channelid/82729369?profile=pass
 #EXTINF:0 group-title="INFANTILES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/800px-Cartoon_Network_2010_logo.svg.png" ,CARTOON NETWORK
@@ -685,6 +683,8 @@ https://streamcdnc3-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/rain
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 #EXTINF:0 group-title="NOTICIAS INTERNACIONALES" tvg-logo="https://i.postimg.cc/XYDZfs8d/IMAGEN.png" ,SKY NEWS AUSTRALIA
 https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
+#EXTINF:0 group-title="NOTICIAS INTERNACIONALES" tvg-logo="https://i.imgur.com/zsCZHMh.png" ,STAR TVE
+http://173419528354669006.of1030ok.xyz:80/play/fe1028087/BubxYqH5VD/669006.ts
 #EXTINF:0 group-title="NOTICIAS INTERNACIONALES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png" ,TELEMUNDO INTERNACIONAL
 http://38.43.150.127:8000/play/a027/index.m3u8
 #EXTINF:0 group-title="NOTICIAS INTERNACIONALES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/Logo_de_telesur_2005-2011.png/revision/latest?cb=20210308032446&path-prefix=es" ,TELESUR
