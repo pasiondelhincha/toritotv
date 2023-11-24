@@ -39,6 +39,8 @@ http://181.78.12.119:16123/play/a0a9/index.m3u8
 http://168.197.196.98:9981/stream/channelid/689066518?profile=pass
 #EXTINF:0 group-title="CINE Y SERIES" tvg-name="https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/AXN/SA_HLS/AXN.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" ,AXN
 http://168.197.196.98:9981/stream/channelid/1072218379?profile=pass
+#EXTINF:-1 group-title="CINE Y SERIES" ,AZ Cinema HD (MX)
+http://dnsplay.xyz:80/ugapgzwa/08qHf6Xx5o/302615.ts
 #EXTINF:0 group-title="CINE Y SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Cine_Latino_logo.svg/2560px-Cine_Latino_logo.svg.png" ,CINE LATINO
 http://190.14.14.42:16001/play/a0ef/index.m3u8
 #EXTINF:0 group-title="CINE Y SERIES" tvg-id="https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/chunklist_w1905927469.m3u8" tvg-logo="https://i.imgur.com/Iozv4tT.png" ,CINEAR
@@ -47,6 +49,16 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/chunklist_w1905927469.m
 http://168.197.196.98:9981/stream/channelid/999872231?profile=pass
 #EXTINF:0 group-title="CINE Y SERIES" tvg-name="https://delivery.cdn.rcs.net.ar/mnp/cinemax/output.mpd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/512px-Cinemax_%28Yellow%29.svg.png" ,CINEMAX
 http://168.197.196.98:9981/stream/channelid/187415757?profile=pass
+#EXTINF:0 group-title="CINE Y SERIES" tvg-logo="https://img.hidra.app/peliculasyseries/cloverchannel.png" ,CLOVER
+http://dnsplay.xyz:80/ugapgzwa/08qHf6Xx5o/313054.ts
+#EXTINF:0 group-title="CINE Y SERIES" tvg-logo="https://img.hidra.app/peliculasyseries/depelicula.png" ,DE PELICULA
+http://dnsplay.xyz:80/ugapgzwa/08qHf6Xx5o/312786.ts
+#EXTINF:0 group-title="CINE Y SERIES" tvg-logo="https://img.hidra.app/peliculasyseries/depeliculaplus.png" ,DE PELICULA PLUS
+http://dnsplay.xyz:80/ugapgzwa/08qHf6Xx5o/35000.ts
+#EXTINF:0 group-title="CINE Y SERIES" tvg-logo="https://img.hidra.app/peliculasyseries/dhe.png" ,DHE
+http://dnsplay.xyz:80/ugapgzwa/08qHf6Xx5o/35245.ts
+#EXTINF:0 group-title="CINE Y SERIES" tvg-logo="https://img.hidra.app/peliculasyseries/eurochannel.png" ,EUROCHANNEL
+http://dnsplay.xyz:80/ugapgzwa/08qHf6Xx5o/177211.ts
 #EXTINF:0 group-title="CINE Y SERIES" tvg-logo="https://i.imgur.com/w5SOfyJ.png" ,EUROPA EUROPA
 http://45.181.121.227:801/play/a05y
 #EXTINF:0 group-title="CINE Y SERIES" parent-code="https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/FX/SA_HLS/FX.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/512px-FX_International_logo.svg.png" ,FX
@@ -57,6 +69,8 @@ https://inliveserver.com:1936/14056/14056/chunklist_w804806754.m3u8
 http://181.78.12.119:16123/play/ch46/index.m3u8
 #EXTINF:0 group-title="CINE Y SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Golden_Edge_Logo_2020.png" ,GOLDEN EDGE
 http://181.78.12.119:16123/play/ch47/index.m3u8
+#EXTINF:0 group-title="CINE Y SERIES" tvg-logo="https://img.hidra.app/peliculasyseries/goldenplus.png" ,GOLDEN PLUS
+http://dnsplay.xyz:80/ugapgzwa/08qHf6Xx5o/34989.ts
 #EXTINF:0 group-title="CINE Y SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" ,HBO
 http://168.197.196.98:9981/stream/channelid/2085585075?profile=pass
 #EXTINF:0 group-title="CINE Y SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/512px-HBO2_logo.svg.png" ,HBO 2
@@ -77,6 +91,8 @@ http://dnsplay.xyz:80/ugapgzwa/08qHf6Xx5o/313053.ts
 http://168.197.196.98:9981/stream/channelid/655478302?profile=pass
 #EXTINF:0 group-title="CINE Y SERIES" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/52cd8bc0ebc97b48ca09202a5fd9f80d.png" ,MORBIDO TV
 http://31.42.185.216:8000/4FJINMSHKC/GH06J535EG/163594
+#EXTINF:0 group-title="CINE Y SERIES" ,MULTIPREMIER
+http://dnsplay.xyz:80/ugapgzwa/08qHf6Xx5o/35003.ts
 #EXTINF:0 group-title="CINE Y SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png" ,PARAMOUNT NETWORK
 http://168.197.196.98:9981/stream/channelid/1243090545?profile=pass
 #EXTINF:0 group-title="CINE Y SERIES" tvg-name="https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Sony/SA_HLS/Sony.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/512px-Sony_Channel_Logo.png" ,SONY CHANNEL
@@ -115,6 +131,142 @@ http://dnsplay.xyz:80/ugapgzwa/08qHf6Xx5o/313049.ts
 http://31.42.185.216:8000/4FJINMSHKC/GH06J535EG/3544
 #EXTINF:0 group-title="CINE Y SERIES" tvg-name="https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Warner/SA_HLS/Warner.m3u8" tvg-logo="https://i.imgur.com/t6GQq2p.png" ,WARNER WBTV
 http://168.197.196.98:9981/stream/channelid/1696344801?profile=pass
+#EXTINF:-1 group-title="CINEMA CONTINUADO" tvg-logo="https://img.hidra.app/247/mcrt128.png" ,24/7 Cinema Accion Classics HD
+http://dnsplay.xyz:80/ugapgzwa/08qHf6Xx5o/50572.ts
+#EXTINF:-1 group-title="CINEMA CONTINUADO" tvg-logo="https://img.hidra.app/247/cinemaccionclassic.png" ,24/7 Cinema Accion Classics HD
+http://dnsplay.xyz:80/ugapgzwa/08qHf6Xx5o/333172.ts
+#EXTINF:-1 group-title="CINEMA CONTINUADO" tvg-logo="https://img.hidra.app/247/cinemaanime128x128.png" ,24/7 Cinema Anime [test] FHD
+http://dnsplay.xyz:80/ugapgzwa/08qHf6Xx5o/58069.ts
+#EXTINF:-1 group-title="CINEMA CONTINUADO" tvg-logo="https://img.hidra.app/247/cinemaficcion.png" ,24/7 Cinema Ciencia Ficcion FHD
+http://dnsplay.xyz:80/ugapgzwa/08qHf6Xx5o/333120.ts
+#EXTINF:-1 group-title="CINEMA CONTINUADO" tvg-logo="https://img.hidra.app/247/mcrt128.png" ,24/7 Cinema Comedia HD
+http://dnsplay.xyz:80/ugapgzwa/08qHf6Xx5o/50575.ts
+#EXTINF:-1 group-title="CINEMA CONTINUADO" tvg-logo="https://img.hidra.app/247/cinemadccomics.png" ,24/7 Cinema DC Comics FHD
+http://dnsplay.xyz:80/ugapgzwa/08qHf6Xx5o/50576.ts
+#EXTINF:-1 group-title="CINEMA CONTINUADO" tvg-logo="https://img.hidra.app/247/cinemadcuniverse.png" ,24/7 Cinema DC Universe HD
+http://dnsplay.xyz:80/ugapgzwa/08qHf6Xx5o/50577.ts
+#EXTINF:-1 group-title="CINEMA CONTINUADO" tvg-logo="https://img.hidra.app/247/cinemadisneyfamilymovies.png" ,24/7 Cinema Disney Family HD
+http://dnsplay.xyz:80/ugapgzwa/08qHf6Xx5o/50578.ts
+#EXTINF:-1 group-title="CINEMA CONTINUADO" tvg-logo="https://img.hidra.app/247/cinemadisneypixar.png" ,24/7 Cinema Disney Pixar FHD
+http://dnsplay.xyz:80/ugapgzwa/08qHf6Xx5o/50579.ts
+#EXTINF:-1 group-title="CINEMA CONTINUADO" tvg-logo="https://img.hidra.app/247/cinemadreamworks.png" ,24/7 Cinema Dreamworks FHD
+http://dnsplay.xyz:80/ugapgzwa/08qHf6Xx5o/50580.ts
+#EXTINF:-1 group-title="CINEMA CONTINUADO" tvg-logo="https://img.hidra.app/247/cinemafamilia.png" ,24/7 Cinema Familia FHD
+http://dnsplay.xyz:80/ugapgzwa/08qHf6Xx5o/50581.ts
+#EXTINF:-1 group-title="CINEMA CONTINUADO" tvg-logo="https://img.hidra.app/247/cinemahappymadison128.png" ,24/7 Cinema Happy Madison FHD
+http://dnsplay.xyz:80/ugapgzwa/08qHf6Xx5o/50582.ts
+#EXTINF:-1 group-title="CINEMA CONTINUADO" tvg-logo="https://img.hidra.app/247/cinemaclassicshorror128x128.png" ,24/7 Cinema Horror Classics HD
+http://dnsplay.xyz:80/ugapgzwa/08qHf6Xx5o/50574.ts
+#EXTINF:-1 group-title="CINEMA CONTINUADO" tvg-logo="https://img.hidra.app/247/cinemahorror.png" ,24/7 Cinema Horror FHD
+http://dnsplay.xyz:80/ugapgzwa/08qHf6Xx5o/50583.ts
+#EXTINF:-1 group-title="CINEMA CONTINUADO" tvg-logo="https://img.hidra.app/247/cinemalegomovie.png" ,24/7 Cinema Lego Movies FHD
+http://dnsplay.xyz:80/ugapgzwa/08qHf6Xx5o/50584.ts
+#EXTINF:-1 group-title="CINEMA CONTINUADO" tvg-logo="https://img.hidra.app/247/cinemamarvelanimated.png" ,24/7 Cinema Marvel Animated FHD
+http://dnsplay.xyz:80/ugapgzwa/08qHf6Xx5o/50585.ts
+#EXTINF:-1 group-title="CINEMA CONTINUADO" tvg-logo="https://img.hidra.app/247/moviecentereste128.png" ,24/7 Cinema Marvel Studios Este FHD
+http://dnsplay.xyz:80/ugapgzwa/08qHf6Xx5o/58067.ts
+#EXTINF:-1 group-title="CINEMA CONTINUADO" tvg-logo="https://img.hidra.app/247/cinemamarvel1.png" ,24/7 Cinema Marvel Studios Este FHD
+http://dnsplay.xyz:80/ugapgzwa/08qHf6Xx5o/333121.ts
+#EXTINF:-1 group-title="CINEMA CONTINUADO" tvg-logo="https://img.hidra.app/247/cinemamarvel1.png" ,24/7 Cinema Marvel Studios FHD
+http://dnsplay.xyz:80/ugapgzwa/08qHf6Xx5o/50586.ts
+#EXTINF:-1 group-title="CINEMA CONTINUADO" tvg-logo="https://img.hidra.app/247/cinemamarvel1.png" ,24/7 Cinema Marvel Studios Oeste FHD
+http://dnsplay.xyz:80/ugapgzwa/08qHf6Xx5o/58068.ts
+#EXTINF:-1 group-title="CINEMA CONTINUADO" tvg-logo="http://209.126.82.213/LogosP/US/us_cinemax.png" ,Cinemax SD (USA)
+http://dnsplay.xyz:80/ugapgzwa/08qHf6Xx5o/319452.ts
+#EXTINF:-1 group-title="CINEMA CONTINUADO" tvg-logo="http://hidra.live:80/images/YLpj0YMBFcLjvxSMsFCRLQi4dp5IArRc_wc5t0X6Em8x7MjNjzHqGRpKW_iGPsat.png" ,PPV USA: Cinema 02
+http://dnsplay.xyz:80/ugapgzwa/08qHf6Xx5o/34549.ts
+#EXTINF:-1 group-title="CINEMA CONTINUADO" tvg-logo="http://hidra.live:80/images/YLpj0YMBFcLjvxSMsFCRLQi4dp5IArRc_wc5t0X6Em8x7MjNjzHqGRpKW_iGPsat.png" ,PPV USA: Cinema 03
+http://dnsplay.xyz:80/ugapgzwa/08qHf6Xx5o/34550.ts
+#EXTINF:-1 group-title="CINEMA CONTINUADO" tvg-logo="http://hidra.live:80/images/YLpj0YMBFcLjvxSMsFCRLQi4dp5IArRc_wc5t0X6Em8x7MjNjzHqGRpKW_iGPsat.png" ,PPV USA: Cinema 10
+http://dnsplay.xyz:80/ugapgzwa/08qHf6Xx5o/34557.ts
+#EXTINF:-1 group-title="CINEMA CONTINUADO" tvg-logo="http://hidra.live:80/images/YLpj0YMBFcLjvxSMsFCRLQi4dp5IArRc_wc5t0X6Em8x7MjNjzHqGRpKW_iGPsat.png" ,PPV USA: Cinema 14
+http://dnsplay.xyz:80/ugapgzwa/08qHf6Xx5o/34561.ts
+#EXTINF:-1 group-title="CINEMA CONTINUADO" tvg-logo="http://hidra.live:80/images/YLpj0YMBFcLjvxSMsFCRLQi4dp5IArRc_wc5t0X6Em8x7MjNjzHqGRpKW_iGPsat.png" ,PPV USA: Cinema 17
+http://dnsplay.xyz:80/ugapgzwa/08qHf6Xx5o/34564.ts
+#EXTINF:-1 group-title="CINEMA CONTINUADO" tvg-logo="http://hidra.live:80/images/YLpj0YMBFcLjvxSMsFCRLQi4dp5IArRc_wc5t0X6Em8x7MjNjzHqGRpKW_iGPsat.png" ,PPV USA: Cinema 25
+http://dnsplay.xyz:80/ugapgzwa/08qHf6Xx5o/34572.ts
+#EXTINF:-1 group-title="CINEMA CONTINUADO" tvg-logo="http://hidra.live:80/images/YLpj0YMBFcLjvxSMsFCRLQi4dp5IArRc_wc5t0X6Em8x7MjNjzHqGRpKW_iGPsat.png" ,PPV USA: Cinema 27
+http://dnsplay.xyz:80/ugapgzwa/08qHf6Xx5o/34574.ts
+#EXTINF:-1 group-title="CINEMA CONTINUADO" tvg-logo="http://hidra.live:80/images/YLpj0YMBFcLjvxSMsFCRLQi4dp5IArRc_wc5t0X6Em8x7MjNjzHqGRpKW_iGPsat.png" ,PPV USA: Cinema 35
+http://dnsplay.xyz:80/ugapgzwa/08qHf6Xx5o/34582.ts
+#EXTINF:-1 group-title="CINEMA CONTINUADO" tvg-logo="http://hidra.live:80/images/YLpj0YMBFcLjvxSMsFCRLQi4dp5IArRc_wc5t0X6Em8x7MjNjzHqGRpKW_iGPsat.png" ,PPV USA: Cinema 39
+http://dnsplay.xyz:80/ugapgzwa/08qHf6Xx5o/34586.ts
+#EXTINF:-1 group-title="CINEMA CONTINUADO" tvg-logo="http://hidra.live:80/images/YLpj0YMBFcLjvxSMsFCRLQi4dp5IArRc_wc5t0X6Em9OJKw_Z11-fyNaSRB7sWwn.png" ,PPV USA: Cinemax East FHD
+http://dnsplay.xyz:80/ugapgzwa/08qHf6Xx5o/34603.ts
+#EXTINF:-1 group-title="CINEMA CONTINUADO" tvg-logo="http://hidra.live:80/images/YLpj0YMBFcLjvxSMsFCRLQi4dp5IArRc_wc5t0X6Em_aWcDb9jcdhI--8L9tM7xr.png" ,PPV USA: Starz Cinema West FHD
+http://dnsplay.xyz:80/ugapgzwa/08qHf6Xx5o/34588.ts
+#EXTINF:-1 group-title="CINEMA CONTINUADO" tvg-logo="http://hidra.live:80/images/YLpj0YMBFcLjvxSMsFCRLQi4dp5IArRc_wc5t0X6Em-ww2Acrvy3CZnDD7Lj6PSp.png" ,PPV: Cinema 01
+http://dnsplay.xyz:80/ugapgzwa/08qHf6Xx5o/34477.ts
+#EXTINF:-1 group-title="CINEMA CONTINUADO" tvg-logo="http://hidra.live:80/images/YLpj0YMBFcLjvxSMsFCRLQi4dp5IArRc_wc5t0X6Em-ww2Acrvy3CZnDD7Lj6PSp.png" ,PPV: Cinema 02
+http://dnsplay.xyz:80/ugapgzwa/08qHf6Xx5o/34478.ts
+#EXTINF:-1 group-title="CINEMA CONTINUADO" tvg-logo="http://hidra.live:80/images/YLpj0YMBFcLjvxSMsFCRLQi4dp5IArRc_wc5t0X6Em-ww2Acrvy3CZnDD7Lj6PSp.png" ,PPV: Cinema 03
+http://dnsplay.xyz:80/ugapgzwa/08qHf6Xx5o/34479.ts
+#EXTINF:-1 group-title="CINEMA CONTINUADO" tvg-logo="http://hidra.live:80/images/YLpj0YMBFcLjvxSMsFCRLQi4dp5IArRc_wc5t0X6Em-ww2Acrvy3CZnDD7Lj6PSp.png" ,PPV: Cinema 04
+http://dnsplay.xyz:80/ugapgzwa/08qHf6Xx5o/34480.ts
+#EXTINF:-1 group-title="CINEMA CONTINUADO" tvg-logo="http://hidra.live:80/images/YLpj0YMBFcLjvxSMsFCRLQi4dp5IArRc_wc5t0X6Em-ww2Acrvy3CZnDD7Lj6PSp.png" ,PPV: Cinema 05
+http://dnsplay.xyz:80/ugapgzwa/08qHf6Xx5o/34481.ts
+#EXTINF:-1 group-title="CINEMA CONTINUADO" tvg-logo="http://hidra.live:80/images/YLpj0YMBFcLjvxSMsFCRLQi4dp5IArRc_wc5t0X6Em-ww2Acrvy3CZnDD7Lj6PSp.png" ,PPV: Cinema 06
+http://dnsplay.xyz:80/ugapgzwa/08qHf6Xx5o/34482.ts
+#EXTINF:-1 group-title="CINEMA CONTINUADO" tvg-logo="http://hidra.live:80/images/YLpj0YMBFcLjvxSMsFCRLQi4dp5IArRc_wc5t0X6Em-ww2Acrvy3CZnDD7Lj6PSp.png" ,PPV: Cinema 07
+http://dnsplay.xyz:80/ugapgzwa/08qHf6Xx5o/34483.ts
+#EXTINF:-1 group-title="CINEMA CONTINUADO" tvg-logo="http://hidra.live:80/images/YLpj0YMBFcLjvxSMsFCRLQi4dp5IArRc_wc5t0X6Em-ww2Acrvy3CZnDD7Lj6PSp.png" ,PPV: Cinema 08
+http://dnsplay.xyz:80/ugapgzwa/08qHf6Xx5o/34484.ts
+#EXTINF:-1 group-title="CINEMA CONTINUADO" tvg-logo="http://hidra.live:80/images/YLpj0YMBFcLjvxSMsFCRLQi4dp5IArRc_wc5t0X6Em-ww2Acrvy3CZnDD7Lj6PSp.png" ,PPV: Cinema 09
+http://dnsplay.xyz:80/ugapgzwa/08qHf6Xx5o/34485.ts
+#EXTINF:-1 group-title="CINEMA CONTINUADO" tvg-logo="http://hidra.live:80/images/YLpj0YMBFcLjvxSMsFCRLQi4dp5IArRc_wc5t0X6Em-ww2Acrvy3CZnDD7Lj6PSp.png" ,PPV: Cinema 10
+http://dnsplay.xyz:80/ugapgzwa/08qHf6Xx5o/34486.ts
+#EXTINF:-1 group-title="CINEMA CONTINUADO" tvg-logo="http://hidra.live:80/images/YLpj0YMBFcLjvxSMsFCRLQi4dp5IArRc_wc5t0X6Em-ww2Acrvy3CZnDD7Lj6PSp.png" ,PPV: Cinema 11
+http://dnsplay.xyz:80/ugapgzwa/08qHf6Xx5o/34487.ts
+#EXTINF:-1 group-title="CINEMA CONTINUADO" tvg-logo="http://hidra.live:80/images/YLpj0YMBFcLjvxSMsFCRLQi4dp5IArRc_wc5t0X6Em-ww2Acrvy3CZnDD7Lj6PSp.png" ,PPV: Cinema 12
+http://dnsplay.xyz:80/ugapgzwa/08qHf6Xx5o/34488.ts
+#EXTINF:-1 group-title="CINEMA CONTINUADO" tvg-logo="http://hidra.live:80/images/YLpj0YMBFcLjvxSMsFCRLQi4dp5IArRc_wc5t0X6Em-ww2Acrvy3CZnDD7Lj6PSp.png" ,PPV: Cinema 13
+http://dnsplay.xyz:80/ugapgzwa/08qHf6Xx5o/34489.ts
+#EXTINF:-1 group-title="CINEMA CONTINUADO" tvg-logo="http://hidra.live:80/images/YLpj0YMBFcLjvxSMsFCRLQi4dp5IArRc_wc5t0X6Em-ww2Acrvy3CZnDD7Lj6PSp.png" ,PPV: Cinema 14
+http://dnsplay.xyz:80/ugapgzwa/08qHf6Xx5o/34490.ts
+#EXTINF:-1 group-title="CINEMA CONTINUADO" tvg-logo="http://hidra.live:80/images/YLpj0YMBFcLjvxSMsFCRLQi4dp5IArRc_wc5t0X6Em-ww2Acrvy3CZnDD7Lj6PSp.png" ,PPV: Cinema 15
+http://dnsplay.xyz:80/ugapgzwa/08qHf6Xx5o/34491.ts
+#EXTINF:-1 group-title="CINEMA CONTINUADO" tvg-logo="http://hidra.live:80/images/YLpj0YMBFcLjvxSMsFCRLQi4dp5IArRc_wc5t0X6Em-ww2Acrvy3CZnDD7Lj6PSp.png" ,PPV: Cinema 16
+http://dnsplay.xyz:80/ugapgzwa/08qHf6Xx5o/34492.ts
+#EXTINF:-1 group-title="CINEMA CONTINUADO" tvg-logo="http://hidra.live:80/images/YLpj0YMBFcLjvxSMsFCRLQi4dp5IArRc_wc5t0X6Em-ww2Acrvy3CZnDD7Lj6PSp.png" ,PPV: Cinema 17
+http://dnsplay.xyz:80/ugapgzwa/08qHf6Xx5o/34493.ts
+#EXTINF:-1 group-title="CINEMA CONTINUADO" tvg-logo="http://hidra.live:80/images/YLpj0YMBFcLjvxSMsFCRLQi4dp5IArRc_wc5t0X6Em-ww2Acrvy3CZnDD7Lj6PSp.png" ,PPV: Cinema 18
+http://dnsplay.xyz:80/ugapgzwa/08qHf6Xx5o/34494.ts
+#EXTINF:-1 group-title="CINEMA CONTINUADO" tvg-logo="http://hidra.live:80/images/YLpj0YMBFcLjvxSMsFCRLQi4dp5IArRc_wc5t0X6Em-ww2Acrvy3CZnDD7Lj6PSp.png" ,PPV: Cinema 19
+http://dnsplay.xyz:80/ugapgzwa/08qHf6Xx5o/34495.ts
+#EXTINF:-1 group-title="CINEMA CONTINUADO" tvg-logo="http://hidra.live:80/images/YLpj0YMBFcLjvxSMsFCRLQi4dp5IArRc_wc5t0X6Em-ww2Acrvy3CZnDD7Lj6PSp.png" ,PPV: Cinema 20
+http://dnsplay.xyz:80/ugapgzwa/08qHf6Xx5o/34496.ts
+#EXTINF:-1 group-title="CINEMA CONTINUADO" tvg-logo="http://hidra.live:80/images/YLpj0YMBFcLjvxSMsFCRLQi4dp5IArRc_wc5t0X6Em-ww2Acrvy3CZnDD7Lj6PSp.png" ,PPV: Cinema 21
+http://dnsplay.xyz:80/ugapgzwa/08qHf6Xx5o/34497.ts
+#EXTINF:-1 group-title="CINEMA CONTINUADO" tvg-logo="http://hidra.live:80/images/YLpj0YMBFcLjvxSMsFCRLQi4dp5IArRc_wc5t0X6Em-ww2Acrvy3CZnDD7Lj6PSp.png" ,PPV: Cinema 22
+http://dnsplay.xyz:80/ugapgzwa/08qHf6Xx5o/34498.ts
+#EXTINF:-1 group-title="CINEMA CONTINUADO" tvg-logo="http://hidra.live:80/images/YLpj0YMBFcLjvxSMsFCRLQi4dp5IArRc_wc5t0X6Em-ww2Acrvy3CZnDD7Lj6PSp.png" ,PPV: Cinema 24
+http://dnsplay.xyz:80/ugapgzwa/08qHf6Xx5o/34500.ts
+#EXTINF:-1 group-title="CINEMA CONTINUADO" tvg-logo="http://hidra.live:80/images/YLpj0YMBFcLjvxSMsFCRLQi4dp5IArRc_wc5t0X6Em-ww2Acrvy3CZnDD7Lj6PSp.png" ,PPV: Cinema 25
+http://dnsplay.xyz:80/ugapgzwa/08qHf6Xx5o/34501.ts
+#EXTINF:-1 group-title="CINEMA CONTINUADO" tvg-logo="http://hidra.live:80/images/YLpj0YMBFcLjvxSMsFCRLQi4dp5IArRc_wc5t0X6Em-ww2Acrvy3CZnDD7Lj6PSp.png" ,PPV: Cinema 26
+http://dnsplay.xyz:80/ugapgzwa/08qHf6Xx5o/34502.ts
+#EXTINF:-1 group-title="CINEMA CONTINUADO" tvg-logo="http://hidra.live:80/images/YLpj0YMBFcLjvxSMsFCRLQi4dp5IArRc_wc5t0X6Em-ww2Acrvy3CZnDD7Lj6PSp.png" ,PPV: Cinema 27
+http://dnsplay.xyz:80/ugapgzwa/08qHf6Xx5o/34503.ts
+#EXTINF:-1 group-title="CINEMA CONTINUADO" tvg-logo="http://hidra.live:80/images/YLpj0YMBFcLjvxSMsFCRLQi4dp5IArRc_wc5t0X6Em-ww2Acrvy3CZnDD7Lj6PSp.png" ,PPV: Cinema 28
+http://dnsplay.xyz:80/ugapgzwa/08qHf6Xx5o/34504.ts
+#EXTINF:-1 group-title="CINEMA CONTINUADO" tvg-logo="http://hidra.live:80/images/YLpj0YMBFcLjvxSMsFCRLQi4dp5IArRc_wc5t0X6Em-ww2Acrvy3CZnDD7Lj6PSp.png" ,PPV: Cinema 30
+http://dnsplay.xyz:80/ugapgzwa/08qHf6Xx5o/34506.ts
+#EXTINF:-1 group-title="CINEMA CONTINUADO" tvg-logo="http://hidra.live:80/images/YLpj0YMBFcLjvxSMsFCRLQi4dp5IArRc_wc5t0X6Em-ww2Acrvy3CZnDD7Lj6PSp.png" ,PPV: Cinema 31
+http://dnsplay.xyz:80/ugapgzwa/08qHf6Xx5o/34507.ts
+#EXTINF:-1 group-title="CINEMA CONTINUADO" tvg-logo="http://hidra.live:80/images/YLpj0YMBFcLjvxSMsFCRLQi4dp5IArRc_wc5t0X6Em-ww2Acrvy3CZnDD7Lj6PSp.png" ,PPV: Cinema 32
+http://dnsplay.xyz:80/ugapgzwa/08qHf6Xx5o/34508.ts
+#EXTINF:-1 group-title="CINEMA CONTINUADO" tvg-logo="http://hidra.live:80/images/YLpj0YMBFcLjvxSMsFCRLQi4dp5IArRc_wc5t0X6Em-ww2Acrvy3CZnDD7Lj6PSp.png" ,PPV: Cinema 33
+http://dnsplay.xyz:80/ugapgzwa/08qHf6Xx5o/34509.ts
+#EXTINF:-1 group-title="CINEMA CONTINUADO" tvg-logo="http://hidra.live:80/images/YLpj0YMBFcLjvxSMsFCRLQi4dp5IArRc_wc5t0X6Em-ww2Acrvy3CZnDD7Lj6PSp.png" ,PPV: Cinema 34
+http://dnsplay.xyz:80/ugapgzwa/08qHf6Xx5o/34510.ts
+#EXTINF:-1 group-title="CINEMA CONTINUADO" tvg-logo="http://hidra.live:80/images/YLpj0YMBFcLjvxSMsFCRLQi4dp5IArRc_wc5t0X6Em-ww2Acrvy3CZnDD7Lj6PSp.png" ,PPV: Cinema 35
+http://dnsplay.xyz:80/ugapgzwa/08qHf6Xx5o/34511.ts
+#EXTINF:-1 group-title="CINEMA CONTINUADO" tvg-logo="http://hidra.live:80/images/YLpj0YMBFcLjvxSMsFCRLQi4dp5IArRc_wc5t0X6Em-ww2Acrvy3CZnDD7Lj6PSp.png" ,PPV: Cinema 36
+http://dnsplay.xyz:80/ugapgzwa/08qHf6Xx5o/34512.ts
+#EXTINF:-1 group-title="CINEMA CONTINUADO" tvg-logo="http://hidra.live:80/images/YLpj0YMBFcLjvxSMsFCRLQi4dp5IArRc_wc5t0X6Em-ww2Acrvy3CZnDD7Lj6PSp.png" ,PPV: Cinema 37
+http://dnsplay.xyz:80/ugapgzwa/08qHf6Xx5o/34513.ts
+#EXTINF:-1 group-title="CINEMA CONTINUADO" tvg-logo="http://209.126.82.213/LogosP/Starz/starz_us_cinema_east.png" ,Starz Cinema FHD (USA)
+http://dnsplay.xyz:80/ugapgzwa/08qHf6Xx5o/319547.ts
 #EXTINF:0 group-title="DEPORTES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/AbuDhabiSports2020.jpg/revision/latest/scale-to-width-down/250?cb=20200428142739" ,ABU DHABI SPORT 1
 http://admdn1.cdn.mangomolo.com/adsports1/adsports1.stream_720p/chunklist.m3u8
 #EXTINF:0 group-title="DEPORTES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/AbuDhabiSports2020.jpg/revision/latest/scale-to-width-down/250?cb=20200428142739" ,ABU DHABI SPORT 2
@@ -667,6 +819,8 @@ http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/6074/index.m3u8
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/6076/index.m3u8
 #EXTINF:-1 group-title="MOVISTAR" tvg-logo="http://epg.it999.ru/img/3105.png" ,Movistar Unknown HD ES
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/6073/index.m3u8
+#EXTINF:0 group-title="MUSICA" tvg-logo="https://img.hidra.app/musica/concerthd.png" ,CONCERT CHANNEL
+http://dnsplay.xyz:80/ugapgzwa/08qHf6Xx5o/35022.ts
 #EXTINF:0 group-title="MUSICA" tvg-logo="https://i.postimg.cc/66c9gwbw/descarga.jpg" ,E-MUSIC BLACK
 http://168.205.87.198:8555/live/1431/123456/232.ts
 #EXTINF:0 group-title="MUSICA" tvg-logo="https://i.postimg.cc/66c9gwbw/descarga.jpg" ,E-MUSIC CLASSICS
