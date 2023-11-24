@@ -167,6 +167,8 @@ http://acsc.cc:80/VagnerFerri/A32097xx/191288.ts
 http://acsc.cc:80/VagnerFerri/A32097xx/191291.ts
 #EXTINF:0 group-title="DEPORTES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/Eleven_Sports_6.svg/revision/latest/scale-to-width-down/250?cb=20210210163412" ,ELEVEN SPORTS 6
 http://acsc.cc:80/VagnerFerri/A32097xx/191294.ts
+#EXTINF:0 group-title="DEPORTES" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/73/30/d4/7330d4a5-103f-cba1-ffc0-fd87d8f31aef/AppIcon-1x_U007emarketing-0-7-0-85-220.png/1200x600wa.png" ,ESPORTS MAX
+http://vcpar.myplaytv.com/esportsmax/live/.m3u8
 #EXTINF:0 group-title="DEPORTES" tvg-logo="https://play-lh.googleusercontent.com/x-a8jwq-BlKOuz7iGbIyHKyGmBIyonqrA2IJisPJGkYCkx3PjiywIxqQSzQy2mycbzY" ,FITMAXX
 http://186.10.252.90:8000/play/a03m
 #EXTINF:0 group-title="DEPORTES" tvg-logo="https://i.imgur.com/xtw77iM.png" ,GARAGE TV
@@ -241,6 +243,10 @@ http://154.58.202.185:8000/play/a06j
 http://154.58.202.185:8000/play/a06k
 #EXTINF:0 group-title="DEPORTES" tvg-logo="https://m.media-amazon.com/images/I/71FHz073Z8L.png" ,SSC NEWS
 http://154.58.202.185:8000/play/a06l
+#EXTINF:0 group-title="DEPORTES" tvg-logo="https://pbs.twimg.com/profile_images/1069545703842693120/uWtVE4eD_400x400.jpg" ,TALENT SPORTS NIGERIA
+https://ce50f5bb01704612b973d9ec00239ec6.mediatailor.us-east-1.amazonaws.com/v1/manifest/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia-2/18f1f80b-473e-49c4-a39d-017d5a645a19/0.m3u8
+#EXTINF:0 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Teledifus%C3%A3o_de_Macau.png" ,TDM SPORTS MACAO
+http://live4.tdm.com.mo:80/ch4/sport_ch4.live/.m3u8
 #EXTINF:0 group-title="DEPORTES" tvg-logo="https://pbs.twimg.com/media/FJBSOhBXoAgvyX9.jpg" ,TIGO SPORTS
 http://161.132.108.79:50001/play/a041/index.m3u8
 #EXTINF:0 group-title="DEPORTES" tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcIAAABwCAMAAAC6s4C9AAABDlBMVEX/wQ4AIVv/////vQD/wQD/8dL//PIAH1rq7PEACVQAHVwADVP/wwv/wxWOlKj/xQUAAF8ACV4AAE80O1H09vkAHFkAGVz/yQAAEV4AAE0AF10AGlgADV4AAFEAFFYAE11tdZAABl2Wn7OvjDHZpiUAEFQ/QVApNVLInSc9T3kAJlZJR09yYEnGy9bpsxhpXEm6ky+wt8bh5Orq5dQsPm2Aa0LmsRqPdT1caInzuhHCmCykgzeXezuBi6Sor8AvPmsdLlaHcEBMWoC/xNBaUU12ZURSTU1FRU8TLmSnhTZfVUrq6ub/9N6Rcib/1G7/yDf/zEz/3pH/57JWY4YbM2YiMFYAAEX/7ML/13v/02ie5SkXAAAWP0lEQVR4nO1daXviOLYGUrcExoVtAl7AYAiQAAkJcAMEEhKyLz0zPdNJdc/9/3/ketNiW7JNKhTpp/x+qKceIsuWXp+js0lOZRL8zZHa9gMk+FF4KSxlt47f/tfG/yRg4x9fGRSOC70nObdlaC7+ye8kYOPbv/4KUjjoafkqAOktA7gwpnwqARs7O7//5aPwTKtumz0P5ENl27P0yfFl578khdmn/LY580NaCNuepM+OnX9jCkvgc4mgBa6fUBgFh0Obwl5924RRoJ8nHEZh5z8uhYXitumiAYBtT9DfADv/sCnM5rduh1KhXiRiGIWdf9kUFnLbJouORAxjYOerReFbedtkMZCIYTR2/jApHH/KldAC6G97gj4/TOcwlRnVtk0VE3orEcMIfPndpHBvi159uSpXq2w9zh0kFEbhm0lhYUsUlvNa5+rm9fXmLaflGTRK3SRSGoHtUSgXTwuDkpviGhROi3WaZyO/JJHSCGyLwnLxZuDNWw7OipQgHzCOEzEMx5YozL/5CLRJvKKYxkbiV0RgOxRqDXoFwVILNOVWiSYNxw9SCKqdzvpxAW2PzmAmcxnkUGonmjQUP0ZhtXizbJwW14yw5pYsBjOZvYAurUwSTRqKH6KwfjW2pn0kryWI5VNEWPb2stA4axQuoWmaydz4bRoAEgpD8SMUlp/ciR+sFSavjZyrxoXTWjGXr9fr+ZqWPnPtm0EgVNRMNGko4lMYLIyCXJhmSGcNCjtZm6ob053HXYK6dnVr95X23yfRpOGISSHIFWuBVhp2B9YIlJffzAtKDa3qp6qsnVlS3fNr5STIFo54FFZre+PxwF+cUcNrWtCQZFN4ZerQKvWWHWCura+y/2cxKUcMQywK66eWeGT9zbTSu6TwKjPQGPZPWRtkXgMxGiOpoQlDHAqrNoNBCvFa2Fijeqp8NWB7IUAbnwUolO8S7z4EMSgEuXGGSiFIQ4u0to5n+PQU4oOA9GmgL5De9ix9asSgsHaZoVOYrr45fuGa1VOhrWk7AhK3IgwxKCxmWBSmy7WbZeNq3eiMl7IISi3EWAx5XhAEnv9Qqu0+7W4/ste1bh7n1tEUymeQwloVAapCUO3U2WrR/GuuaKKWD3gQNsp5y7fPmw5LJ5TGiKShOdh5d9h6bg27U/P/wVELFETMjdlPqj08n02uZ8+Lqdme2SwAhdI57QnYT2P2+q29aD0/DxftVOSjRlPYgRHNbA/jtOxQkM8zo9ygU9R6y73bwWAwKpxptUC7jnZauB1nS6XseLTs0JKFENz3kFHwSve+L0q6qqq6LhqHs7binW8+dfGwv79LYP/haLaYK2zRFpT2bN/s06hUKoaqi+WT1lyhPIPSPjp08bjv4PDhZPLcFrythdbdbhheFsQ7yivT2a4zIFVvNncn3XAWoynM71Gi0XbFVLm3V1g23jSaBJVr9aUnJTjy7bupF5dj8u+DHrUf521QmXlfXhmumhUiyiMbYv9iTrIz76sy54UsG7r42OLpJApC60A0OPIBZFU8aQdIVC7ECueHLFcMSTzpEq35h6b/CXzXiPfoUZT2oefmXEXSJ1PaC/QBFNadrN8gHRTE2ttl4JoG6TxqZ9lAnxzTNdFZFTT8/EHi/K2BoV5jEoWHCr1TTk+3KK+39VLogT5Nbd58mfrEuyuyHhjI0m4XSpYw01ntEERYqidMmoHYBqhIL1PmWvIBFGbG/pWsXKRdk1miaDgoBhm2NDXrQVj2jDDtU/kBBhjCK46Z85wG0sPcz6Ewvwu+FA5kXwWBcBKYbAKcBGO7ihxt73G7NkV86lGl31u9Zun9d1J4abEBKczseTMV9acx5RITp1BctVt6gxtGuFw+oT4/f5xmzHYawNea70ohg6usfME7oZtmCK3VqX6XIpoLu6y7u60fnEeYhz0BbAwcCg8NVgPpiMHhOym0wzGIwqzHte/0SpQrbOJdVarRZNBCibE1wH1H/RB22WLA9b85jUKk0IS88sih0hJDaakcEM2FlzApNKE6b56gxpDCA2uEwnWIyhUZ3vH7KHRioojC0hvxjHUmg5mxEw3vMCpn7BbU0QLIh5fB87A1BsYDmGuhgwq5H1xoiRGzTVLOL0LfjjRc4YR7lmhh6JaO5tvNkNsbM7oYvotCtzoCUYg1pDnbnIfB8cD0KqBeLdnSCqpEi8Ho8pZUu/RNVqBCS1bweI3h1KYoipJBiAUsIuaDFqlnniRc8y90PQyCiqGbtn3FI5eVXfwkykQMWJqevoE8t9rNV0b4m8Hpj1avChZrYFq15oBUYhmtMFbDNSiEfuGblnP6pVKoEa7EeJnXLNde+/PJ9jAcCglTZtTRarWa9kQsjfRgHa0Gih8iIVR3W9PUl3n7/K4JJwsXoDp+IeEYHlRFFdMCynBm+CnhnaRlqX//vOh2W9e7Ivm7eoTFVlncHfiQbkpEa8cA4lOTdBMC6wQV/bayBYw/RkzL6Yv23BxQ60hG1rE0/GFFCqMziC4ahaSSXGrIVC13im+jTMaiEDwRDZy/l7UClnCqGOqUxxeO4GyY1prtHfCCMr/oOysPOdOBYMhx60AN9i08YiE2jdWuE7Iz/51OVEK8m0MsDZToTKp7j18Q7sDV5lZPNoQWvLPUxj86a2YLvpPyfsodkJAa7jft7uQ+w7Fah0J/MwqFQEPuXunKm78oa697lhGUR/VrtyhRDDSUt8pSKaR5Fcgg9KT1hdQF0CsV8Y4+XkTqNeIQmrt4Bs0uTaeEcM2V6T6mnKMuzCmidbuPOJT8KwBJof9P1+476SlhF4TFd6lSkfy2M8IHU4h/yvQCDoKTqtfQ0kcknUAVX0eLtFHXARgf9xXXCPPn++tuVGBcQTYG1KTfcLxd/n7s8+L5I8xv5MZVYarDrgK768IohEsh991jgAv8cHLfSrHiMx9MYRGthEvGpsUy0qO3ZLVGEYkhVZPKNKdIpVNoK87oCP8cMSba77xwjgSN6wc8/pRygsxKAOYRfSsTqOMDZmQIhcohVCvffT4Uz4yzpz6eQqQPWdtO6zDx4S17q77Cn6lFHPIDxTGEi//76qOUI7i+Obar0oeUArVN6VA4QNpRf464Id+FMlu5fweF6+0F+hgKr1wKZUQE3SqxukOWi7foF9VSUcmn+vZozo1JSNaBBeEZipVtzxBRHOOaFkjgpxIIexoPjmFngbhSmCJFATtuNxV/QB8rhZgf6opmU4U0prf+AtlBWdo+Q9rmGOEQiYV6MIyjO72XD+Fc2hQKSPeBNN1cUe6RPyAdR3SOYmrrSKEwQ7pals/nSswRfSyFmB9mKr4IfcCSNw2MrJwS7VLQp1A4wS4Wp4P7buxBO5efIylcWBSu4AvBcqH5KQqU0XwcT9O2zuoshEJ+gYOpwDBeWsexBvSxihRZMyVPcL5sHzDqJH1xE28gA/9OpZCyscKb6wEVnTu8aPOxWcShEHsu56gz5lYqZR+xHFFgjtyDtOpfNkMoJCwsa0CyXtmddcMy0w7WodC/vIVRSIpYuZcdmxhd5cgmPkHFl5ZpFHJfKBP1nfM1MqTV/SIVi0X+GAVRxDm5FIIVk5gLKLdU64roe476DlRuhVEoTLzBVGtA6Tt6wQDGhijMAM/75AZFG3myyal3LYS/U6qsGBTSUq5cRepfs9OjxHTdIdvBMmh5NLNsevgFVI9gFSYawhxlUEDf73+EUWiKYTB/bQrjSTvsrfxYCmso2OnJGiFTxWQNN/GWbaM2Y1pxP+BoD6/MmrS2hnQ0D9c+vPDtBb3wtlbEK2PAAMFXTeHtQEWAHQmKD8L8PI3CcZUj//sQSqEvzg7vJouHbfZb+bEU5mBbb303kry9PNHEux0KeZTUg4xAlfr0yoya3gMVo0UOOTDN0wuATSE7D4etQZY1Y+le5Pw33Zjc8ezo6MTCEcTLQZNISwRzfKEUmhwGyy4syCJ79Y2mEM151h8xC1qk+JcR6aCj0ItJD3btB6S4ER5/bEVqcdil1rmkgThBHPLfZgfpPokmOcuO4lyTQsmNS4uG7Af5OMZ9QHjCKTRfikd60lndfT+F2NfzF9IHpRBHzzz2DPI1LmtEE09/yNfwLZGQEsBQJDz/vGrSalOkmXuFlS/kgAeennU7fEyYKqwCB1KRVu3kUDsiQcxRjpCLoDDFK4vHZoXCYuXx3YUXqI400/CJIaYQOfI4hk1umicpJJqMsBhW0ebtMXV/Bkgz1wKBX5wAqcL5LgMw5SschmbtJScHwiNHn2Me647DZk5ID2e76JDLlDhZFIXW+tqerJqGf0BOYv9dFOLo5bjoCgio22SiOm/b1LSBVzoyU1EjFCnxSmQasMyimke80h8GhB1dwivzxeRAVb3CyO073ExDqyMkV+ESTkWaFcQmJPXEVr77YXU2wPhOi3RGU2iRyLcv9k1TlPN2SH+waApBB035IK3lcrlasdqwTRFrsycUnXzZ1k8gjRqXekgOPRQiF8Piq1arV6v14huuvaAe4xUZlTQtw2nrJa2TLDpThEWHNrYmSiQQrj2raFV5hFPq5B9CKZT1CTU9FIfClJO9XkxWOlkvwDhFKca2GLKUYrC3dzkal1yzEW/zHTeeOnXLlqoRxWkWQZbclv+EPdglbHnizJLsZaPXa4zwD4zweIQv7Q461T1SsW5zix7YFAIjjQvhcYBNDjgC7g2myAhySpPDKJRPGG5ATAqdEQnt6zQuf2N8uSMGhR3KMTEOhZr3FK5s0ZJZokq7dNl40v788wnR6typyCgzzbB3fDMKSQODVuZHkvcaFoWmy6zOiHyAgILYrFQPTgIC1bkEUQgCtU/GgvHOrUFhylap5yh9TK/ji7VFtBaonXcp9JFrz3+9x+QHeov2gQl0nDISHGxLPzDRKHPrKF+CQg7a/RVDbxovrS9kn0Syib6RisepeLcBohA8uZtikCSbKpqWc0ytS6E1oDa8L2MxjLNRG/tsCM4ptCDnIdcRoRy7ShS6EZ1Xxt/PmBX5tGXAVJ2UUD6KnDoJKsKMPDxxcHQ/G7Z5fx5cwDFb6lnERO22tLDviijkHhWn9GmOi2a4NF2Ww6MzihKMh+IkV5PaZazjEooF/1y7J4vUPVy4+fYak8NbaODkgi+FzSDz4AyVVsE2PVqtXgJLjnLnqUDBFOoLBe/no3R3gRx3oAdFSDlCETnuu+AllYMum4AkxhRVui8elmyazw76j0P/W0nkpt9PYbroWw5R7MVDF4yY5W7o9dxEuX3+Krgejk/Zz0GNJ5pGd9ky/LzTrRCy4aUwIsk3xz4/8C9lPH+Pl1RYPIwp3IePILSwC2NQ9TGbQn6+UjnANR98pVfCDBa2ye9WpBYrb4TVaHvo8A89ZNLgDU716ihAkMkguemlWlt6ec4uQzaJUr+E5ygtYKwWpE4U2tAOd+LV8Skk6/uBfk28Gd4iRBkSRqGQKIwzbzijcMimULlzqJLlCzJfxuOV4YD63HEP8CoX043RwNqSO9jznPxa1Xp7g3F2PCgQddhAuwqQOHjzBnfytcYtZHE8OiuG7dWm2GI4xc01d1spxSmrFZQpMinU1noUenbZAKN/Prc0rqV220c68RcdTj2NQnOBxE3FYXBNZVM4R2aL2p8dw+JhYf4Cl0KGWb7GGWz1mp18L+Z8Qcxqvmj97K2krxbry1ssZ+PLXvC4oHpRS/cajbOrvFaje/QQzr4f71Sc49edU/W7i257Om23TlCQ2N0avAaF3oJ8YDQPr5+HrYv7vqcgv4mqkoNrodXJvEyYpUHlwaQQF2tY9xb3rxft6XF7MakiT5fxxYfNnQps7bU3eo3lsvH6pmk5upYE1XpdpqXpvaC8f/yQ3LUHZEOXmk2JKJx3Dxxag8KUsPDGrTnT+1ANb9xOx44/lUKPScMFMr5xpNC9tz0gIjwDyvSn3uzBziZDnU4n5DsUMUGrx5+D8A2a7gytQ2GMzWnqC6EzEYWH5OMJz0384IE0X8haGL6L7gfC3J8BtLClsGiGcahfw/j1GhRGbREFEqkOCAo9ep7wP4Ix8xCL9Ji+69yFvPvuZNMnAP3EC6H9nb19Vr2DW9NQ1CUOheEbtTnJU16P6rv9wUse20Wi/8kxhYHKKH7+wtrmb94DsCq8N0VhuHniA/1gIQzGuTM8fyHT914C6QW1Qhu1WRudfVPMnEegrroeqtA2loovS8wfw/UTVPxSyLfdV4oSiuWV4XdqEYKpkZkbmzZFYb2xxrls9Zu38MZOeo4639eyGhgzqEjE2ik8OBPNVESBeVzQ5hGo8oUvpoMq6ES/nkdlTPJD4KZQdiu08x0F/nmlB4sQ5OYJc2PTpigsjvdinzJbBiVqsQWGwd6GInx73hdVImcPZL15T8Y3+GPDtOpAhWLgM8ALw32RNEQBZ4iWm+hvqEyslZMTgzF40y6SrZtSNpibYmg9j8FQjIKweBF1z4AM8SGkgG1jFA4yjbif1NPGUd/ADD0JUVDmrfsDXZR0E02xf9L65o0y8vMjQ5RejuMJoXOJcnx+VxVNj8IwVL2pPwZOBXOgtFaieNCiiVP7RRf1E+oaPn2RROM+uP8N3Ty1uH6UnQFJYvXu/Di0FnhzFGZe452bb51BE05h5IcorSjKtL1YLLrTOW0nnsDP4xfqu/NobefuDp8vzlsL+tl87p3nKfrWP559U+dPkXdvd80RtakD8mCDFGZuYuhSYJ9BE04hcyn0jNpBdMM1EP9AyU0g7oA2RaFdU3gWeVJpNWc1pO6EwVCTT4mGYUMUupVsS9Y56g5Azql7ohceIgR8qwQkNuVUuDndW/rXDBxUNTcNGf4xYTIPkCCIDVEIOvD7oI0/GUdUVrUeTPuehR6wn3zBMBybis7gYsTxK+VDveW8hr8iyjxawUHypZFwbIpCYutEZlx40nJ1WCtcrnZq2mmBKLygboRBCJzgkcCLjYW5vR8pHO+dXXFWyrjWebtpjDyFM4zTDyESPRqBjVEIiv7Si1Ipm82WApVRrDNIIaTEHg3HBrP2RcoXlym4Cf9YkFOHloCNDeYLgRaHw5uIm8fK8v3S2GTKFzAPcEbInkZ8vDL5XlMkNpu11xrMQ55tjMI+MGLDiL2Z4pfFhgsvOmlaUbCL8U1kDJVaA5zAg03XzpSLPcaKmF3Wor96GCtJ8Ytj8+VP1WJvFFSn40Ynzl1jbuD6pfEzKtiqRfnskvDmS4PCqRb+rTQX8mGyEkbi5xQhWsX83E1jWSgUlmdXtWIwaEpHk7XtPQGGRSHz+NcPhVXZbX0sL+R7h35wrKNWEhCwKByt8T3sn4pAcV+CIL7826QwImm+NchJbC0Gdv5jUkg/M2v7iFd+/atj5y+Lwr24JZ8/FZXEJ4wDPmNRWIrxjcSfjvVO+v9lYepRi0L0YcHPBJXxrbcEHvBfHQqZn+/cHrjVtifnbwFzJXQpLL1Fxyt/LpqRX11K4KhRl8LAd862jcSWiQOHQZfCTGZZ/ESCCNLMjT8JIHa+/JHxUJgZn1mHT4JPAdqJLQkIfNnZ+fLfrxkfhdbpoGenT5YMxEc5PqqBk8ipqNbr9dyJ8iVBCL79/n9/fEW8ERQ6q+LGkI2J33777WuCUHgp81OY4G+H/wfDWu5ABBPFqgAAAABJRU5ErkJggg==" ,TIGO SPORTS VIX
@@ -276,51 +282,113 @@ http://31.148.48.15:80/Match_Futbol_2_HD/index.m3u8?token=test
 #EXTINF:0 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/qMRZbRrn/images.jpg" ,МАТЧ!ФУТБОЛ3HD
 http://31.148.48.15:80/Match_Futbol_3_HD/index.m3u8?token=test
 #EXTINF:0 group-title="DEPORTES - CADENA BEIN" tvg-logo="https://i.pinimg.com/originals/2b/63/38/2b63383e81a408ae91749f92d232935a.jpg" ,BEIN SPORTS 01
-http://185.180.223.89:25461/sfojuve@gmail.com/Qcm5Rje9/40
+http://2hubs.ddns.net:25461/abdoldam/mirpur1971/59734
 #EXTINF:0 group-title="DEPORTES - CADENA BEIN" tvg-logo="https://i.pinimg.com/originals/2b/63/38/2b63383e81a408ae91749f92d232935a.jpg" ,BEIN SPORTS 02
-http://185.180.223.89:25461/sfojuve@gmail.com/Qcm5Rje9/41
+http://2hubs.ddns.net:25461/abdoldam/mirpur1971/59735
 #EXTINF:0 group-title="DEPORTES - CADENA BEIN" tvg-logo="https://i.pinimg.com/originals/2b/63/38/2b63383e81a408ae91749f92d232935a.jpg" ,BEIN SPORTS 03
-http://185.180.223.89:25461/sfojuve@gmail.com/Qcm5Rje9/42
+http://2hubs.ddns.net:25461/abdoldam/mirpur1971/59736
 #EXTINF:0 group-title="DEPORTES - CADENA BEIN" tvg-logo="https://i.pinimg.com/originals/2b/63/38/2b63383e81a408ae91749f92d232935a.jpg" ,BEIN SPORTS 04
-http://185.180.223.89:25461/sfojuve@gmail.com/Qcm5Rje9/43
+http://2hubs.ddns.net:25461/abdoldam/mirpur1971/65068
 #EXTINF:0 group-title="DEPORTES - CADENA BEIN" tvg-logo="https://i.pinimg.com/originals/2b/63/38/2b63383e81a408ae91749f92d232935a.jpg" ,BEIN SPORTS 05
-http://185.180.223.89:25461/sfojuve@gmail.com/Qcm5Rje9/44
+http://2hubs.ddns.net:25461/abdoldam/mirpur1971/59738
 #EXTINF:0 group-title="DEPORTES - CADENA BEIN" tvg-logo="https://i.pinimg.com/originals/2b/63/38/2b63383e81a408ae91749f92d232935a.jpg" ,BEIN SPORTS 06
-http://185.180.223.89:25461/sfojuve@gmail.com/Qcm5Rje9/45
+http://2hubs.ddns.net:25461/abdoldam/mirpur1971/59739
 #EXTINF:0 group-title="DEPORTES - CADENA BEIN" tvg-logo="https://i.pinimg.com/originals/2b/63/38/2b63383e81a408ae91749f92d232935a.jpg" ,BEIN SPORTS 07
-http://185.180.223.89:25461/sfojuve@gmail.com/Qcm5Rje9/46
+http://2hubs.ddns.net:25461/abdoldam/mirpur1971/59740
 #EXTINF:0 group-title="DEPORTES - CADENA BEIN" tvg-logo="https://i.pinimg.com/originals/2b/63/38/2b63383e81a408ae91749f92d232935a.jpg" ,BEIN SPORTS 08
 http://185.180.223.89:25461/sfojuve@gmail.com/Qcm5Rje9/47
 #EXTINF:0 group-title="DEPORTES - CADENA BEIN" tvg-logo="https://i.pinimg.com/originals/2b/63/38/2b63383e81a408ae91749f92d232935a.jpg" ,BEIN SPORTS 09
 http://185.180.223.89:25461/sfojuve@gmail.com/Qcm5Rje9/48
-#EXTINF:0 group-title="DEPORTES - SUPERSPORT" tvg-logo="https://i.postimg.cc/yNCTVtBG/SUPERSPORT.png" ,SUPERSPORT CRICKET
-http://185.180.223.89:25461/sfojuve@gmail.com/Qcm5Rje9/310
-#EXTINF:0 group-title="DEPORTES - SUPERSPORT" tvg-logo="https://i.postimg.cc/yNCTVtBG/SUPERSPORT.png" ,SUPERSPORT FOOTBALL
-http://185.180.223.89:25461/sfojuve@gmail.com/Qcm5Rje9/307
-#EXTINF:0 group-title="DEPORTES - SUPERSPORT" tvg-logo="https://i.postimg.cc/yNCTVtBG/SUPERSPORT.png" ,SUPERSPORT GOLF
-http://185.180.223.89:25461/sfojuve@gmail.com/Qcm5Rje9/306
-#EXTINF:0 group-title="DEPORTES - SUPERSPORT" tvg-logo="https://i.postimg.cc/yNCTVtBG/SUPERSPORT.png" ,SUPERSPORT GRANDSTAND
-http://185.180.223.89:25461/sfojuve@gmail.com/Qcm5Rje9/305
-#EXTINF:0 group-title="DEPORTES - SUPERSPORT" tvg-logo="https://i.postimg.cc/yNCTVtBG/SUPERSPORT.png" ,SUPERSPORT LA LIGA
-http://185.180.223.89:25461/sfojuve@gmail.com/Qcm5Rje9/304
-#EXTINF:0 group-title="DEPORTES - SUPERSPORT" tvg-logo="https://i.postimg.cc/yNCTVtBG/SUPERSPORT.png" ,SUPERSPORT MAXIMO
-http://185.180.223.89:25461/sfojuve@gmail.com/Qcm5Rje9/303
-#EXTINF:0 group-title="DEPORTES - SUPERSPORT" tvg-logo="https://i.postimg.cc/yNCTVtBG/SUPERSPORT.png" ,SUPERSPORT MOTORSPORT
-http://185.180.223.89:25461/sfojuve@gmail.com/Qcm5Rje9/302
-#EXTINF:0 group-title="DEPORTES - SUPERSPORT" tvg-logo="https://i.postimg.cc/yNCTVtBG/SUPERSPORT.png" ,SUPERSPORT PREMIER LEAGUE
-http://185.180.223.89:25461/sfojuve@gmail.com/Qcm5Rje9/300
-#EXTINF:0 group-title="DEPORTES - SUPERSPORT" tvg-logo="https://i.postimg.cc/yNCTVtBG/SUPERSPORT.png" ,SUPERSPORT PSL
-http://185.180.223.89:25461/sfojuve@gmail.com/Qcm5Rje9/317
-#EXTINF:0 group-title="DEPORTES - SUPERSPORT" tvg-logo="https://i.postimg.cc/yNCTVtBG/SUPERSPORT.png" ,SUPERSPORT TENNIS
-http://185.180.223.89:25461/sfojuve@gmail.com/Qcm5Rje9/313
-#EXTINF:0 group-title="DEPORTES - SUPERSPORT" tvg-logo="https://i.postimg.cc/yNCTVtBG/SUPERSPORT.png" ,SUPERSPORT VARIETY 1
-http://185.180.223.89:25461/sfojuve@gmail.com/Qcm5Rje9/314
-#EXTINF:0 group-title="DEPORTES - SUPERSPORT" tvg-logo="https://i.postimg.cc/yNCTVtBG/SUPERSPORT.png" ,SUPERSPORT VARIETY 2
-http://185.180.223.89:25461/sfojuve@gmail.com/Qcm5Rje9/315
-#EXTINF:0 group-title="DEPORTES - SUPERSPORT" tvg-logo="https://i.postimg.cc/yNCTVtBG/SUPERSPORT.png" ,SUPERSPORT VARIETY 3
-http://185.180.223.89:25461/sfojuve@gmail.com/Qcm5Rje9/316
-#EXTINF:0 group-title="DEPORTES - SUPERSPORT" tvg-logo="https://i.postimg.cc/yNCTVtBG/SUPERSPORT.png" ,SUPERSPORTS ACTION
-http://185.180.223.89:25461/sfojuve@gmail.com/Qcm5Rje9/312
+#EXTINF:-1 group-title="DEPORTES - CADENA BEIN" tvg-logo="http://attp.ddns.net:25461/images/0d536e55dde82fe2c73ce9ce0d1517d5.png" ,FR - BEIN SPORT 1 HD
+http://2hubs.ddns.net:25461/abdoldam/mirpur1971/58753
+#EXTINF:-1 group-title="DEPORTES - CADENA BEIN" tvg-logo="http://attp.ddns.net:25461/images/0d536e55dde82fe2c73ce9ce0d1517d5.png" ,FR - BEIN SPORT 2 HD
+http://2hubs.ddns.net:25461/abdoldam/mirpur1971/58754
+#EXTINF:-1 group-title="DEPORTES - CADENA BEIN" tvg-logo="http://attp.ddns.net:25461/images/0d536e55dde82fe2c73ce9ce0d1517d5.png" ,FR - BEIN SPORT 3 HD
+http://2hubs.ddns.net:25461/abdoldam/mirpur1971/58755
+#EXTINF:-1 group-title="DEPORTES - CADENA BEIN" tvg-logo="http://attp.ddns.net:25461/images/0d536e55dde82fe2c73ce9ce0d1517d5.png" ,FR - BEIN SPORT MAX HD 5
+http://2hubs.ddns.net:25461/abdoldam/mirpur1971/58757
+#EXTINF:-1 group-title="DEPORTES - CADENA BEIN" tvg-logo="http://attp.ddns.net:25461/images/0d536e55dde82fe2c73ce9ce0d1517d5.png" ,FR - BEIN SPORT MAX HD 6
+http://2hubs.ddns.net:25461/abdoldam/mirpur1971/58758
+#EXTINF:-1 group-title="DEPORTES - CADENA BEIN" tvg-logo="http://attp.ddns.net:25461/images/0d536e55dde82fe2c73ce9ce0d1517d5.png" ,FR - BEIN SPORT MAX HD 7
+http://2hubs.ddns.net:25461/abdoldam/mirpur1971/58759
+#EXTINF:-1 group-title="DEPORTES - CADENA BEIN" tvg-logo="http://attp.ddns.net:25461/images/8d9993355050a0e1fda361388ab8879d.png" ,FR - BEIN SPORT MAX HD 8
+http://2hubs.ddns.net:25461/abdoldam/mirpur1971/58760
+#EXTINF:-1 group-title="DEPORTES - CADENA BEIN" tvg-logo="http://attp.ddns.net:25461/images/8d9993355050a0e1fda361388ab8879d.png" ,FR - BEIN SPORT MAX HD 9
+http://2hubs.ddns.net:25461/abdoldam/mirpur1971/58761
+#EXTINF:-1 group-title="DEPORTES - CADENA BEIN" tvg-logo="http://attp.ddns.net:25461/images/0d536e55dde82fe2c73ce9ce0d1517d5.png" ,FR - BEIN SPORTS MAX 4 HD
+http://2hubs.ddns.net:25461/abdoldam/mirpur1971/58756
+#EXTINF:-1 group-title="DEPORTES - COSMOTE" ,GR - COSMOTE SPORT 1 HD
+http://2hubs.ddns.net:25461/abdoldam/mirpur1971/73308
+#EXTINF:-1 group-title="DEPORTES - COSMOTE" ,GR - COSMOTE SPORT 2 HD
+http://2hubs.ddns.net:25461/abdoldam/mirpur1971/73309
+#EXTINF:-1 group-title="DEPORTES - COSMOTE" ,GR - COSMOTE SPORT 4 HD
+http://2hubs.ddns.net:25461/abdoldam/mirpur1971/73310
+#EXTINF:-1 group-title="DEPORTES - COSMOTE" ,GR - COSMOTE SPORT 5 HD
+http://2hubs.ddns.net:25461/abdoldam/mirpur1971/73311
+#EXTINF:-1 group-title="DEPORTES - COSMOTE" ,GR - COSMOTE SPORT 6 HD
+http://2hubs.ddns.net:25461/abdoldam/mirpur1971/73312
+#EXTINF:-1 group-title="DEPORTES - COSMOTE" ,GR - COSMOTE SPORT 7 FHD
+http://2hubs.ddns.net:25461/abdoldam/mirpur1971/73313
+#EXTINF:-1 group-title="DEPORTES - COSMOTE" ,GR - COSMOTE SPORT 8 FHD
+http://2hubs.ddns.net:25461/abdoldam/mirpur1971/73314
+#EXTINF:-1 group-title="DEPORTES - COSMOTE" ,GR - COSMOTE SPORT 9 HD
+http://2hubs.ddns.net:25461/abdoldam/mirpur1971/73315
+#EXTINF:0 group-title="DEPORTES - SPORT ISRAEL" ,SPORT 1
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2353/index.m3u8
+#EXTINF:0 group-title="DEPORTES - SPORT ISRAEL" ,SPORT 2
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/12250/index.m3u8
+#EXTINF:0 group-title="DEPORTES - SPORT ISRAEL" ,SPORT 3
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/12251/index.m3u8
+#EXTINF:0 group-title="DEPORTES - SPORT ISRAEL" ,SPORT 4
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/12252/index.m3u8
+#EXTINF:0 group-title="DEPORTES - SPORT ISRAEL" ,SPORT 5
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2391/index.m3u8
+#EXTINF:0 group-title="DEPORTES - SPORT ISRAEL" ,SPORT 5 GOLD
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/12254/index.m3u8
+#EXTINF:0 group-title="DEPORTES - SPORT ISRAEL" ,SPORT 5 LIVE
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2362/index.m3u8
+#EXTINF:-1 group-title="DEPORTES - SUPERSPORT" tvg-logo="http://2hubs.ddns.net:25461/images/a3570f9ec6c9aa74e1a0831cbc5e6ddb.png" ,SuperSport Action | HD
+http://2hubs.ddns.net:25461/abdoldam/mirpur1971/68955
+#EXTINF:-1 group-title="DEPORTES - SUPERSPORT" tvg-logo="http://attp.ddns.net:25461/images/a3570f9ec6c9aa74e1a0831cbc5e6ddb.png" ,Supersport Blitz
+http://2hubs.ddns.net:25461/abdoldam/mirpur1971/60940
+#EXTINF:-1 group-title="DEPORTES - SUPERSPORT" tvg-logo="http://2hubs.ddns.net:25461/images/a3570f9ec6c9aa74e1a0831cbc5e6ddb.png" ,SuperSport Cricket | HD
+http://2hubs.ddns.net:25461/abdoldam/mirpur1971/68949
+#EXTINF:-1 group-title="DEPORTES - SUPERSPORT" tvg-logo="http://2hubs.ddns.net:25461/images/a3570f9ec6c9aa74e1a0831cbc5e6ddb.png" ,SuperSport Football | HD
+http://2hubs.ddns.net:25461/abdoldam/mirpur1971/68954
+#EXTINF:-1 group-title="DEPORTES - SUPERSPORT" tvg-logo="http://attp.ddns.net:25461/images/a3570f9ec6c9aa74e1a0831cbc5e6ddb.png" ,SuperSport Grandstand | HD
+http://2hubs.ddns.net:25461/abdoldam/mirpur1971/68950
+#EXTINF:-1 group-title="DEPORTES - SUPERSPORT" tvg-logo="http://2hubs.ddns.net:25461/images/a3570f9ec6c9aa74e1a0831cbc5e6ddb.png" ,SuperSport La Liga | HD
+http://2hubs.ddns.net:25461/abdoldam/mirpur1971/68953
+#EXTINF:-1 group-title="DEPORTES - SUPERSPORT" tvg-logo="http://2hubs.ddns.net:25461/images/585d8e8f9a52b3dd04772488b353aef9.png" ,SuperSport Maximo
+http://2hubs.ddns.net:25461/abdoldam/mirpur1971/59829
+#EXTINF:-1 group-title="DEPORTES - SUPERSPORT" tvg-logo="http://attp.ddns.net:25461/images/a3570f9ec6c9aa74e1a0831cbc5e6ddb.png" ,SuperSport Play | HD
+http://2hubs.ddns.net:25461/abdoldam/mirpur1971/68948
+#EXTINF:-1 group-title="DEPORTES - SUPERSPORT" tvg-logo="http://2hubs.ddns.net:25461/images/a3570f9ec6c9aa74e1a0831cbc5e6ddb.png" ,SuperSport Premier League | HD
+http://2hubs.ddns.net:25461/abdoldam/mirpur1971/68952
+#EXTINF:-1 group-title="DEPORTES - SUPERSPORT" tvg-logo="http://attp.ddns.net:25461/images/a3570f9ec6c9aa74e1a0831cbc5e6ddb.png" ,SuperSport PSL | HD
+http://2hubs.ddns.net:25461/abdoldam/mirpur1971/68951
+#EXTINF:-1 group-title="DEPORTES - SUPERSPORT" tvg-logo="http://2hubs.ddns.net:25461/images/a3570f9ec6c9aa74e1a0831cbc5e6ddb.png" ,SuperSport Rugby | HD
+http://2hubs.ddns.net:25461/abdoldam/mirpur1971/68956
+#EXTINF:-1 group-title="DEPORTES - ZIGGO" ,NL - ESPN 1 HD
+http://2hubs.ddns.net:25461/abdoldam/mirpur1971/73671
+#EXTINF:-1 group-title="DEPORTES - ZIGGO" ,NL - ESPN 2 FHD
+http://2hubs.ddns.net:25461/abdoldam/mirpur1971/73672
+#EXTINF:-1 group-title="DEPORTES - ZIGGO" ,NL - ESPN 3 FHD
+http://2hubs.ddns.net:25461/abdoldam/mirpur1971/73673
+#EXTINF:-1 group-title="DEPORTES - ZIGGO" ,NL - ESPN 4 FHD
+http://2hubs.ddns.net:25461/abdoldam/mirpur1971/73674
+#EXTINF:-1 group-title="DEPORTES - ZIGGO" ,NL - ZIGGO SPORT EXTRA 1
+http://2hubs.ddns.net:25461/abdoldam/mirpur1971/73727
+#EXTINF:-1 group-title="DEPORTES - ZIGGO" ,NL - ZIGGO SPORT EXTRA 2
+http://2hubs.ddns.net:25461/abdoldam/mirpur1971/73728
+#EXTINF:-1 group-title="DEPORTES - ZIGGO" ,NL - ZIGGO SPORT GOLF
+http://2hubs.ddns.net:25461/abdoldam/mirpur1971/73729
+#EXTINF:-1 group-title="DEPORTES - ZIGGO" ,NL - ZIGGO SPORT RACING
+http://2hubs.ddns.net:25461/abdoldam/mirpur1971/73730
+#EXTINF:-1 group-title="DEPORTES - ZIGGO" ,NL - ZIGGO SPORT SELECT FHD
+http://2hubs.ddns.net:25461/abdoldam/mirpur1971/73731
+#EXTINF:-1 group-title="DEPORTES - ZIGGO" ,NL - ZIGGO SPORT VOETBAL
+http://2hubs.ddns.net:25461/abdoldam/mirpur1971/73732
 #EXTINF:0 group-title="ENTRETENIMIENTO E INTERES GENERAL" tvg-logo="https://www.atresseries.com/public/img/atreseries/apple-touch-icon-180x180.png" ,A3Series HD
 http://181.78.75.11:9500/play/a01k/index.m3u8
 #EXTINF:0 group-title="ENTRETENIMIENTO E INTERES GENERAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/512px-2018_Animal_Planet_logo.svg.png" ,ANIMAL PLANET
@@ -475,6 +543,24 @@ https://dhmxbo9piuo21.cloudfront.net/out/v1/84ee2b0cce384a30abd70b05562ddd91/ind
 https://d107yb993altze.cloudfront.net/out/v1/772e0b0193134726ad84693b7baca6c6/index.m3u8
 #EXTINF:0 group-title="FUTBOL ARGENTINO" tvg-logo="https://www.totalmedios.com/img/noticias/2014/11/54785c051f4c7__838x390.jpg" ,TYC SPORTS PLAY 14
 https://dj8bzwveg7go9.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/index_16.m3u8
+#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" tvg-logo="http://epg.it999.ru/img/2880.png" ,Sky Sport Bundesliga 1 HD DE
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2480/index.m3u8
+#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" tvg-logo="http://epg.it999.ru/img/2881.png" ,Sky Sport Bundesliga 2 HD DE
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/7234/index.m3u8
+#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" tvg-logo="http://epg.it999.ru/img/4522.png" ,Sky Sport Bundesliga 3 HD DE
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/7235/index.m3u8
+#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" tvg-logo="http://epg.it999.ru/img/4523.png" ,Sky Sport Bundesliga 4 HD DE
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/7236/index.m3u8
+#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" tvg-logo="http://epg.it999.ru/img/7778.png" ,Sky Sport Bundesliga 5 HD DE
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/7237/index.m3u8
+#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" tvg-logo="http://epg.it999.ru/img/4525.png" ,Sky Sport Bundesliga 6 HD DE
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/7238/index.m3u8
+#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" tvg-logo="http://epg.it999.ru/img/4526.png" ,Sky Sport Bundesliga 7 HD DE
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/7239/index.m3u8
+#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" tvg-logo="http://epg.it999.ru/img/4527.png" ,Sky Sport Bundesliga 8 HD DE
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/7240/index.m3u8
+#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" tvg-logo="http://epg.it999.ru/img/4528.png" ,Sky Sport Bundesliga 9 HD DE
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/7241/index.m3u8
 #EXTINF:0 group-title="INFANTILES" tvg-logo="https://i.postimg.cc/52gfdMxp/BABY-TV.jpg" ,BABY TV
 http://168.197.196.98:9981/stream/channelid/82729369?profile=pass
 #EXTINF:0 group-title="INFANTILES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/800px-Cartoon_Network_2010_logo.svg.png" ,CARTOON NETWORK
@@ -545,6 +631,26 @@ http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1697350653_b1
 http://168.197.196.98:9981/stream/channelid/876597797?profile=pass
 #EXTINF:0 group-title="LOCAL" tvg-logo="https://1.bp.blogspot.com/-Z3CkwxY4fwY/YAJypg5UiPI/AAAAAAAA7vA/pzgUVEWEm6w7d-vCJEtQSU5MG8O-ixbkQCLcBGAsYHQ/s802/tvp-2020.png" ,TVP PUBLICA
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
+#EXTINF:-1 group-title="MOVISTAR" tvg-logo="http://epg.it999.ru/img/3382.png" ,Movistar Accion ES
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/7065/index.m3u8
+#EXTINF:-1 group-title="MOVISTAR" tvg-logo="http://epg.it999.ru/img/3100.png" ,Movistar Cine Doc & Roll HD ES
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/6077/index.m3u8
+#EXTINF:-1 group-title="MOVISTAR" tvg-logo="http://epg.it999.ru/img/3383.png" ,Movistar Comedia ES
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/7066/index.m3u8
+#EXTINF:-1 group-title="MOVISTAR" tvg-logo="http://epg.it999.ru/img/3101.png" ,Movistar Deportes 1 HD ES
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/6070/index.m3u8
+#EXTINF:-1 group-title="MOVISTAR" tvg-logo="http://epg.it999.ru/img/3384.png" ,Movistar Drama ES
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/7067/index.m3u8
+#EXTINF:-1 group-title="MOVISTAR" tvg-logo="http://epg.it999.ru/img/3103.png" ,Movistar Estrenos HD ES
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/6078/index.m3u8
+#EXTINF:-1 group-title="MOVISTAR" tvg-logo="http://epg.it999.ru/img/3104.png" ,Movistar Golf HD ES
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/6075/index.m3u8
+#EXTINF:-1 group-title="MOVISTAR" tvg-logo="http://epg.it999.ru/img/3106.png" ,Movistar Liga Campeones HD ES
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/6074/index.m3u8
+#EXTINF:-1 group-title="MOVISTAR" tvg-logo="http://epg.it999.ru/img/3107.png" ,Movistar Seriesmania HD ES
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/6076/index.m3u8
+#EXTINF:-1 group-title="MOVISTAR" tvg-logo="http://epg.it999.ru/img/3105.png" ,Movistar Unknown HD ES
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/6073/index.m3u8
 #EXTINF:0 group-title="MUSICA" tvg-logo="https://i.postimg.cc/66c9gwbw/descarga.jpg" ,E-MUSIC BLACK
 http://168.205.87.198:8555/live/1431/123456/232.ts
 #EXTINF:0 group-title="MUSICA" tvg-logo="https://i.postimg.cc/66c9gwbw/descarga.jpg" ,E-MUSIC CLASSICS
@@ -709,3 +815,55 @@ http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/master.m3u8?fluxustv.m3u8
 http://38.56.118.88:4000/play/a010/index.m3u8
 #EXTINF:0 group-title="NOTICIAS INTERNACIONALES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/TVRI_World_Old_Logo.png/revision/latest?cb=20220222084819" ,TVRI WORLD
 https://s7.mbahnunungonline.net/live/m3u8/id/3f58825fe229a8i.m3u8
+#EXTINF:-1 group-title="POLSAT SPORT" tvg-logo="http://epg.it999.ru/img/4556.png" ,POLSAT SPORT EXTRA HD PL
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/7310/index.m3u8
+#EXTINF:-1 group-title="POLSAT SPORT" tvg-logo="http://epg.it999.ru/img/4548.png" ,Polsat Sport FHD PL
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/7296/index.m3u8
+#EXTINF:-1 group-title="POLSAT SPORT" tvg-logo="http://epg.it999.ru/img/4557.png" ,POLSAT SPORT FIGHT HD PL
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/7311/index.m3u8
+#EXTINF:-1 group-title="POLSAT SPORT" tvg-logo="http://epg.it999.ru/img/4549.png" ,POLSAT SPORT NEWS HD PL
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/7303/index.m3u8
+#EXTINF:-1 group-title="POLSAT SPORT" tvg-logo="http://epg.it999.ru/img/4550.png" ,POLSAT SPORT PREMIUM 1 PL
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/7304/index.m3u8
+#EXTINF:-1 group-title="POLSAT SPORT" tvg-logo="http://epg.it999.ru/img/4551.png" ,POLSAT SPORT PREMIUM 2 PL
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/7305/index.m3u8
+#EXTINF:-1 group-title="POLSAT SPORT" tvg-logo="http://epg.it999.ru/img/4552.png" ,POLSAT SPORT PREMIUM 3 PPV PL
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/7306/index.m3u8
+#EXTINF:-1 group-title="POLSAT SPORT" tvg-logo="http://epg.it999.ru/img/4553.png" ,POLSAT SPORT PREMIUM 4 PPV PL
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/7307/index.m3u8
+#EXTINF:-1 group-title="POLSAT SPORT" tvg-logo="http://epg.it999.ru/img/4554.png" ,POLSAT SPORT PREMIUM 5 PPV PL
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/7308/index.m3u8
+#EXTINF:-1 group-title="POLSAT SPORT" tvg-logo="http://epg.it999.ru/img/4555.png" ,POLSAT SPORT PREMIUM 6 PPV PL
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/7309/index.m3u8
+#EXTINF:-1 group-title="SAUDI SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png" ,SA - SSC Sports 1
+http://2hubs.ddns.net:25461/abdoldam/mirpur1971/73048
+#EXTINF:-1 group-title="SAUDI SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png" ,SA - SSC Sports 2
+http://2hubs.ddns.net:25461/abdoldam/mirpur1971/73049
+#EXTINF:-1 group-title="SAUDI SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png" ,SA - SSC Sports 3
+http://2hubs.ddns.net:25461/abdoldam/mirpur1971/73050
+#EXTINF:-1 group-title="SAUDI SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png" ,SA - SSC Sports 4
+http://2hubs.ddns.net:25461/abdoldam/mirpur1971/73051
+#EXTINF:-1 group-title="SAUDI SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png" ,SA - SSC Sports 5
+http://2hubs.ddns.net:25461/abdoldam/mirpur1971/73052
+#EXTINF:-1 group-title="SAUDI SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png" ,SA - SSC Sports 6
+http://2hubs.ddns.net:25461/abdoldam/mirpur1971/73053
+#EXTINF:-1 group-title="SAUDI SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png" ,SA - SSC Sports 7
+http://2hubs.ddns.net:25461/abdoldam/mirpur1971/73054
+#EXTINF:-1 group-title="SKY SPORT NZ" ,NZ - Sky Sport 1 HD
+http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/73125
+#EXTINF:-1 group-title="SKY SPORT NZ" ,NZ - Sky Sport 2 HD
+http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/73126
+#EXTINF:-1 group-title="SKY SPORT NZ" ,NZ - Sky Sport 3 HD
+http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/73127
+#EXTINF:-1 group-title="SKY SPORT NZ" ,NZ - Sky Sport 4 HD
+http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/73128
+#EXTINF:-1 group-title="SKY SPORT NZ" ,NZ - Sky Sport 5 HD
+http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/73129
+#EXTINF:-1 group-title="SKY SPORT NZ" ,NZ - Sky Sport 6 HD
+http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/73130
+#EXTINF:-1 group-title="SKY SPORT NZ" ,NZ - Sky Sport 7 HD
+http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/73131
+#EXTINF:-1 group-title="SKY SPORT NZ" ,NZ - Sky Sport 8 HD
+http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/73132
+#EXTINF:-1 group-title="SKY SPORT NZ" ,NZ - Sky Sport 9 HD
+http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/73133
