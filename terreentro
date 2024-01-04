@@ -35,60 +35,60 @@ http://dnslivetv.online:80/JUAN23/1904/1038583
 http://budtvlight.com:25461/bud-1680891/e69b8f5337/2395
 #EXTINF:0 group-title="24/7" tvg-logo="https://images.pluto.tv/channels/609ae5cd48d3200007b0a98e/colorLogoSVG.svg?auto=&fit=crop&fill=blur&ixlib=react-9.1.5&w=150&h=96&dpr=3&q=35" ,SOUTH PARK
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae5cd48d3200007b0a98e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
-#EXTINF:0 group-title="CINE Y SERIES" tvg-name="https://delivery.cdn.rcs.net.ar/mnp/ae/output.mpd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/512px-A%26E_Network_logo.svg.png" ,A&E
-http://168.197.196.98:9981/stream/channelid/38267091?profile=pass
+#EXTINF:0 group-title="CINE Y SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/512px-A%26E_Network_logo.svg.png" ,A&E
+http://190.119.178.44:8000/play/a09k/index.m3u8
 #EXTINF:0 group-title="CINE Y SERIES" tvg-logo="https://fotografias.atresseries.com/clipping/cmsimages02/2018/02/22/20C2BFA8-ACA3-47DA-AAFB-188D456AB2A9/27.jpg" ,A3SERIES
-http://181.78.12.119:16123/play/a0a9/index.m3u8
+http://45.181.122.218:28886/play/a01m
 #EXTINF:0 group-title="CINE Y SERIES" tvg-logo="https://i.imgur.com/rpIAikI.png" ,AMC
-http://168.197.196.98:9981/stream/channelid/689066518?profile=pass
-#EXTINF:0 group-title="CINE Y SERIES" tvg-name="https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/AXN/SA_HLS/AXN.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" ,AXN
-http://168.197.196.98:9981/stream/channelid/1072218379?profile=pass
+http://45.181.122.218:28886/play/a01i
+#EXTINF:0 group-title="CINE Y SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" ,AXN
+http://181.225.73.210:7000/play/a075/index.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES" ,AZ Cinema HD (MX)
-http://home-playtv.com:8080/90cuentad/GAGVJ/9492
+http://190.119.178.44:8000/play/a028/index.m3u8
 #EXTINF:0 group-title="CINE Y SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Cine_Latino_logo.svg/2560px-Cine_Latino_logo.svg.png" ,CINE LATINO
-http://190.14.14.42:16001/play/a0ef/index.m3u8
+http://190.119.178.44:8000/play/a086/index.m3u8
 #EXTINF:0 group-title="CINE Y SERIES" tvg-id="https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/chunklist_w1905927469.m3u8" tvg-logo="https://i.imgur.com/Iozv4tT.png" ,CINEAR
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/chunklist_w1905927469.m3u8
 #EXTINF:0 group-title="CINE Y SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/512px-CinecanalLA.png" ,CINECANAL
-http://168.197.196.98:9981/stream/channelid/999872231?profile=pass
-#EXTINF:0 group-title="CINE Y SERIES" tvg-name="https://delivery.cdn.rcs.net.ar/mnp/cinemax/output.mpd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/512px-Cinemax_%28Yellow%29.svg.png" ,CINEMAX
-http://168.197.196.98:9981/stream/channelid/187415757?profile=pass
+http://190.119.178.44:8000/play/a09n/index.m3u8
+#EXTINF:0 group-title="CINE Y SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/512px-Cinemax_%28Yellow%29.svg.png" ,CINEMAX
+http://45.5.117.182:8000/play/a0j6/index.m3u8
 #EXTINF:0 group-title="CINE Y SERIES" tvg-logo="https://img.hidra.app/peliculasyseries/depelicula.png" ,DE PELICULA
 http://vplay.club:80/arturo12345/arturo12345/860349
 #EXTINF:0 group-title="CINE Y SERIES" tvg-logo="https://img.hidra.app/peliculasyseries/depeliculaplus.png" ,DE PELICULA PLUS
 http://budtvlight.com:25461/bud-1680891/e69b8f5337/37960
 #EXTINF:0 group-title="CINE Y SERIES" tvg-logo="https://img.hidra.app/peliculasyseries/dhe.png" ,DHE
-http://home-playtv.com:8080/90cuentad/GAGVJ/225716
+http://190.119.178.44:8000/play/a033/index.m3u8
 #EXTINF:0 group-title="CINE Y SERIES" tvg-logo="https://img.hidra.app/peliculasyseries/eurochannel.png" ,EUROCHANNEL
-http://budtvlight.com:25461/bud-1680891/e69b8f5337/52923
+http://38.44.109.41:8888/play/a00c
 #EXTINF:0 group-title="CINE Y SERIES" tvg-logo="https://i.imgur.com/w5SOfyJ.png" ,EUROPA EUROPA
 http://45.181.121.227:801/play/a05y
-#EXTINF:0 group-title="CINE Y SERIES" parent-code="https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/FX/SA_HLS/FX.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/512px-FX_International_logo.svg.png" ,FX
-http://168.197.196.98:9981/stream/channelid/1737732228?profile=pass
+#EXTINF:0 group-title="CINE Y SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/512px-FX_International_logo.svg.png" ,FX
+http://38.44.109.41:8888/play/a007
 #EXTINF:0 group-title="CINE Y SERIES" tvg-logo="http://www.radiosargentina.com.ar/png/VI-GENTV.png" ,GEN TV
 https://inliveserver.com:1936/14056/14056/chunklist_w804806754.m3u8
 #EXTINF:0 group-title="CINE Y SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png" ,GOLDEN
-http://181.78.12.119:16123/play/ch46/index.m3u8
+http://38.44.109.41:8888/play/a001
 #EXTINF:0 group-title="CINE Y SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Golden_Edge_Logo_2020.png" ,GOLDEN EDGE
-http://181.78.12.119:16123/play/ch47/index.m3u8
+http://38.44.109.41:8888/play/a002
 #EXTINF:0 group-title="CINE Y SERIES" tvg-logo="https://img.hidra.app/peliculasyseries/goldenplus.png" ,GOLDEN PLUS
-http://offshore.lat:8080/FERNANDOQ/A6ZztZZRauxd/122
+http://161.132.108.79:50001/play/a01f/index.m3u8
 #EXTINF:0 group-title="CINE Y SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" ,HBO
-http://168.197.196.98:9981/stream/channelid/2085585075?profile=pass
+http://161.132.108.79:50001/play/a015/index.m3u8
 #EXTINF:0 group-title="CINE Y SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/512px-HBO2_logo.svg.png" ,HBO 2
-http://168.197.196.98:9981/stream/channelid/1691702467?profile=pass
+http://161.132.108.79:50001/play/a01c/index.m3u8
 #EXTINF:0 group-title="CINE Y SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/512px-HBO_Family.svg.png" ,HBO FAMILY
 http://45.170.225.212:48001/play/a029/index.m3u8
-#EXTINF:0 group-title="CINE Y SERIES" tvg-name="http://hplay.xyz:80/rtrboofc/pi519pvU9R/312764" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/512px-HBO_Mundi.svg.png" ,HBO MUNDI
-http://200.24.206.132:8000/play/a0de/index.m3u8
+#EXTINF:0 group-title="CINE Y SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/512px-HBO_Mundi.svg.png" ,HBO MUNDI
+http://45.238.21.84:8000/play/a0ei
 #EXTINF:0 group-title="CINE Y SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/512px-Logohboplus2019.svg.png" ,HBO PLUS
-http://8.242.126.186:7777/play/a04y/index.m3u8
-#EXTINF:0 group-title="CINE Y SERIES" tvg-name="http://hplay.xyz:80/rtrboofc/pi519pvU9R/43223" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/512px-HBO_Pop.svg.png" ,HBO POP
-http://200.24.206.132:8000/play/a012/index.m3u8
-#EXTINF:0 group-title="CINE Y SERIES" tvg-name="http://hplay.xyz:80/rtrboofc/pi519pvU9R/34902" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/512px-HBO_Signature.svg.png" ,HBO SIGNATURE
-http://200.24.206.132:8000/play/a0cn/index.m3u8
+http://45.238.21.84:8000/play/a0g6
+#EXTINF:0 group-title="CINE Y SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/512px-HBO_Pop.svg.png" ,HBO POP
+http://161.132.108.79:50001/play/a007/index.m3u8
+#EXTINF:0 group-title="CINE Y SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/512px-HBO_Signature.svg.png" ,HBO SIGNATURE
+http://161.132.108.79:50001/play/a03i/index.m3u8
 #EXTINF:0 group-title="CINE Y SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/512px-HBO_Xtreme.svg.png" ,HBO XTREME
-http://home-playtv.com:8080/90cuentad/GAGVJ/185175
+http://161.132.108.79:50001/play/a01y/index.m3u8
 #EXTINF:0 group-title="CINE Y SERIES" tvg-name="https://delivery.cdn.rcs.net.ar/mnp/isat/output.mpd" tvg-logo="https://i.imgur.com/37KIhdl.png" ,I-SAT
 http://168.197.196.98:9981/stream/channelid/655478302?profile=pass
 #EXTINF:0 group-title="CINE Y SERIES" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/52cd8bc0ebc97b48ca09202a5fd9f80d.png" ,MORBIDO TV
@@ -105,16 +105,16 @@ http://168.197.196.98:9981/stream/channelid/1070256780?profile=pass
 http://168.197.196.98:9981/stream/channelid/1487057770?profile=pass
 #EXTINF:0 group-title="CINE Y SERIES" tvg-name="https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Star_Channel/SA_HLS/Star_Channel.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/512px-Star_Channel_2020.svg.png" ,STAR CHANNEL
 http://168.197.196.98:9981/stream/channelid/723535645?profile=pass
-#EXTINF:0 group-title="CINE Y SERIES" tvg-name="https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Studio_Universal/SA_HLS/Studio_Universal.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/512px-StudioUniversal2016.png" ,STUDIO UNIVERSAL
-http://168.197.196.98:9981/stream/channelid/844462357?profile=pass
+#EXTINF:0 group-title="CINE Y SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/512px-StudioUniversal2016.png" ,STUDIO UNIVERSAL
+http://45.5.117.182:8000/play/a0fh/index.m3u8
 #EXTINF:0 group-title="CINE Y SERIES" tvg-logo="https://i.imgur.com/4fMWhUE.png" ,SYFY
 http://200.63.95.6:8000/play/a07p/index.m3u8
 #EXTINF:0 group-title="CINE Y SERIES" tvg-logo="https://i.imgur.com/UUxM3yD.png" ,TCM
 http://168.197.196.98:9981/stream/channelid/47778796?profile=pass
 #EXTINF:0 group-title="CINE Y SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/512px-TNT_Logo_2016.svg.png" ,TNT
-http://168.197.196.98:9981/stream/channelid/1112853275?profile=pass
-#EXTINF:0 group-title="CINE Y SERIES" tvg-name="https://delivery.cdn.rcs.net.ar/mnp/tntseries/output.mpd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" ,TNT SERIES
-http://168.197.196.98:9981/stream/channelid/952874561?profile=pass
+http://45.5.117.182:8000/play/a0i9/index.m3u8
+#EXTINF:0 group-title="CINE Y SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" ,TNT SERIES
+http://45.5.117.182:8000/play/a0jt/index.m3u8
 #EXTINF:0 group-title="CINE Y SERIES" tvg-name="https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Universal/SA_HLS/Universal.m3u8" tvg-logo="https://i.imgur.com/jnjvR5f.png" ,UNIVERSAL
 http://168.197.196.98:9981/stream/channelid/1043262239?profile=pass
 #EXTINF:0 group-title="CINE Y SERIES" tvg-logo="https://i.imgur.com/XxfET68.png" ,UNIVERSAL CINEMA
@@ -131,8 +131,8 @@ http://budtvlight.com:25461/bud-1680891/e69b8f5337/36357
 http://home-playtv.com:8080/90cuentad/GAGVJ/184477
 #EXTINF:0 group-title="CINE Y SERIES" tvg-logo="https://i.imgur.com/PYvSZMb.png" ,VOLVER
 http://31.42.185.216:8000/4FJINMSHKC/GH06J535EG/3544
-#EXTINF:0 group-title="CINE Y SERIES" tvg-name="https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Warner/SA_HLS/Warner.m3u8" tvg-logo="https://i.imgur.com/t6GQq2p.png" ,WARNER WBTV
-http://168.197.196.98:9981/stream/channelid/1696344801?profile=pass
+#EXTINF:0 group-title="CINE Y SERIES" tvg-logo="https://i.imgur.com/t6GQq2p.png" ,WARNER WBTV
+http://45.5.117.182:8000/play/a0i2/index.m3u8
 #EXTINF:0 group-title="DEPORTES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/AbuDhabiSports2020.jpg/revision/latest/scale-to-width-down/250?cb=20200428142739" ,ABU DHABI SPORT 1
 http://admdn1.cdn.mangomolo.com/adsports1/adsports1.stream_720p/chunklist.m3u8
 #EXTINF:0 group-title="DEPORTES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/AbuDhabiSports2020.jpg/revision/latest/scale-to-width-down/250?cb=20200428142739" ,ABU DHABI SPORT 2
@@ -394,7 +394,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e94cd036cc69d0007e
 #EXTINF:0 group-title="ENTRETENIMIENTO E INTERES GENERAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/512px-2019_Discovery_logo.svg.png" ,DISCOVERY
 http://168.197.196.98:9981/stream/channelid/1218278039?profile=pass
 #EXTINF:0 group-title="ENTRETENIMIENTO E INTERES GENERAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Discovery_H%26H_Logo_2022.webp/512px-Discovery_H%26H_Logo_2022.webp.png" ,DISCOVERY HOME AND HEALTH
-http://168.197.196.98:9981/stream/channelid/1879194793?profile=pass
+http://45.5.117.182:8000/play/a0iw/index.m3u8
 #EXTINF:0 group-title="ENTRETENIMIENTO E INTERES GENERAL" tvg-name="https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_ID/SA_HLS/Discovery_ID.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/langfr-512px-InvestigationDiscoveryLogo2020.svg.png" ,DISCOVERY ID
 http://161.132.108.79:50001/play/a00n/index.m3u8
 #EXTINF:0 group-title="ENTRETENIMIENTO E INTERES GENERAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Discovery_science_new_logo_2017.png/512px-Discovery_science_new_logo_2017.png" ,DISCOVERY SCIENCE
@@ -406,7 +406,7 @@ http://168.197.196.98:9981/stream/channelid/1667098736?profile=pass
 #EXTINF:0 group-title="ENTRETENIMIENTO E INTERES GENERAL" tvg-logo="http://acsa.ws:80/images/2ecd0b43c0ba5f0fac0f9fbb98bb79cd.jpg" ,DOG TV
 http://acsc.cc:80/VagnerFerri/A32097xx/76922.ts
 #EXTINF:0 group-title="ENTRETENIMIENTO E INTERES GENERAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/512px-E%21_Logo_2012.svg.png" ,E!
-http://168.197.196.98:9981/stream/channelid/1065818355?profile=pass
+http://45.5.117.182:8000/play/a0fk/index.m3u8
 #EXTINF:0 group-title="ENTRETENIMIENTO E INTERES GENERAL" tvg-logo="http://images.pluto.tv/channels/60492a1e6361250007679665/colorLogoPNG.png" ,EMERGENCIAS 911
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60492a1e6361250007679665/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff334c2-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dffc36b9-57c6-4973-9903-2f83d465ac40&userId=&serverSideAds=true
 #EXTINF:0 group-title="ENTRETENIMIENTO E INTERES GENERAL" tvg-logo="https://i.imgur.com/2kHUsl7.png" ,FILM & ARTS
@@ -418,13 +418,13 @@ http://168.197.196.98:9981/stream/channelid/1084284388?profile=pass
 #EXTINF:0 group-title="ENTRETENIMIENTO E INTERES GENERAL" tvg-name="http://hplay.xyz:80/rtrboofc/pi519pvU9R/35047" tvg-logo="https://i.imgur.com/ByMyRI9.png" ,GOURMET
 http://168.197.196.98:9981/stream/channelid/1481372405?profile=pass
 #EXTINF:0 group-title="ENTRETENIMIENTO E INTERES GENERAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/512px-History_Logo.svg.png" ,H HISTORY
-http://168.197.196.98:9981/stream/channelid/1069429122?profile=pass
+http://190.119.178.44:8000/play/a00h/index.m3u8
 #EXTINF:0 group-title="ENTRETENIMIENTO E INTERES GENERAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/512px-History2_logo_%282022%29.svg.png" ,H2 HISTORY 2
-http://168.197.196.98:9981/stream/channelid/1671573018?profile=pass
+http://190.119.178.44:8000/play/a036/index.m3u8
 #EXTINF:0 group-title="ENTRETENIMIENTO E INTERES GENERAL" tvg-logo="https://images.pluto.tv/channels/5f4d3696d938c900072679fd/colorLogoPNG.png" ,HISTORIAS DE ULTRATUMBA
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4d3696d938c900072679fd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0 group-title="ENTRETENIMIENTO E INTERES GENERAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/512px-HGTV_US_Logo_2015.svg.png" ,HOME AND GARDEN
-http://168.197.196.98:9981/stream/channelid/1406986073?profile=pass
+http://190.119.178.44:8000/play/a08t/index.m3u8
 #EXTINF:0 group-title="ENTRETENIMIENTO E INTERES GENERAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRR4TGeeaOjONFdJOV4GWVVwzzfAmRVJmvHi2iAQslzHJmmIdvEiQju8cf-mjTLTJ_Ce8&usqp=CAU" ,HORRORFY
 https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master_6.m3u8
 #EXTINF:0 group-title="ENTRETENIMIENTO E INTERES GENERAL" tvg-logo="http://images.pluto.tv/channels/5dcde27ffae9520009c0c75a/colorLogoPNG.png" ,INVESTIGA
@@ -432,7 +432,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde27ffae9520009
 #EXTINF:0 group-title="ENTRETENIMIENTO E INTERES GENERAL" tvg-name="http://hidra.live:80/msqbuynu/C55qy6Ihb6/313055" tvg-logo="https://i.imgur.com/WIeZMKT.png" ,KANAL D DRAMA
 http://38.56.118.88:4000/play/a024/index.m3u8
 #EXTINF:0 group-title="ENTRETENIMIENTO E INTERES GENERAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/512px-Logo_Lifetime_2020.svg.png" ,LIFETIME
-http://168.197.196.98:9981/stream/channelid/1942477194?profile=pass
+http://45.181.121.57:2909/play/100
 #EXTINF:0 group-title="ENTRETENIMIENTO E INTERES GENERAL" tvg-logo="https://i.imgur.com/cJC22gJ.png" ,MAS CHIC
 http://167.250.39.130:8000/play/maschic
 #EXTINF:0 group-title="ENTRETENIMIENTO E INTERES GENERAL" tvg-logo="http://images.pluto.tv/channels/5f4d882d5233170007ee880e/colorLogoPNG.png" ,MISTERIO SIN RESOLVER
@@ -561,24 +561,190 @@ https://glxlmn026c.singularcdn.net.br/playout_03/playlist.m3u8
 https://glxlmn026c.singularcdn.net.br/playout_04/playlist.m3u8
 #EXTINF:0 group-title="FUTBOL BRASILEÑO" tvg-logo="https://i.postimg.cc/ncqcD2GQ/TNT-SPORTS.png" ,TNT SPORTS 5
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8
-#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" tvg-logo="http://epg.it999.ru/img/2880.png" ,Sky Sport Bundesliga 1 HD DE
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2480/index.m3u8
-#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" tvg-logo="http://epg.it999.ru/img/2881.png" ,Sky Sport Bundesliga 2 HD DE
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/7234/index.m3u8
-#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" tvg-logo="http://epg.it999.ru/img/4522.png" ,Sky Sport Bundesliga 3 HD DE
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/7235/index.m3u8
-#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" tvg-logo="http://epg.it999.ru/img/4523.png" ,Sky Sport Bundesliga 4 HD DE
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/7236/index.m3u8
-#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" tvg-logo="http://epg.it999.ru/img/7778.png" ,Sky Sport Bundesliga 5 HD DE
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/7237/index.m3u8
-#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" tvg-logo="http://epg.it999.ru/img/4525.png" ,Sky Sport Bundesliga 6 HD DE
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/7238/index.m3u8
-#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" tvg-logo="http://epg.it999.ru/img/4526.png" ,Sky Sport Bundesliga 7 HD DE
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/7239/index.m3u8
-#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" tvg-logo="http://epg.it999.ru/img/4527.png" ,Sky Sport Bundesliga 8 HD DE
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/7240/index.m3u8
-#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" tvg-logo="http://epg.it999.ru/img/4528.png" ,Sky Sport Bundesliga 9 HD DE
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/7241/index.m3u8
+#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| BUNDESLIGA HIGHLIGHTS HD
+http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/557292
+#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| BUNDESLIGA REPLAY 1 HD
+http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/557291
+#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| BUNDESLIGA REPLAY 2 HD
+http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/557290
+#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| BUNDESLIGA REPLAY 3 HD
+http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/557289
+#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| BUNDESLIGA REPLAY 4 HD
+http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/557288
+#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| BUNDESLIGA REPLAY 5 HD
+http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/557287
+#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| BUNDESLIGA REPLAY 6 HD
+http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/557286
+#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| BUNDESLIGA REPLAY 7 HD
+http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/557285
+#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| BUNDESLIGA REPLAY 8 HD
+http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/557284
+#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| BUNDESLIGA REPLAY 9 HD
+http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/557283
+#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| BUNDESLIGA REPLAY INFO HD
+http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/557293
+#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| Der Sportpenner
+http://crystalott.net:80/movie/90:a8:22:62:bb:3e/NAGLS7VPWH/866164.mkv
+#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| DYN SPORTS 1 HD
+http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/767273
+#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| DYN SPORTS 10 HD
+http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/767264
+#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| DYN SPORTS 11 HD
+http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/767263
+#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| DYN SPORTS 12 HD
+http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/767262
+#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| DYN SPORTS 13 HD
+http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/767261
+#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| DYN SPORTS 14 HD
+http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/767260
+#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| DYN SPORTS 15 HD
+http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/767259
+#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| DYN SPORTS 16 HD
+http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/767258
+#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| DYN SPORTS 17 HD
+http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/767257
+#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| DYN SPORTS 18 HD
+http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/767256
+#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| DYN SPORTS 19 HD
+http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/767255
+#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| DYN SPORTS 2 HD
+http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/767272
+#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| DYN SPORTS 20 HD
+http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/767254
+#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| DYN SPORTS 3 HD
+http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/767271
+#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| DYN SPORTS 4 HD
+http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/767270
+#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| DYN SPORTS 5 HD
+http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/767269
+#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| DYN SPORTS 6 HD
+http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/767268
+#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| DYN SPORTS 7 HD
+http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/767267
+#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| DYN SPORTS 8 HD
+http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/767266
+#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| DYN SPORTS 9 HD
+http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/767265
+#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| ESPORTS 1 HD
+http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/440983
+#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| EUROSPORT 1 HD
+http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/568
+#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| EUROSPORT 2 HD
+http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/567
+#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| Magenta Sport 1(Event Only)
+http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/440395
+#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| Magenta Sport 10(Event Only)
+http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/440386
+#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| Magenta Sport 11(Event Only)
+http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/440385
+#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| Magenta Sport 12(Event Only)
+http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/440384
+#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| Magenta Sport 13(Event Only)
+http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/440383
+#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| Magenta Sport 14(Event Only)
+http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/440382
+#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| Magenta Sport 15(Event Only)
+http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/440381
+#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| Magenta Sport 16(Event Only)
+http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/440380
+#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| Magenta Sport 17(Event Only)
+http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/440379
+#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| Magenta Sport 2(Event Only)
+http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/440394
+#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| Magenta Sport 3(Event Only)
+http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/440393
+#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| Magenta Sport 4(Event Only)
+http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/440392
+#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| Magenta Sport 5(Event Only)
+http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/440391
+#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| Magenta Sport 6(Event Only)
+http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/440390
+#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| Magenta Sport 7(Event Only)
+http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/440389
+#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| Magenta Sport 8(Event Only)
+http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/440388
+#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| Magenta Sport 9(Event Only)
+http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/440387
+#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| Mans Favorite Sport?
+http://crystalott.net:80/movie/90:a8:22:62:bb:3e/NAGLS7VPWH/604368.mp4
+#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| Pluto TV Auto Motor Sport HD
+http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/413698
+#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| RTL+ SPORT 1 (Event Only)
+http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/445694
+#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| RTL+ SPORT 2 (Event Only)
+http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/445693
+#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| RTL+ SPORT 3 (Event Only)
+http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/445692
+#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| RTL+ SPORT 4 (Event Only)
+http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/445691
+#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| RTL+ SPORT 5 (Event Only)
+http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/445690
+#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| RTL+ SPORT 6 (Event Only)
+http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/445689
+#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| SKY BUNDESLIGA 1 HD
+http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/578
+#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| SKY BUNDESLIGA 10 HD |ONLY DURING LIVE MATCHES|
+http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/569
+#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| SKY BUNDESLIGA 2 HD |ONLY DURING LIVE MATCHES|
+http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/577
+#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| SKY BUNDESLIGA 3 HD |ONLY DURING LIVE MATCHES|
+http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/576
+#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| SKY BUNDESLIGA 4 HD |ONLY DURING LIVE MATCHES|
+http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/575
+#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| SKY BUNDESLIGA 5 HD |ONLY DURING LIVE MATCHES|
+http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/574
+#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| SKY BUNDESLIGA 6 HD |ONLY DURING LIVE MATCHES|
+http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/573
+#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| SKY BUNDESLIGA 7 HD |ONLY DURING LIVE MATCHES|
+http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/572
+#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| SKY BUNDESLIGA 8 HD |ONLY DURING LIVE MATCHES|
+http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/571
+#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| SKY BUNDESLIGA 9 HD |ONLY DURING LIVE MATCHES
+http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/570
+#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| SKY SPORT 1
+http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/584
+#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| SKY SPORT 1 HD
+http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/583
+#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| SKY SPORT 10 HD
+http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/127466
+#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| SKY SPORT 11 HD
+http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/127465
+#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| SKY SPORT 2
+http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/582
+#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| SKY SPORT 2 HD
+http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/581
+#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| SKY SPORT 3 HD
+http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/127473
+#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| SKY SPORT 4 HD
+http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/127472
+#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| SKY SPORT 5 HD
+http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/127471
+#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| SKY SPORT 6 HD
+http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/127470
+#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| SKY SPORT 7 HD
+http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/127469
+#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| SKY SPORT 8 HD
+http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/127468
+#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| SKY SPORT 9 HD
+http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/127467
+#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| SKY SPORT F1
+http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/158115
+#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| SKY SPORT GOLF HD
+http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/418357
+#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| SKY SPORT MIX HD
+http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/418355
+#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| SKY SPORT NEWS HD
+http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/585
+#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| SKY SPORT PREMIER LEAGUE HD
+http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/418354
+#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| SKY SPORT TENNIS HD
+http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/418356
+#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| SKY SPORT TOP EVENT
+http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/418358
+#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| SPORT DIGITAL FUSSBALL HD
+http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/303541
+#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| SPORT1 HD
+http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/564
 #EXTINF:0 group-title="INFANTILES" tvg-logo="https://i.postimg.cc/52gfdMxp/BABY-TV.jpg" ,BABY TV
 http://168.197.196.98:9981/stream/channelid/82729369?profile=pass
 #EXTINF:0 group-title="INFANTILES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/800px-Cartoon_Network_2010_logo.svg.png" ,CARTOON NETWORK
@@ -607,20 +773,20 @@ http://181.119.66.30:8000/play/84/index.m3u8
 http://38.253.74.18:15084/play/a04c/index.m3u8
 #EXTINF:0 group-title="LOCAL" tvg-name="https://delivery.cdn.rcs.net.ar/mnp/a24/output.mpd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/A24_%282019-1%29.png" ,A24
 http://168.197.196.98:9981/stream/channelid/441178750?profile=pass
-#EXTINF:0 group-title="LOCAL" tvg-name="https://delivery.cdn.rcs.net.ar/mnp/america/output.mpd" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/Am%C3%A9rica_2016-2018_2018-presente_logo_mosca.png/revision/latest?cb=20200123155022&path-prefix=es" ,AMERICA TV
-http://191.97.14.63:8045/play/a029/index.m3u8
+#EXTINF:0 group-title="LOCAL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/Am%C3%A9rica_2016-2018_2018-presente_logo_mosca.png/revision/latest?cb=20200123155022&path-prefix=es" ,AMERICA TV
+https://ythls-v2.onrender.com/channel/UC6NVDkuzY2exMOVFw4i9oHw.m3u8
 #EXTINF:0 group-title="LOCAL" tvg-logo="https://i.imgur.com/xFgJawa.png" ,ARGENTINISIMA
 https://stream1.sersat.com/hls/argentinisima.m3u8?
 #EXTINF:0 group-title="LOCAL" tvg-logo="https://scontent.fepa11-1.fna.fbcdn.net/v/t39.30808-6/244740069_4605539916173791_1774696253942537240_n.png?_nc_cat=100&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=37qZnI5R6eMAX9yGW0t&_nc_ht=scontent.fepa11-1.fna&oh=00_AfBCHwdlW7FN2UkYYHaXHsNLLkoT01PxO3bpw8laQV_1cQ&oe=64718768" ,ATV ARGENTINA
 http://streaming.arcast.com.ar:1935/atbargentina/atbargentina/chunklist.m3u8
 #EXTINF:0 group-title="LOCAL" tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/bayres-tv.png" ,BAYRES TV
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
-#EXTINF:0 group-title="LOCAL" tvg-id="http://laondatv.online:8080/leonardo/123456/408603" tvg-name="https://delivery.cdn.rcs.net.ar/mnp/c5n/output.mpd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/C5N_logo.svg/1200px-C5N_logo.svg.png" ,C5N
-http://168.197.196.98:9981/stream/channelid/1864177302?profile=pass
-#EXTINF:0 group-title="LOCAL" tvg-name="http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/800px-Canal_26_logo_%282022%29.svg.png" ,CANAL 26
-http://home-playtv.com:8080/90cuentad/GAGVJ/54199
-#EXTINF:0 group-title="LOCAL" tvg-name="https://delivery.cdn.rcs.net.ar/mnp/cronica/output.mpd" tvg-logo="https://4.bp.blogspot.com/-RjXsOFCUJa0/WbWZpQWlwZI/AAAAAAAABnA/vAeBWck6LNw4HpNBxdg5unnmIbpYXo1GgCLcBGAs/s1600/cronica-hd.png" ,CRONICA
-http://168.197.196.98:9981/stream/channelid/1874722183?profile=pass
+#EXTINF:0 group-title="LOCAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/C5N_logo.svg/1200px-C5N_logo.svg.png" ,C5N
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0069
+#EXTINF:0 group-title="LOCAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/800px-Canal_26_logo_%282022%29.svg.png" ,CANAL 26
+https://ythls-v2.onrender.com/channel/UCrpMfcQNog595v5gAS-oUsQ.m3u8
+#EXTINF:0 group-title="LOCAL" tvg-logo="https://4.bp.blogspot.com/-RjXsOFCUJa0/WbWZpQWlwZI/AAAAAAAABnA/vAeBWck6LNw4HpNBxdg5unnmIbpYXo1GgCLcBGAs/s1600/cronica-hd.png" ,CRONICA
+https://ythls-v2.onrender.com/channel/UCT7KFGv6s2a-rh2Jq8ZdM1g.m3u8
 #EXTINF:0 group-title="LOCAL" tvg-name="https://delivery.cdn.rcs.net.ar/mnp/elnueve/output.mpd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Canal_9_ba_logo.png" ,EL NUEVE
 http://168.197.196.98:9981/stream/channelid/1765727189?profile=pass
 #EXTINF:0 group-title="LOCAL" parent-code="https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v2a1/mono.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Logo_Canal_13_200_8.png" ,EL TRECE
@@ -630,7 +796,7 @@ http://168.197.196.98:9981/stream/channelid/975352778?profile=pass
 #EXTINF:0 group-title="LOCAL" tvg-name="https://delivery.cdn.rcs.net.ar/mnp/ip/output.mpd" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_10/large.1027530100_IP2.png.09507349c734309f8ec316ccd9633b41.png" ,IP INFORMACION PERIODISTICA
 https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=4499968.m3u8?
 #EXTINF:0 group-title="LOCAL" tvg-name="https://router.cdn.rcs.net.ar/anevia/live/localdisk/LN/SA_HLS/LN.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/La-Nacion-Mas-Logo.svg/1024px-La-Nacion-Mas-Logo.svg.png" ,LA NACION +
-http://168.197.196.98:9981/stream/channelid/1772816076?profile=pass
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0070
 #EXTINF:0 group-title="LOCAL" tvg-logo="https://radiotvlapoderosa.com.ar/imagenes/logo.png" ,LA PODEROSA TV
 https://videostream.shockmedia.com.ar:19360/fmlapoderosaavellaneda01/fmlapoderosaavellaneda01.m3u8
 #EXTINF:0 group-title="LOCAL" tvg-logo="https://i.imgur.com/D4nRp62.png" ,METRO
@@ -645,8 +811,8 @@ http://168.197.196.98:9981/stream/channelid/1494440425?profile=pass
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 #EXTINF:0 group-title="LOCAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/TLMX.png/220px-TLMX.png" ,TELEMAX
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1697350653_b1828000_sleng.m3u8
-#EXTINF:0 group-title="LOCAL" tvg-name="https://delivery.cdn.rcs.net.ar/mnp/tn/output.mpd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/2560px-TN_todo_noticias_logo.svg.png" ,TN
-http://168.197.196.98:9981/stream/channelid/876597797?profile=pass
+#EXTINF:0 group-title="LOCAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/2560px-TN_todo_noticias_logo.svg.png" ,TN
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0050
 #EXTINF:0 group-title="LOCAL" tvg-logo="https://1.bp.blogspot.com/-Z3CkwxY4fwY/YAJypg5UiPI/AAAAAAAA7vA/pzgUVEWEm6w7d-vCJEtQSU5MG8O-ixbkQCLcBGAsYHQ/s802/tvp-2020.png" ,TVP PUBLICA
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
 #EXTINF:-1 group-title="MOVISTAR" tvg-logo="http://epg.it999.ru/img/3382.png" ,Movistar Accion ES
