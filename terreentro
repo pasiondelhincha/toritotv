@@ -89,34 +89,34 @@ http://161.132.108.79:50001/play/a007/index.m3u8
 http://161.132.108.79:50001/play/a03i/index.m3u8
 #EXTINF:0 group-title="CINE Y SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/512px-HBO_Xtreme.svg.png" ,HBO XTREME
 http://161.132.108.79:50001/play/a01y/index.m3u8
-#EXTINF:0 group-title="CINE Y SERIES" tvg-name="https://delivery.cdn.rcs.net.ar/mnp/isat/output.mpd" tvg-logo="https://i.imgur.com/37KIhdl.png" ,I-SAT
-http://168.197.196.98:9981/stream/channelid/655478302?profile=pass
+#EXTINF:0 group-title="CINE Y SERIES" tvg-logo="https://i.imgur.com/37KIhdl.png" ,I-SAT
+http://45.5.117.182:8000/play/a0j4/index.m3u8
 #EXTINF:0 group-title="CINE Y SERIES" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/52cd8bc0ebc97b48ca09202a5fd9f80d.png" ,MORBIDO TV
 http://31.42.185.216:8000/4FJINMSHKC/GH06J535EG/163594
 #EXTINF:0 group-title="CINE Y SERIES" ,MULTIPREMIER
 http://vplay.club:80/arturo12345/arturo12345/602694
 #EXTINF:0 group-title="CINE Y SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png" ,PARAMOUNT NETWORK
-http://168.197.196.98:9981/stream/channelid/1243090545?profile=pass
-#EXTINF:0 group-title="CINE Y SERIES" tvg-name="https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Sony/SA_HLS/Sony.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/512px-Sony_Channel_Logo.png" ,SONY CHANNEL
-http://168.197.196.98:9981/stream/channelid/776715013?profile=pass
+http://190.119.178.44:8000/play/a025/index.m3u8
+#EXTINF:0 group-title="CINE Y SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/512px-Sony_Channel_Logo.png" ,SONY CHANNEL
+http://161.132.108.79:50001/play/a002/index.m3u8
 #EXTINF:0 group-title="CINE Y SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/1021px-Sony_Movies_Logo.svg.png" ,SONY MOVIES
-http://168.197.196.98:9981/stream/channelid/1070256780?profile=pass
-#EXTINF:0 group-title="CINE Y SERIES" tvg-name="https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Space/SA_HLS/Space.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/512px-SpaceLogo.svg.png" ,SPACE
-http://168.197.196.98:9981/stream/channelid/1487057770?profile=pass
-#EXTINF:0 group-title="CINE Y SERIES" tvg-name="https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Star_Channel/SA_HLS/Star_Channel.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/512px-Star_Channel_2020.svg.png" ,STAR CHANNEL
-http://168.197.196.98:9981/stream/channelid/723535645?profile=pass
+http://161.132.108.79:50001/play/a03j/index.m3u8
+#EXTINF:0 group-title="CINE Y SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/512px-SpaceLogo.svg.png" ,SPACE
+http://190.119.178.44:8000/play/a00m/index.m3u8
+#EXTINF:0 group-title="CINE Y SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/512px-Star_Channel_2020.svg.png" ,STAR CHANNEL
+http://38.51.248.9:10002/play/STARCH/index.m3u8
 #EXTINF:0 group-title="CINE Y SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/512px-StudioUniversal2016.png" ,STUDIO UNIVERSAL
 http://45.5.117.182:8000/play/a0fh/index.m3u8
 #EXTINF:0 group-title="CINE Y SERIES" tvg-logo="https://i.imgur.com/4fMWhUE.png" ,SYFY
-http://200.63.95.6:8000/play/a07p/index.m3u8
+http://190.119.178.44:8000/play/a099/index.m3u8
 #EXTINF:0 group-title="CINE Y SERIES" tvg-logo="https://i.imgur.com/UUxM3yD.png" ,TCM
-http://168.197.196.98:9981/stream/channelid/47778796?profile=pass
+http://190.119.178.44:8000/play/a08v/index.m3u8
 #EXTINF:0 group-title="CINE Y SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/512px-TNT_Logo_2016.svg.png" ,TNT
 http://45.5.117.182:8000/play/a0i9/index.m3u8
 #EXTINF:0 group-title="CINE Y SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" ,TNT SERIES
 http://45.5.117.182:8000/play/a0jt/index.m3u8
-#EXTINF:0 group-title="CINE Y SERIES" tvg-name="https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Universal/SA_HLS/Universal.m3u8" tvg-logo="https://i.imgur.com/jnjvR5f.png" ,UNIVERSAL
-http://168.197.196.98:9981/stream/channelid/1043262239?profile=pass
+#EXTINF:0 group-title="CINE Y SERIES" tvg-logo="https://i.imgur.com/jnjvR5f.png" ,UNIVERSAL
+http://190.119.178.44:8000/play/a01k/index.m3u8
 #EXTINF:0 group-title="CINE Y SERIES" tvg-logo="https://i.imgur.com/XxfET68.png" ,UNIVERSAL CINEMA
 http://budtvlight.com:25461/bud-1680891/e69b8f5337/36358
 #EXTINF:0 group-title="CINE Y SERIES" tvg-logo="https://i.imgur.com/avBL8pQ.png" ,UNIVERSAL COMEDY
@@ -127,8 +127,6 @@ http://vplay.club:80/arturo12345/arturo12345/602763
 http://budtvlight.com:25461/bud-1680891/e69b8f5337/36356
 #EXTINF:0 group-title="CINE Y SERIES" tvg-logo="https://i.imgur.com/mqfUD1R.png" ,UNIVERSAL REALITY
 http://budtvlight.com:25461/bud-1680891/e69b8f5337/36357
-#EXTINF:0 group-title="CINE Y SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png" ,UNIVERSAL TV
-http://home-playtv.com:8080/90cuentad/GAGVJ/184477
 #EXTINF:0 group-title="CINE Y SERIES" tvg-logo="https://i.imgur.com/PYvSZMb.png" ,VOLVER
 http://31.42.185.216:8000/4FJINMSHKC/GH06J535EG/3544
 #EXTINF:0 group-title="CINE Y SERIES" tvg-logo="https://i.imgur.com/t6GQq2p.png" ,WARNER WBTV
