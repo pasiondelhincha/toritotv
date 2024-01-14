@@ -21,6 +21,8 @@ http://offshore.lat:25461/FERNANDOQ/A6ZztZZRauxd/294014
 http://offshore.lat:25461/FERNANDOQ/A6ZztZZRauxd/294011
 #EXTINF:0 group-title="24/7" tvg-logo="https://img.hidra.app/247/simpsonsterror.png" ,Los Simpsons Horror HD
 http://budtvlight.com:25461/bud-1680891/e69b8f5337/11998
+#EXTINF:0 group-title="24/7" tvg-logo="https://img.hidra.app/247/simpson.png" ,LOS SIMPSONS OPC2
+http://xdplayer.tv:8080/play/emI0UdsiwxvXinJuOAexPD9tb2gGZ8xcAfIO3nNtYLM/ts
 #EXTINF:0 group-title="24/7" tvg-logo="https://img.hidra.app/247/simpsonretroingles.png" ,Los Simpsons Retro 1
 http://home-playtv.com:8080/90cuentad/GAGVJ/216822
 #EXTINF:0 group-title="24/7" tvg-logo="https://img.hidra.app/247/simpsonretroingles.png" ,Los Simpsons Retro 2
@@ -1051,3 +1053,5 @@ http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/73131
 http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/73132
 #EXTINF:-1 group-title="SKY SPORT NZ" ,NZ - Sky Sport 9 HD
 http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/73133
+#EXTINF:0 group-title="DEPORTES" tvg-logo="https://pbs.twimg.com/media/FJBSOhBXoAgvyX9.jpg" ,TIGO PARAGUAY
+http://xdplayer.tv:8080/play/emI0UdsiwxvXinJuOAexPMPQbld6PLtSt9CIWwfcX8E/ts
