@@ -163,6 +163,8 @@ http://zyniptv.com:8080/atoon-iptv/xcZgTHYTxjAP/253
 http://161.132.108.79:50001/play/a02w/index.m3u8
 #EXTINF:0 group-title="DEPORTES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/ClaroSports2.png/revision/latest/scale-to-width-down/250?cb=20210423191014&path-prefix=es" ,CLARO SPORTS 02
 http://161.132.108.79:50001/play/a03v/index.m3u8
+#EXTINF:0 group-title="DEPORTES" ,COPA AFRICA
+http://51.178.65.238/BeinSport/mono.m3u8
 #EXTINF:0 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/2560px-DAZN_1_Logo.svg.png" ,DAZN 1
 http://31.42.185.216:8000/4FJINMSHKC/GH06J535EG/140965
 #EXTINF:0 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/2560px-DAZN_2.svg.png" ,DAZN 2
@@ -1371,5 +1373,4 @@ http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/73130
 http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/73131
 #EXTINF:-1 group-title="SKY SPORT NZ" ,NZ - Sky Sport 8 HD
 http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/73132
-#EXTINF:-1 group-title="SKY SPORT NZ" ,NZ - Sky Sport 9 HD
-http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/73133
+#EXTINF:-1 group-title="
