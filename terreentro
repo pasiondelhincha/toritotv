@@ -37,6 +37,84 @@ http://dnslivetv.online:80/JUAN23/1904/1038583
 http://budtvlight.com:25461/bud-1680891/e69b8f5337/2395
 #EXTINF:0 group-title="24/7" tvg-logo="https://images.pluto.tv/channels/609ae5cd48d3200007b0a98e/colorLogoSVG.svg?auto=&fit=crop&fill=blur&ixlib=react-9.1.5&w=150&h=96&dpr=3&q=35" ,SOUTH PARK
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae5cd48d3200007b0a98e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
+#EXTINF:-1 group-title="ARENA SPORT" ,ARENA SPORT 1
+http://80.252.37.194:5000/udp/233.233.233.3:12000
+#EXTINF:-1 group-title="ARENA SPORT" ,ARENA SPORT 2
+http://80.252.37.194:5000/udp/233.233.233.4:12000
+#EXTINF:-1 group-title="ARENA SPORT" ,ARENA SPORT 3
+http://80.252.37.194:5000/udp/233.233.233.5:12000
+#EXTINF:-1 group-title="ARENA SPORT" ,ARENA SPORT 4
+http://80.252.37.194:5000/udp/233.233.233.6:12000
+#EXTINF:-1 group-title="ARENA SPORT" ,ARENA SPORT 5
+http://80.252.37.194:5000/udp/233.233.233.7:12000
+#EXTINF:-1 group-title="ARENA SPORT" ,ARENA SPORT 6
+http://80.252.37.194:5000/udp/233.233.233.8:12000
+#EXTINF:-1 group-title="BUNDESLIGA" ,DE: Sky Bundesliga 1 FHD
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/285421
+#EXTINF:-1 group-title="BUNDESLIGA" ,DE: Sky Bundesliga 1 HD
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/285422
+#EXTINF:-1 group-title="BUNDESLIGA" ,DE: Sky Bundesliga 10 ( During Games only )
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/285431
+#EXTINF:-1 group-title="BUNDESLIGA" ,DE: Sky Bundesliga 2 ( During Games only )
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/285423
+#EXTINF:-1 group-title="BUNDESLIGA" ,DE: Sky Bundesliga 3 ( During Games only )
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/285424
+#EXTINF:-1 group-title="BUNDESLIGA" ,DE: Sky Bundesliga 4 ( During Games only )
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/285425
+#EXTINF:-1 group-title="BUNDESLIGA" ,DE: Sky Bundesliga 5 ( During Games only )
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/285426
+#EXTINF:-1 group-title="BUNDESLIGA" ,DE: Sky Bundesliga 6 ( During Games only )
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/285427
+#EXTINF:-1 group-title="BUNDESLIGA" ,DE: Sky Bundesliga 7 ( During Games only )
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/285428
+#EXTINF:-1 group-title="BUNDESLIGA" ,DE: Sky Bundesliga 8 ( During Games only )
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/285429
+#EXTINF:-1 group-title="BUNDESLIGA" ,DE: Sky Bundesliga 9 ( During Games only )
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/285430
+#EXTINF:-1 group-title="BUNDESLIGA" ,DE: Sky Sport Bundesliga 1 HD (HEVC)
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/285947
+#EXTINF:-1 group-title="BUNDESLIGA" ,DE: Sky Sport Bundesliga 10 HD (HEVC)
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/285948
+#EXTINF:-1 group-title="BUNDESLIGA" ,DE: Sky Sport Bundesliga 2 HD (HEVC)
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/285949
+#EXTINF:-1 group-title="BUNDESLIGA" ,DE: Sky Sport Bundesliga 3 HD (HEVC)
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/285950
+#EXTINF:-1 group-title="BUNDESLIGA" ,DE: Sky Sport Bundesliga 4 HD (HEVC)
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/285951
+#EXTINF:-1 group-title="BUNDESLIGA" ,DE: Sky Sport Bundesliga 5 HD (HEVC)
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/285952
+#EXTINF:-1 group-title="BUNDESLIGA" ,DE: Sky Sport Bundesliga 6 HD (HEVC)
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/285953
+#EXTINF:-1 group-title="BUNDESLIGA" ,DE: Sky Sport Bundesliga 7 HD (HEVC)
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/285954
+#EXTINF:-1 group-title="BUNDESLIGA" ,DE: Sky Sport Bundesliga 8 HD (HEVC)
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/285955
+#EXTINF:-1 group-title="BUNDESLIGA" ,DE: Sky Sport Bundesliga 9 HD (HEVC)
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/285956
+#EXTINF:-1 group-title="BUNDESLIGA" ,DE: Sky Sport Bundesliga HD (HEVC)
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/285957
+#EXTINF:-1 group-title="BUNDESLIGA" ,|.DEU.|_SKY BUNDESLIGA 1 red
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/256886
+#EXTINF:-1 group-title="BUNDESLIGA" ,|.DEU.|_SKY BUNDESLIGA 10 red [ ONLY LIVE EVENTS ]
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/256895
+#EXTINF:-1 group-title="BUNDESLIGA" ,|.DEU.|_SKY BUNDESLIGA 2 red
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/256887
+#EXTINF:-1 group-title="BUNDESLIGA" ,|.DEU.|_SKY BUNDESLIGA 3 red [ ONLY LIVE EVENTS ]
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/256888
+#EXTINF:-1 group-title="BUNDESLIGA" ,|.DEU.|_SKY BUNDESLIGA 4 red [ ONLY LIVE EVENTS ]
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/256889
+#EXTINF:-1 group-title="BUNDESLIGA" ,|.DEU.|_SKY BUNDESLIGA 5 red [ ONLY LIVE EVENTS ]
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/256890
+#EXTINF:-1 group-title="BUNDESLIGA" ,|.DEU.|_SKY BUNDESLIGA 6 red [ ONLY LIVE EVENTS ]
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/256891
+#EXTINF:-1 group-title="BUNDESLIGA" ,|.DEU.|_SKY BUNDESLIGA 7 red [ ONLY LIVE EVENTS ]
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/256892
+#EXTINF:-1 group-title="BUNDESLIGA" ,|.DEU.|_SKY BUNDESLIGA 8 red [ ONLY LIVE EVENTS ]
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/256893
+#EXTINF:-1 group-title="BUNDESLIGA" ,|.DEU.|_SKY BUNDESLIGA 9 red [ ONLY LIVE EVENTS ]
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/256894
+#EXTINF:-1 group-title="BUNDESLIGA" ,|.DEU.|_SKY BUNDESLIGA UHD [ ONLY LIVE EVENTS ]
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/256896
 #EXTINF:0 group-title="CINE Y SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/512px-A%26E_Network_logo.svg.png" ,A&E
 http://190.119.178.44:8000/play/a09k/index.m3u8
 #EXTINF:0 group-title="CINE Y SERIES" tvg-logo="https://fotografias.atresseries.com/clipping/cmsimages02/2018/02/22/20C2BFA8-ACA3-47DA-AAFB-188D456AB2A9/27.jpg" ,A3SERIES
@@ -379,6 +457,50 @@ http://2hubs.ddns.net:25461/abdoldam/mirpur1971/73730
 http://2hubs.ddns.net:25461/abdoldam/mirpur1971/73731
 #EXTINF:-1 group-title="DEPORTES - ZIGGO" ,NL - ZIGGO SPORT VOETBAL
 http://2hubs.ddns.net:25461/abdoldam/mirpur1971/73732
+#EXTINF:-1 group-title="DIRECTV SPORTS" ,ARG: DIRECTV SPORTS 2 HD
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/311526
+#EXTINF:-1 group-title="DIRECTV SPORTS" ,ARG: DIRECTV SPORTS HD
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/311527
+#EXTINF:-1 group-title="DIRECTV SPORTS" ,ARG: DIRECTV SPORTS PLUS HD
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/311528
+#EXTINF:-1 group-title="DIRECTV SPORTS" ,CHILE: DIRECTV SPORTS 2 HD
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/311695
+#EXTINF:-1 group-title="DIRECTV SPORTS" ,CHILE: DIRECTV SPORTS HD
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/311691
+#EXTINF:-1 group-title="DIRECTV SPORTS" ,COL: DIRECTV SPORTS
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/311645
+#EXTINF:-1 group-title="DIRECTV SPORTS" ,COL: DIRECTV SPORTS 2 HD
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/311644
+#EXTINF:-1 group-title="DIRECTV SPORTS" ,LAT DEPORTE: DIRECTV SPORTS 2
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/311972
+#EXTINF:-1 group-title="DIRECTV SPORTS" ,LAT DEPORTE: DIRECTV SPORTS PLUS
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/311973
+#EXTINF:-1 group-title="DIRECTV SPORTS" ,LAT DEPORTE: DIRECTV SPOSTS 1
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/311974
+#EXTINF:-1 group-title="DIRECTV SPORTS" ,PE: DIRECTV SPORTS PERU HD
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/311740
+#EXTINF:-1 group-title="DIRECTV SPORTS" ,SP: CO: Directv Sports 1 HD
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/346404
+#EXTINF:-1 group-title="DIRECTV SPORTS" ,SP: CO: Directv Sports 1 SD
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/346403
+#EXTINF:-1 group-title="DIRECTV SPORTS" ,SP: CO: Directv Sports 2 HD
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/346406
+#EXTINF:-1 group-title="DIRECTV SPORTS" ,SP: CO: Directv Sports 2 SD
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/346405
+#EXTINF:-1 group-title="DIRECTV SPORTS" ,SP: CO: Directv Sports Plus HD
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/346407
+#EXTINF:-1 group-title="DIRECTV SPORTS" ,SP: EC: Directv Ecuador
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/346339
+#EXTINF:-1 group-title="DIRECTV SPORTS" ,SP: EC: Directv Ecuador HD
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/346340
+#EXTINF:-1 group-title="DIRECTV SPORTS" ,SP: PE: Directv Sports 2
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/346251
+#EXTINF:-1 group-title="DIRECTV SPORTS" ,SP: PE: Directv Sports HD
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/346249
+#EXTINF:-1 group-title="DIRECTV SPORTS" ,SP: PE: Directv Sports HD+
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/346250
+#EXTINF:-1 group-title="DIRECTV SPORTS" ,URU: DIRECTV SPORTS
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/311787
 #EXTINF:0 group-title="ENTRETENIMIENTO E INTERES GENERAL" tvg-logo="https://www.atresseries.com/public/img/atreseries/apple-touch-icon-180x180.png" ,A3Series HD
 http://181.78.75.11:9500/play/a01k/index.m3u8
 #EXTINF:0 group-title="ENTRETENIMIENTO E INTERES GENERAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/512px-2018_Animal_Planet_logo.svg.png" ,ANIMAL PLANET
@@ -535,26 +657,6 @@ https://dhmxbo9piuo21.cloudfront.net/out/v1/84ee2b0cce384a30abd70b05562ddd91/ind
 https://d107yb993altze.cloudfront.net/out/v1/772e0b0193134726ad84693b7baca6c6/index.m3u8
 #EXTINF:0 group-title="FUTBOL ARGENTINO" tvg-logo="https://www.totalmedios.com/img/noticias/2014/11/54785c051f4c7__838x390.jpg" ,TYC SPORTS PLAY 14
 https://dj8bzwveg7go9.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/index_16.m3u8
-#EXTINF:0 group-title="FUTBOL BRASILEÑO" tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2019/07/premiere.jpg" ,PREMIERE 1
-http://tv.com.vc:80/luis/luis123/454241
-#EXTINF:0 group-title="FUTBOL BRASILEÑO" tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2019/07/premiere.jpg" ,PREMIERE 2
-http://tv.com.vc:80/luis/luis123/454642
-#EXTINF:0 group-title="FUTBOL BRASILEÑO" tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2019/07/premiere.jpg" ,PREMIERE 3
-http://tv.com.vc:80/luis/luis123/454645
-#EXTINF:0 group-title="FUTBOL BRASILEÑO" tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2019/07/premiere.jpg" ,PREMIERE 4
-http://tv.com.vc:80/luis/luis123/454648
-#EXTINF:0 group-title="FUTBOL BRASILEÑO" tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2019/07/premiere.jpg" ,PREMIERE 5
-http://tv.com.vc:80/luis/luis123/454653
-#EXTINF:0 group-title="FUTBOL BRASILEÑO" tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2019/07/premiere.jpg" ,PREMIERE 6
-http://tv.com.vc:80/luis/luis123/454656
-#EXTINF:0 group-title="FUTBOL BRASILEÑO" tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2019/07/premiere.jpg" ,PREMIERE 7
-http://tv.com.vc:80/luis/luis123/454659
-#EXTINF:0 group-title="FUTBOL BRASILEÑO" tvg-logo="https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/blt5b126f5c37b4648d/63e5616304418740b3be012a/sportv-logo-8.png" ,SPORTV 1
-http://tv.com.vc:80/luis/luis123/454231
-#EXTINF:0 group-title="FUTBOL BRASILEÑO" tvg-logo="https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/blt5b126f5c37b4648d/63e5616304418740b3be012a/sportv-logo-8.png" ,SPORTV 2
-http://tv.com.vc:80/luis/luis123/454234
-#EXTINF:0 group-title="FUTBOL BRASILEÑO" tvg-logo="https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/blt5b126f5c37b4648d/63e5616304418740b3be012a/sportv-logo-8.png" ,SPORTV 3
-http://tv.com.vc:80/luis/luis123/454237
 #EXTINF:0 group-title="FUTBOL BRASILEÑO" tvg-logo="https://i.postimg.cc/ncqcD2GQ/TNT-SPORTS.png" ,TNT SPORTS 1
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist.m3u8
 #EXTINF:0 group-title="FUTBOL BRASILEÑO" tvg-logo="https://i.postimg.cc/ncqcD2GQ/TNT-SPORTS.png" ,TNT SPORTS 2
@@ -565,190 +667,6 @@ https://glxlmn026c.singularcdn.net.br/playout_03/playlist.m3u8
 https://glxlmn026c.singularcdn.net.br/playout_04/playlist.m3u8
 #EXTINF:0 group-title="FUTBOL BRASILEÑO" tvg-logo="https://i.postimg.cc/ncqcD2GQ/TNT-SPORTS.png" ,TNT SPORTS 5
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8
-#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| BUNDESLIGA HIGHLIGHTS HD
-http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/557292
-#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| BUNDESLIGA REPLAY 1 HD
-http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/557291
-#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| BUNDESLIGA REPLAY 2 HD
-http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/557290
-#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| BUNDESLIGA REPLAY 3 HD
-http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/557289
-#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| BUNDESLIGA REPLAY 4 HD
-http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/557288
-#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| BUNDESLIGA REPLAY 5 HD
-http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/557287
-#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| BUNDESLIGA REPLAY 6 HD
-http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/557286
-#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| BUNDESLIGA REPLAY 7 HD
-http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/557285
-#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| BUNDESLIGA REPLAY 8 HD
-http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/557284
-#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| BUNDESLIGA REPLAY 9 HD
-http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/557283
-#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| BUNDESLIGA REPLAY INFO HD
-http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/557293
-#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| Der Sportpenner
-http://crystalott.net:80/movie/90:a8:22:62:bb:3e/NAGLS7VPWH/866164.mkv
-#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| DYN SPORTS 1 HD
-http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/767273
-#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| DYN SPORTS 10 HD
-http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/767264
-#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| DYN SPORTS 11 HD
-http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/767263
-#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| DYN SPORTS 12 HD
-http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/767262
-#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| DYN SPORTS 13 HD
-http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/767261
-#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| DYN SPORTS 14 HD
-http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/767260
-#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| DYN SPORTS 15 HD
-http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/767259
-#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| DYN SPORTS 16 HD
-http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/767258
-#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| DYN SPORTS 17 HD
-http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/767257
-#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| DYN SPORTS 18 HD
-http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/767256
-#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| DYN SPORTS 19 HD
-http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/767255
-#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| DYN SPORTS 2 HD
-http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/767272
-#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| DYN SPORTS 20 HD
-http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/767254
-#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| DYN SPORTS 3 HD
-http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/767271
-#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| DYN SPORTS 4 HD
-http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/767270
-#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| DYN SPORTS 5 HD
-http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/767269
-#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| DYN SPORTS 6 HD
-http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/767268
-#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| DYN SPORTS 7 HD
-http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/767267
-#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| DYN SPORTS 8 HD
-http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/767266
-#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| DYN SPORTS 9 HD
-http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/767265
-#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| ESPORTS 1 HD
-http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/440983
-#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| EUROSPORT 1 HD
-http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/568
-#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| EUROSPORT 2 HD
-http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/567
-#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| Magenta Sport 1(Event Only)
-http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/440395
-#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| Magenta Sport 10(Event Only)
-http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/440386
-#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| Magenta Sport 11(Event Only)
-http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/440385
-#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| Magenta Sport 12(Event Only)
-http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/440384
-#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| Magenta Sport 13(Event Only)
-http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/440383
-#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| Magenta Sport 14(Event Only)
-http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/440382
-#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| Magenta Sport 15(Event Only)
-http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/440381
-#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| Magenta Sport 16(Event Only)
-http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/440380
-#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| Magenta Sport 17(Event Only)
-http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/440379
-#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| Magenta Sport 2(Event Only)
-http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/440394
-#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| Magenta Sport 3(Event Only)
-http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/440393
-#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| Magenta Sport 4(Event Only)
-http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/440392
-#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| Magenta Sport 5(Event Only)
-http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/440391
-#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| Magenta Sport 6(Event Only)
-http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/440390
-#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| Magenta Sport 7(Event Only)
-http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/440389
-#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| Magenta Sport 8(Event Only)
-http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/440388
-#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| Magenta Sport 9(Event Only)
-http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/440387
-#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| Mans Favorite Sport?
-http://crystalott.net:80/movie/90:a8:22:62:bb:3e/NAGLS7VPWH/604368.mp4
-#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| Pluto TV Auto Motor Sport HD
-http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/413698
-#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| RTL+ SPORT 1 (Event Only)
-http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/445694
-#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| RTL+ SPORT 2 (Event Only)
-http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/445693
-#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| RTL+ SPORT 3 (Event Only)
-http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/445692
-#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| RTL+ SPORT 4 (Event Only)
-http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/445691
-#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| RTL+ SPORT 5 (Event Only)
-http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/445690
-#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| RTL+ SPORT 6 (Event Only)
-http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/445689
-#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| SKY BUNDESLIGA 1 HD
-http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/578
-#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| SKY BUNDESLIGA 10 HD |ONLY DURING LIVE MATCHES|
-http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/569
-#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| SKY BUNDESLIGA 2 HD |ONLY DURING LIVE MATCHES|
-http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/577
-#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| SKY BUNDESLIGA 3 HD |ONLY DURING LIVE MATCHES|
-http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/576
-#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| SKY BUNDESLIGA 4 HD |ONLY DURING LIVE MATCHES|
-http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/575
-#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| SKY BUNDESLIGA 5 HD |ONLY DURING LIVE MATCHES|
-http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/574
-#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| SKY BUNDESLIGA 6 HD |ONLY DURING LIVE MATCHES|
-http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/573
-#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| SKY BUNDESLIGA 7 HD |ONLY DURING LIVE MATCHES|
-http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/572
-#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| SKY BUNDESLIGA 8 HD |ONLY DURING LIVE MATCHES|
-http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/571
-#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| SKY BUNDESLIGA 9 HD |ONLY DURING LIVE MATCHES
-http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/570
-#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| SKY SPORT 1
-http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/584
-#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| SKY SPORT 1 HD
-http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/583
-#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| SKY SPORT 10 HD
-http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/127466
-#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| SKY SPORT 11 HD
-http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/127465
-#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| SKY SPORT 2
-http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/582
-#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| SKY SPORT 2 HD
-http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/581
-#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| SKY SPORT 3 HD
-http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/127473
-#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| SKY SPORT 4 HD
-http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/127472
-#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| SKY SPORT 5 HD
-http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/127471
-#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| SKY SPORT 6 HD
-http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/127470
-#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| SKY SPORT 7 HD
-http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/127469
-#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| SKY SPORT 8 HD
-http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/127468
-#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| SKY SPORT 9 HD
-http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/127467
-#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| SKY SPORT F1
-http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/158115
-#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| SKY SPORT GOLF HD
-http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/418357
-#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| SKY SPORT MIX HD
-http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/418355
-#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| SKY SPORT NEWS HD
-http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/585
-#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| SKY SPORT PREMIER LEAGUE HD
-http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/418354
-#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| SKY SPORT TENNIS HD
-http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/418356
-#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| SKY SPORT TOP EVENT
-http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/418358
-#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| SPORT DIGITAL FUSSBALL HD
-http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/303541
-#EXTINF:-1 group-title="FUTBOL BUNDESLIGA" ,|DE| SPORT1 HD
-http://crystalott.net:80/90:a8:22:62:bb:3e/NAGLS7VPWH/564
 #EXTINF:-1 group-title="FUTBOL VIX" ,FUTBOL 01
 https://linear-438.frequency.stream/mt/studio/438/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="FUTBOL VIX" ,FUTBOL 02
@@ -1343,20 +1261,6 @@ http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/7307/index.m3u8
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/7308/index.m3u8
 #EXTINF:-1 group-title="POLSAT SPORT" tvg-logo="http://epg.it999.ru/img/4555.png" ,POLSAT SPORT PREMIUM 6 PPV PL
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/7309/index.m3u8
-#EXTINF:-1 group-title="SAUDI SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png" ,SA - SSC Sports 1
-http://2hubs.ddns.net:25461/abdoldam/mirpur1971/73048
-#EXTINF:-1 group-title="SAUDI SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png" ,SA - SSC Sports 2
-http://2hubs.ddns.net:25461/abdoldam/mirpur1971/73049
-#EXTINF:-1 group-title="SAUDI SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png" ,SA - SSC Sports 3
-http://2hubs.ddns.net:25461/abdoldam/mirpur1971/73050
-#EXTINF:-1 group-title="SAUDI SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png" ,SA - SSC Sports 4
-http://2hubs.ddns.net:25461/abdoldam/mirpur1971/73051
-#EXTINF:-1 group-title="SAUDI SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png" ,SA - SSC Sports 5
-http://2hubs.ddns.net:25461/abdoldam/mirpur1971/73052
-#EXTINF:-1 group-title="SAUDI SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png" ,SA - SSC Sports 6
-http://2hubs.ddns.net:25461/abdoldam/mirpur1971/73053
-#EXTINF:-1 group-title="SAUDI SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png" ,SA - SSC Sports 7
-http://2hubs.ddns.net:25461/abdoldam/mirpur1971/73054
 #EXTINF:-1 group-title="SKY SPORT NZ" ,NZ - Sky Sport 1 HD
 http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/73125
 #EXTINF:-1 group-title="SKY SPORT NZ" ,NZ - Sky Sport 2 HD
@@ -1373,4 +1277,85 @@ http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/73130
 http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/73131
 #EXTINF:-1 group-title="SKY SPORT NZ" ,NZ - Sky Sport 8 HD
 http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/73132
-#EXTINF:-1 group-title="SKY SPOR
+#EXTINF:-1 group-title="SKY SPORT NZ" ,NZ - Sky Sport 9 HD
+http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/73133
+#EXTINF:-1 group-title="SSC" ,SSC 1 FHD
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/248800
+#EXTINF:-1 group-title="SSC" ,SSC 2 FHD
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/248801
+#EXTINF:-1 group-title="SSC" ,SSC 3 FHD
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/248802
+#EXTINF:-1 group-title="SSC" ,SSC 4 FHD
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/248803
+#EXTINF:-1 group-title="SSC" ,SSC 5 FHD
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/248804
+#EXTINF:-1 group-title="SSC" ,SSC Extra 1
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/316876
+#EXTINF:-1 group-title="SSC" ,SSC EXTRA 1 FHD
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/248805
+#EXTINF:-1 group-title="SSC" ,SSC Extra 2
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/316877
+#EXTINF:-1 group-title="SSC" ,SSC EXTRA 2 FHD
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/248806
+#EXTINF:-1 group-title="SSC" ,SSC EXTRA 3 FHD
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/248807
+#EXTINF:-1 group-title="SSC" ,SSC News HD
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/316878
+#EXTINF:-1 group-title="SSC" ,SSC-4K
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/336944
+#EXTINF:-1 group-title="SSC" ,SSC-5-1080
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/336945
+#EXTINF:-1 group-title="SSC" ,SSC-5-720
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/336946
+#EXTINF:-1 group-title="SSC" ,SSC-EXTRA-1-1080
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/336947
+#EXTINF:-1 group-title="SSC" ,SSC-EXTRA-1-720
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/336948
+#EXTINF:-1 group-title="SSC" ,SSC-EXTRA-2-1080
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/336949
+#EXTINF:-1 group-title="SSC" ,SSC-EXTRA-2-720
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/336950
+#EXTINF:-1 group-title="SSC" ,SSC-EXTRA-3-1080
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/336951
+#EXTINF:-1 group-title="SSC" ,SSC-EXTRA-3-720
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/336952
+#EXTINF:-1 group-title="SSC" ,SSC-NEWS-1080
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/336953
+#EXTINF:-1 group-title="SSC" ,SSC1
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/316879
+#EXTINF:-1 group-title="SSC" ,SSC5
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/316880
+#EXTINF:-1 group-title="SSC" ,|.GO.|_SSC 1 red
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/311257
+#EXTINF:-1 group-title="SSC" ,|.GO.|_SSC 2 red
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/311258
+#EXTINF:-1 group-title="SSC" ,|.GO.|_SSC 3 red
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/311259
+#EXTINF:-1 group-title="SSC" ,|.GO.|_SSC 4 red
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/311260
+#EXTINF:-1 group-title="SSC" ,|.GO.|_SSC 5 red
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/311261
+#EXTINF:-1 group-title="SSC" ,|.GO.|_SSC EVENT 4K UHD
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/311256
+#EXTINF:-1 group-title="SSC" ,|.GO.|_SSC EXTRA 1 red
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/311262
+#EXTINF:-1 group-title="SSC" ,|.GO.|_SSC EXTRA 2 red
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/311263
+#EXTINF:-1 group-title="SSC" ,|.GO.|_SSC EXTRA 3 red
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/311264
+#EXTINF:-1 group-title="SSC" ,|.GO.|_SSC NEWS red
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/311255
+#EXTINF:-1 group-title="SSC" ,|SPORT| SSC 1 HD
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/184634
+#EXTINF:-1 group-title="SSC" ,|SPORT| SSC 2 HD
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/184635
+#EXTINF:-1 group-title="SSC" ,|SPORT| SSC 3 HD
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/184636
+#EXTINF:-1 group-title="SSC" ,|SPORT| SSC 4 HD
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/184637
+#EXTINF:-1 group-title="SSC" ,|SPORT| SSC 5 HD
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/184638
+#EXTINF:-1 group-title="SSC" ,|SPORT| SSC 6 HD
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/184639
+#EXTINF:-1 group-title="SSC" ,|SPORT| SSC 7 HD
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/184640
