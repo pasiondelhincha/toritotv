@@ -613,16 +613,16 @@ http://45.5.151.151:8000/play/a0cc/index.m3u8
 http://45.5.151.151:8000/play/a0cb/index.m3u8
 #EXTINF:0 group-title="FUTBOL ARGENTINO" tvg-name="https://delivery.cdn.rcs.net.ar/mnp/espn3/output.mpd" tvg-logo="https://i.postimg.cc/7P1Fd3LV/ESPN3-Logo.png" ,ESPN 3
 http://45.5.151.151:8000/play/a0hx/index.m3u8
-#EXTINF:0 group-title="FUTBOL ARGENTINO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1200px-ESPN_Premium_logo.svg.png" ,ESPN PREMIUM
-http://45.5.151.151:8000/play/a0fe/index.m3u8
+#EXTINF:0 group-title="FUTBOL ARGENTINO" tvg-name="http://45.5.151.151:8000/play/a0fe/index.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1200px-ESPN_Premium_logo.svg.png" ,ESPN PREMIUM
+http://190.7.19.197:8098/play/a0gg/index.m3u8
 #EXTINF:0 group-title="FUTBOL ARGENTINO" tvg-logo="https://i.postimg.cc/W4MZq5wy/FOX-SPORT-1.png" ,FOX SPORT
 http://45.5.151.151:8000/play/a0bf/index.m3u8
 #EXTINF:0 group-title="FUTBOL ARGENTINO" tvg-name="https://router.cdn.rcs.net.ar/mnp/fox_sport2/output.mpd" tvg-logo="https://i.postimg.cc/RF4H7wPZ/FOX-SPORT-2.png" ,FOX SPORT 2
 http://45.5.151.151:8000/play/a0ce/index.m3u8
 #EXTINF:0 group-title="FUTBOL ARGENTINO" tvg-logo="https://i.postimg.cc/qRwCjgYX/FOX-SPORT-3.png" ,FOX SPORT 3
 http://45.5.151.151:8000/play/a0jy/index.m3u8
-#EXTINF:0 group-title="FUTBOL ARGENTINO" tvg-logo="https://i.postimg.cc/ncqcD2GQ/TNT-SPORTS.png" ,TNT SPORTS
-http://45.5.151.151:8000/play/a002/index.m3u8
+#EXTINF:0 group-title="FUTBOL ARGENTINO" tvg-name="http://45.5.151.151:8000/play/a002/index.m3u8" tvg-logo="https://i.postimg.cc/ncqcD2GQ/TNT-SPORTS.png" ,TNT SPORTS
+http://190.7.19.197:8098/play/a0fy/index.m3u8
 #EXTINF:0 group-title="FUTBOL ARGENTINO" tvg-name="https://delivery.cdn.rcs.net.ar/mnp/tyc/output.mpd" tvg-logo="https://i.postimg.cc/HkNRX3Sp/TYC-SPORTS.png" ,TYC SPORTS
 https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_4.m3u8
 #EXTINF:0 group-title="FUTBOL ARGENTINO" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgusCblUkZgbEe0QzEyqhic7yB5B0CpYkR80juX5pmjTMf_7TgBN0DU7el6uSHfeNmkjgu3uwIiibqo1Jc_qXaQeRFVKSyG-Fvn6XB1C9JxkdZ6poMOjHgi4jeRugapH5Kb9zXQNIPkSQAu_reJzAgX8q6OmxbMKARNm4uxGSC_wE92fyLW_dJyWEla/s512/tycsports2.png" ,TYC SPORTS 2
