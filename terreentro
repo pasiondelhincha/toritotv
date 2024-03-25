@@ -49,6 +49,10 @@ http://80.252.37.194:5000/udp/233.233.233.6:12000
 http://80.252.37.194:5000/udp/233.233.233.7:12000
 #EXTINF:-1 group-title="ARENA SPORT" ,ARENA SPORT 6
 http://80.252.37.194:5000/udp/233.233.233.8:12000
+#EXTINF:0 group-title="BET 365" ,EVENTO 01
+https://imgarena-prod-v2-eu.akamaized.net/hls/live/2094748/436104-376063/hdntl=exp=1711421620~acl=%2f*~id=431f9198-602b-4b52-8894-c6cde5774dec~data=hdntl~hmac=f56be065deb0200ce251dc09703d55144bec2876c0579582501a2d9b2b858521/playlist_288p25.m3u8
+#EXTINF:0 group-title="BET 365" ,EVENTO 02
+https://bet365.production.geniuslive.geniussports.com/hls/live/311000/sasta5lv/WinSports_10730088/playlist.m3u8?hdnts=st=1711335409~exp=1711339009~acl=/hls/live/311000/sasta5lv/WinSports_10730088/*~id=32a3eb0c-13ee-48ac-9107-45a83d8b08ea~data=reg:*|dma:*|dev:*~hmac=37e952004f63e7da13eb46b1c3b8ffb41b1651d0698934045ca8e40e34f072e5
 #EXTINF:0 group-title="CINE Y SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/512px-A%26E_Network_logo.svg.png" ,A&E
 http://190.119.178.44:8000/play/a09k/index.m3u8
 #EXTINF:0 group-title="CINE Y SERIES" tvg-logo="https://fotografias.atresseries.com/clipping/cmsimages02/2018/02/22/20C2BFA8-ACA3-47DA-AAFB-188D456AB2A9/27.jpg" ,A3SERIES
@@ -1280,16 +1284,4 @@ http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/311264
 #EXTINF:-1 group-title="SSC" ,|.GO.|_SSC NEWS red
 http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/311255
 #EXTINF:-1 group-title="SSC" ,|SPORT| SSC 1 HD
-http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/184634
-#EXTINF:-1 group-title="SSC" ,|SPORT| SSC 2 HD
-http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/184635
-#EXTINF:-1 group-title="SSC" ,|SPORT| SSC 3 HD
-http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/184636
-#EXTINF:-1 group-title="SSC" ,|SPORT| SSC 4 HD
-http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/184637
-#EXTINF:-1 group-title="SSC" ,|SPORT| SSC 5 HD
-http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/184638
-#EXTINF:-1 group-title="SSC" ,|SPORT| SSC 6 HD
-http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/184639
-#EXTINF:-1 group-title="SSC" ,|SPORT| SSC 7 HD
-http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/184640
+http://pro.ipcover.tv:8080/k
