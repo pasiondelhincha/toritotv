@@ -43,6 +43,50 @@ http://80.252.37.194:5000/udp/233.233.233.6:12000
 http://80.252.37.194:5000/udp/233.233.233.7:12000
 #EXTINF:-1 group-title="ARENA SPORT" ,ARENA SPORT 6
 http://80.252.37.194:5000/udp/233.233.233.8:12000
+#EXTINF:0 group-title="BEIN SPORTS" ,BEIN SPORTS 01
+http://x.v-iptv.com:25443/live/3UKHGFTQSG/C1WAIDLYW1/30756.ts
+#EXTINF:0 group-title="BEIN SPORTS" ,BEIN SPORTS 02
+http://x.v-iptv.com:25443/live/3UKHGFTQSG/C1WAIDLYW1/30757.ts
+#EXTINF:0 group-title="BEIN SPORTS" ,BEIN SPORTS 03
+http://x.v-iptv.com:25443/live/3UKHGFTQSG/C1WAIDLYW1/30758.ts
+#EXTINF:0 group-title="BEIN SPORTS" ,BEIN SPORTS 04
+http://x.v-iptv.com:25443/live/3UKHGFTQSG/C1WAIDLYW1/103764.ts
+#EXTINF:0 group-title="BEIN SPORTS" ,BEIN SPORTS 05
+http://x.v-iptv.com:25443/live/3UKHGFTQSG/C1WAIDLYW1/9141.ts
+#EXTINF:0 group-title="BEIN SPORTS" ,BEIN SPORTS 06
+http://x.v-iptv.com:25443/live/3UKHGFTQSG/C1WAIDLYW1/279962.ts
+#EXTINF:0 group-title="BEIN SPORTS" ,BEIN SPORTS 07
+http://x.v-iptv.com:25443/live/3UKHGFTQSG/C1WAIDLYW1/30760.ts
+#EXTINF:0 group-title="BEIN SPORTS" ,BEIN SPORTS 08
+http://x.v-iptv.com:25443/live/3UKHGFTQSG/C1WAIDLYW1/9143.ts
+#EXTINF:0 group-title="BEIN SPORTS" ,BEIN SPORTS FR 01
+http://x.v-iptv.com:25443/live/3UKHGFTQSG/C1WAIDLYW1/51102.ts
+#EXTINF:0 group-title="BEIN SPORTS" ,BEIN SPORTS FR 02
+http://x.v-iptv.com:25443/live/3UKHGFTQSG/C1WAIDLYW1/9588.ts
+#EXTINF:0 group-title="BEIN SPORTS" ,BEIN SPORTS FR 03
+http://x.v-iptv.com:25443/live/3UKHGFTQSG/C1WAIDLYW1/9587.ts
+#EXTINF:0 group-title="BEIN SPORTS" ,BEIN SPORTS FR 04
+http://x.v-iptv.com:25443/live/3UKHGFTQSG/C1WAIDLYW1/15210.ts
+#EXTINF:0 group-title="BEIN SPORTS" ,BEIN SPORTS FR 05
+http://x.v-iptv.com:25443/live/3UKHGFTQSG/C1WAIDLYW1/15209.ts
+#EXTINF:0 group-title="BEIN SPORTS" ,BEIN SPORTS FR 06
+http://x.v-iptv.com:25443/live/3UKHGFTQSG/C1WAIDLYW1/15208.ts
+#EXTINF:0 group-title="BEIN SPORTS" ,BEIN SPORTS FR 07
+http://x.v-iptv.com:25443/live/3UKHGFTQSG/C1WAIDLYW1/15207.ts
+#EXTINF:0 group-title="BEIN SPORTS" ,BEIN SPORTS FR 08
+http://x.v-iptv.com:25443/live/3UKHGFTQSG/C1WAIDLYW1/15206.ts
+#EXTINF:0 group-title="BEIN SPORTS" ,BEIN SPORTS FR 09
+http://x.v-iptv.com:25443/live/3UKHGFTQSG/C1WAIDLYW1/15205.ts
+#EXTINF:0 group-title="BEIN SPORTS" ,BEIN SPORTS FR 10
+http://x.v-iptv.com:25443/live/3UKHGFTQSG/C1WAIDLYW1/15211.ts
+#EXTINF:0 group-title="BEIN SPORTS" ,BEIN SPORTS TR 01
+http://x.v-iptv.com:25443/live/3UKHGFTQSG/C1WAIDLYW1/149526.ts
+#EXTINF:0 group-title="BEIN SPORTS" ,BEIN SPORTS TR 02
+http://x.v-iptv.com:25443/live/3UKHGFTQSG/C1WAIDLYW1/149529.ts
+#EXTINF:0 group-title="BEIN SPORTS" ,BEIN SPORTS TR 03
+http://x.v-iptv.com:25443/live/3UKHGFTQSG/C1WAIDLYW1/149531.ts
+#EXTINF:0 group-title="BEIN SPORTS" ,BEIN SPORTS TR 04
+http://x.v-iptv.com:25443/live/3UKHGFTQSG/C1WAIDLYW1/149533.ts
 #EXTINF:0 group-title="CINE Y SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/512px-A%26E_Network_logo.svg.png" ,A&E
 http://offshore.lat:8080/play/MWeogaSmpVBuh-TFCnuNr6O_2rAGhXlchnBbk1IrQ3Er3Qj9cMkoG1MZbFXobNEI
 #EXTINF:0 group-title="CINE Y SERIES" tvg-logo="https://fotografias.atresseries.com/clipping/cmsimages02/2018/02/22/20C2BFA8-ACA3-47DA-AAFB-188D456AB2A9/27.jpg" ,A3SERIES
@@ -365,6 +409,24 @@ http://082dd340.amazzin.pw/iptv/GGP3ZAYPXGWHWL/6367/index.m3u
 http://082dd340.amazzin.pw/iptv/GGP3ZAYPXGWHWL/2540/index.m3u8
 #EXTINF:0 group-title="DEPORTES" ,SPORT 2 CZ
 http://082dd340.amazzin.pw/iptv/GGP3ZAYPXGWHWL/2557/index.m3u
+#EXTINF:-1 group-title="DEPORTES" ,Sport Klub 1 HD
+http://082dd340.amazzin.pw/iptv/GGP3ZAYPXGWHWL/7269/index.m3u8
+#EXTINF:-1 group-title="DEPORTES" ,Sport Klub 2 HD
+http://082dd340.amazzin.pw/iptv/GGP3ZAYPXGWHWL/7270/index.m3u8
+#EXTINF:-1 group-title="DEPORTES" ,Sport Klub 3 HD
+http://082dd340.amazzin.pw/iptv/GGP3ZAYPXGWHWL/7271/index.m3u8
+#EXTINF:-1 group-title="DEPORTES" ,Sport Klub 4 HD
+http://082dd340.amazzin.pw/iptv/GGP3ZAYPXGWHWL/7272/index.m3u8
+#EXTINF:-1 group-title="DEPORTES" ,Sport Klub 5 HD
+http://082dd340.amazzin.pw/iptv/GGP3ZAYPXGWHWL/7273/index.m3u8
+#EXTINF:-1 group-title="DEPORTES" ,Sport Klub 6 HD
+http://082dd340.amazzin.pw/iptv/GGP3ZAYPXGWHWL/7274/index.m3u8
+#EXTINF:-1 group-title="DEPORTES" ,Sport Klub 7 HD
+http://082dd340.amazzin.pw/iptv/GGP3ZAYPXGWHWL/7275/index.m3u8
+#EXTINF:-1 group-title="DEPORTES" ,Sport Klub 8 HD
+http://082dd340.amazzin.pw/iptv/GGP3ZAYPXGWHWL/7276/index.m3u8
+#EXTINF:-1 group-title="DEPORTES" ,Sport Klub Golf
+http://082dd340.amazzin.pw/iptv/GGP3ZAYPXGWHWL/7277/index.m3u8
 #EXTINF:0 group-title="DEPORTES" ,SPORT TV
 http://082dd340.amazzin.pw/iptv/GGP3ZAYPXGWHWL/2529/index.m3u
 #EXTINF:0 group-title="DEPORTES" tvg-logo="https://i.imgur.com/zsFjzDa.png" ,SPORT TV +
