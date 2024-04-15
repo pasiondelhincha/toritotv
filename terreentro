@@ -697,16 +697,16 @@ http://190.60.39.17:7777/play/a0h5/index.m3u8
 http://190.60.39.17:7777/play/a0gx/index.m3u8
 #EXTINF:0 group-title="FUTBOL ARGENTINO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/2560px-ESPN_7_logo.svg.png" ,ESPN 7
 http://190.60.39.17:7777/play/a0gw/index.m3u8
-#EXTINF:0 group-title="FUTBOL ARGENTINO" tvg-name="http://45.5.151.151:8000/play/a0fe/index.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1200px-ESPN_Premium_logo.svg.png" ,ESPN PREMIUM
-http://45.5.151.151:8000/play/a0fe/index.m3u8
+#EXTINF:0 group-title="FUTBOL ARGENTINO" tvg-id="http://45.5.151.151:8000/play/a0fe/index.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1200px-ESPN_Premium_logo.svg.png" ,ESPN PREMIUM
+http://181.209.114.13:8000/play/a078/index.m3u8
 #EXTINF:0 group-title="FUTBOL ARGENTINO" tvg-logo="https://i.postimg.cc/W4MZq5wy/FOX-SPORT-1.png" ,FOX SPORT
 http://45.5.151.151:8000/play/a0bf/index.m3u8
 #EXTINF:0 group-title="FUTBOL ARGENTINO" tvg-name="https://router.cdn.rcs.net.ar/mnp/fox_sport2/output.mpd" tvg-logo="https://i.postimg.cc/RF4H7wPZ/FOX-SPORT-2.png" ,FOX SPORT 2
 http://45.5.151.151:8000/play/a0ce/index.m3u8
 #EXTINF:0 group-title="FUTBOL ARGENTINO" tvg-logo="https://i.postimg.cc/qRwCjgYX/FOX-SPORT-3.png" ,FOX SPORT 3
 http://45.5.151.151:8000/play/a0jy/index.m3u8
-#EXTINF:0 group-title="FUTBOL ARGENTINO" tvg-name="http://45.5.151.151:8000/play/a002/index.m3u8" tvg-logo="https://i.postimg.cc/ncqcD2GQ/TNT-SPORTS.png" ,TNT SPORTS
-http://45.5.151.151:8000/play/a002/index.m3u8
+#EXTINF:0 group-title="FUTBOL ARGENTINO" tvg-id="http://45.5.151.151:8000/play/a002/index.m3u8" tvg-logo="https://i.postimg.cc/ncqcD2GQ/TNT-SPORTS.png" ,TNT SPORTS
+http://181.209.114.13:8000/play/a02u/index.m3u8
 #EXTINF:0 group-title="FUTBOL ARGENTINO" tvg-name="https://delivery.cdn.rcs.net.ar/mnp/tyc/output.mpd" tvg-logo="https://i.postimg.cc/HkNRX3Sp/TYC-SPORTS.png" ,TYC SPORTS
 https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_4.m3u8
 #EXTINF:0 group-title="FUTBOL ARGENTINO" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgusCblUkZgbEe0QzEyqhic7yB5B0CpYkR80juX5pmjTMf_7TgBN0DU7el6uSHfeNmkjgu3uwIiibqo1Jc_qXaQeRFVKSyG-Fvn6XB1C9JxkdZ6poMOjHgi4jeRugapH5Kb9zXQNIPkSQAu_reJzAgX8q6OmxbMKARNm4uxGSC_wE92fyLW_dJyWEla/s512/tycsports2.png" ,TYC SPORTS 2
@@ -1080,7 +1080,7 @@ https://tv-trtworld.live.trt.com.tr/master.m3u8
 #EXTINF:0 group-title="NOTICIAS INTERNACIONALES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/TV_Brasil_logo_2019.svg/2560px-TV_Brasil_logo_2019.svg.png" ,TV BRASIL
 http://168.205.87.198:8555/live/1431/123456/134.ts
 #EXTINF:0 group-title="NOTICIAS INTERNACIONALES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/TVCiudad_logo_2020.png" ,TV CIUDAD URUGUAY
-http://offshore.lat:25461/FERNANDOQ/A6ZztZZRauxd/264744
+http://offshore.lat:8080/play/MWeogaSmpVBuh-TFCnuNr6O_2rAGhXlchnBbk1IrQ3FDvp_UNd6LQPzkTFdlhGSF
 #EXTINF:0 group-title="NOTICIAS INTERNACIONALES" tvg-logo="https://i.postimg.cc/x8CD33gN/IMAGEN.png" ,TV PERU
 http://179.43.82.250:8000/play/a023/index.m3u8
 #EXTINF:0 group-title="NOTICIAS INTERNACIONALES" tvg-logo="https://i.imgur.com/x8rjGhp.png" ,TV5 FRANCIA
@@ -1153,3 +1153,5 @@ http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/68951
 http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/68956
 #EXTINF:-1 group-title="SUPERSPORT" tvg-logo="http://2hubs.ddns.net:25461/images/585d8e8f9a52b3dd04772488b353aef9.png" ,EPL - SuperSport Maximo
 http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/59829
+#EXTINF:0 group-title="DEPORTES" ,BILLAR TV
+https://pubads.g.doubleclick.net/ssai/event/rzUfbID8QZC1iWIgk0ThuA/master.m3u8
