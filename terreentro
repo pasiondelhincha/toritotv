@@ -369,6 +369,22 @@ http://offshore.lat:8080/play/MWeogaSmpVBuh-TFCnuNr6O_2rAGhXlchnBbk1IrQ3FFxZsSi4
 http://082dd340.amazzin.pw/iptv/GGP3ZAYPXGWHWL/2555/index.m3u
 #EXTINF:0 group-title="DEPORTES" ,NOVA SPORT 2
 http://082dd340.amazzin.pw/iptv/GGP3ZAYPXGWHWL/2556/index.m3u
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="http://attp.ddns.net:25461/images/ef574c9c5cc6bfa6bc747577faa2a86a.png" ,Now Premier Sports 1
+http://2hubs.ddns.net:25461/iptvsolu/eI3mjZ1M7Y/69854
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="http://attp.ddns.net:25461/images/ef574c9c5cc6bfa6bc747577faa2a86a.png" ,Now Premier Sports 2
+http://2hubs.ddns.net:25461/iptvsolu/eI3mjZ1M7Y/69855
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="http://attp.ddns.net:25461/images/ef574c9c5cc6bfa6bc747577faa2a86a.png" ,Now Premier Sports 3
+http://2hubs.ddns.net:25461/iptvsolu/eI3mjZ1M7Y/69856
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="http://attp.ddns.net:25461/images/ef574c9c5cc6bfa6bc747577faa2a86a.png" ,Now Premier Sports 4
+http://2hubs.ddns.net:25461/iptvsolu/eI3mjZ1M7Y/69857
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="http://attp.ddns.net:25461/images/ef574c9c5cc6bfa6bc747577faa2a86a.png" ,Now Premier Sports 5
+http://2hubs.ddns.net:25461/iptvsolu/eI3mjZ1M7Y/69858
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="http://attp.ddns.net:25461/images/ef574c9c5cc6bfa6bc747577faa2a86a.png" ,Now Premier Sports 6
+http://2hubs.ddns.net:25461/iptvsolu/eI3mjZ1M7Y/69859
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="http://attp.ddns.net:25461/images/ef574c9c5cc6bfa6bc747577faa2a86a.png" ,Now Premier Sports 7
+http://2hubs.ddns.net:25461/iptvsolu/eI3mjZ1M7Y/69860
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="http://attp.ddns.net:25461/images/ef574c9c5cc6bfa6bc747577faa2a86a.png" ,Now Premier Sports 8
+http://2hubs.ddns.net:25461/iptvsolu/eI3mjZ1M7Y/69861
 #EXTINF:0 group-title="DEPORTES" tvg-logo="https://i.goalzz.com/?i=logo_sport%2Fomansport.jpg" ,OMAN SPORT
 https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
 #EXTINF:0 group-title="DEPORTES" ,ON TIME SPORTS 1
@@ -455,30 +471,18 @@ http://082dd340.amazzin.pw/iptv/GGP3ZAYPXGWHWL/7275/index.m3u8
 http://082dd340.amazzin.pw/iptv/GGP3ZAYPXGWHWL/7276/index.m3u8
 #EXTINF:-1 group-title="DEPORTES" ,Sport Klub Golf
 http://082dd340.amazzin.pw/iptv/GGP3ZAYPXGWHWL/7277/index.m3u8
-#EXTINF:0 group-title="DEPORTES" ,SPORT TV
-http://082dd340.amazzin.pw/iptv/GGP3ZAYPXGWHWL/2529/index.m3u
-#EXTINF:0 group-title="DEPORTES" tvg-logo="https://i.imgur.com/zsFjzDa.png" ,SPORT TV +
-http://acsc.cc:80/VagnerFerri/A32097xx/191240.ts
-#EXTINF:0 group-title="DEPORTES" tvg-logo="https://i.imgur.com/KhKSBKe.png" ,SPORT TV 1
-http://acsc.cc:80/VagnerFerri/A32097xx/191244.ts
 #EXTINF:0 group-title="DEPORTES" ,SPORT TV 1
 http://082dd340.amazzin.pw/iptv/GGP3ZAYPXGWHWL/2525/index.m3u
-#EXTINF:0 group-title="DEPORTES" tvg-logo="https://i.imgur.com/Ps8cV4I.png" ,SPORT TV 2
-http://acsc.cc:80/VagnerFerri/A32097xx/191249.ts
 #EXTINF:0 group-title="DEPORTES" ,SPORT TV 2
 http://082dd340.amazzin.pw/iptv/GGP3ZAYPXGWHWL/2526/index.m3u
-#EXTINF:0 group-title="DEPORTES" tvg-logo="https://i.imgur.com/cUwJfnp.png" ,SPORT TV 3
-http://acsc.cc:80/VagnerFerri/A32097xx/191253.ts
 #EXTINF:0 group-title="DEPORTES" ,SPORT TV 3
 http://082dd340.amazzin.pw/iptv/GGP3ZAYPXGWHWL/2527/index.m3u
-#EXTINF:0 group-title="DEPORTES" tvg-logo="https://i.imgur.com/h9VDKdK.png" ,SPORT TV 4
-http://acsc.cc:80/VagnerFerri/A32097xx/191257.ts
 #EXTINF:0 group-title="DEPORTES" ,SPORT TV 4
 http://082dd340.amazzin.pw/iptv/GGP3ZAYPXGWHWL/2528/index.m3u
-#EXTINF:0 group-title="DEPORTES" tvg-logo="https://i.imgur.com/x9mxzQw.png" ,SPORT TV 5
-http://acsc.cc:80/VagnerFerri/A32097xx/191261.ts
-#EXTINF:0 group-title="DEPORTES" tvg-logo="https://i.ibb.co/g37mZ4P/tv-station-sport-tv-6-2619.png" ,SPORT TV 6
-http://acsc.cc:80/VagnerFerri/A32097xx/191264.ts
+#EXTINF:0 group-title="DEPORTES" ,SPORT TV 5
+http://082dd340.amazzin.pw/iptv/GGP3ZAYPXGWHWL/2529/index.m3u
+#EXTINF:0 group-title="DEPORTES" tvg-logo="https://i.imgur.com/zsFjzDa.png" ,SPORT TV 6 +
+http://acsc.cc:80/VagnerFerri/A32097xx/191240.ts
 #EXTINF:0 group-title="DEPORTES" tvg-logo="https://www.nos.pt/particulares/televisao/canais/premium/PublishingImages/sport-tv/nba/highlight-grelha/2/medium.jpg" ,SPORT TV NBA
 http://acsc.cc:80/VagnerFerri/A32097xx/191268.ts
 #EXTINF:0 group-title="DEPORTES" ,SPORTING TV
@@ -724,13 +728,13 @@ http://vplay.club:80/arturo12345/arturo12345/589321
 #EXTINF:0 group-title="FUTBOL ARGENTINO" tvg-logo="https://i.postimg.cc/13pLGDC4/DSPORTS.png" ,DSPORTS URU
 http://vplay.club:80/arturo12345/arturo12345/589329
 #EXTINF:0 group-title="FUTBOL ARGENTINO" tvg-logo="https://w7.pngwing.com/pngs/318/371/png-transparent-espn-television-espn-extra-high-definition-video-lam-radio-hd-television-text-logo.png" ,ESPN 1
-http://45.5.151.151:8000/play/a0cc/index.m3u8
+http://181.209.114.13:8000/play/a05a/index.m3u8
 #EXTINF:0 group-title="FUTBOL ARGENTINO" tvg-logo="https://i.postimg.cc/Y9Y5pgzt/ESPN-2-en-vivo.png" ,ESPN 2
-http://45.5.151.151:8000/play/a0cb/index.m3u8
+http://181.209.114.13:8000/play/a059/index.m3u8
 #EXTINF:0 group-title="FUTBOL ARGENTINO" tvg-name="https://delivery.cdn.rcs.net.ar/mnp/espn3/output.mpd" tvg-logo="https://i.postimg.cc/7P1Fd3LV/ESPN3-Logo.png" ,ESPN 3
-http://45.5.151.151:8000/play/a0hx/index.m3u8
+http://181.209.114.13:8000/play/a05b/index.m3u8
 #EXTINF:0 group-title="FUTBOL ARGENTINO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR24xugoiwQgKe8SuNNRELEWfRlNnbT098NZ2aD_Iu9&s" ,ESPN 4
-http://45.5.151.151:8000/play/a0lp/index.m3u8
+http://181.209.114.13:8000/play/a076/index.m3u8
 #EXTINF:0 group-title="FUTBOL ARGENTINO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/2560px-ESPN_5_logo.svg.png" ,ESPN 5
 http://190.60.39.17:7777/play/a0h5/index.m3u8
 #EXTINF:0 group-title="FUTBOL ARGENTINO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/2560px-ESPN_6_logo.svg.png" ,ESPN 6
@@ -740,11 +744,11 @@ http://190.60.39.17:7777/play/a0gw/index.m3u8
 #EXTINF:0 group-title="FUTBOL ARGENTINO" tvg-id="http://45.5.151.151:8000/play/a0fe/index.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1200px-ESPN_Premium_logo.svg.png" ,ESPN PREMIUM
 http://181.209.114.13:8000/play/a078/index.m3u8
 #EXTINF:0 group-title="FUTBOL ARGENTINO" tvg-logo="https://i.postimg.cc/W4MZq5wy/FOX-SPORT-1.png" ,FOX SPORT
-http://45.5.151.151:8000/play/a0bf/index.m3u8
+http://181.209.114.13:8000/play/a07j/index.m3u8
 #EXTINF:0 group-title="FUTBOL ARGENTINO" tvg-name="https://router.cdn.rcs.net.ar/mnp/fox_sport2/output.mpd" tvg-logo="https://i.postimg.cc/RF4H7wPZ/FOX-SPORT-2.png" ,FOX SPORT 2
-http://45.5.151.151:8000/play/a0ce/index.m3u8
+http://181.209.114.13:8000/play/a05c/index.m3u8
 #EXTINF:0 group-title="FUTBOL ARGENTINO" tvg-logo="https://i.postimg.cc/qRwCjgYX/FOX-SPORT-3.png" ,FOX SPORT 3
-http://45.5.151.151:8000/play/a0jy/index.m3u8
+http://181.209.114.13:8000/play/a02t/index.m3u8
 #EXTINF:0 group-title="FUTBOL ARGENTINO" tvg-id="http://45.5.151.151:8000/play/a002/index.m3u8" tvg-logo="https://i.postimg.cc/ncqcD2GQ/TNT-SPORTS.png" ,TNT SPORTS
 http://181.209.114.13:8000/play/a02u/index.m3u8
 #EXTINF:0 group-title="FUTBOL ARGENTINO" tvg-name="https://delivery.cdn.rcs.net.ar/mnp/tyc/output.mpd" tvg-logo="https://i.postimg.cc/HkNRX3Sp/TYC-SPORTS.png" ,TYC SPORTS
