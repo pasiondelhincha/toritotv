@@ -1353,3 +1353,7 @@ https://live-kh-1123139281.thapcam.link/mySD/playlist.m3u8
 https://live-kh-1123139281.thapcam.link/soiSD/playlist.m3u8
 #EXTINF:0 group-title="ZZPRUEBAS" ,prueba futbol libre
 https://n4.dramaticreadings.com:999/hls/dsportshd.m3u8?md5=lMUVaKaOM7WYwYpzDamwkA&expires=1713506395
+#EXTINF:0 group-title="ZZPRUEBAS" ,PRUEBA BET 365
+https://744133.akamaized.net/hls/live/716247/ch27/1609bcf858f40705aabae745dc29d74224f1037f/video-m3_video/hdntl=exp=1713642878~acl=%2f*~id=82e066ce077349ac9d4733da5adeabb7~data=hdntl~hmac=0446159faa9f9e17501c3ce9b1bde283daadc14e6417ad1b216b72dacc60c150/video.m3u8
+#EXTINF:0 group-title="ZZPRUEBAS" ,TSN1
+https://gtus.securejokerplayer.xyz/video/hls/SCv5sms9bz6fA-xAZgC9Qg/1713557418/tsn1/index.m3u8?DVR
