@@ -269,6 +269,8 @@ http://offshore.lat:8080/armando86/dPCeWVgyHN9j/1461
 http://082dd340.amazzin.pw/iptv/GGP3ZAYPXGWHWL/2551/index.m3u
 #EXTINF:0 group-title="DEPORTES" ,CTAPT LIVE
 http://082dd340.amazzin.pw/iptv/GGP3ZAYPXGWHWL/2154/index.m3u
+#EXTINF:0 group-title="DEPORTES" ,CYTAVISION SPORTS CYP
+http://213.7.193.54:4000/play/a005/index.m3u8
 #EXTINF:0 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/2560px-DAZN_1_Logo.svg.png" ,DAZN 1
 http://offshore.lat:8080/armando86/dPCeWVgyHN9j/361213
 #EXTINF:0 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/2560px-DAZN_2.svg.png" ,DAZN 2
@@ -670,7 +672,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde27ffae9520009
 #EXTINF:0 group-title="ENTRETENIMIENTO E INTERES GENERAL" tvg-logo="https://i.imgur.com/WIeZMKT.png" ,KANAL D DRAMA
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
 #EXTINF:0 group-title="ENTRETENIMIENTO E INTERES GENERAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/512px-Logo_Lifetime_2020.svg.png" ,LIFETIME
-http://offshore.lat:8080/play/MWeogaSmpVBuh-TFCnuNr6O_2rAGhXlchnBbk1IrQ3G9g7Zsqf7dBaYfZzekEPIr
+http://offshore.lat:8080/armando86/dPCeWVgyHN9j/263440
 #EXTINF:0 group-title="ENTRETENIMIENTO E INTERES GENERAL" tvg-logo="https://i.imgur.com/cJC22gJ.png" ,MAS CHIC
 http://167.250.39.130:8000/play/maschic
 #EXTINF:0 group-title="ENTRETENIMIENTO E INTERES GENERAL" tvg-logo="http://images.pluto.tv/channels/5f4d882d5233170007ee880e/colorLogoPNG.png" ,MISTERIO SIN RESOLVER
@@ -1349,3 +1351,5 @@ https://live-kh-1123139281.thapcam.link/phoSD/playlist.m3u8
 https://live-kh-1123139281.thapcam.link/mySD/playlist.m3u8
 #EXTINF:-1 group-title="Ve Bo TV" ,#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
 https://live-kh-1123139281.thapcam.link/soiSD/playlist.m3u8
+#EXTINF:0 group-title="ZZPRUEBAS" ,prueba futbol libre
+https://n4.dramaticreadings.com:999/hls/dsportshd.m3u8?md5=lMUVaKaOM7WYwYpzDamwkA&expires=1713506395
