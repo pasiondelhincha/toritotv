@@ -1013,6 +1013,8 @@ https://lightning-now90s-samsungnz.amagi.tv/playlist720p.m3u8
 http://45.160.12.253:8000/play/137
 #EXTINF:0 group-title="MUSICA" tvg-logo="https://i.imgur.com/RO9Dz3X.png" ,QUIERO MUSICA!
 http://168.197.196.98:9981/stream/channelid/67605742?profile=pass
+#EXTINF:0 group-title="MUSICA" ,RELAJACION
+https://ythls-v2.onrender.com/channel/UCf4iMeUCDs0NFkJI03aJSbQ.m3u8
 #EXTINF:0 group-title="MUSICA" tvg-logo="https://i.imgur.com/pyOjdZs.png" ,RETRO MUSIC TV
 https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
 #EXTINF:0 group-title="MUSICA" tvg-logo="https://i.imgur.com/fkCasXI.png" ,RETRO PLUS SEÑAL 1
@@ -1043,6 +1045,16 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32f397795b7500077
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 #EXTINF:0 group-title="MUSICA" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/ZOOM-BACK-FONDO-2-300x169.jpg" ,ZOOM BACK
 http://45.160.12.253:8000/play/138
+#EXTINF:0 group-title="MUSICA PARA SOÑAR CHONA" ,01
+https://ythls-v2.onrender.com/channel/UCS4kVH1srJ9h9nqJPG2iDLg.m3u8
+#EXTINF:0 group-title="MUSICA PARA SOÑAR CHONA" ,MEDITACION ESPIRITUAL
+https://ythls-v2.onrender.com/channel/UCTgSq-ni2E3GbHPxY1EVh0A.m3u8
+#EXTINF:0 group-title="MUSICA PARA SOÑAR CHONA" ,MEDITATION VIBES
+https://ythls-v2.onrender.com/channel/UCMggadAPUkKSL2AehXKeQYw.m3u8
+#EXTINF:0 group-title="MUSICA PARA SOÑAR CHONA" ,MEDITATIVE IDEA
+https://ythls-v2.onrender.com/channel/UCvW9_Je-hEmrc52mkYS3TJw.m3u8
+#EXTINF:0 group-title="MUSICA PARA SOÑAR CHONA" ,SOUL
+https://ythls-v2.onrender.com/channel/UCU525RF5Qhds2hDK1dDz-8Q.m3u8
 #EXTINF:0 group-title="NOTICIAS INTERNACIONALES" ,ABC NEWS AUSTRALIA
 http://082dd340.amazzin.pw/iptv/GGP3ZAYPXGWHWL/6120/index.m3u
 #EXTINF:0 group-title="NOTICIAS INTERNACIONALES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c1/Abc_color.PNG" ,ABC TV PARAGUAY
@@ -1351,9 +1363,5 @@ https://live-kh-1123139281.thapcam.link/phoSD/playlist.m3u8
 https://live-kh-1123139281.thapcam.link/mySD/playlist.m3u8
 #EXTINF:-1 group-title="Ve Bo TV" ,#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
 https://live-kh-1123139281.thapcam.link/soiSD/playlist.m3u8
-#EXTINF:0 group-title="ZZPRUEBAS" ,prueba futbol libre
-https://n4.dramaticreadings.com:999/hls/dsportshd.m3u8?md5=lMUVaKaOM7WYwYpzDamwkA&expires=1713506395
-#EXTINF:0 group-title="ZZPRUEBAS" ,PRUEBA BET 365
-https://744133.akamaized.net/hls/live/716247/ch27/1609bcf858f40705aabae745dc29d74224f1037f/video-m3_video/hdntl=exp=1713642878~acl=%2f*~id=82e066ce077349ac9d4733da5adeabb7~data=hdntl~hmac=0446159faa9f9e17501c3ce9b1bde283daadc14e6417ad1b216b72dacc60c150/video.m3u8
-#EXTINF:0 group-title="ZZPRUEBAS" ,TSN1
-https://gtus.securejokerplayer.xyz/video/hls/SCv5sms9bz6fA-xAZgC9Qg/1713557418/tsn1/index.m3u8?DVR
+#EXTINF:0 group-title="ZZPRUEBAS" ,PRUEBA STAR
+https://live-ftc-na-south-2.media.starott.com/clt2/va01/starplus/event/2024/04/20/Atltico_de_San_Luis_vs_To_20240420_1713576021030/cmaf-cenc-ctr-1200K/1200_complete.m3u8
