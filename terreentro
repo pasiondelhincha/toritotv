@@ -329,6 +329,8 @@ http://acsc.cc:80/VagnerFerri/A32097xx/191288.ts
 http://acsc.cc:80/VagnerFerri/A32097xx/191291.ts
 #EXTINF:0 group-title="DEPORTES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/Eleven_Sports_6.svg/revision/latest/scale-to-width-down/250?cb=20210210163412" ,ELEVEN SPORTS 6
 http://acsc.cc:80/VagnerFerri/A32097xx/191294.ts
+#EXTINF:0 group-title="DEPORTES" ,ESPN NL 4
+http://nightmare-tv.xyz/play/live.php?mac=00:1A:79:AB:5A:0C&stream=484581&extension=ts
 #EXTINF:0 group-title="DEPORTES" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/73/30/d4/7330d4a5-103f-cba1-ffc0-fd87d8f31aef/AppIcon-1x_U007emarketing-0-7-0-85-220.png/1200x600wa.png" ,ESPORTS MAX
 http://vcpar.myplaytv.com/esportsmax/live/.m3u8
 #EXTINF:0 group-title="DEPORTES" tvg-logo="https://play-lh.googleusercontent.com/x-a8jwq-BlKOuz7iGbIyHKyGmBIyonqrA2IJisPJGkYCkx3PjiywIxqQSzQy2mycbzY" ,FITMAXX
@@ -367,6 +369,8 @@ http://offshore.lat:8080/armando86/dPCeWVgyHN9j/1337
 http://082dd340.amazzin.pw/iptv/GGP3ZAYPXGWHWL/2555/index.m3u
 #EXTINF:0 group-title="DEPORTES" ,NOVA SPORT 2
 http://082dd340.amazzin.pw/iptv/GGP3ZAYPXGWHWL/2556/index.m3u
+#EXTINF:0 group-title="DEPORTES" ,NOVA SPORT CZ 1
+http://78.130.250.2:8023/play/a009/index.m3u8?%7CUser-agent=Lavf53.32.100
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="http://attp.ddns.net:25461/images/ef574c9c5cc6bfa6bc747577faa2a86a.png" ,Now Premier Sports 1
 http://2hubs.ddns.net:25461/iptvsolu/eI3mjZ1M7Y/69854
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="http://attp.ddns.net:25461/images/ef574c9c5cc6bfa6bc747577faa2a86a.png" ,Now Premier Sports 2
@@ -451,6 +455,12 @@ http://082dd340.amazzin.pw/iptv/GGP3ZAYPXGWHWL/6367/index.m3u
 http://082dd340.amazzin.pw/iptv/GGP3ZAYPXGWHWL/2540/index.m3u8
 #EXTINF:0 group-title="DEPORTES" ,SPORT 2 CZ
 http://082dd340.amazzin.pw/iptv/GGP3ZAYPXGWHWL/2557/index.m3u
+#EXTINF:0 group-title="DEPORTES" ,SPORT KLUB 01
+http://tv1.darktv.eu/play/live.php?mac=00:1A:79:B4:FC:C3&stream=50031&extension=ts
+#EXTINF:0 group-title="DEPORTES" ,SPORT KLUB 02
+http://tv1.darktv.eu/play/live.php?mac=00:1A:79:B4:FC:C3&stream=50032&extension=ts
+#EXTINF:0 group-title="DEPORTES" ,SPORT KLUB 03
+http://tv1.darktv.eu/play/live.php?mac=00:1A:79:B4:FC:C3&stream=50033&extension=ts
 #EXTINF:-1 group-title="DEPORTES" ,Sport Klub 1 HD
 http://082dd340.amazzin.pw/iptv/GGP3ZAYPXGWHWL/7269/index.m3u8
 #EXTINF:-1 group-title="DEPORTES" ,Sport Klub 2 HD
@@ -487,6 +497,10 @@ http://acsc.cc:80/VagnerFerri/A32097xx/191268.ts
 http://082dd340.amazzin.pw/iptv/GGP3ZAYPXGWHWL/2530/index.m3u
 #EXTINF:0 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Sportklub_logo.png/800px-Sportklub_logo.png" ,SPORTKLUB POL
 http://082dd340.amazzin.pw/iptv/GGP3ZAYPXGWHWL/2521/index.m3u
+#EXTINF:0 group-title="DEPORTES" ,SPOTV 1 KR
+http://202.150.161.68/spotv1/index.m3u8
+#EXTINF:0 group-title="DEPORTES" ,SPOTV 2 KR
+http://202.150.161.68/spotv2/index.m3u8
 #EXTINF:0 group-title="DEPORTES" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F921%2Fssc1-hd-1.png" ,SSC 1
 http://154.58.202.185:8000/play/a06h
 #EXTINF:0 group-title="DEPORTES" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F921%2Fssc1-hd-1.png" ,SSC 5
