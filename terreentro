@@ -675,6 +675,8 @@ http://offshore.lat:8080/play/MWeogaSmpVBuh-TFCnuNr6O_2rAGhXlchnBbk1IrQ3FEGHHjq3
 http://45.5.151.151:8000/play/a0k1/index.m3u8
 #EXTINF:0 group-title="ENTRETENIMIENTO E INTERES GENERAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/512px-History2_logo_%282022%29.svg.png" ,H2 HISTORY 2
 http://offshore.lat:8080/play/MWeogaSmpVBuh-TFCnuNr6O_2rAGhXlchnBbk1IrQ3FfV48xg14ky3pcd3MBcUkF
+#EXTINF:0 group-title="ENTRETENIMIENTO E INTERES GENERAL" ,HISTORIA
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=55609&extension=ts&play_token=6Bk2L1oFUT
 #EXTINF:0 group-title="ENTRETENIMIENTO E INTERES GENERAL" tvg-logo="https://images.pluto.tv/channels/5f4d3696d938c900072679fd/colorLogoPNG.png" ,HISTORIAS DE ULTRATUMBA
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4d3696d938c900072679fd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0 group-title="ENTRETENIMIENTO E INTERES GENERAL" tvg-id="http://168.181.122.234:8000/play/a02d/index.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/512px-HGTV_US_Logo_2015.svg.png" ,HOME AND GARDEN
@@ -699,6 +701,10 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f230e416b68ff00075
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f610042272f68000867685b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b8904033-58e7-4560-aaa9-57dc6911f64b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6890d1bc-9854-11eb-a8b4-0242ac110002&userId=&serverSideAds=true
 #EXTINF:0 group-title="ENTRETENIMIENTO E INTERES GENERAL" tvg-logo="http://images.pluto.tv/channels/60492a9bbca75b0007b1bfd5/colorLogoPNG.png" ,MUNDO PARANORMAL
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60492a9bbca75b0007b1bfd5/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff334c2-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dffc36b9-57c6-4973-9903-2f83d465ac40&userId=&serverSideAds=true
+#EXTINF:0 group-title="ENTRETENIMIENTO E INTERES GENERAL" ,NAT GEO
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=55613&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:0 group-title="ENTRETENIMIENTO E INTERES GENERAL" ,NAT GEO WILD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=55611&extension=ts&play_token=6Bk2L1oFUT
 #EXTINF:0 group-title="ENTRETENIMIENTO E INTERES GENERAL" tvg-logo="https://i.imgur.com/0gruEy1.png" ,NATGEO
 http://45.5.151.151:8000/play/a0jx/index.m3u8
 #EXTINF:0 group-title="ENTRETENIMIENTO E INTERES GENERAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1200px-Pasiones_Tv_logo.svg.png" ,PASIONES
@@ -951,6 +957,136 @@ https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/0/playlist.m3u8
 https://ythls-v2.onrender.com/channel/UCj6PcyLvpnIRT_2W_mwa9Aw.m3u8
 #EXTINF:0 group-title="LOCAL" tvg-logo="https://1.bp.blogspot.com/-Z3CkwxY4fwY/YAJypg5UiPI/AAAAAAAA7vA/pzgUVEWEm6w7d-vCJEtQSU5MG8O-ixbkQCLcBGAsYHQ/s802/tvp-2020.png" ,TVP PUBLICA
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
+#EXTINF:0 group-title="MOL2" ,AMAZON PRIME
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=365295&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:0 group-title="MOL2" ,AMAZON PRIME 2
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=365296&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:-1 group-title="MOL2" tvg-logo="https://static.epg.best/fr/BeinSports1.fr.png" ,BeIn Sports 1 FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:BC:CF:06&stream=2816&extension=ts&play_token=fubq0ZpVWx&sn2=
+#EXTINF:-1 group-title="MOL2" tvg-logo="https://static.epg.best/fr/BeinSports2.fr.png" ,BeIn Sports 2 FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:BC:CF:06&stream=2818&extension=ts&play_token=NetqiLLyMA&sn2=
+#EXTINF:-1 group-title="MOL2" tvg-logo="https://static.epg.best/fr/BeinSports3.fr.png" ,BeIn Sports 3 FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:BC:CF:06&stream=2820&extension=ts&play_token=fSU4CBEl5o&sn2=
+#EXTINF:-1 group-title="MOL2" tvg-logo="https://static.epg.best/fr/CanalPlus.fr.png" ,Canal+ FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:BC:CF:06&stream=43972&extension=ts&play_token=CfU9GIzt83&sn2=
+#EXTINF:-1 group-title="MOL2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canal-plus-foot-fr.png" ,Canal+ Foot FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:BC:CF:06&stream=418308&extension=ts&play_token=gI9BEIsFGv&sn2=
+#EXTINF:-1 group-title="MOL2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canal-plus-sport-360-fr.png" ,Canal+ Sport 360 FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:BC:CF:06&stream=418307&extension=ts&play_token=BUkrdm9NKD&sn2=
+#EXTINF:-1 group-title="MOL2" tvg-logo="https://static.epg.best/fr/CanalPlusSport.fr.png" ,Canal+ Sport FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:BC:CF:06&stream=2804&extension=ts&play_token=we3qaeVQwz&sn2=
+#EXTINF:0 group-title="MOL2" ,Champions League-Prime Video 1 (Only Event)
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=363356&extension=ts&play_token=1BYKjPi9XO
+#EXTINF:0 group-title="MOL2" ,Champions League-Prime Video 2 (Only Event)
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=363357&extension=ts&play_token=Gmf6D7M3Y9
+#EXTINF:0 group-title="MOL2" ,Champions League-Prime Video 3 (Only Event)
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=363358&extension=ts&play_token=owKI6JMDDy
+#EXTINF:0 group-title="MOL2" ,Champions League-Prime Video 4 (Only Event)
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=363359&extension=ts&play_token=6mh1wxeuKQ
+#EXTINF:0 group-title="MOL2" ,Champions League-Prime Video 5 (Only Event)
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=363360&extension=ts&play_token=QPjP6DS1sm
+#EXTINF:0 group-title="MOL2" ,Champions League-Prime Video 6 (Only Event)
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=363361&extension=ts&play_token=6CrUk77lDt
+#EXTINF:0 group-title="MOL2" ,Champions League-Prime Video 7 (Only Event)
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=363362&extension=ts&play_token=xQh54QvfRJ
+#EXTINF:0 group-title="MOL2" ,DAZN 01
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=56674&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:0 group-title="MOL2" ,DAZN 02
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=56675&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:0 group-title="MOL2" ,DAZN 03
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=56676&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:0 group-title="MOL2" ,DAZN 04
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=56677&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:0 group-title="MOL2" ,DAZN 05
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=56678&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:0 group-title="MOL2" ,DAZN 06
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=56679&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:0 group-title="MOL2" ,DAZN 07
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=56680&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:0 group-title="MOL2" ,DAZN 08
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=56681&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:0 group-title="MOL2" ,DAZN 09
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=56682&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:0 group-title="MOL2" ,DAZN 10
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=56683&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:0 group-title="MOL2" ,DAZN PROGRAMACION
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=181350&extension=ts&play_token=5X5eTFV9Oc
+#EXTINF:0 group-title="MOL2" ,DAZN ZONA
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=365406&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:-1 group-title="MOL2" tvg-logo="https://static.epg.best/fr/InfosportPlus.fr.png" ,Infosport+ FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:BC:CF:06&stream=2802&extension=ts&play_token=PEX5WpVqN4&sn2=
+#EXTINF:0 group-title="MOL2" ,INTER TV
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=56626&extension=ts&play_token=VjR9ZJI4ob
+#EXTINF:0 group-title="MOL2" ,Lazio TV
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=56627&extension=ts&play_token=HFSX5enFx8
+#EXTINF:0 group-title="MOL2" ,MILAN TV
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=56625&extension=ts&play_token=va31oFlJdL
+#EXTINF:0 group-title="MOL2" ,OLPLAY TV Olympique Lyonnais
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=313877&extension=m3u8
+#EXTINF:0 group-title="MOL2" ,POLSAT SPORT PREMIUM 1
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=97241&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:0 group-title="MOL2" ,POLSAT SPORT PREMIUM 2
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=97243&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:0 group-title="MOL2" ,RAI SPORT HD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=56646&extension=ts&play_token=dxEc6Qvr9D
+#EXTINF:-1 group-title="MOL2" tvg-logo="https://static.epg.best/fr/RMCSport1.fr.png" ,RMC Sport 1 FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:BC:CF:06&stream=2808&extension=ts&play_token=SdkGLGkoNA&sn2=
+#EXTINF:-1 group-title="MOL2" tvg-logo="https://static.epg.best/fr/RMCSport2.fr.png" ,RMC Sport 2 FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:BC:CF:06&stream=2810&extension=ts&play_token=LE8LjwuM4i&sn2=
+#EXTINF:0 group-title="MOL2" ,Sky EUROSPORT 1 FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=56630&extension=ts&play_token=GYSPCsnwjv
+#EXTINF:0 group-title="MOL2" ,Sky EUROSPORT 2 FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=56632&extension=ts&play_token=hDpqyawx6z
+#EXTINF:0 group-title="MOL2" ,Sky Sport 24 FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=56592&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:0 group-title="MOL2" ,Sky Sport Action FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=337098&extension=ts&play_token=oAmYu3EjT9
+#EXTINF:0 group-title="MOL2" ,Sky Sport Arena FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=56618&extension=ts&play_token=mvHRlGSVBw
+#EXTINF:0 group-title="MOL2" ,SKY Sport Bar Due FHD (Only Event)
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=365292&extension=ts&play_token=BqkLiXCr3u
+#EXTINF:0 group-title="MOL2" ,SKY Sport Bar Prime video HD (Only Event)
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=365295&extension=ts&play_token=juXNwKIpBD
+#EXTINF:0 group-title="MOL2" ,SKY Sport Bar Uno FHD (Only Event)
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=365289&extension=ts&play_token=md3eQk2anG
+#EXTINF:0 group-title="MOL2" ,SKY SPORT CALCIO
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=56621&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:0 group-title="MOL2" ,SKY SPORT CALCIO 1
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=56650&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:0 group-title="MOL2" ,SKY SPORT CALCIO 2
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=56653&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:0 group-title="MOL2" ,SKY SPORT CALCIO 3
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=56656&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:0 group-title="MOL2" ,SKY SPORT CALCIO 4
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=56659&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:0 group-title="MOL2" ,SKY SPORT CALCIO 5
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=56662&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:0 group-title="MOL2" ,SKY SPORT CALCIO 6
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=56664&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:0 group-title="MOL2" ,SKY SPORT CALCIO 7
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=56666&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:0 group-title="MOL2" ,SKY SPORT CALCIO 8
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=56667&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:0 group-title="MOL2" ,Sky Sport Calcio FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=56621&extension=ts&play_token=SgcEo9MTC3
+#EXTINF:0 group-title="MOL2" ,SKY Sport Collection HD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=136687&extension=ts&play_token=qKy63AWftJ
+#EXTINF:0 group-title="MOL2" ,Sky Sport F1 FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=56604&extension=ts&play_token=EbzHFNi1gF
+#EXTINF:0 group-title="MOL2" ,Sky Sport Football FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=56615&extension=ts&play_token=0UFSStcrkS
+#EXTINF:0 group-title="MOL2" ,Sky Sport Golf FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=56607&extension=ts&play_token=m87LHeMXPv
+#EXTINF:0 group-title="MOL2" ,Sky Sport MotoGP FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=56601&extension=ts&play_token=MsYy6XY6wL
+#EXTINF:0 group-title="MOL2" ,Sky Sport NBA FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=56610&extension=ts&play_token=iQCxuwyeq3
+#EXTINF:0 group-title="MOL2" ,Sky Sport Uno FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=56598&extension=ts&play_token=Gy5B7WFptF
+#EXTINF:0 group-title="MOL2" ,SUPER TENNIS FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=56628&extension=ts&play_token=h4h0smHD9d
+#EXTINF:0 group-title="MOL2" ,ZONA DAZN
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:BA:74:9B&stream=56669&extension=ts&play_token=KrIS0GAdqL
 #EXTINF:-1 group-title="MOVISTAR" tvg-logo="http://epg.it999.ru/img/3382.png" ,Movistar Accion ES
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/7065/index.m3u8
 #EXTINF:-1 group-title="MOVISTAR" tvg-logo="http://epg.it999.ru/img/3100.png" ,Movistar Cine Doc & Roll HD ES
@@ -1183,6 +1319,56 @@ http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/7307/index.m3u8
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/7308/index.m3u8
 #EXTINF:-1 group-title="POLSAT SPORT" tvg-logo="http://epg.it999.ru/img/4555.png" ,POLSAT SPORT PREMIUM 6 PPV PL
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/7309/index.m3u8
+#EXTINF:-1 group-title="SERVIDOR CHILENO 181.224.64.2:89" ,A&E
+http://181.224.64.2:89/aehd/manifest.m3u8
+#EXTINF:-1 group-title="SERVIDOR CHILENO 181.224.64.2:89" ,AMC
+http://181.224.64.2:89/amchd/manifest.m3u8
+#EXTINF:-1 group-title="SERVIDOR CHILENO 181.224.64.2:89" ,ANIMAL PLANET
+http://181.224.64.2:89/animalplanethd/manifest.m3u8
+#EXTINF:-1 group-title="SERVIDOR CHILENO 181.224.64.2:89" ,AXN
+http://181.224.64.2:89/axnhd/manifest.m3u8
+#EXTINF:-1 group-title="SERVIDOR CHILENO 181.224.64.2:89" ,CANAL 13
+http://181.224.64.2:89/canal13hd/manifest.m3u8
+#EXTINF:-1 group-title="SERVIDOR CHILENO 181.224.64.2:89" ,CARTOON NETWORK
+http://181.224.64.2:89/cartoonnetworkhd/manifest.m3u8
+#EXTINF:-1 group-title="SERVIDOR CHILENO 181.224.64.2:89" ,CINECANAL
+http://181.224.64.2:89/cinecanalhd/manifest.m3u8
+#EXTINF:-1 group-title="SERVIDOR CHILENO 181.224.64.2:89" ,CINEMAX
+http://181.224.64.2:89/cinemaxhd/manifest.m3u8
+#EXTINF:-1 group-title="SERVIDOR CHILENO 181.224.64.2:89" ,DHE
+http://181.224.64.2:89/dhehd/manifest.m3u8
+#EXTINF:-1 group-title="SERVIDOR CHILENO 181.224.64.2:89" ,DISCOVERY CHANNEL
+http://181.224.64.2:89/discoveryhd/manifest.m3u8
+#EXTINF:-1 group-title="SERVIDOR CHILENO 181.224.64.2:89" ,DISCOVERY KIDS
+http://181.224.64.2:89/discoverykidshd/manifest.m3u8
+#EXTINF:0 group-title="SERVIDOR CHILENO 181.224.64.2:89" ,ESPN 01
+http://181.224.64.2:89/espnhd/manifest.m3u8
+#EXTINF:0 group-title="SERVIDOR CHILENO 181.224.64.2:89" ,ESPN 02
+http://181.224.64.2:89/espn2hd/manifest.m3u8
+#EXTINF:0 group-title="SERVIDOR CHILENO 181.224.64.2:89" ,ESPN 03
+http://181.224.64.2:89/espn3hd/manifest.m3u8
+#EXTINF:-1 group-title="SERVIDOR CHILENO 181.224.64.2:89" ,HBO
+http://181.224.64.2:89/hbohd/manifest.m3u8
+#EXTINF:-1 group-title="SERVIDOR CHILENO 181.224.64.2:89" ,HISTORY
+http://181.224.64.2:89/historyhd/manifest.m3u8
+#EXTINF:-1 group-title="SERVIDOR CHILENO 181.224.64.2:89" ,HOME AND HEALTH
+http://181.224.64.2:89/hhhd/manifest.m3u8
+#EXTINF:-1 group-title="SERVIDOR CHILENO 181.224.64.2:89" ,MEGA HD
+http://181.224.64.2:89/megahd/manifest.m3u8
+#EXTINF:-1 group-title="SERVIDOR CHILENO 181.224.64.2:89" ,PARAMOUNT HD
+http://181.224.64.2:89/paramounthd/manifest.m3u8
+#EXTINF:-1 group-title="SERVIDOR CHILENO 181.224.64.2:89" ,SONY HD
+http://181.224.64.2:89/sonyhd/manifest.m3u8
+#EXTINF:-1 group-title="SERVIDOR CHILENO 181.224.64.2:89" ,TNT
+http://181.224.64.2:89/tnthd/manifest.m3u8
+#EXTINF:-1 group-title="SERVIDOR CHILENO 181.224.64.2:89" ,TNT SERIES
+http://181.224.64.2:89/tntserieshd/manifest.m3u8
+#EXTINF:-1 group-title="SERVIDOR CHILENO 181.224.64.2:89" ,TNT SPORTS
+http://181.224.64.2:89/tntsportshd/manifest.m3u8
+#EXTINF:-1 group-title="SERVIDOR CHILENO 181.224.64.2:89" ,UNIVERSAL HD
+http://181.224.64.2:89/universalhd/manifest.m3u8
+#EXTINF:-1 group-title="SERVIDOR CHILENO 181.224.64.2:89" ,WARNER HD
+http://181.224.64.2:89/warnerhd/manifest.m3u8
 #EXTINF:-1 group-title="SKY SPORT NZ" ,NZ - Sky Sport 1 HD
 http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/73125
 #EXTINF:-1 group-title="SKY SPORT NZ" ,NZ - Sky Sport 2 HD
@@ -1377,7 +1563,7 @@ https://live-kh-1123139281.thapcam.link/phoSD/playlist.m3u8
 https://live-kh-1123139281.thapcam.link/mySD/playlist.m3u8
 #EXTINF:-1 group-title="Ve Bo TV" ,#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
 https://live-kh-1123139281.thapcam.link/soiSD/playlist.m3u8
-#EXTINF:0 group-title="ZZPRUEBAS" ,PRUEBA STAR
-https://live-ftc-na-south-2.media.starott.com/clt2/va01/starplus/event/2024/04/20/Atltico_de_San_Luis_vs_To_20240420_1713576021030/cmaf-cenc-ctr-1200K/1200_complete.m3u8
 #EXTINF:0 group-title="ZZPRUEBAS" ,PRUEBA DADDY
 https://salamus2023.onlinehdhls.ru/ddy3/premium818/playlist.m3u8
+#EXTINF:0 group-title="ZZPRUEBAS" ,PRUEBA KUSNA
+https://kusnadipepenk.github.io/ntn/sprtv1.m3u8
