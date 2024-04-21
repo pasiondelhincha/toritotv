@@ -1,614 +1,614 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",BE| (DAZN) ELEVEN PRO LEAGUES 1 FHD
+#EXTINF:-1 group-title="BELGICA-HOLANDA" tvg-logo="http://127.0.0.1/", (DAZN) ELEVEN PRO LEAGUES 1 FHD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=992&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",BE| (DAZN) ELEVEN PRO LEAGUES 1 HD
+#EXTINF:-1 group-title="BELGICA-HOLANDA" tvg-logo="http://127.0.0.1/", (DAZN) ELEVEN PRO LEAGUES 1 HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=229043&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",BE| (DAZN) ELEVEN PRO League 1 SD
+#EXTINF:-1 group-title="BELGICA-HOLANDA" tvg-logo="http://127.0.0.1/", (DAZN) ELEVEN PRO League 1 SD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=390355&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",BE| (DAZN) ELEVEN PRO LEAGUES 1 HEVC
+#EXTINF:-1 group-title="BELGICA-HOLANDA" tvg-logo="http://127.0.0.1/", (DAZN) ELEVEN PRO LEAGUES 1 HEVC
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=151915&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",BE| (DAZN) ELEVEN PRO LEAGUES 2 FHD  (actif pour evenements)
+#EXTINF:-1 group-title="BELGICA-HOLANDA" tvg-logo="http://127.0.0.1/", (DAZN) ELEVEN PRO LEAGUES 2 FHD  (actif pour evenements)
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=993&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",BE| (DAZN)  ELEVEN PRO LEAGUES 2 HD  (actif pour evenements)
+#EXTINF:-1 group-title="BELGICA-HOLANDA" tvg-logo="http://127.0.0.1/", (DAZN)  ELEVEN PRO LEAGUES 2 HD  (actif pour evenements)
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=390357&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",BE| (DAZN) ELEVEN PRO LEAGUES 2 HEVC
+#EXTINF:-1 group-title="BELGICA-HOLANDA" tvg-logo="http://127.0.0.1/", (DAZN) ELEVEN PRO LEAGUES 2 HEVC
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=151916&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",BE| (DAZN) ELEVEN PRO LEAGUES 3 FHD (actif pour evenements)
+#EXTINF:-1 group-title="BELGICA-HOLANDA" tvg-logo="http://127.0.0.1/", (DAZN) ELEVEN PRO LEAGUES 3 FHD (actif pour evenements)
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=994&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",BE| (DAZN) ELEVEN PRO LEAGUES 3 SD (actif pour evenements)
+#EXTINF:-1 group-title="BELGICA-HOLANDA" tvg-logo="http://127.0.0.1/", (DAZN) ELEVEN PRO LEAGUES 3 SD (actif pour evenements)
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=390356&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",BE| ELEVEN SPORT 1 FHD
+#EXTINF:-1 group-title="BELGICA-HOLANDA" tvg-logo="http://127.0.0.1/", ELEVEN SPORT 1 FHD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=78969&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",BE| ELEVEN SPORT 1 HD
+#EXTINF:-1 group-title="BELGICA-HOLANDA" tvg-logo="http://127.0.0.1/", ELEVEN SPORT 1 HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=299927&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",BE| ELEVEN SPORTS 2 FHD
+#EXTINF:-1 group-title="BELGICA-HOLANDA" tvg-logo="http://127.0.0.1/", ELEVEN SPORTS 2 FHD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=78970&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",BE| ELEVEN SPORT 2 HD
+#EXTINF:-1 group-title="BELGICA-HOLANDA" tvg-logo="http://127.0.0.1/", ELEVEN SPORT 2 HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=299929&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",BE| ELEVEN SPORTS 3 FHD
+#EXTINF:-1 group-title="BELGICA-HOLANDA" tvg-logo="http://127.0.0.1/", ELEVEN SPORTS 3 FHD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=97373&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",BE| VOO SPORT WORLD 1 FHD
+#EXTINF:-1 group-title="BELGICA-HOLANDA" tvg-logo="http://127.0.0.1/", VOO SPORT WORLD 1 FHD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=42370&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",BE| VOO SPORT WORLD 1 HD
+#EXTINF:-1 group-title="BELGICA-HOLANDA" tvg-logo="http://127.0.0.1/", VOO SPORT WORLD 1 HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=390414&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",BE| VOO SPORT WORLD 1 SD
+#EXTINF:-1 group-title="BELGICA-HOLANDA" tvg-logo="http://127.0.0.1/", VOO SPORT WORLD 1 SD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=390413&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",BE| VOO SPORT WORLD 1 HEVC
+#EXTINF:-1 group-title="BELGICA-HOLANDA" tvg-logo="http://127.0.0.1/", VOO SPORT WORLD 1 HEVC
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=136936&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",BE| VOO SPORT WORLD 2 FHD
+#EXTINF:-1 group-title="BELGICA-HOLANDA" tvg-logo="http://127.0.0.1/", VOO SPORT WORLD 2 FHD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=59833&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",BE| VOO SPORT WORLD 2 HD
+#EXTINF:-1 group-title="BELGICA-HOLANDA" tvg-logo="http://127.0.0.1/", VOO SPORT WORLD 2 HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=390412&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",BE| VOO SPORT WORLD 2 SD
+#EXTINF:-1 group-title="BELGICA-HOLANDA" tvg-logo="http://127.0.0.1/", VOO SPORT WORLD 2 SD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=390411&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",BE| VOO SPORT WORLD 2 HEVC
+#EXTINF:-1 group-title="BELGICA-HOLANDA" tvg-logo="http://127.0.0.1/", VOO SPORT WORLD 2 HEVC
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=136937&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",BE| VOO SPORT WORLD 3 FHD
+#EXTINF:-1 group-title="BELGICA-HOLANDA" tvg-logo="http://127.0.0.1/", VOO SPORT WORLD 3 FHD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=59834&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",BE| VOO SPORT WORLD 3 HD
+#EXTINF:-1 group-title="BELGICA-HOLANDA" tvg-logo="http://127.0.0.1/", VOO SPORT WORLD 3 HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=390410&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",BE| VOO SPORT WORLD 3 SD
+#EXTINF:-1 group-title="BELGICA-HOLANDA" tvg-logo="http://127.0.0.1/", VOO SPORT WORLD 3 SD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=390409&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",BE| VOO SPORT WORLD 3 HEVC
+#EXTINF:-1 group-title="BELGICA-HOLANDA" tvg-logo="http://127.0.0.1/", VOO SPORT WORLD 3 HEVC
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=179666&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",|BE-NL| SPORT |BE-NL|
+#EXTINF:-1 group-title="BELGICA-HOLANDA" tvg-logo="http://127.0.0.1/", SPORT |BE-NL|
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=308115&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",BE-NL| PLAY SPORTS 1 FHD
+#EXTINF:-1 group-title="BELGICA-HOLANDA" tvg-logo="http://127.0.0.1/",| PLAY SPORTS 1 FHD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=228519&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",BE-NL| PLAY SPORTS 1 HD
+#EXTINF:-1 group-title="BELGICA-HOLANDA" tvg-logo="http://127.0.0.1/",| PLAY SPORTS 1 HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=228556&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",BE-NL| PLAY SPORTS 2 FHD
+#EXTINF:-1 group-title="BELGICA-HOLANDA" tvg-logo="http://127.0.0.1/",| PLAY SPORTS 2 FHD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=228520&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",BE-NL| PLAY SPORTS 2 HD
+#EXTINF:-1 group-title="BELGICA-HOLANDA" tvg-logo="http://127.0.0.1/",| PLAY SPORTS 2 HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=228557&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",BE-NL| PLAY SPORTS 3 FHD
+#EXTINF:-1 group-title="BELGICA-HOLANDA" tvg-logo="http://127.0.0.1/",| PLAY SPORTS 3 FHD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=228521&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",BE-NL| PLAY SPORTS 3 HD
+#EXTINF:-1 group-title="BELGICA-HOLANDA" tvg-logo="http://127.0.0.1/",| PLAY SPORTS 3 HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=228558&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",BE-NL| PLAY SPORTS 4 FHD
+#EXTINF:-1 group-title="BELGICA-HOLANDA" tvg-logo="http://127.0.0.1/",| PLAY SPORTS 4 FHD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=235062&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",BE-NL| PLAY SPORTS GOLF
+#EXTINF:-1 group-title="BELGICA-HOLANDA" tvg-logo="http://127.0.0.1/",| PLAY SPORTS GOLF
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=453421&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",BE-NL| PLAY SPORTS OPEN
+#EXTINF:-1 group-title="BELGICA-HOLANDA" tvg-logo="http://127.0.0.1/",| PLAY SPORTS OPEN
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=453420&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",BE-NL| PLAY SPORTS PREMIER LEAGUE
+#EXTINF:-1 group-title="BELGICA-HOLANDA" tvg-logo="http://127.0.0.1/",| PLAY SPORTS PREMIER LEAGUE
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=453419&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",BE-NL| ELEVEN SPORT 1 (NL)
+#EXTINF:-1 group-title="BELGICA-HOLANDA" tvg-logo="http://127.0.0.1/",| ELEVEN SPORT 1 (NL)
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=235058&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",BE-NL| ELEVEN SPORTS 2 (NL)
+#EXTINF:-1 group-title="BELGICA-HOLANDA" tvg-logo="http://127.0.0.1/",| ELEVEN SPORTS 2 (NL)
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=235057&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",BE-NL| ELEVEN SPORTS 3 (NL)
+#EXTINF:-1 group-title="BELGICA-HOLANDA" tvg-logo="http://127.0.0.1/",| ELEVEN SPORTS 3 (NL)
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=235056&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",BE-NL| Eleven Sports 1 HD
+#EXTINF:-1 group-title="BELGICA-HOLANDA" tvg-logo="http://127.0.0.1/",| Eleven Sports 1 HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=623645&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",BE-NL| Eleven Sports 2 HD
+#EXTINF:-1 group-title="BELGICA-HOLANDA" tvg-logo="http://127.0.0.1/",| Eleven Sports 2 HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=623644&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",BE-NL| Eleven Sports 3
+#EXTINF:-1 group-title="BELGICA-HOLANDA" tvg-logo="http://127.0.0.1/",| Eleven Sports 3
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=623643&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",BE-NL|  EUROSPORT 1 HD
+#EXTINF:-1 group-title="BELGICA-HOLANDA" tvg-logo="http://127.0.0.1/",|  EUROSPORT 1 HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=308116&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",BE-NL| Eurosport HD
+#EXTINF:-1 group-title="BELGICA-HOLANDA" tvg-logo="http://127.0.0.1/",| Eurosport HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=623650&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",BE-NL|  EUROSPORT 2 HD
+#EXTINF:-1 group-title="BELGICA-HOLANDA" tvg-logo="http://127.0.0.1/",|  EUROSPORT 2 HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=308117&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",BE-NL| Eurosport 2 HD
+#EXTINF:-1 group-title="BELGICA-HOLANDA" tvg-logo="http://127.0.0.1/",| Eurosport 2 HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=623649&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",BE-NL| Sport 10 HD
+#EXTINF:-1 group-title="BELGICA-HOLANDA" tvg-logo="http://127.0.0.1/",| Sport 10 HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=623642&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",BE-NL| W Sport HD
+#EXTINF:-1 group-title="BELGICA-HOLANDA" tvg-logo="http://127.0.0.1/",| W Sport HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=623641&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",BE-NL|  ZIGGO SPORT EXTRA 1 HD
+#EXTINF:-1 group-title="BELGICA-HOLANDA" tvg-logo="http://127.0.0.1/",|  ZIGGO SPORT EXTRA 1 HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=308118&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",BE-NL|  ZIGGO SPORT EXTRA 2 HD
+#EXTINF:-1 group-title="BELGICA-HOLANDA" tvg-logo="http://127.0.0.1/",|  ZIGGO SPORT EXTRA 2 HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=308119&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",BE-NL|  ZIGGO SPORT GOLF HD
+#EXTINF:-1 group-title="BELGICA-HOLANDA" tvg-logo="http://127.0.0.1/",|  ZIGGO SPORT GOLF HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=308120&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",BE-NL|  ZIGGO SPORT HD
+#EXTINF:-1 group-title="BELGICA-HOLANDA" tvg-logo="http://127.0.0.1/",|  ZIGGO SPORT HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=308121&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",BE-NL|  ZIGGO SPORT RACING HD
+#EXTINF:-1 group-title="BELGICA-HOLANDA" tvg-logo="http://127.0.0.1/",|  ZIGGO SPORT RACING HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=308122&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",BE-NL|  ZIGGO SPORT SELECT HD
+#EXTINF:-1 group-title="BELGICA-HOLANDA" tvg-logo="http://127.0.0.1/",|  ZIGGO SPORT SELECT HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=308123&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",BE-NL|  ZIGGO SPORT VOETBAL HD
+#EXTINF:-1 group-title="BELGICA-HOLANDA" tvg-logo="http://127.0.0.1/",|  ZIGGO SPORT VOETBAL HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=308124&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",BE-NL|  FOX SPORTS 1 HD
+#EXTINF:-1 group-title="BELGICA-HOLANDA" tvg-logo="http://127.0.0.1/",|  FOX SPORTS 1 HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=308126&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",BE-NL|  FOX SPORTS 2 HD
+#EXTINF:-1 group-title="BELGICA-HOLANDA" tvg-logo="http://127.0.0.1/",|  FOX SPORTS 2 HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=308127&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",BE-NL|  FOX SPORTS 3 HD
+#EXTINF:-1 group-title="BELGICA-HOLANDA" tvg-logo="http://127.0.0.1/",|  FOX SPORTS 3 HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=308128&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",BE-NL|  FOX SPORTS 4 HD
+#EXTINF:-1 group-title="BELGICA-HOLANDA" tvg-logo="http://127.0.0.1/",|  FOX SPORTS 4 HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=308129&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",=FR= SPORTS =FR=
+#EXTINF:-1 group-title="FRANCIA" tvg-logo="http://127.0.0.1/", SPORTS =FR=
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=2800&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",FR| CANAL+ SPORT FHD
+#EXTINF:-1 group-title="FRANCIA" tvg-logo="http://127.0.0.1/", CANAL+ SPORT FHD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=2804&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",FR| CANAL+ SPORT HD
+#EXTINF:-1 group-title="FRANCIA" tvg-logo="http://127.0.0.1/", CANAL+ SPORT HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=2805&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",FR| CANAL+ SPORT SD
+#EXTINF:-1 group-title="FRANCIA" tvg-logo="http://127.0.0.1/", CANAL+ SPORT SD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=58967&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",FR| CANAL+ SPORT 360 FHD
+#EXTINF:-1 group-title="FRANCIA" tvg-logo="http://127.0.0.1/", CANAL+ SPORT 360 FHD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=418307&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",FR| CANAL+ SPORT 360 HD
+#EXTINF:-1 group-title="FRANCIA" tvg-logo="http://127.0.0.1/", CANAL+ SPORT 360 HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=418639&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",FR|  CANAL+ SPORT 360 HEVC
+#EXTINF:-1 group-title="FRANCIA" tvg-logo="http://127.0.0.1/",  CANAL+ SPORT 360 HEVC
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=418641&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",FR| RMC SPORT 1 FHD
+#EXTINF:-1 group-title="FRANCIA" tvg-logo="http://127.0.0.1/", RMC SPORT 1 FHD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=2808&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",FR| RMC SPORT 1 HD
+#EXTINF:-1 group-title="FRANCIA" tvg-logo="http://127.0.0.1/", RMC SPORT 1 HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=2809&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",FR| RMC SPORT 1 SD
+#EXTINF:-1 group-title="FRANCIA" tvg-logo="http://127.0.0.1/", RMC SPORT 1 SD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=59057&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",FR| RMC SPORT 1 HEVC
+#EXTINF:-1 group-title="FRANCIA" tvg-logo="http://127.0.0.1/", RMC SPORT 1 HEVC
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=67207&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",FR| RMC SPORT 2 FHD
+#EXTINF:-1 group-title="FRANCIA" tvg-logo="http://127.0.0.1/", RMC SPORT 2 FHD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=2810&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",FR| RMC SPORT 2 HD
+#EXTINF:-1 group-title="FRANCIA" tvg-logo="http://127.0.0.1/", RMC SPORT 2 HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=2811&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",FR| RMC SPORT 2 SD
+#EXTINF:-1 group-title="FRANCIA" tvg-logo="http://127.0.0.1/", RMC SPORT 2 SD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=59058&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",FR| RMC SPORT 2 HEVC
+#EXTINF:-1 group-title="FRANCIA" tvg-logo="http://127.0.0.1/", RMC SPORT 2 HEVC
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=67208&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",FR| RMC SPORT LIVE 3 FHD
+#EXTINF:-1 group-title="FRANCIA" tvg-logo="http://127.0.0.1/", RMC SPORT LIVE 3 FHD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=2812&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",FR| RMC SPORT LIVE 3 HD
+#EXTINF:-1 group-title="FRANCIA" tvg-logo="http://127.0.0.1/", RMC SPORT LIVE 3 HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=2813&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",FR| RMC SPORT LIVE 4 FHD
+#EXTINF:-1 group-title="FRANCIA" tvg-logo="http://127.0.0.1/", RMC SPORT LIVE 4 FHD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=2814&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",FR| RMC SPORT LIVE 4 HD
+#EXTINF:-1 group-title="FRANCIA" tvg-logo="http://127.0.0.1/", RMC SPORT LIVE 4 HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=2815&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",FR| RMC SPORT LIVE 5 HD
+#EXTINF:-1 group-title="FRANCIA" tvg-logo="http://127.0.0.1/", RMC SPORT LIVE 5 HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=58388&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",FR| RMC SPORT LIVE 6 HD
+#EXTINF:-1 group-title="FRANCIA" tvg-logo="http://127.0.0.1/", RMC SPORT LIVE 6 HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=58389&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",FR| RMC SPORT LIVE 7 HD
+#EXTINF:-1 group-title="FRANCIA" tvg-logo="http://127.0.0.1/", RMC SPORT LIVE 7 HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=58390&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",FR| RMC SPORT LIVE 8 HD
+#EXTINF:-1 group-title="FRANCIA" tvg-logo="http://127.0.0.1/", RMC SPORT LIVE 8 HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=58391&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",FR| RMC SPORT LIVE 9 HD
+#EXTINF:-1 group-title="FRANCIA" tvg-logo="http://127.0.0.1/", RMC SPORT LIVE 9 HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=58392&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",FR| RMC SPORT LIVE 10 HD
+#EXTINF:-1 group-title="FRANCIA" tvg-logo="http://127.0.0.1/", RMC SPORT LIVE 10 HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=58393&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",FR| RMC SPORT LIVE 11 HD
+#EXTINF:-1 group-title="FRANCIA" tvg-logo="http://127.0.0.1/", RMC SPORT LIVE 11 HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=58394&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",FR| RMC SPORT LIVE 12 HD
+#EXTINF:-1 group-title="FRANCIA" tvg-logo="http://127.0.0.1/", RMC SPORT LIVE 12 HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=451367&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",FR| RMC SPORT LIVE 13 HD
+#EXTINF:-1 group-title="FRANCIA" tvg-logo="http://127.0.0.1/", RMC SPORT LIVE 13 HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=451368&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",FR| RMC SPORT LIVE 14 HD
+#EXTINF:-1 group-title="FRANCIA" tvg-logo="http://127.0.0.1/", RMC SPORT LIVE 14 HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=451369&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",FR| RMC SPORT LIVE 15 HD
+#EXTINF:-1 group-title="FRANCIA" tvg-logo="http://127.0.0.1/", RMC SPORT LIVE 15 HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=451370&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",FR| RMC SPORT LIVE 16 HD
+#EXTINF:-1 group-title="FRANCIA" tvg-logo="http://127.0.0.1/", RMC SPORT LIVE 16 HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=451371&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",FR| BEIN SPORT 1 FHD
+#EXTINF:-1 group-title="FRANCIA" tvg-logo="http://127.0.0.1/", BEIN SPORT 1 FHD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=2816&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",FR| BEIN SPORT 1 HD
+#EXTINF:-1 group-title="FRANCIA" tvg-logo="http://127.0.0.1/", BEIN SPORT 1 HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=2817&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",FR| beIN SPORT 1 HEVC
+#EXTINF:-1 group-title="FRANCIA" tvg-logo="http://127.0.0.1/", beIN SPORT 1 HEVC
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=124773&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",FR| BEIN SPORT 1 SD
+#EXTINF:-1 group-title="FRANCIA" tvg-logo="http://127.0.0.1/", BEIN SPORT 1 SD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=59062&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",FR| BEIN SPORT 2 FHD
+#EXTINF:-1 group-title="FRANCIA" tvg-logo="http://127.0.0.1/", BEIN SPORT 2 FHD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=2818&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",FR| BEIN SPORT 2 HD
+#EXTINF:-1 group-title="FRANCIA" tvg-logo="http://127.0.0.1/", BEIN SPORT 2 HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=2819&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",FR| beIN SPORT 2 HEVC
+#EXTINF:-1 group-title="FRANCIA" tvg-logo="http://127.0.0.1/", beIN SPORT 2 HEVC
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=124774&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",FR| BEIN SPORT 2 SD
+#EXTINF:-1 group-title="FRANCIA" tvg-logo="http://127.0.0.1/", BEIN SPORT 2 SD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=59063&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",FR| BEIN SPORT 3 FHD
+#EXTINF:-1 group-title="FRANCIA" tvg-logo="http://127.0.0.1/", BEIN SPORT 3 FHD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=2820&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",FR| BEIN SPORT 3 HD
+#EXTINF:-1 group-title="FRANCIA" tvg-logo="http://127.0.0.1/", BEIN SPORT 3 HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=2821&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",FR| beIN SPORT 3 HEVC
+#EXTINF:-1 group-title="FRANCIA" tvg-logo="http://127.0.0.1/", beIN SPORT 3 HEVC
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=124775&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",FR| BEIN SPORT 3 SD
+#EXTINF:-1 group-title="FRANCIA" tvg-logo="http://127.0.0.1/", BEIN SPORT 3 SD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=59064&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",FR| BEIN SPORT MAX 4 FHD
+#EXTINF:-1 group-title="FRANCIA" tvg-logo="http://127.0.0.1/", BEIN SPORT MAX 4 FHD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=80079&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",FR| BEIN SPORTS MAX 4 HD
+#EXTINF:-1 group-title="FRANCIA" tvg-logo="http://127.0.0.1/", BEIN SPORTS MAX 4 HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=2822&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",FR| BEIN SPORTS MAX 4 SD
+#EXTINF:-1 group-title="FRANCIA" tvg-logo="http://127.0.0.1/", BEIN SPORTS MAX 4 SD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=59066&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",FR| BEIN SPORT MAX 5 FHD
+#EXTINF:-1 group-title="FRANCIA" tvg-logo="http://127.0.0.1/", BEIN SPORT MAX 5 FHD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=80080&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",FR| BEIN SPORTS MAX 5 HD
+#EXTINF:-1 group-title="FRANCIA" tvg-logo="http://127.0.0.1/", BEIN SPORTS MAX 5 HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=2823&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",FR| BEIN SPORTS MAX 5 SD
+#EXTINF:-1 group-title="FRANCIA" tvg-logo="http://127.0.0.1/", BEIN SPORTS MAX 5 SD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=59067&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",FR| BEIN SPORT MAX 6 FHD
+#EXTINF:-1 group-title="FRANCIA" tvg-logo="http://127.0.0.1/", BEIN SPORT MAX 6 FHD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=80081&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",FR| BEIN SPORTS MAX 6 HD
+#EXTINF:-1 group-title="FRANCIA" tvg-logo="http://127.0.0.1/", BEIN SPORTS MAX 6 HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=2824&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",FR| BEIN SPORTS MAX 6 SD
+#EXTINF:-1 group-title="FRANCIA" tvg-logo="http://127.0.0.1/", BEIN SPORTS MAX 6 SD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=59068&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",FR| BEIN SPORT MAX 7 FHD
+#EXTINF:-1 group-title="FRANCIA" tvg-logo="http://127.0.0.1/", BEIN SPORT MAX 7 FHD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=80082&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",FR| BEIN SPORTS MAX 7 HD
+#EXTINF:-1 group-title="FRANCIA" tvg-logo="http://127.0.0.1/", BEIN SPORTS MAX 7 HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=2825&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",FR| BEIN SPORTS MAX 7 SD
+#EXTINF:-1 group-title="FRANCIA" tvg-logo="http://127.0.0.1/", BEIN SPORTS MAX 7 SD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=59069&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",FR| BEIN SPORT MAX 8 FHD
+#EXTINF:-1 group-title="FRANCIA" tvg-logo="http://127.0.0.1/", BEIN SPORT MAX 8 FHD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=80083&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",FR| BEIN SPORTS MAX 8 HD
+#EXTINF:-1 group-title="FRANCIA" tvg-logo="http://127.0.0.1/", BEIN SPORTS MAX 8 HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=2826&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",FR| BEIN SPORTS MAX 8 SD
+#EXTINF:-1 group-title="FRANCIA" tvg-logo="http://127.0.0.1/", BEIN SPORTS MAX 8 SD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=59070&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",FR| BEIN SPORT MAX 9 FHD
+#EXTINF:-1 group-title="FRANCIA" tvg-logo="http://127.0.0.1/", BEIN SPORT MAX 9 FHD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=80084&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",FR| BEIN SPORTS MAX 9 HD
+#EXTINF:-1 group-title="FRANCIA" tvg-logo="http://127.0.0.1/", BEIN SPORTS MAX 9 HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=2827&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",FR| BEIN SPORTS MAX 9 SD
+#EXTINF:-1 group-title="FRANCIA" tvg-logo="http://127.0.0.1/", BEIN SPORTS MAX 9 SD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=59071&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",FR| BEIN SPORT MAX 10 FHD
+#EXTINF:-1 group-title="FRANCIA" tvg-logo="http://127.0.0.1/", BEIN SPORT MAX 10 FHD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=80085&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",FR| BEIN SPORTS MAX 10 HD
+#EXTINF:-1 group-title="FRANCIA" tvg-logo="http://127.0.0.1/", BEIN SPORTS MAX 10 HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=2828&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",FR| BEIN SPORTS MAX 10 SD
+#EXTINF:-1 group-title="FRANCIA" tvg-logo="http://127.0.0.1/", BEIN SPORTS MAX 10 SD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=59065&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",FR| INFOSPORT FHD
+#EXTINF:-1 group-title="FRANCIA" tvg-logo="http://127.0.0.1/", INFOSPORT FHD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=2802&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",FR| INFOSPORT HD
+#EXTINF:-1 group-title="FRANCIA" tvg-logo="http://127.0.0.1/", INFOSPORT HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=2803&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",FR| INFOSPORT+ HEVC
+#EXTINF:-1 group-title="FRANCIA" tvg-logo="http://127.0.0.1/", INFOSPORT+ HEVC
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=124789&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",FR| EUROSPORT 1 FHD
+#EXTINF:-1 group-title="FRANCIA" tvg-logo="http://127.0.0.1/", EUROSPORT 1 FHD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=2829&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",FR| EUROSPORT 1 HD
+#EXTINF:-1 group-title="FRANCIA" tvg-logo="http://127.0.0.1/", EUROSPORT 1 HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=2830&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",FR| EUROSPORT 1 SD
+#EXTINF:-1 group-title="FRANCIA" tvg-logo="http://127.0.0.1/", EUROSPORT 1 SD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=59072&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",FR| EUROSPORT 2 FHD
+#EXTINF:-1 group-title="FRANCIA" tvg-logo="http://127.0.0.1/", EUROSPORT 2 FHD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=2831&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",FR| EUROSPORT 2 HD
+#EXTINF:-1 group-title="FRANCIA" tvg-logo="http://127.0.0.1/", EUROSPORT 2 HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=2832&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",FR| EUROSPORT 2 SD
+#EXTINF:-1 group-title="FRANCIA" tvg-logo="http://127.0.0.1/", EUROSPORT 2 SD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=59073&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",FR| MOTOR SPORT VISION
+#EXTINF:-1 group-title="FRANCIA" tvg-logo="http://127.0.0.1/", MOTOR SPORT VISION
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=2847&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",FR| MOTOR SPORT VISION SD
+#EXTINF:-1 group-title="FRANCIA" tvg-logo="http://127.0.0.1/", MOTOR SPORT VISION SD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=148222&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",FR| Sportenfrance
+#EXTINF:-1 group-title="FRANCIA" tvg-logo="http://127.0.0.1/", Sportenfrance
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=222053&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",FR| MULTISPORTS 1 HD
+#EXTINF:-1 group-title="FRANCIA" tvg-logo="http://127.0.0.1/", MULTISPORTS 1 HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=201207&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",FR| MULTISPORTS 2 HD
+#EXTINF:-1 group-title="FRANCIA" tvg-logo="http://127.0.0.1/", MULTISPORTS 2 HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=201206&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",FR| MULTISPORTS 3 HD
+#EXTINF:-1 group-title="FRANCIA" tvg-logo="http://127.0.0.1/", MULTISPORTS 3 HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=201205&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",FR| MULTISPORTS 4 HD
+#EXTINF:-1 group-title="FRANCIA" tvg-logo="http://127.0.0.1/", MULTISPORTS 4 HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=201204&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",FR| MULTISPORTS 5 HD
+#EXTINF:-1 group-title="FRANCIA" tvg-logo="http://127.0.0.1/", MULTISPORTS 5 HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=201203&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",FR| MULTISPORTS 6 HD
+#EXTINF:-1 group-title="FRANCIA" tvg-logo="http://127.0.0.1/", MULTISPORTS 6 HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=201202&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",PLUTO TV| FREESPORT FHD
+#EXTINF:-1 group-title="PLUTO TV" tvg-logo="http://127.0.0.1/",PLUTO TV| FREESPORT FHD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=383995&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",Pluto TV| SPORTS TV
+#EXTINF:-1 group-title="PLUTO TV" tvg-logo="http://127.0.0.1/",Pluto TV| SPORTS TV
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=368871&extension=ts&play_token=6Bk2L1oFUT
 #EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",SPORT| BodyBuilding Channel
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=186206&extension=ts&play_token=6Bk2L1oFUT
 #EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",FOXX-CINE| Le Transporteur
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=89637&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",=IT= SPORT =IT=
+#EXTINF:-1 group-title=""ITALIA" tvg-logo="http://127.0.0.1/", SPORT =IT=
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=56590&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",IT| SKY SPORT 24 FULL HD
+#EXTINF:-1 group-title="ITALIA" tvg-logo="http://127.0.0.1/", SKY SPORT 24 FULL HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=56592&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",IT| SKY SPORT 24 HD
+#EXTINF:-1 group-title="ITALIA" tvg-logo="http://127.0.0.1/", SKY SPORT 24 HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=56593&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",IT|  SKY SPORT 24 HEVC
+#EXTINF:-1 group-title="ITALIA" tvg-logo="http://127.0.0.1/",  SKY SPORT 24 HEVC
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=136692&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",IT| SKY SPORT 24 SD
+#EXTINF:-1 group-title="ITALIA" tvg-logo="http://127.0.0.1/", SKY SPORT 24 SD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=56594&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",IT| SPORT ITALIA LIVE 24
+#EXTINF:-1 group-title="ITALIA" tvg-logo="http://127.0.0.1/", SPORT ITALIA LIVE 24
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=56595&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",IT| SPORT ITALIA HD
+#EXTINF:-1 group-title="ITALIA" tvg-logo="http://127.0.0.1/", SPORT ITALIA HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=56596&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",IT| SPORT ITALIA
+#EXTINF:-1 group-title="ITALIA" tvg-logo="http://127.0.0.1/", SPORT ITALIA
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=56597&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",IT| SKY SPORT UNO FULL HD
+#EXTINF:-1 group-title="ITALIA" tvg-logo="http://127.0.0.1/", SKY SPORT UNO FULL HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=56598&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",IT| SKY SPORT UNO HD
+#EXTINF:-1 group-title="ITALIA" tvg-logo="http://127.0.0.1/", SKY SPORT UNO HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=56599&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",IT|  SKY SPORT UNO HEVC
+#EXTINF:-1 group-title="ITALIA" tvg-logo="http://127.0.0.1/",  SKY SPORT UNO HEVC
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=136690&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",IT| SKY SPORT UNO SD
+#EXTINF:-1 group-title="ITALIA" tvg-logo="http://127.0.0.1/", SKY SPORT UNO SD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=56600&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",IT| SKY SPORT ACTION FULL HD
+#EXTINF:-1 group-title="ITALIA" tvg-logo="http://127.0.0.1/", SKY SPORT ACTION FULL HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=337098&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",IT| SKY SPORT ACTION HD
+#EXTINF:-1 group-title="ITALIA" tvg-logo="http://127.0.0.1/", SKY SPORT ACTION HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=337099&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",IT| SKY SPORT ACTION HEVC
+#EXTINF:-1 group-title="ITALIA" tvg-logo="http://127.0.0.1/", SKY SPORT ACTION HEVC
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=337097&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",IT| SPORT ACTION SD
+#EXTINF:-1 group-title="ITALIA" tvg-logo="http://127.0.0.1/", SPORT ACTION SD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=337100&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",IT| SKY SPORT MOTOGP FULL HD
+#EXTINF:-1 group-title="ITALIA" tvg-logo="http://127.0.0.1/", SKY SPORT MOTOGP FULL HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=56601&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",IT| SKY SPORT MOTOGP HD
+#EXTINF:-1 group-title="ITALIA" tvg-logo="http://127.0.0.1/", SKY SPORT MOTOGP HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=56602&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",IT| SKY SPORT MOTOGP SD
+#EXTINF:-1 group-title="ITALIA" tvg-logo="http://127.0.0.1/", SKY SPORT MOTOGP SD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=56603&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",IT| SKY SPORT F1 FULL HD
+#EXTINF:-1 group-title="ITALIA" tvg-logo="http://127.0.0.1/", SKY SPORT F1 FULL HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=56604&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",IT| SKY SPORT F1 HD
+#EXTINF:-1 group-title="ITALIA" tvg-logo="http://127.0.0.1/", SKY SPORT F1 HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=56605&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",IT|  SKY SPORT F1 HEVC
+#EXTINF:-1 group-title="ITALIA" tvg-logo="http://127.0.0.1/",  SKY SPORT F1 HEVC
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=136686&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",IT| SKY SPORT F1 SD
+#EXTINF:-1 group-title="ITALIA" tvg-logo="http://127.0.0.1/", SKY SPORT F1 SD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=56606&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",IT| SKY SPORT GOLF FULL HD
+#EXTINF:-1 group-title="ITALIA" tvg-logo="http://127.0.0.1/", SKY SPORT GOLF FULL HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=56607&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",IT| SKY SPORT GOLF HD
+#EXTINF:-1 group-title="ITALIA" tvg-logo="http://127.0.0.1/", SKY SPORT GOLF HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=56608&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",IT| SKY SPORT GOLF SD
+#EXTINF:-1 group-title="ITALIA" tvg-logo="http://127.0.0.1/", SKY SPORT GOLF SD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=56609&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",IT| SKY SPORT NBA FULL HD
+#EXTINF:-1 group-title="ITALIA" tvg-logo="http://127.0.0.1/", SKY SPORT NBA FULL HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=56610&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",IT| SKY SPORT NBA HD
+#EXTINF:-1 group-title="ITALIA" tvg-logo="http://127.0.0.1/", SKY SPORT NBA HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=56611&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",IT|  SKY SPORT NBA HEVC
+#EXTINF:-1 group-title="ITALIA" tvg-logo="http://127.0.0.1/",  SKY SPORT NBA HEVC
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=136691&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",IT| SKY SPORT NBA SD
+#EXTINF:-1 group-title="ITALIA" tvg-logo="http://127.0.0.1/", SKY SPORT NBA SD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=56612&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",IT| SPORT ITALIA SOLO CALCIO
+#EXTINF:-1 group-title="ITALIA" tvg-logo="http://127.0.0.1/", SPORT ITALIA SOLO CALCIO
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=56614&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",IT| SKY SPORT FOOTBALL FULL HD
+#EXTINF:-1 group-title="ITALIA" tvg-logo="http://127.0.0.1/", SKY SPORT FOOTBALL FULL HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=56615&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",IT| SKY SPORT FOOTBALL HD
+#EXTINF:-1 group-title="ITALIA" tvg-logo="http://127.0.0.1/", SKY SPORT FOOTBALL HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=56616&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",IT|  SKY SPORT FOOTBALL HEVC
+#EXTINF:-1 group-title="ITALIA" tvg-logo="http://127.0.0.1/",  SKY SPORT FOOTBALL HEVC
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=136689&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",IT| SKY SPORT FOOTBALL SD
+#EXTINF:-1 group-title="ITALIA" tvg-logo="http://127.0.0.1/", SKY SPORT FOOTBALL SD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=56617&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",IT| SKY SPORT ARENA FULL HD
+#EXTINF:-1 group-title="ITALIA" tvg-logo="http://127.0.0.1/", SKY SPORT ARENA FULL HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=56618&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",IT| SKY SPORT ARENA HD
+#EXTINF:-1 group-title="ITALIA" tvg-logo="http://127.0.0.1/", SKY SPORT ARENA HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=56619&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",IT| SKY SPORT ARENA SD
+#EXTINF:-1 group-title="ITALIA" tvg-logo="http://127.0.0.1/", SKY SPORT ARENA SD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=56620&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",IT| SKY SPORT CALCIO FULL HD
+#EXTINF:-1 group-title="ITALIA" tvg-logo="http://127.0.0.1/", SKY SPORT CALCIO FULL HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=56621&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",IT| SKY SPORT CALCIO HD
+#EXTINF:-1 group-title="ITALIA" tvg-logo="http://127.0.0.1/", SKY SPORT CALCIO HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=56622&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",IT|  SKY SPORT CALCIO HEVC
+#EXTINF:-1 group-title="ITALIA" tvg-logo="http://127.0.0.1/",  SKY SPORT CALCIO HEVC
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=136740&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",IT| SKY SPORT CALCIO SD
+#EXTINF:-1 group-title="ITALIA" tvg-logo="http://127.0.0.1/", SKY SPORT CALCIO SD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=56623&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",IT| SKY EUROSPORT 1 FULL HD
+#EXTINF:-1 group-title="ITALIA" tvg-logo="http://127.0.0.1/", SKY EUROSPORT 1 FULL HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=56630&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",IT| SKY EUROSPORT 1 HD
+#EXTINF:-1 group-title="ITALIA" tvg-logo="http://127.0.0.1/", SKY EUROSPORT 1 HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=56631&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",IT|  SKY EUROSPORT1 HEVC
+#EXTINF:-1 group-title="ITALIA" tvg-logo="http://127.0.0.1/",  SKY EUROSPORT1 HEVC
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=136684&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",IT| SKY EUROSPORT 2 FULL HD
+#EXTINF:-1 group-title="ITALIA" tvg-logo="http://127.0.0.1/", SKY EUROSPORT 2 FULL HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=56632&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",IT| SKY EUROSPORT 2 HD
+#EXTINF:-1 group-title="ITALIA" tvg-logo="http://127.0.0.1/", SKY EUROSPORT 2 HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=56633&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",IT|  SKY EUROSPORT2 HEVC
+#EXTINF:-1 group-title="ITALIA" tvg-logo="http://127.0.0.1/",  SKY EUROSPORT2 HEVC
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=136683&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",IT| RAI SPORT FULL HD
+#EXTINF:-1 group-title="ITALIA" tvg-logo="http://127.0.0.1/", RAI SPORT FULL HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=56646&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",IT| RAI SPORT HD
+#EXTINF:-1 group-title="ITALIA" tvg-logo="http://127.0.0.1/", RAI SPORT HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=56647&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",IT|  SKY SPORT COLLECTION HEVC
+#EXTINF:-1 group-title="ITALIA" tvg-logo="http://127.0.0.1/",  SKY SPORT COLLECTION HEVC
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=136687&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",IT| SKY SPORT BAR PRIMEVIDEO FULL HD (Only Event)
+#EXTINF:-1 group-title="ITALIA" tvg-logo="http://127.0.0.1/", SKY SPORT BAR PRIMEVIDEO FULL HD (Only Event)
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=365295&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",IT| SKY SPORT BAR PRIMEVIDEO HD (Only Event)
+#EXTINF:-1 group-title="ITALIA" tvg-logo="http://127.0.0.1/", SKY SPORT BAR PRIMEVIDEO HD (Only Event)
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=365296&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",IT| SKY SPORT BAR PRIMEVIDEO SD (Only Event)
+#EXTINF:-1 group-title="ITALIA" tvg-logo="http://127.0.0.1/", SKY SPORT BAR PRIMEVIDEO SD (Only Event)
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=365297&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",IT| SKY SPORT BAR UNO FULL HD (Only Event)
+#EXTINF:-1 group-title="ITALIA" tvg-logo="http://127.0.0.1/", SKY SPORT BAR UNO FULL HD (Only Event)
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=365289&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",IT| SKY SPORT BAR UNO HD (Only Event)
+#EXTINF:-1 group-title="ITALIA" tvg-logo="http://127.0.0.1/", SKY SPORT BAR UNO HD (Only Event)
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=365290&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",IT| SKY SPORT BAR UNO SD (Only Event)
+#EXTINF:-1 group-title="ITALIA" tvg-logo="http://127.0.0.1/", SKY SPORT BAR UNO SD (Only Event)
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=365291&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",IT| SKY SPORT BAR DUE FULL HD (Only Event)
+#EXTINF:-1 group-title="ITALIA" tvg-logo="http://127.0.0.1/", SKY SPORT BAR DUE FULL HD (Only Event)
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=365292&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",IT| SKY SPORT BAR DUE HD (Only Event)
+#EXTINF:-1 group-title="ITALIA" tvg-logo="http://127.0.0.1/", SKY SPORT BAR DUE HD (Only Event)
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=365293&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",IT| SKY SPORT BAR DUE SD (Only Event)
+#EXTINF:-1 group-title="ITALIA" tvg-logo="http://127.0.0.1/", SKY SPORT BAR DUE SD (Only Event)
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=365294&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",=IT= DAZN =IT=
+#EXTINF:-1 group-title=""ITALIA" tvg-logo="http://127.0.0.1/", DAZN =IT=
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=56668&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",IT| VETRINA DAZN
+#EXTINF:-1 group-title="ITALIA" tvg-logo="http://127.0.0.1/", VETRINA DAZN
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=181350&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",IT| SKY DAZN BAR FULL HD
+#EXTINF:-1 group-title="ITALIA" tvg-logo="http://127.0.0.1/", SKY DAZN BAR FULL HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=56669&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",IT| SKY DAZN BAR HD
+#EXTINF:-1 group-title="ITALIA" tvg-logo="http://127.0.0.1/", SKY DAZN BAR HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=56670&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",IT| SKY DAZN BAR SD
+#EXTINF:-1 group-title="ITALIA" tvg-logo="http://127.0.0.1/", SKY DAZN BAR SD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=56671&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",IT| SKY DAZN BAR 2 FULL HD
+#EXTINF:-1 group-title="ITALIA" tvg-logo="http://127.0.0.1/", SKY DAZN BAR 2 FULL HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=56672&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",IT| SKY DAZN BAR 2 HD
+#EXTINF:-1 group-title="ITALIA" tvg-logo="http://127.0.0.1/", SKY DAZN BAR 2 HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=56673&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",IT| DAZN CHANNEL FULL HD (Only Event)
+#EXTINF:-1 group-title="ITALIA" tvg-logo="http://127.0.0.1/", DAZN CHANNEL FULL HD (Only Event)
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=365406&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",IT| DAZN CHANNEL HD (Only Event)
+#EXTINF:-1 group-title="ITALIA" tvg-logo="http://127.0.0.1/", DAZN CHANNEL HD (Only Event)
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=365407&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",IT| DAZN CHANNEL SD (Only Event)
+#EXTINF:-1 group-title="ITALIA" tvg-logo="http://127.0.0.1/", DAZN CHANNEL SD (Only Event)
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=365408&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",IT| DAZN CHANNEL HEVC (Only Event)
+#EXTINF:-1 group-title="ITALIA" tvg-logo="http://127.0.0.1/", DAZN CHANNEL HEVC (Only Event)
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=365409&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",IT| NFL DAZN (Only Event)
+#EXTINF:-1 group-title="ITALIA" tvg-logo="http://127.0.0.1/", NFL DAZN (Only Event)
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=365410&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",IT| DAZN WEB 1
+#EXTINF:-1 group-title="ITALIA" tvg-logo="http://127.0.0.1/", DAZN WEB 1
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=56674&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",IT| DAZN WEB 2
+#EXTINF:-1 group-title="ITALIA" tvg-logo="http://127.0.0.1/", DAZN WEB 2
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=56675&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",IT| DAZN WEB 3
+#EXTINF:-1 group-title="ITALIA" tvg-logo="http://127.0.0.1/", DAZN WEB 3
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=56676&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",IT| DAZN WEB 4
+#EXTINF:-1 group-title="ITALIA" tvg-logo="http://127.0.0.1/", DAZN WEB 4
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=56677&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",IT| DAZN WEB 5
+#EXTINF:-1 group-title="ITALIA" tvg-logo="http://127.0.0.1/", DAZN WEB 5
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=56678&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",IT| DAZN WEB 6
+#EXTINF:-1 group-title="ITALIA" tvg-logo="http://127.0.0.1/", DAZN WEB 6
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=56679&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",IT| DAZN WEB 7
+#EXTINF:-1 group-title="ITALIA" tvg-logo="http://127.0.0.1/", DAZN WEB 7
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=56680&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",IT| DAZN WEB 8
+#EXTINF:-1 group-title="ITALIA" tvg-logo="http://127.0.0.1/", DAZN WEB 8
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=56681&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",IT| DAZN WEB 9
+#EXTINF:-1 group-title="ITALIA" tvg-logo="http://127.0.0.1/", DAZN WEB 9
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=56682&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",IT| DAZN WEB 10
+#EXTINF:-1 group-title="ITALIA" tvg-logo="http://127.0.0.1/", DAZN WEB 10
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=56683&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",IT| EUROSPORT PLAYER LIVE 1 (attivo per evento )
+#EXTINF:-1 group-title="ITALIA" tvg-logo="http://127.0.0.1/", EUROSPORT PLAYER LIVE 1 (attivo per evento )
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=320165&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",IT| EUROSPORT PLAYER LIVE 2 (attivo per evento )
+#EXTINF:-1 group-title="ITALIA" tvg-logo="http://127.0.0.1/", EUROSPORT PLAYER LIVE 2 (attivo per evento )
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=320166&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",IT| EUROSPORT PLAYER LIVE 3 (attivo per evento )
+#EXTINF:-1 group-title="ITALIA" tvg-logo="http://127.0.0.1/", EUROSPORT PLAYER LIVE 3 (attivo per evento )
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=320167&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",IT| EUROSPORT PLAYER LIVE 4 (attivo per evento )
+#EXTINF:-1 group-title="ITALIA" tvg-logo="http://127.0.0.1/", EUROSPORT PLAYER LIVE 4 (attivo per evento )
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=320168&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",IT| EUROSPORT PLAYER LIVE 5 (attivo per evento )
+#EXTINF:-1 group-title="ITALIA" tvg-logo="http://127.0.0.1/", EUROSPORT PLAYER LIVE 5 (attivo per evento )
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=320169&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",IT| EUROSPORT PLAYER LIVE 6 (attivo per evento )
+#EXTINF:-1 group-title="ITALIA" tvg-logo="http://127.0.0.1/", EUROSPORT PLAYER LIVE 6 (attivo per evento )
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=320170&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",IT| EUROSPORT PLAYER LIVE 7 (attivo per evento )
+#EXTINF:-1 group-title="ITALIA" tvg-logo="http://127.0.0.1/", EUROSPORT PLAYER LIVE 7 (attivo per evento )
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=320171&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",IT| EUROSPORT PLAYER LIVE 8 (attivo per evento )
+#EXTINF:-1 group-title="ITALIA" tvg-logo="http://127.0.0.1/", EUROSPORT PLAYER LIVE 8 (attivo per evento )
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=320172&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",IT| EUROSPORT PLAYER LIVE 9 (attivo per evento )
+#EXTINF:-1 group-title="ITALIA" tvg-logo="http://127.0.0.1/", EUROSPORT PLAYER LIVE 9 (attivo per evento )
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=320173&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",IT| EUROSPORT PLAYER LIVE 10 (attivo per evento )
+#EXTINF:-1 group-title="ITALIA" tvg-logo="http://127.0.0.1/", EUROSPORT PLAYER LIVE 10 (attivo per evento )
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=320174&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",ES| DAZN 1 FHD
+#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://127.0.0.1/", DAZN 1 FHD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55482&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",ES| DAZN 1 SD
+#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://127.0.0.1/", DAZN 1 SD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55483&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",ES| DAZN 2 FHD
+#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://127.0.0.1/", DAZN 2 FHD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=82270&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",ES| EUROSPORT 1 FHD
+#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://127.0.0.1/", EUROSPORT 1 FHD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=82288&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",ES| EUROSPORT 1 SD
+#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://127.0.0.1/", EUROSPORT 1 SD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55534&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",ES| EUROSPORT 2 SD
+#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://127.0.0.1/", EUROSPORT 2 SD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55535&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",ES| DAZN LA LIGA 1 HD
+#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://127.0.0.1/", DAZN LA LIGA 1 HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=472007&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",ES| DAZN LA LIGA 1 SD
+#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://127.0.0.1/", DAZN LA LIGA 1 SD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=472008&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",ES| DAZN LA LIGA 2 HD
+#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://127.0.0.1/", DAZN LA LIGA 2 HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=472009&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",ES| DAZN LA LIGA 2 SD
+#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://127.0.0.1/", DAZN LA LIGA 2 SD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=472010&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",ES| DAZN F1 FHD
+#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://127.0.0.1/", DAZN F1 FHD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55551&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",ES| DAZN F1 FHD
+#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://127.0.0.1/", DAZN F1 FHD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55563&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",ES| DAZN F1 HD
+#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://127.0.0.1/", DAZN F1 HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55552&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",ES| DAZN F1 SD
+#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://127.0.0.1/", DAZN F1 SD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55560&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",ES| DAZN 2 SD
+#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://127.0.0.1/", DAZN 2 SD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55557&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",ES| DAZN 3 FHD
+#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://127.0.0.1/", DAZN 3 FHD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55558&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",ES| DAZN 4 FHD
+#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://127.0.0.1/", DAZN 4 FHD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55561&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",ES| DAZN 4 SD
+#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://127.0.0.1/", DAZN 4 SD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55562&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",||  PORTUGAL Desporto ||
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://127.0.0.1/",||  PORTUGAL Desporto ||
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=461163&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",PT| SPORT TV +
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://127.0.0.1/", SPORT TV +
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=461167&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",PT| SPORT TV + HD
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://127.0.0.1/", SPORT TV + HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=461168&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",PT| SPORTING TV
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://127.0.0.1/", SPORTING TV
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=461171&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",PT| SPORTING TV HD
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://127.0.0.1/", SPORTING TV HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=461172&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",PT| SPORT TV 1
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://127.0.0.1/", SPORT TV 1
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=461173&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",PT| SPORT TV 1 HD
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://127.0.0.1/", SPORT TV 1 HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=461174&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",PT| SPORT TV 2
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://127.0.0.1/", SPORT TV 2
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=461175&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",PT| SPORT TV 2 HD
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://127.0.0.1/", SPORT TV 2 HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=461176&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",PT| SPORT TV 3
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://127.0.0.1/", SPORT TV 3
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=461177&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",PT| SPORT TV 3 HD
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://127.0.0.1/", SPORT TV 3 HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=461178&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",PT| SPORT TV 4
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://127.0.0.1/", SPORT TV 4
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=461179&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",PT| SPORT TV 4 HD
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://127.0.0.1/", SPORT TV 4 HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=461180&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",PT| SPORT TV 5
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://127.0.0.1/", SPORT TV 5
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=461181&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",PT| SPORT TV 5 HD
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://127.0.0.1/", SPORT TV 5 HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=461182&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",PT| SPORT TV 6 HD
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://127.0.0.1/", SPORT TV 6 HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=461183&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",PT| SPORT TV NBA HD
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://127.0.0.1/", SPORT TV NBA HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=461184&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",PT| ELEVEN SPORTS 1 HD
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://127.0.0.1/", ELEVEN SPORTS 1 HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=461186&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",PT| ELEVEN SPORTS 1
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://127.0.0.1/", ELEVEN SPORTS 1
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=461185&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",PT| ELEVEN SPORTS 2
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://127.0.0.1/", ELEVEN SPORTS 2
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=461187&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",PT| ELEVEN SPORTS 2 HD
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://127.0.0.1/", ELEVEN SPORTS 2 HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=461188&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",PT| ELEVEN SPORTS 3
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://127.0.0.1/", ELEVEN SPORTS 3
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=461189&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",PT| ELEVEN SPORTS 3 HD
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://127.0.0.1/", ELEVEN SPORTS 3 HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=461190&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",PT| ELEVEN SPORTS 4
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://127.0.0.1/", ELEVEN SPORTS 4
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=461191&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",PT| ELEVEN SPORTS 4 HD
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://127.0.0.1/", ELEVEN SPORTS 4 HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=461192&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",PT| ELEVEN SPORTS 5
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://127.0.0.1/", ELEVEN SPORTS 5
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=461193&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",PT| ELEVEN SPORTS 5 HD
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://127.0.0.1/", ELEVEN SPORTS 5 HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=461194&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",PT| ELEVEN SPORTS 6
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://127.0.0.1/", ELEVEN SPORTS 6
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=461195&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",PT| ELEVEN SPORTS 6 HD
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://127.0.0.1/", ELEVEN SPORTS 6 HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=461196&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",PT| EUROSPORT 1
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://127.0.0.1/", EUROSPORT 1
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=461197&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",PT| EUROSPORT 1 HD
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://127.0.0.1/", EUROSPORT 1 HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=461198&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",PT| EUROSPORT 2
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://127.0.0.1/", EUROSPORT 2
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=461199&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",PT| EUROSPORT 2 HD
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://127.0.0.1/", EUROSPORT 2 HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=461200&extension=ts&play_token=6Bk2L1oFUT
 #EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",=PT= DESPORTO =PT=
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=57173&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",PT| SPORT TV +
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://127.0.0.1/", SPORT TV +
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=57176&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",PT| SPORT TV 1 FHD
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://127.0.0.1/", SPORT TV 1 FHD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=57177&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",PT| SPORT TV 1
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://127.0.0.1/", SPORT TV 1
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=57178&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",PT| SPORT TV 2 FHD
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://127.0.0.1/", SPORT TV 2 FHD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=57179&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",PT| SPORT TV 2
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://127.0.0.1/", SPORT TV 2
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=57180&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",PT| SPORT TV 3 FHD
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://127.0.0.1/", SPORT TV 3 FHD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=57181&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",PT| SPORT TV 3
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://127.0.0.1/", SPORT TV 3
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=57182&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",PT| SPORT TV 4
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://127.0.0.1/", SPORT TV 4
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=57183&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",PT| SPORT TV 5
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://127.0.0.1/", SPORT TV 5
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=57184&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",PT| ELEVEN SPORT 1 HD
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://127.0.0.1/", ELEVEN SPORT 1 HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=57185&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",PT| ELEVEN SPORT 3 HD
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://127.0.0.1/", ELEVEN SPORT 3 HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=57186&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",PT| ELEVEN SPORT 4 HD
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://127.0.0.1/", ELEVEN SPORT 4 HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=57187&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",PT| EUROSPORT FHD
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://127.0.0.1/", EUROSPORT FHD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=57195&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",PT| EUROSPORT
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://127.0.0.1/", EUROSPORT
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=57196&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",PT| SPORTING TV FULL HD
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://127.0.0.1/", SPORTING TV FULL HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=57205&extension=ts&play_token=6Bk2L1oFUT
 #EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",SW| TELECLUB SPORT EVENT 1 HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=300631&extension=ts&play_token=6Bk2L1oFUT
@@ -1316,119 +1316,119 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=213389&extensio
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=213388&extension=ts&play_token=6Bk2L1oFUT
 #EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",IL|  YES Sport 5 Stars HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=213387&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",ARG| DSPORTS 1
+#EXTINF:-1 group-title="LATINO" tvg-logo="http://127.0.0.1/", DSPORTS 1
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174513&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",ARG| DSPORTS 2
+#EXTINF:-1 group-title="LATINO" tvg-logo="http://127.0.0.1/", DSPORTS 2
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174514&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",ARG| ESPN
+#EXTINF:-1 group-title="LATINO" tvg-logo="http://127.0.0.1/", ESPN
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174524&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",ARG| ESPN+
+#EXTINF:-1 group-title="LATINO" tvg-logo="http://127.0.0.1/", ESPN+
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174527&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",ARG| ESPN 3
+#EXTINF:-1 group-title="LATINO" tvg-logo="http://127.0.0.1/", ESPN 3
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174525&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",ARG| ESPN FUTBOL HD
+#EXTINF:-1 group-title="LATINO" tvg-logo="http://127.0.0.1/", ESPN FUTBOL HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174526&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",ARG| FOX SPORTS 1
+#EXTINF:-1 group-title="LATINO" tvg-logo="http://127.0.0.1/", FOX SPORTS 1
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174541&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",ARG| FOX SPORTS 2 HD
+#EXTINF:-1 group-title="LATINO" tvg-logo="http://127.0.0.1/", FOX SPORTS 2 HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174542&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",ARG| FOX SPORTS 3 HD
+#EXTINF:-1 group-title="LATINO" tvg-logo="http://127.0.0.1/", FOX SPORTS 3 HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174543&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",ARG| FOX SPORTS HD
+#EXTINF:-1 group-title="LATINO" tvg-logo="http://127.0.0.1/", FOX SPORTS HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174544&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",ARG| FOX SPORTS PREMIUM
+#EXTINF:-1 group-title="LATINO" tvg-logo="http://127.0.0.1/", FOX SPORTS PREMIUM
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174545&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",ARG| TNT SPORTS HD
+#EXTINF:-1 group-title="LATINO" tvg-logo="http://127.0.0.1/", TNT SPORTS HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174603&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",ARG| TyC Sports HD
+#EXTINF:-1 group-title="LATINO" tvg-logo="http://127.0.0.1/", TyC Sports HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174609&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",BR| Band Sports
+#EXTINF:-1 group-title="LATINO" tvg-logo="http://127.0.0.1/", Band Sports
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=166813&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",BR| SporTV 3
+#EXTINF:-1 group-title="LATINO" tvg-logo="http://127.0.0.1/", SporTV 3
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=166800&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",BR| SporTV 2
+#EXTINF:-1 group-title="LATINO" tvg-logo="http://127.0.0.1/", SporTV 2
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=166799&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",BR| SporTV
+#EXTINF:-1 group-title="LATINO" tvg-logo="http://127.0.0.1/", SporTV
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=166798&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",BR| Fox Sports
+#EXTINF:-1 group-title="LATINO" tvg-logo="http://127.0.0.1/", Fox Sports
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=166797&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",BR| Fox Sports 2
+#EXTINF:-1 group-title="LATINO" tvg-logo="http://127.0.0.1/", Fox Sports 2
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=166796&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",BR| ESPN Brasil Sport
+#EXTINF:-1 group-title="LATINO" tvg-logo="http://127.0.0.1/", ESPN Brasil Sport
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=166794&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",CO: Winsports HD
+#EXTINF:-1 group-title="LATINO" tvg-logo="http://127.0.0.1/",: Winsports HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=318298&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",MX| Adrenalina Sports Network
+#EXTINF:-1 group-title="LATINO" tvg-logo="http://127.0.0.1/", Adrenalina Sports Network
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174786&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",MX| AYM Sports FHD
+#EXTINF:-1 group-title="LATINO" tvg-logo="http://127.0.0.1/", AYM Sports FHD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174793&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",MX| beIN Sports Ñ
+#EXTINF:-1 group-title="LATINO" tvg-logo="http://127.0.0.1/", beIN Sports Ñ
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174813&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",MX| beIN Sports Ñ FHD
+#EXTINF:-1 group-title="LATINO" tvg-logo="http://127.0.0.1/", beIN Sports Ñ FHD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174812&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",MX| Claro Sports FHD
+#EXTINF:-1 group-title="LATINO" tvg-logo="http://127.0.0.1/", Claro Sports FHD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174835&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",MX| Claro Sports Latino america FHD
+#EXTINF:-1 group-title="LATINO" tvg-logo="http://127.0.0.1/", Claro Sports Latino america FHD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174836&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",MX| DirectTV Sports 1
+#EXTINF:-1 group-title="LATINO" tvg-logo="http://127.0.0.1/", DirectTV Sports 1
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174848&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",MX| DirectTV Sports 2 FHD
+#EXTINF:-1 group-title="LATINO" tvg-logo="http://127.0.0.1/", DirectTV Sports 2 FHD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174849&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",MX| DirectTV Sports Plus FHD
+#EXTINF:-1 group-title="LATINO" tvg-logo="http://127.0.0.1/", DirectTV Sports Plus FHD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174850&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",MX| ESPN 1
+#EXTINF:-1 group-title="LATINO" tvg-logo="http://127.0.0.1/", ESPN 1
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174870&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",MX| ESPN 2 HD
+#EXTINF:-1 group-title="LATINO" tvg-logo="http://127.0.0.1/", ESPN 2 HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174871&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",MX| ESPN 2 Sur HD
+#EXTINF:-1 group-title="LATINO" tvg-logo="http://127.0.0.1/", ESPN 2 Sur HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174872&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",MX| Espn 3
+#EXTINF:-1 group-title="LATINO" tvg-logo="http://127.0.0.1/", Espn 3
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174873&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",MX| ESPN 3 Sur HD
+#EXTINF:-1 group-title="LATINO" tvg-logo="http://127.0.0.1/", ESPN 3 Sur HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174874&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",MX| ESPN HD
+#EXTINF:-1 group-title="LATINO" tvg-logo="http://127.0.0.1/", ESPN HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174875&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",MX| ESPN NETWORK
+#EXTINF:-1 group-title="LATINO" tvg-logo="http://127.0.0.1/", ESPN NETWORK
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174876&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",MX| ESPN Plus HD
+#EXTINF:-1 group-title="LATINO" tvg-logo="http://127.0.0.1/", ESPN Plus HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174877&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",MX| ESPN U HD
+#EXTINF:-1 group-title="LATINO" tvg-logo="http://127.0.0.1/", ESPN U HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174878&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",MX| FOX SPORTS
+#EXTINF:-1 group-title="LATINO" tvg-logo="http://127.0.0.1/", FOX SPORTS
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174896&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",MX| FOX SPORTS 1
+#EXTINF:-1 group-title="LATINO" tvg-logo="http://127.0.0.1/", FOX SPORTS 1
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174901&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",MX| FOX SPORTS 1 FHD
+#EXTINF:-1 group-title="LATINO" tvg-logo="http://127.0.0.1/", FOX SPORTS 1 FHD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174897&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",MX| FOX SPORTS 1 Sur FHD
+#EXTINF:-1 group-title="LATINO" tvg-logo="http://127.0.0.1/", FOX SPORTS 1 Sur FHD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174898&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",MX| FOX SPORTS 2 FHD
+#EXTINF:-1 group-title="LATINO" tvg-logo="http://127.0.0.1/", FOX SPORTS 2 FHD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174899&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",MX| FOX SPORTS 2 HD
+#EXTINF:-1 group-title="LATINO" tvg-logo="http://127.0.0.1/", FOX SPORTS 2 HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174902&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",MX| FOX SPORTS 3 FHD
+#EXTINF:-1 group-title="LATINO" tvg-logo="http://127.0.0.1/", FOX SPORTS 3 FHD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174900&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",MX| FOX SPORTS 3 HD
+#EXTINF:-1 group-title="LATINO" tvg-logo="http://127.0.0.1/", FOX SPORTS 3 HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174903&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",MX| FOX SPORTS Chile FHD
+#EXTINF:-1 group-title="LATINO" tvg-logo="http://127.0.0.1/", FOX SPORTS Chile FHD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174904&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",MX| TYC Sports HD
+#EXTINF:-1 group-title="LATINO" tvg-logo="http://127.0.0.1/", TYC Sports HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=175018&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",MX| Winsports FHD
+#EXTINF:-1 group-title="LATINO" tvg-logo="http://127.0.0.1/", Winsports FHD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=175027&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",EC| TNT Sports HD
+#EXTINF:-1 group-title="LATINO" tvg-logo="http://127.0.0.1/", TNT Sports HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=366642&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",CL| ESPN 2
+#EXTINF:-1 group-title="LATINO" tvg-logo="http://127.0.0.1/", ESPN 2
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=175311&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",CL| ESPN 3
+#EXTINF:-1 group-title="LATINO" tvg-logo="http://127.0.0.1/", ESPN 3
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=175312&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",CL| FOX SPORTS 2
+#EXTINF:-1 group-title="LATINO" tvg-logo="http://127.0.0.1/", FOX SPORTS 2
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=175319&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",BO| TIGO SPORTS 1
+#EXTINF:-1 group-title="LATINO" tvg-logo="http://127.0.0.1/", TIGO SPORTS 1
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=175136&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",BO| Tigo Sports 2 HD
+#EXTINF:-1 group-title="LATINO" tvg-logo="http://127.0.0.1/", Tigo Sports 2 HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=175137&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",BO| TIGO SPORTS 3 HD
+#EXTINF:-1 group-title="LATINO" tvg-logo="http://127.0.0.1/", TIGO SPORTS 3 HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=175138&extension=ts&play_token=6Bk2L1oFUT
-#EXTINF:-1 group-title="SPORT DUNIA" tvg-logo="http://127.0.0.1/",IT| Radio Centro Suono Sport 101.5 FM Roma
+#EXTINF:-1 group-title="ITALIA" tvg-logo="http://127.0.0.1/", Radio Centro Suono Sport 101.5 FM Roma
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=59738&extension=ts&play_token=6Bk2L1oFUT
