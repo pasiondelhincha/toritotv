@@ -905,6 +905,44 @@ https://linear-490.frequency.stream/mt/studio/490/hls/master/playlist.m3u8
 https://linear-506.frequency.stream/mt/studio/506/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="FUTBOL VIX" ,FUTBOL ESPAÑOL
 https://linear-507.frequency.stream/mt/studio/507/hls/master/playlist.m3u8
+#EXTINF:0 group-title="GREAT STAR" ,DAZN F1 ESPAÑOL
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:c8:af:f1&stream=317783&extension=ts&play_token=WnbiU3BwDy
+#EXTINF:0 group-title="GREAT STAR" ,SKY SPORTS ACTION
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:c8:af:f1&stream=83456&extension=ts&play_token=WnbiU3BwDy
+#EXTINF:0 group-title="GREAT STAR" ,SKY SPORTS ARENA
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:c8:af:f1&stream=83455&extension=ts&play_token=WnbiU3BwDy
+#EXTINF:0 group-title="GREAT STAR" ,SKY SPORTS CRICKET
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:c8:af:f1&stream=83454&extension=ts&play_token=WnbiU3BwDy
+#EXTINF:0 group-title="GREAT STAR" ,SKY SPORTS F1
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:c8:af:f1&stream=317778&extension=ts&play_token=WnbiU3BwDy
+#EXTINF:0 group-title="GREAT STAR" ,SKY SPORTS FOOTBALL
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:c8:af:f1&stream=83452&extension=ts&play_token=WnbiU3BwDy
+#EXTINF:0 group-title="GREAT STAR" ,SKY SPORTS MIX
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:c8:af:f1&stream=83449&extension=ts&play_token=WnbiU3BwDy
+#EXTINF:0 group-title="GREAT STAR" ,SKY SPORTS NEWS
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:c8:af:f1&stream=83448&extension=ts&play_token=WnbiU3BwDy
+#EXTINF:0 group-title="GREAT STAR" ,SKY SPORTS NEWS
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:c8:af:f1&stream=83450&extension=ts&play_token=WnbiU3BwDy
+#EXTINF:0 group-title="GREAT STAR" ,SKY SPORTS PREMIER LEAGUE
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:c8:af:f1&stream=83447&extension=ts&play_token=WnbiU3BwDy
+#EXTINF:-1 group-title="GREAT STAR" ,SONY SPORTS 1
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:c8:af:f1&stream=1114576&extension=ts&play_token=WnbiU3BwDy
+#EXTINF:-1 group-title="GREAT STAR" ,SONY SPORTS 2
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:c8:af:f1&stream=1114577&extension=ts&play_token=WnbiU3BwDy
+#EXTINF:-1 group-title="GREAT STAR" ,SONY SPORTS 3
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:c8:af:f1&stream=1114578&extension=ts&play_token=WnbiU3BwDy
+#EXTINF:-1 group-title="GREAT STAR" ,SONY SPORTS 4
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:c8:af:f1&stream=1114579&extension=ts&play_token=WnbiU3BwDy
+#EXTINF:-1 group-title="GREAT STAR" ,STAR SPORTS 1
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:c8:af:f1&stream=1114580&extension=ts&play_token=WnbiU3BwDy
+#EXTINF:-1 group-title="GREAT STAR" ,STAR SPORTS 1
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:c8:af:f1&stream=1114582&extension=ts&play_token=WnbiU3BwDy
+#EXTINF:-1 group-title="GREAT STAR" ,STAR SPORTS 2
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:c8:af:f1&stream=1114581&extension=ts&play_token=WnbiU3BwDy
+#EXTINF:-1 group-title="GREAT STAR" ,STAR SPORTS SELECT 1
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:c8:af:f1&stream=1114583&extension=ts&play_token=WnbiU3BwDy
+#EXTINF:-1 group-title="GREAT STAR" ,STAR SPORTS SELECT 2
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:c8:af:f1&stream=1114584&extension=ts&play_token=WnbiU3BwDy
 #EXTINF:0 group-title="INFANTILES" tvg-logo="https://i.postimg.cc/52gfdMxp/BABY-TV.jpg" ,BABY TV
 http://168.197.196.98:9981/stream/channelid/82729369?profile=pass
 #EXTINF:0 group-title="INFANTILES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/800px-Cartoon_Network_2010_logo.svg.png" ,CARTOON NETWORK
@@ -977,6 +1015,108 @@ https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/0/playlist.m3u8
 https://ythls-v2.onrender.com/channel/UCj6PcyLvpnIRT_2W_mwa9Aw.m3u8
 #EXTINF:0 group-title="LOCAL" tvg-logo="https://1.bp.blogspot.com/-Z3CkwxY4fwY/YAJypg5UiPI/AAAAAAAA7vA/pzgUVEWEm6w7d-vCJEtQSU5MG8O-ixbkQCLcBGAsYHQ/s802/tvp-2020.png" ,TVP PUBLICA
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
+#EXTINF:-1 group-title="MOL LATINA" ,A24
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174479&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:-1 group-title="MOL LATINA" ,ADULT SWIM
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174548&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:-1 group-title="MOL LATINA" ,AMC
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174480&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:-1 group-title="MOL LATINA" ,AMERICA TV
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174482&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:-1 group-title="MOL LATINA" ,AMERICA TV PERU
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174451&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:-1 group-title="MOL LATINA" ,ANTARES TV PERU
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174453&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:-1 group-title="MOL LATINA" ,BABY TV
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174486&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:0 group-title="MOL LATINA" ,BOLIVISION
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=175126&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:-1 group-title="MOL LATINA" ,C5N
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174488&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:-1 group-title="MOL LATINA" ,CANAL 26
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174496&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:-1 group-title="MOL LATINA" ,CANAL N PERU
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174454&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:0 group-title="MOL LATINA" ,CARACOL COLOMBIA
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=318225&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:-1 group-title="MOL LATINA" ,CINE LATINO
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174499&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:-1 group-title="MOL LATINA" ,CINECANAL
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174500&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:-1 group-title="MOL LATINA" ,CIUDAD MAGAZINE
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174502&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:-1 group-title="MOL LATINA" ,COMEDY CENTRAL
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174508&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:-1 group-title="MOL LATINA" ,CRONICA
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174511&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:-1 group-title="MOL LATINA" ,DISNEY JUNIOR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174516&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:-1 group-title="MOL LATINA" ,ECO TV PANAMA
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174418&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:-1 group-title="MOL LATINA" ,EL NUEVE
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174521&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:-1 group-title="MOL LATINA" ,EL TRECE
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174522&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:-1 group-title="MOL LATINA" ,ENCUENTRO
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174523&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:-1 group-title="MOL LATINA" ,EUROPA EUROPA
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174528&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:-1 group-title="MOL LATINA" ,FILM & ARTS
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174529&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:-1 group-title="MOL LATINA" ,GLOBO BR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174402&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:-1 group-title="MOL LATINA" ,GLOBO NEWS BR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174400&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:-1 group-title="MOL LATINA" ,HBO POP
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174568&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:-1 group-title="MOL LATINA" ,LATINA PERU
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174467&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:-1 group-title="MOL LATINA" ,LITUS
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174563&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:-1 group-title="MOL LATINA" ,LN+
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174565&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:-1 group-title="MOL LATINA" ,M+
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174470&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:-1 group-title="MOL LATINA" ,MULTIVISION
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174573&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:-1 group-title="MOL LATINA" ,NAT GEO WILD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174577&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:-1 group-title="MOL LATINA" ,NICKELODEON
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174579&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:0 group-title="MOL LATINA" ,NTN24 COLOMBIA
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=318257&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:-1 group-title="MOL LATINA" ,PAKA PAKA
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174580&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:-1 group-title="MOL LATINA" ,PANAMERICANA TV PERU
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174472&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:0 group-title="MOL LATINA" ,RCN COLOMBIA
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=318261&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:-1 group-title="MOL LATINA" ,RURAL
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174586&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:0 group-title="MOL LATINA" ,SURAM TV
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=318276&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:-1 group-title="MOL LATINA" ,SYFY
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174591&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:-1 group-title="MOL LATINA" ,TELEFE
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174594&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:-1 group-title="MOL LATINA" ,TELEMAX
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174595&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:-1 group-title="MOL LATINA" ,TELEMETRO PANAMA
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174424&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:-1 group-title="MOL LATINA" ,TELEMUNDO INTERNACIONAL
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174596&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:-1 group-title="MOL LATINA" ,TN
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174600&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:-1 group-title="MOL LATINA" ,TVN PANAMA
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174426&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:-1 group-title="MOL LATINA" ,TVP TELEVISION PUBLICA
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174598&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:-1 group-title="MOL LATINA" ,TVPE PERU
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174463&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:-1 group-title="MOL LATINA" ,VOLVER
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174613&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:-1 group-title="MOL LATINA" ,ZZSIN SEÑAL
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174477&extension=ts&play_token=6Bk2L1oFUT
 #EXTINF:0 group-title="MOL2" ,A BOLA PT
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=461165&extension=ts&play_token=ltn2GgE1z6
 #EXTINF:0 group-title="MOL2" ,AL KASS 1
@@ -1011,6 +1151,8 @@ http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=213664&extension=
 http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=213663&extension=ts
 #EXTINF:0 group-title="MOL2" ,ARENA SPORT 5
 http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=213662&extension=ts
+#EXTINF:0 group-title="MOL2" ,BAND SPORTS
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=166813&extension=ts&play_token=6Bk2L1oFUT
 #EXTINF:0 group-title="MOL2" ,BEIN SPORT FR 06
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=59068&extension=ts&play_token=ltn2GgE1z6
 #EXTINF:0 group-title="MOL2" ,BEIN SPORTS AR 00
@@ -1123,20 +1265,38 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=56683&extension
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=181350&extension=ts&play_token=5X5eTFV9Oc
 #EXTINF:0 group-title="MOL2" ,DAZN ZONA
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=365406&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:-1 group-title="MOL2" ,DEPORTV
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174512&extension=ts&play_token=6Bk2L1oFUT
 #EXTINF:0 group-title="MOL2" ,DIEMA SPORT 1
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=205422&extension=ts&play_token=ltn2GgE1z6
 #EXTINF:0 group-title="MOL2" ,DIEMA SPORT 2
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=205421&extension=ts&play_token=ltn2GgE1z6
+#EXTINF:-1 group-title="MOL2" ,ESPN 1 ARG
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174526&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:0 group-title="MOL2" ,ESPN 1 BRASIL
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=166794&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:-1 group-title="MOL2" ,ESPN 3 ARG
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174525&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:0 group-title="MOL2" ,ESPN 5 BRASIL
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=166796&extension=ts&play_token=6Bk2L1oFUT
 #EXTINF:0 group-title="MOL2" ,ESPN US 1
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=61458&extension=ts&play_token=ltn2GgE1z6
 #EXTINF:0 group-title="MOL2" ,ESPN US 2
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=61459&extension=ts&play_token=ltn2GgE1z6
+#EXTINF:-1 group-title="MOL2" ,FOX SPORTS 2 ARG
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174542&extension=ts&play_token=6Bk2L1oFUT
 #EXTINF:0 group-title="MOL2" ,FS ESPAÑOL
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=61404&extension=ts&play_token=ltn2GgE1z6
 #EXTINF:0 group-title="MOL2" ,FS1
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=61457&extension=ts&play_token=ltn2GgE1z6
+#EXTINF:0 group-title="MOL2" ,FS1 MLS
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=166797&extension=ts&play_token=6Bk2L1oFUT
 #EXTINF:0 group-title="MOL2" ,FS2
 http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61346&extension=ts
+#EXTINF:-1 group-title="MOL2" ,GOL PERU
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174464&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:-1 group-title="MOL2" ,GOL TV ECU
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174549&extension=ts&play_token=6Bk2L1oFUT
 #EXTINF:0 group-title="MOL2" ,GOLF CHANNEL
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=61455&extension=ts&play_token=ltn2GgE1z6
 #EXTINF:-1 group-title="MOL2" tvg-logo="https://static.epg.best/fr/InfosportPlus.fr.png" ,Infosport+ FHD
@@ -1185,6 +1345,8 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=59301&extension
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=97241&extension=ts&play_token=6Bk2L1oFUT
 #EXTINF:0 group-title="MOL2" ,POLSAT SPORT PREMIUM 2
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=97243&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:0 group-title="MOL2" ,PREMIERE 1 BR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=166801&extension=ts&play_token=6Bk2L1oFUT
 #EXTINF:0 group-title="MOL2" ,RAI SPORT HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=56646&extension=ts&play_token=dxEc6Qvr9D
 #EXTINF:0 group-title="MOL2" ,RING
@@ -1243,6 +1405,12 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=56601&extension
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=56610&extension=ts&play_token=iQCxuwyeq3
 #EXTINF:0 group-title="MOL2" ,Sky Sport Uno FHD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=56598&extension=ts&play_token=Gy5B7WFptF
+#EXTINF:0 group-title="MOL2" ,SPORTV 1 BR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=166798&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:0 group-title="MOL2" ,SPORTV 2 BR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=166799&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:0 group-title="MOL2" ,SPORTV 3 BR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=166800&extension=ts&play_token=6Bk2L1oFUT
 #EXTINF:0 group-title="MOL2" ,SUPER TENNIS FHD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=56628&extension=ts&play_token=h4h0smHD9d
 #EXTINF:0 group-title="MOL2" ,SUPERPORT RUGBY
@@ -1261,12 +1429,16 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=457063&extensio
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=457064&extension=ts&play_token=ltn2GgE1z6
 #EXTINF:0 group-title="MOL2" ,SUPERSPORT VARIETY 04
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=457065&extension=ts&play_token=ltn2GgE1z6
+#EXTINF:-1 group-title="MOL2" ,TNT SPORTS ARG
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174603&extension=ts&play_token=6Bk2L1oFUT
 #EXTINF:0 group-title="MOL2" ,TSN 2
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=61409&extension=ts&play_token=ltn2GgE1z6
 #EXTINF:0 group-title="MOL2" ,TSN 4
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=61407&extension=ts&play_token=ltn2GgE1z6
 #EXTINF:0 group-title="MOL2" ,TSN 5
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=61406&extension=ts&play_token=ltn2GgE1z6
+#EXTINF:-1 group-title="MOL2" ,TYC SPORTS
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174609&extension=ts&play_token=6Bk2L1oFUT
 #EXTINF:0 group-title="MOL2" ,VOO SPORT 1
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=42370&extension=ts&play_token=ltn2GgE1z6
 #EXTINF:0 group-title="MOL2" ,VOO SPORT 2
@@ -1773,7 +1945,9 @@ https://live-kh-1123139281.thapcam.link/mySD/playlist.m3u8
 https://live-kh-1123139281.thapcam.link/soiSD/playlist.m3u8
 #EXTINF:0 group-title="WEBCAMS Y PAISAJES" ,LAGO
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55593&extension=ts&play_token=ltn2GgE1z6
-#EXTINF:0 group-title="ZZPRUEBAS" ,PRUEBA DADDY
-https://salamus2023.onlinehdhls.ru/ddy3/premium818/playlist.m3u8
-#EXTINF:0 group-title="ZZPRUEBAS" ,PRUEBA KUSNA
-https://kusnadipepenk.github.io/ntn/sprtv1.m3u8
+#EXTINF:0 group-title="WORLD RADIO TOKEN" ,ASTRO SUPER SPORT 1
+https://worldradio.online/proxy/?q=185.53.90.34:25461/pachaman/asdfghuytrc/63112
+#EXTINF:0 group-title="WORLD RADIO TOKEN" ,ASTRO SUPER SPORT 2
+https://worldradio.online/proxy/?q=185.53.90.34:25461/pachaman/asdfghuytrc/63113
+#EXTINF:0 group-title="WORLD RADIO TOKEN" ,ASTRO SUPER SPORT 3
+https://worldradio.online/proxy/?q=185.53.90.34:25461/pachaman/asdfghuytrc/63114
