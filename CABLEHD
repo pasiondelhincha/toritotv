@@ -13541,6 +13541,68 @@ https://fe07c0dd11534a65815a0082414c41c3.mediatailor.us-east-1.amazonaws.com/v1/
 https://olympusamagi.amagi.tv/hls/amagi_hls_data_samsungus-tu-cine-us-samsungus/CDN/playlist.m3u8?device%5Bdid%5D%3D%7BPSID%7D%26device%5Bdnt%5D%3D%7BTARGETOPT%7D%26app_name%3D%7BAPP_NAME%7D%26us_privacy%3D1YNY
 #EXTINF:-1 group-title="SAMSUNG" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/27/USAJ1700009QJ_20210428T040243.png" ,USA | TU CINE
 https://olympusamagi.amagi.tv/hls/amagi_hls_data_samsungus-tu-cine-us-samsungus/CDN/playlist.m3u8?device%5Bdid%5D%3D%7BPSID%7D%26device%5Bdnt%5D%3D%7BTARGETOPT%7D%26app_name%3D%7BAPP_NAME%7D%26us_privacy%3D1YNY
+#EXTINF:-1 group-title="SPORTS URSS" ,Equalympic HD
+http://cdnua03.hls.tv/524/hls/8743361621b245838bee193c9ec28322/4779/stream.m3u8
+#EXTINF:-1 group-title="SPORTS URSS" ,Eurosport 1
+http://cdnua03.hls.tv/524/hls/8743361621b245838bee193c9ec28322/216/stream.m3u8
+#EXTINF:-1 group-title="SPORTS URSS" ,Eurosport 1 HD
+http://cdnua03.hls.tv/524/hls/8743361621b245838bee193c9ec28322/217/stream.m3u8
+#EXTINF:-1 group-title="SPORTS URSS" ,Eurosport 2
+http://cdnua03.hls.tv/524/hls/8743361621b245838bee193c9ec28322/218/stream.m3u8
+#EXTINF:-1 group-title="SPORTS URSS" ,Eurosport 2 HD
+http://cdnua03.hls.tv/524/hls/8743361621b245838bee193c9ec28322/219/stream.m3u8
+#EXTINF:-1 group-title="SPORTS URSS" ,Inhockey
+https://bkm.beetv.kz/btv/live/hls/000007832.m3u8
+#EXTINF:-1 group-title="SPORTS URSS" ,Insport HD
+https://bkm.beetv.kz/btv/live/hls/000006983.m3u8
+#EXTINF:-1 group-title="SPORTS URSS" ,Nautical Channel HD
+http://cdnua03.hls.tv/524/hls/8743361621b245838bee193c9ec28322/4245/stream.m3u8
+#EXTINF:-1 group-title="SPORTS URSS" ,QazSport HD
+https://bkm.beetv.kz/btv/live/hls/000003038.m3u8
+#EXTINF:-1 group-title="SPORTS URSS" ,Red Booll
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 group-title="SPORTS URSS" ,Setanta Qazaqstan HD
+https://bkm.beetv.kz/btv/live/hls/000002649.m3u8
+#EXTINF:-1 group-title="SPORTS URSS" ,Setanta Qazaqstan HD KZ
+https://bkm.beetv.kz/btv/live/hls/000004619.m3u8
+#EXTINF:-1 group-title="SPORTS URSS" ,Setanta Sports +
+http://cdnua03.hls.tv/524/hls/8743361621b245838bee193c9ec28322/4314/stream.m3u8
+#EXTINF:-1 group-title="SPORTS URSS" ,Setanta Sports 1 HD
+https://bkm.beetv.kz/btv/live/hls/000004498.m3u8
+#EXTINF:-1 group-title="SPORTS URSS" ,Setanta Sports 1 HD KZ
+https://bkm.beetv.kz/btv/live/hls/000006998.m3u8
+#EXTINF:-1 group-title="SPORTS URSS" ,Setanta Sports 2 HD
+https://bkm.beetv.kz/btv/live/hls/000004499.m3u8
+#EXTINF:-1 group-title="SPORTS URSS" ,Setanta Sports 2 HD KZ
+https://bkm.beetv.kz/btv/live/hls/000006899.m3u8
+#EXTINF:-1 group-title="SPORTS URSS" ,Setanta Ukraine
+http://cdnua03.hls.tv/524/hls/8743361621b245838bee193c9ec28322/291/stream.m3u8
+#EXTINF:-1 group-title="SPORTS URSS" ,Tennis Channel
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
+#EXTINF:-1 group-title="SPORTS URSS" ,Trace Sport Stars HD
+http://cdnua03.hls.tv/524/hls/8743361621b245838bee193c9ec28322/4781/stream.m3u8
+#EXTINF:-1 group-title="SPORTS URSS" ,UPL 1 HD
+http://cdnua03.hls.tv/524/hls/8743361621b245838bee193c9ec28322/4853/stream.m3u8
+#EXTINF:-1 group-title="SPORTS URSS" ,UPL 2 HD
+http://cdnua03.hls.tv/524/hls/8743361621b245838bee193c9ec28322/4854/stream.m3u8
+#EXTINF:-1 group-title="SPORTS URSS" ,UPL 3 HD
+http://cdnua03.hls.tv/524/hls/8743361621b245838bee193c9ec28322/4855/stream.m3u8
+#EXTINF:-1 group-title="SPORTS URSS" ,Viju+ Sport HD
+https://bkm.beetv.kz/btv/live/hls/000000135.m3u8
+#EXTINF:-1 group-title="SPORTS URSS" ,X-Stream
+http://iptv.prosto.tv:7000/ch313/video.m3u8?secret=cledwwov
+#EXTINF:-1 group-title="SPORTS URSS" ,XSPORT
+http://cdnua03.hls.tv/524/hls/8743361621b245838bee193c9ec28322/576/stream.m3u8
+#EXTINF:-1 group-title="SPORTS URSS" ,XSport + HD
+http://cdnua03.hls.tv/524/hls/8743361621b245838bee193c9ec28322/4807/stream.m3u8
+#EXTINF:-1 group-title="SPORTS URSS" ,XSPORT HD
+http://cdnua03.hls.tv/524/hls/8743361621b245838bee193c9ec28322/3999/stream.m3u8
+#EXTINF:-1 group-title="SPORTS URSS" ,Беларусь 5 Интернет
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS URSS" ,Рибалка
+http://cdnua03.hls.tv/524/hls/8743361621b245838bee193c9ec28322/4768/stream.m3u8
+#EXTINF:-1 group-title="SPORTS URSS" ,Суспільне Спорт HD
+http://cdnua03.hls.tv/524/hls/8743361621b245838bee193c9ec28322/4856/stream.m3u8
 #EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,3bb Asian HD
 http://gmlive.ddns.net:5000/kun5g/kun5g2024/42
 #EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,3BB Sport 1HD
