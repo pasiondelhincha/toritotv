@@ -15327,6 +15327,16 @@ http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=272825&ex
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=941564&extension=ts
 #EXTINF:-1 group-title="TV PREMIUM Plus" ,SPOTV2
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=941563&extension=ts
+#EXTINF:0 group-title="TV PREMIUM Plus" ,SSC 1
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=1002802&extension=m3u8
+#EXTINF:0 group-title="TV PREMIUM Plus" ,SSC 2
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=1002794&extension=m3u8
+#EXTINF:0 group-title="TV PREMIUM Plus" ,SSC 3
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=1002786&extension=m3u8
+#EXTINF:0 group-title="TV PREMIUM Plus" ,SSC 4
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=1002779&extension=m3u8
+#EXTINF:0 group-title="TV PREMIUM Plus" ,SSC 5
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=1002775&extension=m3u8
 #EXTINF:-1 group-title="TV PREMIUM Plus" ,STARZ
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45480&extension=ts
 #EXTINF:-1 group-title="TV PREMIUM Plus" ,STARZ Cinema
@@ -15359,6 +15369,8 @@ http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45481&ext
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45477&extension=ts
 #EXTINF:-1 group-title="TV PREMIUM Plus" ,SUPERHERO Movies
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=558765&extension=ts
+#EXTINF:0 group-title="TV PREMIUM Plus" ,SuperSports football
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=144417&extension=ts
 #EXTINF:-1 group-title="TV PREMIUM Plus" ,SuperSports VARIETY 3
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=144419&extension=ts
 #EXTINF:-1 group-title="TV PREMIUM Plus" ,Syfy
@@ -15427,6 +15439,16 @@ http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=91906&ext
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45462&extension=ts
 #EXTINF:-1 group-title="TV PREMIUM Plus" ,YES NETWORK
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=90970&extension=ts
+#EXTINF:0 group-title="TV PREMIUM Plus" ,ZIGGO DOCU
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=1282762&&extension=ts
+#EXTINF:0 group-title="TV PREMIUM Plus" ,ZIGGO GOLF
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=1282761&&extension=ts
+#EXTINF:0 group-title="TV PREMIUM Plus" ,ZIGGO RACING
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=1282760&&extension=ts
+#EXTINF:0 group-title="TV PREMIUM Plus" ,ZIGGO SPORT SELECT
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=1282759&&extension=ts
+#EXTINF:0 group-title="TV PREMIUM Plus" ,ZIGGO VOETBALL
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=1282763&&extension=ts
 #EXTINF:-1 group-title="ViX" tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" ,ATV+
 https://linear-258.frequency.stream/dist/vix/258/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="ViX" tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" ,ATV+
