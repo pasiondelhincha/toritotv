@@ -989,16 +989,16 @@ https://stream1.sersat.com/hls/argentinisima.m3u8?
 http://streaming.arcast.com.ar:1935/atbargentina/atbargentina/chunklist.m3u8
 #EXTINF:0 group-title="LOCAL" tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/bayres-tv.png" ,BAYRES TV
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
-#EXTINF:0 group-title="LOCAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/C5N_logo.svg/1200px-C5N_logo.svg.png" ,C5N
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0067
+#EXTINF:0 group-title="LOCAL" tvg-id="http://190.11.130.46/mnp/c5n/output.mpd" tvg-name="http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0067" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/C5N_logo.svg/1200px-C5N_logo.svg.png" ,C5N
+https://ythls-v2.onrender.com/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
 #EXTINF:0 group-title="LOCAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/800px-Canal_26_logo_%282022%29.svg.png" ,CANAL 26
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/0/playlist.m3u8
-#EXTINF:0 group-title="LOCAL" tvg-logo="https://4.bp.blogspot.com/-RjXsOFCUJa0/WbWZpQWlwZI/AAAAAAAABnA/vAeBWck6LNw4HpNBxdg5unnmIbpYXo1GgCLcBGAs/s1600/cronica-hd.png" ,CRONICA
+#EXTINF:0 group-title="LOCAL" tvg-name="http://190.11.130.46/mnp/cronica/output.mpd" tvg-logo="https://4.bp.blogspot.com/-RjXsOFCUJa0/WbWZpQWlwZI/AAAAAAAABnA/vAeBWck6LNw4HpNBxdg5unnmIbpYXo1GgCLcBGAs/s1600/cronica-hd.png" ,CRONICA
 https://ythls-v2.onrender.com/channel/UCT7KFGv6s2a-rh2Jq8ZdM1g.m3u8
 #EXTINF:0 group-title="LOCAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Canal_9_ba_logo.png" ,EL NUEVE
 https://delivery.cdn.rcs.net.ar/mnp/elnueve/output.mpd
-#EXTINF:0 group-title="LOCAL" tvg-id="https://livetrx01.vodgc.net/eltrecetv/tracks-v3a1/mono.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Logo_Canal_13_200_8.png" ,EL TRECE
-http://45.5.151.151:8000/play/a0cp/index.m3u8
+#EXTINF:0 group-title="LOCAL" tvg-name="http://45.5.151.151:8000/play/a0cp/index.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Logo_Canal_13_200_8.png" ,EL TRECE
+https://livetrx01.vodgc.net/eltrecetv/tracks-v3a1/mono.m3u8
 #EXTINF:0 group-title="LOCAL" tvg-id="http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0055" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Canal_encuentro_2020.png/480px-Canal_encuentro_2020.png" ,ENCUENTRO
 https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/.m3u8
 #EXTINF:0 group-title="LOCAL" tvg-name="https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=4499968.m3u8?" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_10/large.1027530100_IP2.png.09507349c734309f8ec316ccd9633b41.png" ,IP INFORMACION PERIODISTICA
@@ -1019,8 +1019,8 @@ http://offshore.lat:8080/play/MWeogaSmpVBuh-TFCnuNr6O_2rAGhXlchnBbk1IrQ3Hhjj75Rb
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 #EXTINF:0 group-title="LOCAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/TLMX.png/220px-TLMX.png" ,TELEMAX
 https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/0/playlist.m3u8
-#EXTINF:0 group-title="LOCAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/2560px-TN_todo_noticias_logo.svg.png" ,TN
-https://ythls-v2.onrender.com/channel/UCj6PcyLvpnIRT_2W_mwa9Aw.m3u8
+#EXTINF:0 group-title="LOCAL" tvg-id="https://ythls-v2.onrender.com/channel/UCj6PcyLvpnIRT_2W_mwa9Aw.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/2560px-TN_todo_noticias_logo.svg.png" ,TN
+http://190.11.130.46/mnp/tnt/output.mpd
 #EXTINF:0 group-title="LOCAL" tvg-logo="https://1.bp.blogspot.com/-Z3CkwxY4fwY/YAJypg5UiPI/AAAAAAAA7vA/pzgUVEWEm6w7d-vCJEtQSU5MG8O-ixbkQCLcBGAsYHQ/s802/tvp-2020.png" ,TVP PUBLICA
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
 #EXTINF:-1 group-title="MOL LATINA" ,A24
@@ -1961,3 +1961,5 @@ https://worldradio.online/proxy/?q=185.53.90.34:25461/pachaman/asdfghuytrc/63112
 https://worldradio.online/proxy/?q=185.53.90.34:25461/pachaman/asdfghuytrc/63113
 #EXTINF:0 group-title="WORLD RADIO TOKEN" ,ASTRO SUPER SPORT 3
 https://worldradio.online/proxy/?q=185.53.90.34:25461/pachaman/asdfghuytrc/63114
+#EXTINF:0 group-title="ENTRETENIMIENTO E INTERES GENERAL" ,TLC 03
+http://190.11.130.46/mnp/dsc_tlc/output.mpd
