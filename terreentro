@@ -1957,9 +1957,4 @@ https://live-kh-1123139281.thapcam.link/soiSD/playlist.m3u8
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55593&extension=ts&play_token=ltn2GgE1z6
 #EXTINF:0 group-title="WORLD RADIO TOKEN" ,ASTRO SUPER SPORT 1
 https://worldradio.online/proxy/?q=185.53.90.34:25461/pachaman/asdfghuytrc/63112
-#EXTINF:0 group-title="WORLD RADIO TOKEN" ,ASTRO SUPER SPORT 2
-https://worldradio.online/proxy/?q=185.53.90.34:25461/pachaman/asdfghuytrc/63113
-#EXTINF:0 group-title="WORLD RADIO TOKEN" ,ASTRO SUPER SPORT 3
-https://worldradio.online/proxy/?q=185.53.90.34:25461/pachaman/asdfghuytrc/63114
-#EXTINF:0 group-title="ENTRETENIMIENTO E INTERES GENERAL" ,TLC 03
-http://190.11.130.46/mnp/dsc_tlc/output.mpd
+#EXTINF:0 group-title="WORLD RADIO TOKEN" ,ASTRO SUPER SPO
