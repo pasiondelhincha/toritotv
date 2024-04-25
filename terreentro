@@ -747,6 +747,8 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ea71d48af1d0b0007d
 http://190.7.19.197:8098/play/a01h/index.m3u8
 #EXTINF:0 group-title="ENTRETENIMIENTO E INTERES GENERAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/512px-TLC_Logo.svg.png" ,TLC 02
 http://offshore.lat:8080/armando86/dPCeWVgyHN9j/301426
+#EXTINF:0 group-title="ENTRETENIMIENTO E INTERES GENERAL" ,TLC 03
+http://190.11.130.46/mnp/dsc_tlc/output.mpd
 #EXTINF:0 group-title="ENTRETENIMIENTO E INTERES GENERAL" tvg-logo="data:image/png;base64,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" ,TNT NOVELAS
 http://offshore.lat:8080/play/MWeogaSmpVBuh-TFCnuNr6O_2rAGhXlchnBbk1IrQ3H9vcgQYcsh3VClcfixwcoD
 #EXTINF:0 group-title="ENTRETENIMIENTO E INTERES GENERAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TruTV_2014.svg/512px-TruTV_2014.svg.png" ,TRU TV
@@ -771,30 +773,30 @@ http://offshore.lat:8080/play/MWeogaSmpVBuh-TFCnuNr6O_2rAGhXlchnBbk1IrQ3G-8hbCqF
 http://vplay.club:80/arturo12345/arturo12345/589321
 #EXTINF:0 group-title="FUTBOL ARGENTINO" tvg-logo="https://i.postimg.cc/13pLGDC4/DSPORTS.png" ,DSPORTS URU
 http://vplay.club:80/arturo12345/arturo12345/589329
-#EXTINF:0 group-title="FUTBOL ARGENTINO" tvg-logo="https://w7.pngwing.com/pngs/318/371/png-transparent-espn-television-espn-extra-high-definition-video-lam-radio-hd-television-text-logo.png" ,ESPN 1
-http://181.209.114.13:8000/play/a05a/index.m3u8
-#EXTINF:0 group-title="FUTBOL ARGENTINO" tvg-logo="https://i.postimg.cc/Y9Y5pgzt/ESPN-2-en-vivo.png" ,ESPN 2
-http://181.209.114.13:8000/play/a059/index.m3u8
-#EXTINF:0 group-title="FUTBOL ARGENTINO" tvg-name="https://delivery.cdn.rcs.net.ar/mnp/espn3/output.mpd" tvg-logo="https://i.postimg.cc/7P1Fd3LV/ESPN3-Logo.png" ,ESPN 3
-http://181.209.114.13:8000/play/a05b/index.m3u8
-#EXTINF:0 group-title="FUTBOL ARGENTINO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR24xugoiwQgKe8SuNNRELEWfRlNnbT098NZ2aD_Iu9&s" ,ESPN 4
-http://181.209.114.13:8000/play/a076/index.m3u8
+#EXTINF:0 group-title="FUTBOL ARGENTINO" tvg-name="http://181.209.114.13:8000/play/a05a/index.m3u8" tvg-logo="https://w7.pngwing.com/pngs/318/371/png-transparent-espn-television-espn-extra-high-definition-video-lam-radio-hd-television-text-logo.png" ,ESPN 1
+http://190.11.130.46/mnp/espn/output.mpd
+#EXTINF:0 group-title="FUTBOL ARGENTINO" tvg-name="http://181.209.114.13:8000/play/a059/index.m3u8" tvg-logo="https://i.postimg.cc/Y9Y5pgzt/ESPN-2-en-vivo.png" ,ESPN 2
+http://190.11.130.46/mnp/espn2/output.mpd
+#EXTINF:0 group-title="FUTBOL ARGENTINO" tvg-name="http://181.209.114.13:8000/play/a05b/index.m3u8" tvg-logo="https://i.postimg.cc/7P1Fd3LV/ESPN3-Logo.png" ,ESPN 3
+http://190.11.130.46/mnp/espn3/output.mpd
+#EXTINF:0 group-title="FUTBOL ARGENTINO" tvg-name="http://181.209.114.13:8000/play/a076/index.m3u8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR24xugoiwQgKe8SuNNRELEWfRlNnbT098NZ2aD_Iu9&s" ,ESPN 4
+http://190.11.130.46/mnp/espn_extra/output.mpd
 #EXTINF:0 group-title="FUTBOL ARGENTINO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/2560px-ESPN_5_logo.svg.png" ,ESPN 5
 http://190.60.39.17:7777/play/a0h5/index.m3u8
 #EXTINF:0 group-title="FUTBOL ARGENTINO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/2560px-ESPN_6_logo.svg.png" ,ESPN 6
 http://190.60.39.17:7777/play/a0gx/index.m3u8
 #EXTINF:0 group-title="FUTBOL ARGENTINO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/2560px-ESPN_7_logo.svg.png" ,ESPN 7
 http://190.60.39.17:7777/play/a0gw/index.m3u8
-#EXTINF:0 group-title="FUTBOL ARGENTINO" tvg-id="http://45.5.151.151:8000/play/a0fe/index.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1200px-ESPN_Premium_logo.svg.png" ,ESPN PREMIUM
-http://181.209.114.13:8000/play/a078/index.m3u8
-#EXTINF:0 group-title="FUTBOL ARGENTINO" tvg-logo="https://i.postimg.cc/W4MZq5wy/FOX-SPORT-1.png" ,FOX SPORT
-http://181.209.114.13:8000/play/a07j/index.m3u8
-#EXTINF:0 group-title="FUTBOL ARGENTINO" tvg-name="https://router.cdn.rcs.net.ar/mnp/fox_sport2/output.mpd" tvg-logo="https://i.postimg.cc/RF4H7wPZ/FOX-SPORT-2.png" ,FOX SPORT 2
-http://181.209.114.13:8000/play/a05c/index.m3u8
-#EXTINF:0 group-title="FUTBOL ARGENTINO" tvg-logo="https://i.postimg.cc/qRwCjgYX/FOX-SPORT-3.png" ,FOX SPORT 3
-http://181.209.114.13:8000/play/a02t/index.m3u8
-#EXTINF:0 group-title="FUTBOL ARGENTINO" tvg-id="http://45.5.151.151:8000/play/a002/index.m3u8" tvg-logo="https://i.postimg.cc/ncqcD2GQ/TNT-SPORTS.png" ,TNT SPORTS
-http://181.209.114.13:8000/play/a02u/index.m3u8
+#EXTINF:0 group-title="FUTBOL ARGENTINO" parent-code="http://45.5.151.151:8000/play/a0fe/index.m3u8" audio-track="http://181.209.114.13:8000/play/a078/index.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1200px-ESPN_Premium_logo.svg.png" ,ESPN PREMIUM
+http://190.11.130.46/mnp/espnpremium/output.mpd
+#EXTINF:0 group-title="FUTBOL ARGENTINO" tvg-name="http://181.209.114.13:8000/play/a07j/index.m3u8" tvg-logo="https://i.postimg.cc/W4MZq5wy/FOX-SPORT-1.png" ,FOX SPORT
+http://190.11.130.46/mnp/fox_sport/output.mpd
+#EXTINF:0 group-title="FUTBOL ARGENTINO" tvg-id="http://181.209.114.13:8000/play/a05c/index.m3u8" tvg-name="https://router.cdn.rcs.net.ar/mnp/fox_sport2/output.mpd" tvg-logo="https://i.postimg.cc/RF4H7wPZ/FOX-SPORT-2.png" ,FOX SPORT 2
+http://190.11.130.46/mnp/fox_sport2/output.mpd
+#EXTINF:0 group-title="FUTBOL ARGENTINO" tvg-name="http://181.209.114.13:8000/play/a02t/index.m3u8" tvg-logo="https://i.postimg.cc/qRwCjgYX/FOX-SPORT-3.png" ,FOX SPORT 3
+http://190.11.130.46/mnp/fox_sport3/output.mpd
+#EXTINF:0 group-title="FUTBOL ARGENTINO" tvg-id="http://181.209.114.13:8000/play/a02u/index.m3u8" parent-code="http://45.5.151.151:8000/play/a002/index.m3u8" tvg-logo="https://i.postimg.cc/ncqcD2GQ/TNT-SPORTS.png" ,TNT SPORTS
+http://190.11.130.46/mnp/tntsports/output.mpd
 #EXTINF:0 group-title="FUTBOL ARGENTINO" tvg-logo="https://1.bp.blogspot.com/-Z3CkwxY4fwY/YAJypg5UiPI/AAAAAAAA7vA/pzgUVEWEm6w7d-vCJEtQSU5MG8O-ixbkQCLcBGAsYHQ/s802/tvp-2020.png" ,TVP PUBLICA 2
 http://offshore.lat:8080/play/MWeogaSmpVBuh-TFCnuNr6O_2rAGhXlchnBbk1IrQ3FdLaBN8xd-CvffeoSKMk32
 #EXTINF:0 group-title="FUTBOL ARGENTINO" tvg-name="https://delivery.cdn.rcs.net.ar/mnp/tyc/output.mpd" tvg-logo="https://i.postimg.cc/HkNRX3Sp/TYC-SPORTS.png" ,TYC SPORTS
@@ -1689,6 +1691,156 @@ http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/master.m3u8?fluxustv.m3u8
 http://38.56.118.88:4000/play/a010/index.m3u8
 #EXTINF:0 group-title="NOTICIAS INTERNACIONALES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/TVRI_World_Old_Logo.png/revision/latest?cb=20220222084819" ,TVRI WORLD
 https://s7.mbahnunungonline.net/live/m3u8/id/3f58825fe229a8i.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_14
+http://paco@181.78.105.146:2000/play/a014/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_15
+http://paco@181.78.105.146:2000/play/a015/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_17
+http://paco@181.78.105.146:2000/play/a017/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_18
+http://paco@181.78.105.146:2000/play/a018/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_2
+http://paco@181.78.105.146:2000/play/a002/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_207
+http://paco@181.78.105.146:2000/play/a00g/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_208
+http://paco@181.78.105.146:2000/play/a00h/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_209
+http://paco@181.78.105.146:2000/play/a00i/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_210
+http://paco@181.78.105.146:2000/play/a00j/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_213
+http://paco@181.78.105.146:2000/play/a00m/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_214
+http://paco@181.78.105.146:2000/play/a00n/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_222
+http://paco@181.78.105.146:2000/play/a00v/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_224
+http://paco@181.78.105.146:2000/play/a00x/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_225
+http://paco@181.78.105.146:2000/play/a00y/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_232
+http://paco@181.78.105.146:2000/play/a01f/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_235
+http://paco@181.78.105.146:2000/play/a01i/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_238
+http://paco@181.78.105.146:2000/play/a01l/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_241
+http://paco@181.78.105.146:2000/play/a01o/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_245
+http://paco@181.78.105.146:2000/play/a01s/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_279
+http://paco@181.78.105.146:2000/play/a03a/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_280
+http://paco@181.78.105.146:2000/play/a03b/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_282
+http://paco@181.78.105.146:2000/play/a03d/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_284
+http://paco@181.78.105.146:2000/play/a03f/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_285
+http://paco@181.78.105.146:2000/play/a03g/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_286
+http://paco@181.78.105.146:2000/play/a03h/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_287
+http://paco@181.78.105.146:2000/play/a03i/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_288
+http://paco@181.78.105.146:2000/play/a03j/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_289
+http://paco@181.78.105.146:2000/play/a03k/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_292
+http://paco@181.78.105.146:2000/play/a03n/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_299
+http://paco@181.78.105.146:2000/play/a03u/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_302
+http://paco@181.78.105.146:2000/play/a03x/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_305
+http://paco@181.78.105.146:2000/play/a04a/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_307
+http://paco@181.78.105.146:2000/play/a04c/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_310
+http://paco@181.78.105.146:2000/play/a04f/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_312
+http://paco@181.78.105.146:2000/play/a04h/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_313
+http://paco@181.78.105.146:2000/play/a04i/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_314
+http://paco@181.78.105.146:2000/play/a04j/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_317
+http://paco@181.78.105.146:2000/play/a04m/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_318
+http://paco@181.78.105.146:2000/play/a04n/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_319
+http://paco@181.78.105.146:2000/play/a04o/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_320
+http://paco@181.78.105.146:2000/play/a04p/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_321
+http://paco@181.78.105.146:2000/play/a04q/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_328
+http://paco@181.78.105.146:2000/play/a04x/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_329
+http://paco@181.78.105.146:2000/play/a04y/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_38
+http://paco@181.78.105.146:2000/play/a038/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_39
+http://paco@181.78.105.146:2000/play/a039/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_44
+http://paco@181.78.105.146:2000/play/a044/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_45
+http://paco@181.78.105.146:2000/play/a045/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_46
+http://paco@181.78.105.146:2000/play/a046/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_485
+http://paco@181.78.105.146:2000/play/a05y/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_486
+http://paco@181.78.105.146:2000/play/a05z/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_53
+http://paco@181.78.105.146:2000/play/a053/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_540
+http://paco@181.78.105.146:2000/play/a08b/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_541
+http://paco@181.78.105.146:2000/play/a08c/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_542
+http://paco@181.78.105.146:2000/play/a08d/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_544
+http://paco@181.78.105.146:2000/play/a08f/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_545
+http://paco@181.78.105.146:2000/play/a08g/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_546
+http://paco@181.78.105.146:2000/play/a08h/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_547
+http://paco@181.78.105.146:2000/play/a08i/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_548
+http://paco@181.78.105.146:2000/play/a08j/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_549
+http://paco@181.78.105.146:2000/play/a08k/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_551
+http://paco@181.78.105.146:2000/play/a08m/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_554
+http://paco@181.78.105.146:2000/play/a08p/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_557
+http://paco@181.78.105.146:2000/play/a08s/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_558
+http://paco@181.78.105.146:2000/play/a08t/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_562
+http://paco@181.78.105.146:2000/play/a08x/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_564
+http://paco@181.78.105.146:2000/play/a08z/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_63
+http://paco@181.78.105.146:2000/play/a063/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_64
+http://paco@181.78.105.146:2000/play/a064/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_92
+http://paco@181.78.105.146:2000/play/a092/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_93
+http://paco@181.78.105.146:2000/play/a093/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_94
+http://paco@181.78.105.146:2000/play/a094/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_95
+http://paco@181.78.105.146:2000/play/a095/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_96
+http://paco@181.78.105.146:2000/play/a096/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_97
+http://paco@181.78.105.146:2000/play/a097/index.m3u8
 #EXTINF:-1 group-title="POLSAT SPORT" tvg-logo="http://epg.it999.ru/img/4556.png" ,POLSAT SPORT EXTRA HD PL
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/7310/index.m3u8
 #EXTINF:-1 group-title="POLSAT SPORT" tvg-logo="http://epg.it999.ru/img/4548.png" ,Polsat Sport FHD PL
@@ -1957,4 +2109,7 @@ https://live-kh-1123139281.thapcam.link/soiSD/playlist.m3u8
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55593&extension=ts&play_token=ltn2GgE1z6
 #EXTINF:0 group-title="WORLD RADIO TOKEN" ,ASTRO SUPER SPORT 1
 https://worldradio.online/proxy/?q=185.53.90.34:25461/pachaman/asdfghuytrc/63112
-#EXTINF:0 group-title="WORLD RADIO TOKEN" ,ASTRO SUPER SPO
+#EXTINF:0 group-title="WORLD RADIO TOKEN" ,ASTRO SUPER SPORT 2
+https://worldradio.online/proxy/?q=185.53.90.34:25461/pachaman/asdfghuytrc/63113
+#EXTINF:0 group-title="WORLD RADIO TOKEN" ,ASTRO SUPER SPORT 3
+https://worldradio.online/proxy/?q=185.53.90.34:25461/pachaman/asdfghuytrc/63114
