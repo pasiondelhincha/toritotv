@@ -989,14 +989,14 @@ https://stream1.sersat.com/hls/argentinisima.m3u8?
 http://streaming.arcast.com.ar:1935/atbargentina/atbargentina/chunklist.m3u8
 #EXTINF:0 group-title="LOCAL" tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/bayres-tv.png" ,BAYRES TV
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
-#EXTINF:0 group-title="LOCAL" tvg-id="http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0072" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/C5N_logo.svg/1200px-C5N_logo.svg.png" ,C5N
-https://ythls-v2.onrender.com/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
+#EXTINF:0 group-title="LOCAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/C5N_logo.svg/1200px-C5N_logo.svg.png" ,C5N
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0067
 #EXTINF:0 group-title="LOCAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/800px-Canal_26_logo_%282022%29.svg.png" ,CANAL 26
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/0/playlist.m3u8
 #EXTINF:0 group-title="LOCAL" tvg-logo="https://4.bp.blogspot.com/-RjXsOFCUJa0/WbWZpQWlwZI/AAAAAAAABnA/vAeBWck6LNw4HpNBxdg5unnmIbpYXo1GgCLcBGAs/s1600/cronica-hd.png" ,CRONICA
 https://ythls-v2.onrender.com/channel/UCT7KFGv6s2a-rh2Jq8ZdM1g.m3u8
-#EXTINF:0 group-title="LOCAL" tvg-name="https://delivery.cdn.rcs.net.ar/mnp/elnueve/output.mpd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Canal_9_ba_logo.png" ,EL NUEVE
-https://ythls-v2.onrender.com/channel/UC6Qf8b2jcHHilkcr2wpQ9jA.m3u8
+#EXTINF:0 group-title="LOCAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Canal_9_ba_logo.png" ,EL NUEVE
+https://delivery.cdn.rcs.net.ar/mnp/elnueve/output.mpd
 #EXTINF:0 group-title="LOCAL" tvg-id="https://livetrx01.vodgc.net/eltrecetv/tracks-v3a1/mono.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Logo_Canal_13_200_8.png" ,EL TRECE
 http://45.5.151.151:8000/play/a0cp/index.m3u8
 #EXTINF:0 group-title="LOCAL" tvg-id="http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0055" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Canal_encuentro_2020.png/480px-Canal_encuentro_2020.png" ,ENCUENTRO
@@ -1575,6 +1575,8 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0d83f66c9700009b
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32f397795b750007706448/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c868322-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=fc027a03-e512-45db-98af-879f6889407f&userId=&serverSideAds=true
 #EXTINF:0 group-title="MUSICA" tvg-logo="https://i.imgur.com/bb4WElO.png" ,VH1 CLASSICS
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
+#EXTINF:0 group-title="MUSICA" ,VOD MUSIC (ARABE)
+http://iptv.icsnleb.com:25461/12/12/36
 #EXTINF:0 group-title="MUSICA" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/ZOOM-BACK-FONDO-2-300x169.jpg" ,ZOOM BACK
 http://45.160.12.253:8000/play/138
 #EXTINF:0 group-title="MUSICA PARA SOÑAR CHONA" ,01
