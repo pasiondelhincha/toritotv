@@ -12251,6 +12251,64 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1264
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4312
 #EXTINF:-1 group-title="canela tv" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/linear-zona_de_accion-estreno.nav_.jpg" ,Zona de Acción
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4312
+#EXTINF:-1 group-title="JAPON-PRIMEHOME" ,CANAL 01
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs01
+#EXTINF:-1 group-title="JAPON-PRIMEHOME" ,CANAL 02
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs02
+#EXTINF:-1 group-title="JAPON-PRIMEHOME" ,CANAL 03
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs03
+#EXTINF:-1 group-title="JAPON-PRIMEHOME" ,CANAL 04
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs04
+#EXTINF:-1 group-title="JAPON-PRIMEHOME" ,CANAL 05
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs05
+#EXTINF:-1 group-title="JAPON-PRIMEHOME" ,CANAL 06
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06
+#EXTINF:-1 group-title="JAPON-PRIMEHOME" ,CANAL 07
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07
+#EXTINF:-1 group-title="JAPON-PRIMEHOME" ,CANAL 08
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs08
+#EXTINF:-1 group-title="JAPON-PRIMEHOME" ,CANAL 09
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs09
+#EXTINF:-1 group-title="JAPON-PRIMEHOME" ,CANAL 10
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs10
+#EXTINF:-1 group-title="JAPON-PRIMEHOME" ,CANAL 11
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs11
+#EXTINF:-1 group-title="JAPON-PRIMEHOME" ,CANAL 12
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs12
+#EXTINF:-1 group-title="JAPON-PRIMEHOME" ,CANAL 13
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs13
+#EXTINF:-1 group-title="JAPON-PRIMEHOME" ,CANAL 14
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs14
+#EXTINF:-1 group-title="JAPON-PRIMEHOME" ,CANAL 15
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
+#EXTINF:-1 group-title="JAPON-PRIMEHOME" ,CANAL 16
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs16
+#EXTINF:-1 group-title="JAPON-PRIMEHOME" ,CANAL 17
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17
+#EXTINF:-1 group-title="JAPON-PRIMEHOME" ,CANAL 18
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18
+#EXTINF:-1 group-title="JAPON-PRIMEHOME" ,CANAL 19
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs19
+#EXTINF:-1 group-title="JAPON-PRIMEHOME" ,CANAL 20
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs20
+#EXTINF:-1 group-title="JAPON-PRIMEHOME" ,CANAL 21
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs21
+#EXTINF:-1 group-title="JAPON-PRIMEHOME" ,CANAL 22
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs22
+#EXTINF:-1 group-title="JAPON-PRIMEHOME" ,CANAL 23
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23
+#EXTINF:-1 group-title="JAPON-PRIMEHOME" ,CANAL 24
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs24
+#EXTINF:-1 group-title="JAPON-PRIMEHOME" ,CANAL 25
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25
+#EXTINF:-1 group-title="JAPON-PRIMEHOME" ,CANAL 26
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs26
+#EXTINF:-1 group-title="JAPON-PRIMEHOME" ,CANAL 27
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27
+#EXTINF:-1 group-title="JAPON-PRIMEHOME" ,CANAL 28
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs28
+#EXTINF:-1 group-title="JAPON-PRIMEHOME" ,CANAL 29
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs29
 #EXTINF:-1 group-title="PLEX" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/Toon-Goggles-en-Espanol_logo_dark.png" ,BR | TOON GOGGLES EN ESPAÑOL
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=533&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=SYmqRsd_3zFsz7JJX_qb&content_series=6041643175c115002dc51259&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=SYmqRsd_3zFsz7JJX_qb&custom_7=6041643175c115002dc51259
 #EXTINF:-1 group-title="PLEX" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/Toon-Goggles-en-Espanol_logo_dark.png" ,BR | TOON GOGGLES EN ESPAÑOL
@@ -13483,6 +13541,338 @@ https://fe07c0dd11534a65815a0082414c41c3.mediatailor.us-east-1.amazonaws.com/v1/
 https://olympusamagi.amagi.tv/hls/amagi_hls_data_samsungus-tu-cine-us-samsungus/CDN/playlist.m3u8?device%5Bdid%5D%3D%7BPSID%7D%26device%5Bdnt%5D%3D%7BTARGETOPT%7D%26app_name%3D%7BAPP_NAME%7D%26us_privacy%3D1YNY
 #EXTINF:-1 group-title="SAMSUNG" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/27/USAJ1700009QJ_20210428T040243.png" ,USA | TU CINE
 https://olympusamagi.amagi.tv/hls/amagi_hls_data_samsungus-tu-cine-us-samsungus/CDN/playlist.m3u8?device%5Bdid%5D%3D%7BPSID%7D%26device%5Bdnt%5D%3D%7BTARGETOPT%7D%26app_name%3D%7BAPP_NAME%7D%26us_privacy%3D1YNY
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,3bb Asian HD
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/42
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,3BB Sport 1HD
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/16
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,3BB_HBOhits
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/136
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,ABC Australia-Test
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/84
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,AFN [Thai Sub]
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/139
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,AFN [VN Sub]
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/116
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,Animal Planet-China
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/45
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,Astro 8TV HD-Test
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/49
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,Astro AEC-Test
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/53
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,Astro AOD 353-Test
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/54
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,Astro ARENA 2HD
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/150
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,Astro ARENA HD
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/149
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,Astro ASSP1-Test
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/57
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,Astro ASSP2-Test
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/58
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,Astro ASSP3-Test
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/59
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,Astro ASSP4-Test
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/60
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,Astro BOO
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/108
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,Astro Celestial HD-Test
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/55
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,Astro Discovery Channel
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/64
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,Astro Hua Hee Dai-Test
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/52
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,Astro K Plus HD
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/152
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,Astro KBS World
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/151
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,Astro Love Nature-Test
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/94
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,Astro Oasis HD
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/145
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,Astro ONE HD
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/148
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,Astro Outdoor-Test
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/93
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,Astro QJ-Test
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/92
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,Astro Rania HD
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/147
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,Astro TVB Xing He-Test
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/50
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,Astro WARNA HD
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/146
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,Astro WWE-Test
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/63
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,Astro 华丽台-Test
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/51
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,Astro-Prima HD-Test
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/48
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,AXN CHINA SUB
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/19
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,AXN-VN-Test
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/38
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,BAYON-KHMER
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/9
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,BBC EARTH English SUB
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/23
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,BBC Lifestyle HD-True
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/115
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,BOX HITS [VN Sub]
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/89
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,BOX MOVIES1 HD [VN Sub]
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/91
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,BTVNEWS-KHMER
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/8
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,CANADA ONE
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/166
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,CCTV 10HD-Test
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/81
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,CCTV 16HD-Test
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/77
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,CCTV 1HD-Test
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/70
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,CCTV 2HD-Test
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/71
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,CCTV 5HD-Test
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/72
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,CCTV 5PlusHD-Test
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/73
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,CCTV 6HD-Test
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/74
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,CCTV 8HD-Test
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/75
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,CCTV 9HD-Test
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/76
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,CCTV-4 中文国际（美)-Test
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/82
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,CINEMAX CHINA SUB
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/22
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,CINEMAX-VN-Test
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/39
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,CNC-KHMER
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/5
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,CNN HD [Astro]-Test
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/83
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,Code Fashion TV HD-Test
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/86
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,CTN-KHMER
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/4
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,Discovery Asia
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/138
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,Discovery HD-China
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/46
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,Discovery Hindi HD
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/56
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,Discovery Science [Astro]
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/118
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,DMAX-China
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/47
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,DreamWorks [Thai Sub]
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/140
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,EURO Sport 2HD
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/110
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,EUROSPORT 1HD
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/162
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,Fashion TV HD
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/153
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,FOX Newsnow HD
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/164
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,Fresh News-KHMER
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/3
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,FS1 HD
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/127
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,FS2 HD
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/128
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,FTV-Test
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/65
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,HANG MEAS-KHMER
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/10
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,HBO CHINA SUB
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/18
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,HBO Family CHINA SUB
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/21
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,HBO Signature CHINA SUB
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/20
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,HBO-VN-Test
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/40
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,HGTV HD
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/37
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,HITS MOVIES English SUB
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/25
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,Hollywood Classics [VN Sub]
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/88
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,ICI RDI HD
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/165
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,In The Box [VN Sub]
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/90
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,iQIYI HD [Astro]
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/141
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,KG HD | TH Kiên Giang
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/35
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,KG1 HD | TH Kiên Giang
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/36
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,LAOSTAR TV-Test
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/29
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,LATV-Test
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/31
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,LNTV1-Test
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/30
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,MAN HD
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/111
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,MONO 29 English SUB
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/33
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,MYTV-KHMER
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/6
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,Nat Geo Graphic HD ENG-Test
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/41
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,Nat Geo WILD
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/28
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,NBC GOLF-Test
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/85
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,ON Cine
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/105
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,ON E Channel
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/107
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,ON GOLF[ Viettel TV]
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/78
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,ON Info HD
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/95
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,ON Life
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/104
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,ON Phim Việt
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/43
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,ON V Family
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/103
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,ON Vie DRAMAS
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/44
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,ON Vie GIAITRI
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/106
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,PARAMOUNT NETWORK-True
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/121
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,PGA TOUR-Test
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/69
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,PNN-KHMER
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/12
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,Premier League 1HD
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/129
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,Premier League 2HD
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/130
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,Premier League HD3
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/102
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,Premier League HD4
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/101
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,RASMEY HANG MEAS-KHMER
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/11
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,Rock Action HD
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/61
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,Rock Entertainment HD
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/62
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,SEATV-KHMER
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/14
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,SKYNEWS
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/17
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,SONY MOVIES English SUB
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/32
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,SONY SPORTS 1HD
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/122
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,SONY SPORTS 2HD
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/123
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,SONY SPORTS 3HD
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/124
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,SONY SPORTS 4HD
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/125
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,SONY SPORTS 5HD
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/126
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,SPORT 2HD
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/97
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,SPORT 3HD
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/98
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,SPORT 5SD
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/99
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,SPORT 7SD
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/100
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,SPORT HD
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/96
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,STAR Channel-Test
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/80
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,STAR MOVIES HD
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/144
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,STAR WORLD
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/143
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,TOWNTV-KHMER
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/7
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,True Asian More
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/134
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,True Explore Life THAI SUB
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/27
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,TRUE EXPLORE SCI
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/119
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,True Explorer Wild-True
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/117
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,True Film 1HD
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/131
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,True Film 2 THAI SUB
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/26
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,True Film Asia
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/133
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,True Movie Hits
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/135
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,True PremierHD 5
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/1
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,True Series
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/132
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,True-Xzyte
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/120
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,TV360 HD1
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/114
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,TV360 HD2
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/113
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,TV5-KHMER
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/13
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,TVK-KHMER
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/2
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,TVK2-KHMER
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/15
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,V News
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/112
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,VP HD
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/24
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,VTV5 TÂY NGUYÊN
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/79
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,VTV5 Tây Nam Bộ
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/34
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,W SPORTS
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/142
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,WARNER TV [Thai Sub]
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/137
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,WOMAN HD
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/109
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,YMG 新闻频道
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/160
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,YMG 未来频道
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/159
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,ZEE CINEMA HD [Astro]
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/87
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,⁣三明新闻综合
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/155
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,兰溪新闻综合
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/161
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,姚江文化-Test
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/66
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,新闻综合-Test
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/67
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,新闻综合HD-Test
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/68
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,苏州 生活资讯 5
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/163
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,苏州文化生活1
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/158
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,苏州新闻综合
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/157
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,苏州社会经济
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/156
+#EXTINF:-1 group-title="SUDESTE ASIATICO-GM LIVE" ,诸暨新闻综合
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/154
 #EXTINF:-1 group-title="TOKEN - INDIA" ,CANAL 001
 http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:c8:af:f1&stream=155800&extension=ts&play_token=WnbiU3BwDy
 #EXTINF:-1 group-title="TOKEN - INDIA" ,CANAL 002
@@ -14559,6 +14949,484 @@ http://cam.access.ly/play/live.php?mac=00:1a:79:b4:af:19&stream=880496&extension
 http://cam.access.ly/play/live.php?mac=00:1a:79:b4:af:19&stream=880497&extension=m3u8
 #EXTINF:-1 group-title="TOKEN-POLONIA" ,Unknown_99
 http://cam.access.ly/play/live.php?mac=00:1a:79:b4:af:19&stream=880498&extension=m3u8
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,5StarMAX
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45597&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,A&E
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45619&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,A&E
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=45619&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,ABC 7
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45439&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,ACC NETWORK
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=90960&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,ActionMAX
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45618&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,AFN SPORT
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=1099330&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,ALTITUDE SPORTS
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=460918&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,ALTITUDE SPORTS 2
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=1060883&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,AMC
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45445&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,AMC+
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=534381&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,American Heroes
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45613&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,Animal Planet
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45447&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,ANTENNA TV
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=398879&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,Arnold Schwarzenegger
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=534117&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,ASPIRE
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=91763&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,Astro Oasis
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=571238&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,AT&T SPORTSNET SOUTHWEST
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=91892&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,AWE
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=91955&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,AXS TV
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=91760&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,BACK TO THE FUTURE
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=558799&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,BBC 1
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=30581&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,BBC 2
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=30580&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,BBC 3
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45336&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,BBC 4
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45335&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,BBC America
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45612&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,BBC America
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=45612&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,BEIN SPORTS 1
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45611&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,BEIN SPORTS 2
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=83953&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,BEIN SPORTS 4
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=83954&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,BEIN SPORTS 5
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=83955&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,BEIN SPORTS 6
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=83956&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,BEIN SPORTS 7
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=83957&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,BEIN SPORTS 8
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=83958&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,Bernama
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=571307&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,BET
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45610&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,BET HER
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=91768&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,Big Ten Network
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45609&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,Bionic Woman
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=534109&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,BLAZE TV
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=1150047&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,BORDER SECURITY
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=1002805&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,BORDER SECURITY
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=1430406&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,Bounce TV
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=730910&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,Bravo
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45446&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,BT 4
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=1002857&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,BT Sport 1
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=79486&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,BT Sport 2
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=79485&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,BT Sport 3
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=79484&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,BT Sport 5
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=1004549&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,BT Sport ESPN
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=79483&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,CBS SPORTS GALAZO NETWORK
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=1293199&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,CBS Sports Network
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45601&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,CHARGE!
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=789119&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,CHIPS
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=1430386&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,CineMAX
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45599&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,CLINT EASTWOOD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=1187708&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,CMT HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=90937&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,Comedy Central
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45448&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,Comedy Movies
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=558930&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,Comet
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=91807&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,Cooking Channel
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45591&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,Cowboy Channel
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=91951&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,CRIME Movies
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=558762&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,Crime&Investigation
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=90938&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,CSN WASHINGTON
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=90940&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,DESTINATION AMERICA
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=90954&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,DIE HARD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=558764&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,Discovery Channel
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45442&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,Discovery Family
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45443&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,Discovery Life
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=91820&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,Discovery Science
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45441&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,DISCOVERY TURBO
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=1092802&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,E!
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45584&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,EDDY MURPHY
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=558932&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,Epix
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45582&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,Epix 2
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=90956&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,Epix Drive-In
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=90957&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,Epix Hits
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=90955&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,ESPN
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45579&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,ESPN 2
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45580&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,ESPN NEWS
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45578&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,ESPN U
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=90958&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,EuroSport 1
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=30541&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,Eurosport 2
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=30540&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,FAMILY Movies
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=558796&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,Food Network
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45577&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,Fox Soccer Plus
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45572&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,Fox Sports 1
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45571&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,Fox Sports 2
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45570&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,Freeform
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45557&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,Fuse
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=91910&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,FX
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45451&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,FXM
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45450&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,FXX
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45449&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,FYI
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45555&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,GAME TV
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45472&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,Golf Channel
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45554&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,HBO
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45549&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,HBO 2
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45552&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,HBO Comedy
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45551&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,HBO Family
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45550&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,HBO Signature
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45547&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,HBO Zone
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45546&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,HDNet Movies
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=91885&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,HGTV
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=1350074&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,History
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45444&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,Hits (ID)
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=683145&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,HLN
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=91857&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,HORROR Movies
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=558791&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,IFC
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45544&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,IndiePlex
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45543&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,Investigation Discovery
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45545&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,ION
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=872292&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,ITV2
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=30532&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,ITV3
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=30531&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,ITV4
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=30530&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,ITVBe
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45333&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,JACKIE CHAN MOVIES
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=1295630&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,KNIGHT RIDER
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=1430274&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,KNIGHT RIDER 1982-1986
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=1207320&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,Longhorn Network
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45540&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,Magnolia Network
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=1350214&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,MARQUEE SPORTS NETWORK
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=272828&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,MLB Network
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45539&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,MoreMAX
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45538&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,MovieMAX
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45596&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,MoviePlex
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45536&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,MTV
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45461&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,MTV2
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=90963&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,NatGeo WILD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45452&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,National Geographic
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45453&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,NBC BAY AREA
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=91893&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,NBC Golf
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45532&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,NBC Sport
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=1124350&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,NBC Sport
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=234677&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,NESN
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45528&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,NESN PLUS
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=91903&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,OuterMAX
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45519&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,PAC-12 NETWORK
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45511&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,PixL
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=91937&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,Reelz
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45508&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,RetroPlex
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45507&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,ROMANCE MOVIES
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=558772&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,ROOT SPORTS
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=272827&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,RUSH HOUR
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=558771&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,SCIFI Movies
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=558770&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,ScreenPix
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=551778&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,SCREENPIX ACTION
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=551777&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,ScreenPix Voices
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=551776&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,ScreenPix Westerns
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=551775&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,SEC NETWORK
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45506&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,Showtime
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45503&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,Showtime 2
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45505&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,SHOWTIME BET
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=303331&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,Showtime Extreme
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=91887&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,Showtime Family Zone
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=91888&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,Showtime Next
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=92019&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,Showtime Showcase
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45502&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,Showtime Women
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=92018&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,SHOxBET
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=897512&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,SIX MILLION DOLLAR MAN
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=1430189&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,Six Million Dollar Man
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=534105&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,Sky Animation
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=30513&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,Sky Cinema Comedy
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=30516&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,Sky Cinema Hits
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=30510&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,Sky Cinema ScFi
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=30508&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,Sky Cinema Select
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=949137&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,Sky Drama
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=30514&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,Sky Family
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=79467&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,Sky Premiere
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=30509&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,Sky Sport Action
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=83456&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,Sky Sport Arena
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=83455&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,Sky Sport Cricket
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=83454&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,Sky Sport F1
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=83453&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,Sky Sport Football
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=83452&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,Sky Sport Golf
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=83451&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,Sky Sport Main Event
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=83450&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,Sky Sport Mix
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=83449&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,Sky Sport News
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=83448&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,Sky Sport Primere League
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=83447&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,Sky Sport Racing
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=83446&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,SKY SPORTS TENNIS
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=1454231&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,Sky Thriller
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=30506&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,Sony Movie
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=91789&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,Sportman Channel
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=91873&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,SportsNet NY
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=90946&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,SPORTSNET PITTSBURGH
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=272825&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,SPOTV
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=941564&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,SPOTV2
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=941563&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,STARZ
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45480&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,STARZ Cinema
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45496&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,STARZ Comedy
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45494&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,STARZ Edge
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45492&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,STARZ ENCORE
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45484&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,STARZ ENCORE Action
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45489&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,STARZ ENCORE Black
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45488&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,STARZ ENCORE Classic
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45487&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,STARZ ENCORE Family
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45485&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,STARZ ENCORE Suspense
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=91948&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,STARZ ENCORE Westerns
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=91947&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,STARZ In Black
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45498&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,STARZ Kids and Family
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45479&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,STARZ Kids and Family
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45481&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,SundanceTV
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45477&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,SUPERHERO Movies
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=558765&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,SuperSports VARIETY 3
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=144419&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,Syfy
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45476&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,Tastemade
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=150360&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,TBS
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45475&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,Tennis
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45474&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,Tennis
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=811667&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,THE TWILIGHT ZONE
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=1430183&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,THRILLER Movies
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=558933&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,ThrillerMAX
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45595&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,TLC
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45471&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,TNT
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45470&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,truTV
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45468&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,TSN 1
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=904216&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,TSN 2
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=904215&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,TSN 3
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=904214&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,TSN 4
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=904213&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,TSN 5
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=904212&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,TVG NETWORK
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=91939&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,TVG NETWORK 2
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=91940&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,USA Network
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45466&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,US| BOUNCE TV HD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=91771&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,VH1
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45436&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,WE TV
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45464&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,WESTERN 1
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=924749&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,WESTERN 2
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=924750&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,WESTERN 3
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=924751&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,WESTERN 4
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=924752&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,WESTERN 5
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=924753&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,WESTERN 6
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=924754&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,WGN9
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=290879&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,Willow Cricket
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45463&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,World Fishing Network
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=91906&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,WWE
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45462&extension=ts
+#EXTINF:-1 group-title="TV PREMIUM Plus" ,YES NETWORK
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=90970&extension=ts
 #EXTINF:-1 group-title="ViX" tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" ,ATV+
 https://linear-258.frequency.stream/dist/vix/258/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="ViX" tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" ,ATV+
@@ -14733,31 +15601,3 @@ https://linear-458.frequency.stream/dist/vix/458/hls/master/playlist.m3u8
 https://linear-459.frequency.stream/dist/vix/459/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="ViX" tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" ,WHEATHER CHANNEL ESPAÑOL
 https://linear-431.frequency.stream/dist/vix/431/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="ViX" tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" ,WHEATHER CHANNEL ESPAÑOL
-https://linear-431.frequency.stream/dist/vix/431/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="ZZBACKUPS" ,CANAL 9
-https://2a1773fcc0c94a639b422d1cf7ba14b7.mediatailor.us-east-1.amazonaws.com/v1/master/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/live/channel09/live.isml/.m3u8
-#EXTINF:-1 group-title="ZZBACKUPS" ,CANAL 9
-https://2a1773fcc0c94a639b422d1cf7ba14b7.mediatailor.us-east-1.amazonaws.com/v1/master/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/live/channel09/live.isml/.m3u8
-#EXTINF:-1 group-title="ZZBACKUPS" ,DIRECTV SPORTS 1
-https://epg.pw/stream/e4be5b90c06ad17adf1c732334ac0d19ab5ff5e5b66c265139d666c3ae313b2e.ctv
-#EXTINF:-1 group-title="ZZBACKUPS" ,EL TRECE
-https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
-#EXTINF:-1 group-title="ZZBACKUPS" ,EL TRECE
-https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
-#EXTINF:-1 group-title="ZZBACKUPS" ,HECHOS ECUADOR
-https://stmv.streamingvip.click/hechosecuador/hechosecuador/chunklist_w869564824.m3u8
-#EXTINF:-1 group-title="ZZBACKUPS" ,HECHOS ECUADOR
-https://stmv.streamingvip.click/hechosecuador/hechosecuador/chunklist_w869564824.m3u8
-#EXTINF:-1 group-title="ZZBACKUPS" ,IP NOTICIAS
-https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=4499968.m3u8
-#EXTINF:-1 group-title="ZZBACKUPS" ,IP NOTICIAS
-https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=4499968.m3u8
-#EXTINF:-1 group-title="ZZBACKUPS" tvg-logo="https://miamitvhd.com/assets/miamitvlatino-a0a662e0cef788009ad389105e7263d585707570b055e46e3b9b7eb5329775aa.png" ,MIAMI TV REPLAY
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1457
-#EXTINF:-1 group-title="ZZBACKUPS" tvg-logo="https://miamitvhd.com/assets/miamitvlatino-a0a662e0cef788009ad389105e7263d585707570b055e46e3b9b7eb5329775aa.png" ,MIAMI TV REPLAY
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1457
-#EXTINF:-1 group-title="ZZBACKUPS" ,TELEFE
-https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
-#EXTINF:-1 group-title="ZZBACKUPS" ,TELEFE
-https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
