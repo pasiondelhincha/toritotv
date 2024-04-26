@@ -1841,6 +1841,140 @@ http://paco@181.78.105.146:2000/play/a095/index.m3u8
 http://paco@181.78.105.146:2000/play/a096/index.m3u8
 #EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_97
 http://paco@181.78.105.146:2000/play/a097/index.m3u8
+#EXTINF:-1 group-title="PERU - BANTEL PERU" ,A&E (EST)
+http://bantel.iptvperu.tv:1935/transcoder_t4/aye_t4/playlist.m3u8
+#EXTINF:-1 group-title="PERU - BANTEL PERU" ,America TV (EST) | PE
+http://bantel.iptvperu.tv:1935/prueba/americatvmovil_t6.stream/playlist.m3u8
+#EXTINF:-1 group-title="PERU - BANTEL PERU" ,Antares Televisión | PE
+https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
+#EXTINF:-1 group-title="PERU - BANTEL PERU" ,ATV + (EST) | PE
+http://bantel.iptvperu.tv:1935/transcoder_t1/atvnoticias_t1/playlist.m3u8
+#EXTINF:-1 group-title="PERU - BANTEL PERU" ,ATV HD (EST) | PE
+http://bantel.iptvperu.tv:1935/transcoder_t6/atvmovil_t6.stream/playlist.m3u8
+#EXTINF:-1 group-title="PERU - BANTEL PERU" ,ATV Sur (EST) | PE
+http://bantel.iptvperu.tv:1935/transcoderip/atvsurmovil_t6.stream/playlist.m3u8
+#EXTINF:-1 group-title="PERU - BANTEL PERU" ,Auténtica TV | PE
+https://live.obslivestream.com/autenticatvmux/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="PERU - BANTEL PERU" ,AXN (EST)
+http://bantel.iptvperu.tv:1935/transcoder_t4/axn_t4/playlist.m3u8
+#EXTINF:-1 group-title="PERU - BANTEL PERU" ,Cine Canal (EST)
+http://bantel.iptvperu.tv:1935/transcoderip/CineCanal_t2.stream/playlist.m3u8
+#EXTINF:-1 group-title="PERU - BANTEL PERU" ,Cine Familiar (EST)
+http://bantel.iptvperu.tv:1935/transcoderip/cinefamiliar_t1/playlist.m3u8
+#EXTINF:-1 group-title="PERU - BANTEL PERU" ,Cine Hispano (EST)
+http://bantel.iptvperu.tv:1935/transcoderip/cinehispano_t1/playlist.m3u8
+#EXTINF:-1 group-title="PERU - BANTEL PERU" ,Cine Premium (EST)
+http://bantel.iptvperu.tv:1935/transcoderip/cinepremium_t1/playlist.m3u8
+#EXTINF:-1 group-title="PERU - BANTEL PERU" ,Classic (EST)
+http://bantel.iptvperu.tv:1935/astra/Classic/playlist.m3u8
+#EXTINF:-1 group-title="PERU - BANTEL PERU" ,Conecta2 TV (EST) | PE
+http://bantel.iptvperu.tv:1935/astralocal/conecta2tv/playlist.m3u8
+#EXTINF:-1 group-title="PERU - BANTEL PERU" ,Disney Channel (EST)
+http://bantel.iptvperu.tv:1935/transcoder_t4/disney_t4/playlist.m3u8
+#EXTINF:-1 group-title="PERU - BANTEL PERU" ,Disney Jr (EST)
+http://bantel.iptvperu.tv:1935/transcoder_t2/disneyjr_t2.stream/playlist.m3u8
+#EXTINF:-1 group-title="PERU - BANTEL PERU" ,Dreamworks (EST)
+http://bantel.iptvperu.tv:1935/transcoderip/dreamworkds_t5.stream/playlist.m3u8
+#EXTINF:-1 group-title="PERU - BANTEL PERU" ,E! entertainment (EST)
+http://bantel.iptvperu.tv:1935/miscelaneos/e.stream/playlist.m3u8
+#EXTINF:-1 group-title="PERU - BANTEL PERU" ,ESPN (EST)
+http://bantel.iptvperu.tv:1935/transcoder_t2/ESPN_t2.stream/playlist.m3u8
+#EXTINF:-1 group-title="PERU - BANTEL PERU" ,ESPN 2 (EST)
+http://bantel.iptvperu.tv:1935/transcoder_t2/ESPN2_t2.stream/playlist.m3u8
+#EXTINF:-1 group-title="PERU - BANTEL PERU" ,ESPN 3 (EST)
+http://bantel.iptvperu.tv:1935/transcoder_t2/ESPN3_t2.stream/playlist.m3u8
+#EXTINF:-1 group-title="PERU - BANTEL PERU" ,ESPN 4 (EST)
+http://bantel.iptvperu.tv:1935/transcoder_t2/ESPN4_t2.stream/playlist.m3u8
+#EXTINF:-1 group-title="PERU - BANTEL PERU" ,ESPN 5 (EST)
+http://bantel.iptvperu.tv:1935/transcoder_t2/ESPN5_t2.stream/playlist.m3u8
+#EXTINF:-1 group-title="PERU - BANTEL PERU" ,ESPN 6 (EST)
+http://bantel.iptvperu.tv:1935/transcoder_t2/ESPN6_t2.stream/playlist.m3u8
+#EXTINF:-1 group-title="PERU - BANTEL PERU" ,ESPN 7 (EST)
+http://bantel.iptvperu.tv:1935/transcoder_t2/ESPN7_t2.stream/playlist.m3u8
+#EXTINF:-1 group-title="PERU - BANTEL PERU" ,Exitosa (EST)
+http://bantel.iptvperu.tv:1935/transcoderip/exitosa_t1/playlist.m3u8
+#EXTINF:-1 group-title="PERU - BANTEL PERU" ,FMH Movies (EST)
+http://bantel.iptvperu.tv:1935/astralocal/FMH_Movies/playlist.m3u8
+#EXTINF:-1 group-title="PERU - BANTEL PERU" ,FX (EST)
+http://bantel.iptvperu.tv:1935/transcoderip/FX_t2.stream/playlist.m3u8
+#EXTINF:-1 group-title="PERU - BANTEL PERU" ,Global TV (EST) | PE
+http://bantel.iptvperu.tv:1935/transcoder_t1/global_t1/playlist.m3u8
+#EXTINF:-1 group-title="PERU - BANTEL PERU" ,GOL Perú (EST)
+http://bantel.iptvperu.tv:1935/astra/golperu/playlist.m3u8
+#EXTINF:-1 group-title="PERU - BANTEL PERU" ,Gol Perú (EST)
+http://bantel.iptvperu.tv:1935/astra/golperu/playlist.m3u8
+#EXTINF:-1 group-title="PERU - BANTEL PERU" ,GOL Perú | OP 1
+http://bantel.iptvperu.tv:1935/astra/golperu/chunks.m3u8?nimblesessionid=52435514
+#EXTINF:-1 group-title="PERU - BANTEL PERU" ,Golden (EST)
+http://bantel.iptvperu.tv:1935/transcoderip/Golden_t4/playlist.m3u8
+#EXTINF:-1 group-title="PERU - BANTEL PERU" ,H2 (EST)
+http://bantel.iptvperu.tv:1935/transcoderip/history2_t4/playlist.m3u8
+#EXTINF:-1 group-title="PERU - BANTEL PERU" ,History (EST)
+http://bantel.iptvperu.tv:1935/transcoder_t4/History_t4/playlist.m3u8
+#EXTINF:-1 group-title="PERU - BANTEL PERU" ,Kanal D Drama (EST)
+http://bantel.iptvperu.tv:1935/transcoderip/KanalD_t4/playlist.m3u8
+#EXTINF:-1 group-title="PERU - BANTEL PERU" ,La Tele
+http://bantel.iptvperu.tv:1935/transcoder_t1/latele_t1/playlist.m3u8
+#EXTINF:-1 group-title="PERU - BANTEL PERU" ,Las Estrellas (EST)
+http://bantel.iptvperu.tv:1935/transcoder_t4/Canal_LasEstrellas_t4/playlist.m3u8
+#EXTINF:-1 group-title="PERU - BANTEL PERU" ,Latina TV (EST)
+http://bantel.iptvperu.tv:1935/transcoderip/latina_t1/playlist.m3u8
+#EXTINF:-1 group-title="PERU - BANTEL PERU" ,Lifetime (EST)
+http://bantel.iptvperu.tv:1935/transcoderip/lifetime_t4/playlist.m3u8
+#EXTINF:-1 group-title="PERU - BANTEL PERU" ,Mi Musica Peru (EST)
+http://bantel.iptvperu.tv:1935/transcoderip/mimusicaperu_t1/playlist.m3u8
+#EXTINF:-1 group-title="PERU - BANTEL PERU" ,Mi Musica Reggaeton (EST)
+http://bantel.iptvperu.tv:1935/transcoderip/mimusicareggaeton_t1/playlist.m3u8
+#EXTINF:-1 group-title="PERU - BANTEL PERU" ,Mi Musica Romantica (EST)
+http://bantel.iptvperu.tv:1935/transcoderip/mimusicaromantica_t1/playlist.m3u8
+#EXTINF:-1 group-title="PERU - BANTEL PERU" ,Mi Musica Salsa (EST)
+http://bantel.iptvperu.tv:1935/transcoderip/mimusicasalsa_t1/playlist.m3u8
+#EXTINF:-1 group-title="PERU - BANTEL PERU" ,MTV (EST)
+http://bantel.iptvperu.tv:1935/transcoderip/MTV_t4/playlist.m3u8
+#EXTINF:-1 group-title="PERU - BANTEL PERU" ,Nat Geo (EST)
+http://bantel.iptvperu.tv:1935/transcoderip/NatGeo_t2.stream/playlist.m3u8
+#EXTINF:-1 group-title="PERU - BANTEL PERU" ,Nick (EST)
+http://bantel.iptvperu.tv:1935/transcoder_t4/nick_t4/playlist.m3u8
+#EXTINF:-1 group-title="PERU - BANTEL PERU" ,Nick Jr (EST)
+http://bantel.iptvperu.tv:1935/transcoder_t4/nickjr_t4/playlist.m3u8
+#EXTINF:-1 group-title="PERU - BANTEL PERU" ,Panamericana TV (EST) | PE
+http://bantel.iptvperu.tv:1935/transcoderip/panamericanamovil_t6.stream/playlist.m3u8
+#EXTINF:-1 group-title="PERU - BANTEL PERU" ,Paramount Channel (EST)
+http://bantel.iptvperu.tv:1935/transcoderip/paramount_t4/playlist.m3u8
+#EXTINF:-1 group-title="PERU - BANTEL PERU" ,Ribereña TV | PE
+http://bantel.iptvperu.tv:1935/Server_OTT/Riberenatv/playlist.m3u8
+#EXTINF:-1 group-title="PERU - BANTEL PERU" ,Sony Movies (EST)
+http://bantel.iptvperu.tv:1935/transcoder_t4/SonyMovies_t4/playlist.m3u8
+#EXTINF:-1 group-title="PERU - BANTEL PERU" ,Star Channel (EST)
+http://bantel.iptvperu.tv:1935/transcoderip/StarChannel_t2.stream/playlist.m3u8
+#EXTINF:-1 group-title="PERU - BANTEL PERU" ,Studio Universal (EST)
+http://bantel.iptvperu.tv:1935/transcoderip/studiouniversal_t5.stream/playlist.m3u8
+#EXTINF:-1 group-title="PERU - BANTEL PERU" ,Te Quiero TV (EST)
+http://bantel.iptvperu.tv:1935/astralocal/TEQUIEROTV/playlist.m3u8
+#EXTINF:-1 group-title="PERU - BANTEL PERU" ,Teen Nick (EST)
+http://bantel.iptvperu.tv:1935/transcoder_t4/nickteen_t4/playlist.m3u8
+#EXTINF:-1 group-title="PERU - BANTEL PERU" ,Tlnovelas (EST)
+http://bantel.iptvperu.tv:1935/transcoder_t4/TL_Novelas_t4/playlist.m3u8
+#EXTINF:-1 group-title="PERU - BANTEL PERU" ,Top Latino (EST)
+http://bantel.iptvperu.tv:1935/transcoderip/toplatino_t1/playlist.m3u8
+#EXTINF:-1 group-title="PERU - BANTEL PERU" ,TV Perú (EST) | PE
+http://bantel.iptvperu.tv:1935/transcoderip/tvperu_t1/playlist.m3u8
+#EXTINF:-1 group-title="PERU - BANTEL PERU" ,TV Perú Internacional (EST)
+http://bantel.iptvperu.tv:1935/transcoder_t1/tvperunoticias_t1/playlist.m3u8
+#EXTINF:-1 group-title="PERU - BANTEL PERU" ,Ucayali TV | PE
+http://bantel.iptvperu.tv:1935/Server_OTT/Ucayalitv/playlist.m3u8
+#EXTINF:-1 group-title="PERU - BANTEL PERU" ,Universal TV (EST)
+http://bantel.iptvperu.tv:1935/transcoderip/universalchannel_t5.stream/playlist.m3u8
+#EXTINF:-1 group-title="PERU - BANTEL PERU" ,Univision (EST)
+http://bantel.iptvperu.tv:1935/transcoder_t4/Univision_t4/playlist.m3u8
+#EXTINF:-1 group-title="PERU - BANTEL PERU" ,USA (HD)
+http://bantel.iptvperu.tv:1935/transcoderip/SYFY_t5.stream/playlist.m3u8
+#EXTINF:-1 group-title="PERU - BANTEL PERU" ,USMP TV (EST) | PE
+http://bantel.iptvperu.tv:1935/transcoder_t6/usmpmovil_t6.stream/playlist.m3u8
+#EXTINF:-1 group-title="PERU - BANTEL PERU" ,Vision Sur | PE
+http://bantel.iptvperu.tv:1935/astralocal/Vision_Sur/playlist.m3u8
+#EXTINF:-1 group-title="PERU - BANTEL PERU" ,Willax TV (EST) | PE
+http://bantel.iptvperu.tv:1935/transcoderip/willaxmovil_t6.stream/playlist.m3u8
 #EXTINF:-1 group-title="POLSAT SPORT" tvg-logo="http://epg.it999.ru/img/4556.png" ,POLSAT SPORT EXTRA HD PL
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/7310/index.m3u8
 #EXTINF:-1 group-title="POLSAT SPORT" tvg-logo="http://epg.it999.ru/img/4548.png" ,Polsat Sport FHD PL
@@ -2113,3 +2247,5 @@ https://worldradio.online/proxy/?q=185.53.90.34:25461/pachaman/asdfghuytrc/63112
 https://worldradio.online/proxy/?q=185.53.90.34:25461/pachaman/asdfghuytrc/63113
 #EXTINF:0 group-title="WORLD RADIO TOKEN" ,ASTRO SUPER SPORT 3
 https://worldradio.online/proxy/?q=185.53.90.34:25461/pachaman/asdfghuytrc/63114
+#EXTINF:0 group-title="ZZ PRUEBAS" audio-track="https://food-dlvr-ott.akamaized.net/primary/4/a640549241664dce8ae975919997b0ca/index_11_0.m3u8" ,TLC
+https://food-dlvr-ott.akamaized.net/primary/4/a640549241664dce8ae975919997b0ca/index_14.m3u8
