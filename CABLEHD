@@ -13541,6 +13541,118 @@ https://fe07c0dd11534a65815a0082414c41c3.mediatailor.us-east-1.amazonaws.com/v1/
 https://olympusamagi.amagi.tv/hls/amagi_hls_data_samsungus-tu-cine-us-samsungus/CDN/playlist.m3u8?device%5Bdid%5D%3D%7BPSID%7D%26device%5Bdnt%5D%3D%7BTARGETOPT%7D%26app_name%3D%7BAPP_NAME%7D%26us_privacy%3D1YNY
 #EXTINF:-1 group-title="SAMSUNG" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/27/USAJ1700009QJ_20210428T040243.png" ,USA | TU CINE
 https://olympusamagi.amagi.tv/hls/amagi_hls_data_samsungus-tu-cine-us-samsungus/CDN/playlist.m3u8?device%5Bdid%5D%3D%7BPSID%7D%26device%5Bdnt%5D%3D%7BTARGETOPT%7D%26app_name%3D%7BAPP_NAME%7D%26us_privacy%3D1YNY
+#EXTINF:-1 group-title="SERVIDOR FRANCIA" ,CANAL 001
+http://145.239.5.177:8080/300/index.m3u8
+#EXTINF:-1 group-title="SERVIDOR FRANCIA" ,CANAL 002
+http://145.239.5.177:8080/301/index.m3u8
+#EXTINF:-1 group-title="SERVIDOR FRANCIA" ,CANAL 004
+http://145.239.5.177:8080/303/index.m3u8
+#EXTINF:-1 group-title="SERVIDOR FRANCIA" ,CANAL 007
+http://145.239.5.177:8080/306/index.m3u8
+#EXTINF:-1 group-title="SERVIDOR FRANCIA" ,CANAL 008
+http://145.239.5.177:8080/307/index.m3u8
+#EXTINF:-1 group-title="SERVIDOR FRANCIA" ,CANAL 009
+http://145.239.5.177:8080/308/index.m3u8
+#EXTINF:-1 group-title="SERVIDOR FRANCIA" ,CANAL 010
+http://145.239.5.177:8080/309/index.m3u8
+#EXTINF:-1 group-title="SERVIDOR FRANCIA" ,CANAL 011
+http://145.239.5.177:8080/310/index.m3u8
+#EXTINF:-1 group-title="SERVIDOR FRANCIA" ,CANAL 012
+http://145.239.5.177:8080/311/index.m3u8
+#EXTINF:-1 group-title="SERVIDOR FRANCIA" ,CANAL 012
+http://145.239.5.177:8080/516/index.m3u8
+#EXTINF:-1 group-title="SERVIDOR FRANCIA" ,CANAL 013
+http://145.239.5.177:8080/512/index.m3u8
+#EXTINF:-1 group-title="SERVIDOR FRANCIA" ,CANAL 014
+http://145.239.5.177:8080/513/index.m3u8
+#EXTINF:-1 group-title="SERVIDOR FRANCIA" ,CANAL 015
+http://145.239.5.177:8080/314/index.m3u8
+#EXTINF:-1 group-title="SERVIDOR FRANCIA" ,CANAL 015
+http://145.239.5.177:8080/514/index.m3u8
+#EXTINF:-1 group-title="SERVIDOR FRANCIA" ,CANAL 016
+http://145.239.5.177:8080/315/index.m3u8
+#EXTINF:-1 group-title="SERVIDOR FRANCIA" ,CANAL 017
+http://145.239.5.177:8080/316/index.m3u8
+#EXTINF:-1 group-title="SERVIDOR FRANCIA" ,CANAL 018
+http://145.239.5.177:8080/317/index.m3u8
+#EXTINF:-1 group-title="SERVIDOR FRANCIA" ,CANAL 019
+http://145.239.5.177:8080/518/index.m3u8
+#EXTINF:-1 group-title="SERVIDOR FRANCIA" ,CANAL 020
+http://145.239.5.177:8080/319/index.m3u8
+#EXTINF:-1 group-title="SERVIDOR FRANCIA" ,CANAL 021
+http://145.239.5.177:8080/520/index.m3u8
+#EXTINF:-1 group-title="SERVIDOR FRANCIA" ,CANAL 022
+http://145.239.5.177:8080/321/index.m3u8
+#EXTINF:-1 group-title="SERVIDOR FRANCIA" ,CANAL 023
+http://145.239.5.177:8080/521/index.m3u8
+#EXTINF:-1 group-title="SERVIDOR FRANCIA" ,CANAL 024
+http://145.239.5.177:8080/323/index.m3u8
+#EXTINF:-1 group-title="SERVIDOR FRANCIA" ,CANAL 025
+http://145.239.5.177:8080/524/index.m3u8
+#EXTINF:-1 group-title="SERVIDOR FRANCIA" ,CANAL 026
+http://145.239.5.177:8080/525/index.m3u8
+#EXTINF:-1 group-title="SERVIDOR FRANCIA" ,CANAL 027
+http://145.239.5.177:8080/526/index.m3u8
+#EXTINF:-1 group-title="SERVIDOR FRANCIA" ,CANAL 029
+http://145.239.5.177:8080/329/index.m3u8
+#EXTINF:-1 group-title="SERVIDOR FRANCIA" ,CANAL 030
+http://145.239.5.177:8080/529/index.m3u8
+#EXTINF:-1 group-title="SERVIDOR FRANCIA" ,CANAL 031
+http://145.239.5.177:8080/330/index.m3u8
+#EXTINF:-1 group-title="SERVIDOR FRANCIA" ,CANAL 032
+http://145.239.5.177:8080/331/index.m3u8
+#EXTINF:-1 group-title="SERVIDOR FRANCIA" ,CANAL 033
+http://145.239.5.177:8080/332/index.m3u8
+#EXTINF:-1 group-title="SERVIDOR FRANCIA" ,CANAL 034
+http://145.239.5.177:8080/333/index.m3u8
+#EXTINF:-1 group-title="SERVIDOR FRANCIA" ,CANAL 038
+http://145.239.5.177:8080/337/index.m3u8
+#EXTINF:-1 group-title="SERVIDOR FRANCIA" ,CANAL 038
+http://145.239.5.177:8080/537/index.m3u8
+#EXTINF:-1 group-title="SERVIDOR FRANCIA" ,CANAL 039
+http://145.239.5.177:8080/538/index.m3u8
+#EXTINF:-1 group-title="SERVIDOR FRANCIA" ,CANAL 042
+http://145.239.5.177:8080/341/index.m3u8
+#EXTINF:-1 group-title="SERVIDOR FRANCIA" ,CANAL 043
+http://145.239.5.177:8080/342/index.m3u8
+#EXTINF:-1 group-title="SERVIDOR FRANCIA" ,CANAL 044
+http://145.239.5.177:8080/343/index.m3u8
+#EXTINF:-1 group-title="SERVIDOR FRANCIA" ,CANAL 048
+http://145.239.5.177:8080/347/index.m3u8
+#EXTINF:-1 group-title="SERVIDOR FRANCIA" ,CANAL 050
+http://145.239.5.177:8080/349/index.m3u8
+#EXTINF:-1 group-title="SERVIDOR FRANCIA" ,CANAL 054
+http://145.239.5.177:8080/353/index.m3u8
+#EXTINF:-1 group-title="SERVIDOR FRANCIA" ,CANAL 055
+http://145.239.5.177:8080/354/index.m3u8
+#EXTINF:-1 group-title="SERVIDOR FRANCIA" ,CANAL 056
+http://145.239.5.177:8080/355/index.m3u8
+#EXTINF:-1 group-title="SERVIDOR FRANCIA" ,CANAL 057
+http://145.239.5.177:8080/556/index.m3u8
+#EXTINF:-1 group-title="SERVIDOR FRANCIA" ,CANAL 062
+http://145.239.5.177:8080/561/index.m3u8
+#EXTINF:-1 group-title="SERVIDOR FRANCIA" ,CANAL 068
+http://145.239.5.177:8080/567/index.m3u8
+#EXTINF:-1 group-title="SERVIDOR FRANCIA" ,CANAL 072
+http://145.239.5.177:8080/371/index.m3u8
+#EXTINF:-1 group-title="SERVIDOR FRANCIA" ,CANAL 108
+http://145.239.5.177:8080/206/index.m3u8
+#EXTINF:-1 group-title="SERVIDOR FRANCIA" ,CANAL 126
+http://145.239.5.177:8080/224/index.m3u8
+#EXTINF:-1 group-title="SERVIDOR FRANCIA" ,CANAL 127
+http://145.239.5.177:8080/225/index.m3u8
+#EXTINF:-1 group-title="SERVIDOR FRANCIA" ,CANAL 178
+http://145.239.5.177:8080/276/index.m3u8
+#EXTINF:-1 group-title="SERVIDOR FRANCIA" ,CANAL 214
+http://145.239.5.177:8080/111/index.m3u8
+#EXTINF:-1 group-title="SERVIDOR FRANCIA" ,CANAL 225
+http://145.239.5.177:8080/122/index.m3u8
+#EXTINF:-1 group-title="SERVIDOR FRANCIA" ,CANAL 244
+http://145.239.5.177:8080/141/index.m3u8
+#EXTINF:-1 group-title="SERVIDOR FRANCIA" ,CANAL 251
+http://145.239.5.177:8080/148/index.m3u8
+#EXTINF:-1 group-title="SERVIDOR FRANCIA" ,CANAL 252
+http://145.239.5.177:8080/149/index.m3u8
 #EXTINF:-1 group-title="SPORTS URSS" ,Equalympic HD
 http://cdnua03.hls.tv/524/hls/8743361621b245838bee193c9ec28322/4779/stream.m3u8
 #EXTINF:-1 group-title="SPORTS URSS" ,Eurosport 1
