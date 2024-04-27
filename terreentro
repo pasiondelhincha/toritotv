@@ -233,6 +233,8 @@ http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/18015/index.m3u
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/18016/index.m3u
 #EXTINF:0 group-title="DEPORTES" ,BILLAR TV
 https://pubads.g.doubleclick.net/ssai/event/rzUfbID8QZC1iWIgk0ThuA/master.m3u8
+#EXTINF:0 group-title="DEPORTES" ,BOXING TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/boxing-tv/BOXINGTV_SCTE.m3u8
 #EXTINF:0 group-title="DEPORTES" ,BT SPORT 1
 http://195.181.173.129:8080/live/HXEuB1yY9Z/5614203251/47850.ts?token=TUEMUBFQFVsUVQlQUgNVBwhQBwoIAAwJBgIAD1JaAwdUUwBXAQABAAIWFRdHQxcHWQk6UV0SAwVVC1YGGhpGEFMRO1gGGg1DBwwIAgQGR04aEAxVXBIDAFUCUAAPAQpTB09GQQtcFVsUBQAEAgFWQBRGAEBNVUtfA188UlNOWgBTQV5fF1RbTRRbV2pQUggDVgBHAhsAGx1AWhBGFAJdFloPSBMAUUMTV0BcFw4VXFYOXUcUG1NWRAxHEU8UAhEiZEFIEwdAQwRYR1BaWhVfQEwXRxQbWUpuEFYQQkRdUg5TEUYLQAgVTRRZWE1rVAoMVgEGTFBfV0JACUEDFBQRDlkNDUUNSmgRX1AbDxYCVFMPRhg=
 #EXTINF:0 group-title="DEPORTES" ,BT SPORT 2
@@ -422,7 +424,9 @@ http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/20062/index.m3u
 #EXTINF:0 group-title="DEPORTES" ,QAZSPORT KZ
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2224/index.m3u
 #EXTINF:0 group-title="DEPORTES" ,RACING TV
-http://195.181.173.129:8080/live/HXEuB1yY9Z/5614203251/47860.ts?token=TUEMUBFQFVsUVQlQUgNVBwhQBwoIAAwJBgIAD1JaAwdUUwBXAQABAAIWFRdHQxcHWQk6UV0SAwVVC1YGGhpGEFMRO1gGGg1DBwwIAgQGR04aEAxVXBIDAFUCUAAPAQpTB09GQQtcFVsUBQAEAgFWQBRGAEBNVUtfA188UlNOWgBTQV5fF1RbTRRbV2pQUggDVgBHAhsAGx1AWhBGFAJdFloPSBMAUUMTV0BcFw4VXFYOXUcUG1NWRAxHEU8UAhEiZEFIEwdAQwRYR1BaWhVfQEwXRxQbWUpuEFYQQkRdUg5TEUYLQAgVTRRZWE1rVAoMVgEGTFBfV0JACUEDFBQRDlkNDUUNSmgRX1AbDxYCVFMPRhg=
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
+#EXTINF:0 group-title="DEPORTES" ,RED BULL
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:0 group-title="DEPORTES" ,RMC SPORT 1
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2545/index.m3u
 #EXTINF:0 group-title="DEPORTES" ,RMC SPORT 2
@@ -513,6 +517,8 @@ http://acsc.cc:80/VagnerFerri/A32097xx/191268.ts
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2530/index.m3u
 #EXTINF:0 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Sportklub_logo.png/800px-Sportklub_logo.png" ,SPORTKLUB POL
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2521/index.m3u
+#EXTINF:0 group-title="DEPORTES" ,SPORTS TV TR
+http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 #EXTINF:0 group-title="DEPORTES" ,SPOTV 1 KR
 http://202.150.161.68/spotv1/index.m3u8
 #EXTINF:0 group-title="DEPORTES" ,SPOTV 2 KR
@@ -744,7 +750,7 @@ https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:0 group-title="ENTRETENIMIENTO E INTERES GENERAL" tvg-logo="https://images.pluto.tv/channels/5ea71d48af1d0b0007d837f4/colorLogoPNG.png" ,THE NEWS DETECTIVES
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ea71d48af1d0b0007d837f4/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b8904033-58e7-4560-aaa9-57dc6911f64b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6890d1bc-9854-11eb-a8b4-0242ac110002&userId=&serverSideAds=true
 #EXTINF:0 group-title="ENTRETENIMIENTO E INTERES GENERAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/512px-TLC_Logo.svg.png" ,TLC 01
-http://190.7.19.197:8098/play/a01h/index.m3u8
+http://169.197.142.124:8080/AlexRivera/tNcNm6avPBLQ/126558?token=TBVQVktfGg9AVVVQW1QLUgQLVFYFAlIHXQkCBVYGUVYBD14DW1QMBAFBHRBLQ0oEVVRvXQIUXFALDwcBXBsRRURSSmhRUxoPQFoEBAsPGk0WTVlZAxRcUA4IBgZWAAEHDxsaR1FTGg9AUgQHCgIaTRZcSEADRAgAVWZWURJeUFUVDVZCVFsUFw0NblZdWlkPUBsKFlYUSkNQSkIWXllGXFsbGlVRQ0pUFgYTCBoECFkEGxwWBVkTD01LSxZeFXJiFRsaUkBDXVsRCl5cGg0aFUcbHBYPRTkTXEpGRgFWXlVFFQIVCBUUFw8CSW1bWFYPUVpEXQlYFUMDGwEWSBVeX1leTFhKaEhcBkELEAoGAVkMG00=
 #EXTINF:0 group-title="ENTRETENIMIENTO E INTERES GENERAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/512px-TLC_Logo.svg.png" ,TLC 02
 http://offshore.lat:8080/armando86/dPCeWVgyHN9j/301426
 #EXTINF:0 group-title="ENTRETENIMIENTO E INTERES GENERAL" ,TLC 03
@@ -764,7 +770,7 @@ https://linear-343.frequency.stream/dist/localnow/343/hls/master/playlist.m3u8
 #EXTINF:0 group-title="ENTRETENIMIENTO E INTERES GENERAL" tvg-logo="https://wowelsalvador.com/imagen/logo2.png" ,WOW TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
 #EXTINF:0 group-title="FUTBOL ARGENTINO" tvg-logo="https://i.postimg.cc/0QNF1F8J/DSPORTS.png" ,DSPORTS
-http://offshore.lat:8080/play/MWeogaSmpVBuh-TFCnuNr6O_2rAGhXlchnBbk1IrQ3HRtzTjqlClBpd9e_orIygD
+http://185.224.217.235:25461/corredorjuan1/gYUDJ6CnMQ/352477?token=GkMOV0pdG18SVgNSAAUHAlcBDVcBBVYGBQQAV1NWBgVXVVFTCAwOUlIXGUNHFxRXAllmXVYVDgVRAlJSBklBFBIEFGlQURtfEgMEUgRWVxBPFk1dX1IWDFUHV1EDV1ZSWFhKFElcXUcKFwZZBVdTEE8WXExGUkZYBVw5AVQTCgIEQ1xYTFlVSRJaWz5QBgtTDVAbDhAHFhpGWRUVE18NFA0NShRbXE0XUUFQQw5BVApVAhsYEFRbQwpEFBwTX0EgM0NKFFxNTQBeRlwOWkFcEBdHGxgQXkdpFlUVEUMAAgwEE0QMGwUbSRJYVBlrAAlcDVFaQFtYWkVGCkRWE0lBDA4PD0JWR2YVWVEXWxZbVQNXFkQ=
 #EXTINF:0 group-title="FUTBOL ARGENTINO" tvg-logo="https://i.postimg.cc/0QNF1F8J/DSPORTS.png" ,DSPORTS +
 http://offshore.lat:8080/play/MWeogaSmpVBuh-TFCnuNr6O_2rAGhXlchnBbk1IrQ3FOBdk__YXu7xKK8p4IFrQd
 #EXTINF:0 group-title="FUTBOL ARGENTINO" ,DSPORTS 1
@@ -2023,6 +2029,8 @@ http://181.224.64.2:89/espnhd/manifest.m3u8
 http://181.224.64.2:89/espn2hd/manifest.m3u8
 #EXTINF:0 group-title="SERVIDOR CHILENO 181.224.64.2:89" ,ESPN 03
 http://181.224.64.2:89/espn3hd/manifest.m3u8
+#EXTINF:0 group-title="SERVIDOR CHILENO 181.224.64.2:89" ,ESPN PREMIUM
+http://181.224.64.2:89/foxsports1hd/manifest.m3u8
 #EXTINF:-1 group-title="SERVIDOR CHILENO 181.224.64.2:89" ,HBO
 http://181.224.64.2:89/hbohd/manifest.m3u8
 #EXTINF:-1 group-title="SERVIDOR CHILENO 181.224.64.2:89" ,HISTORY
@@ -2035,6 +2043,8 @@ http://181.224.64.2:89/megahd/manifest.m3u8
 http://181.224.64.2:89/paramounthd/manifest.m3u8
 #EXTINF:-1 group-title="SERVIDOR CHILENO 181.224.64.2:89" ,SONY HD
 http://181.224.64.2:89/sonyhd/manifest.m3u8
+#EXTINF:0 group-title="SERVIDOR CHILENO 181.224.64.2:89" ,SPACE
+http://181.224.64.2:89/space1hd/manifest.m3u8
 #EXTINF:-1 group-title="SERVIDOR CHILENO 181.224.64.2:89" ,TNT
 http://181.224.64.2:89/tnthd/manifest.m3u8
 #EXTINF:-1 group-title="SERVIDOR CHILENO 181.224.64.2:89" ,TNT SERIES
@@ -2043,8 +2053,40 @@ http://181.224.64.2:89/tntserieshd/manifest.m3u8
 http://181.224.64.2:89/tntsportshd/manifest.m3u8
 #EXTINF:-1 group-title="SERVIDOR CHILENO 181.224.64.2:89" ,UNIVERSAL HD
 http://181.224.64.2:89/universalhd/manifest.m3u8
+#EXTINF:0 group-title="SERVIDOR CHILENO 181.224.64.2:89" ,VIDA TV
+http://181.224.64.2:89/vidatv/index.m3u8
 #EXTINF:-1 group-title="SERVIDOR CHILENO 181.224.64.2:89" ,WARNER HD
 http://181.224.64.2:89/warnerhd/manifest.m3u8
+#EXTINF:-1 group-title="SERVIDOR FRANCIA SPORT" ,AMAZON PRIME
+http://145.239.5.177:8080/516/index.m3u8
+#EXTINF:-1 group-title="SERVIDOR FRANCIA SPORT" ,AMAZON PRIME
+http://145.239.5.177:8080/518/index.m3u8
+#EXTINF:-1 group-title="SERVIDOR FRANCIA SPORT" ,AMAZON PRIME
+http://145.239.5.177:8080/520/index.m3u8
+#EXTINF:-1 group-title="SERVIDOR FRANCIA SPORT" ,AMAZON PRIME
+http://145.239.5.177:8080/521/index.m3u8
+#EXTINF:-1 group-title="SERVIDOR FRANCIA SPORT" ,BEIN FR 1
+http://145.239.5.177:8080/512/index.m3u8
+#EXTINF:-1 group-title="SERVIDOR FRANCIA SPORT" ,BEIN FR 2
+http://145.239.5.177:8080/513/index.m3u8
+#EXTINF:-1 group-title="SERVIDOR FRANCIA SPORT" ,BEIN FR 3
+http://145.239.5.177:8080/514/index.m3u8
+#EXTINF:-1 group-title="SERVIDOR FRANCIA SPORT" ,CANAL+
+http://145.239.5.177:8080/561/index.m3u8
+#EXTINF:-1 group-title="SERVIDOR FRANCIA SPORT" ,CANAL+ FOOT
+http://145.239.5.177:8080/556/index.m3u8
+#EXTINF:-1 group-title="SERVIDOR FRANCIA SPORT" ,CANAL+ SPORT 1
+http://145.239.5.177:8080/537/index.m3u8
+#EXTINF:-1 group-title="SERVIDOR FRANCIA SPORT" ,CANAL+ SPORT 2
+http://145.239.5.177:8080/538/index.m3u8
+#EXTINF:-1 group-title="SERVIDOR FRANCIA SPORT" ,EUROSPORT ESPAÑOL
+http://145.239.5.177:8080/529/index.m3u8
+#EXTINF:-1 group-title="SERVIDOR FRANCIA SPORT" ,RMC SPORT 1
+http://145.239.5.177:8080/524/index.m3u8
+#EXTINF:-1 group-title="SERVIDOR FRANCIA SPORT" ,RMC SPORT 2
+http://145.239.5.177:8080/525/index.m3u8
+#EXTINF:-1 group-title="SERVIDOR FRANCIA SPORT" ,SUPERSPORT GRANDSTAND
+http://145.239.5.177:8080/567/index.m3u8
 #EXTINF:-1 group-title="SKY SPORT NZ" ,NZ - Sky Sport 1 HD
 http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/73125
 #EXTINF:-1 group-title="SKY SPORT NZ" ,NZ - Sky Sport 2 HD
@@ -2241,11 +2283,11 @@ https://live-kh-1123139281.thapcam.link/mySD/playlist.m3u8
 https://live-kh-1123139281.thapcam.link/soiSD/playlist.m3u8
 #EXTINF:0 group-title="WEBCAMS Y PAISAJES" ,LAGO
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55593&extension=ts&play_token=ltn2GgE1z6
+#EXTINF:0 group-title="WEBCAMS Y PAISAJES" ,LOVE NATURE 4K
+https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 #EXTINF:0 group-title="WORLD RADIO TOKEN" ,ASTRO SUPER SPORT 1
 https://worldradio.online/proxy/?q=185.53.90.34:25461/pachaman/asdfghuytrc/63112
 #EXTINF:0 group-title="WORLD RADIO TOKEN" ,ASTRO SUPER SPORT 2
 https://worldradio.online/proxy/?q=185.53.90.34:25461/pachaman/asdfghuytrc/63113
 #EXTINF:0 group-title="WORLD RADIO TOKEN" ,ASTRO SUPER SPORT 3
 https://worldradio.online/proxy/?q=185.53.90.34:25461/pachaman/asdfghuytrc/63114
-#EXTINF:0 group-title="ZZ PRUEBAS" audio-track="https://food-dlvr-ott.akamaized.net/primary/4/a640549241664dce8ae975919997b0ca/index_11_0.m3u8" ,TLC
-https://food-dlvr-ott.akamaized.net/primary/4/a640549241664dce8ae975919997b0ca/index_14.m3u8
