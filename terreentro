@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0 group-title="24/7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZiJ0kHwplBmP69PQIiJci2jtaEylTj0RTBy4CWZKzoh4DMLHiotZf75RWTDIvZPqjLMw&usqp=CAU" ,ALF
-http://budtvlight.com:25461/bud-1680891/e69b8f5337/2321
+http://188.66.24.7:25461/corredorjuan1/gYUDJ6CnMQ/37766?token=GkMOV0pdG18SBlQADVRUVwJXXAJWBVBXUwVRXVVVVAQDBwQACVQLUFUXGUNHFxRXAllmXVYVDgVTB1BTHUcWEgQTOV9dFwNHBgQGUQFSRB5BQFBZVxUOB1MBUlcDUlZXUE1ERlBRG18SBgNVAlZEHkFRQUBXRVpXCG8CAEcMAARDWwhDVVkVR19bagVRDgdcBxYDFgIVGBQNQxZHCwsWDQ1NRFRQQUsERFAXWxZQUQRBGBtXXUJaQhZJRF8TJDFDTUMDTk1QVxZZWltDDkESQUEYG11BaEZTF0QUAFAIBhNDW0QGGxkbCFFNagJbDQhXAEBQW1xEFgxGA0RJEwgMDwgVCURmRVABEg8XUA1QVwRBSQ==
 #EXTINF:0 group-title="24/7" parent-code="https://6362ca6f1fc28.streamlock.net/elchavoplus/elchavoplus/chunklist_w251850427.m3u8" tvg-logo="https://4.bp.blogspot.com/-qcGsoFyaUWg/W6lmslccpbI/AAAAAAAAAEU/AITGCqKS030alHxSpIwZT17-KneOZCBEwCPcBGAYYCw/s1600/chavotv.png" ,EL CHAVO
 http://offshore.lat:8080/armando86/dPCeWVgyHN9j/11527
 #EXTINF:0 group-title="24/7" tvg-logo="https://img.hidra.app/247/futurama.png" ,FUTURAMA
@@ -750,7 +750,7 @@ https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:0 group-title="ENTRETENIMIENTO E INTERES GENERAL" tvg-logo="https://images.pluto.tv/channels/5ea71d48af1d0b0007d837f4/colorLogoPNG.png" ,THE NEWS DETECTIVES
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ea71d48af1d0b0007d837f4/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b8904033-58e7-4560-aaa9-57dc6911f64b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6890d1bc-9854-11eb-a8b4-0242ac110002&userId=&serverSideAds=true
 #EXTINF:0 group-title="ENTRETENIMIENTO E INTERES GENERAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/512px-TLC_Logo.svg.png" ,TLC 01
-http://169.197.142.124:8080/AlexRivera/tNcNm6avPBLQ/126558?token=TBVQVktfGg9AVVVQW1QLUgQLVFYFAlIHXQkCBVYGUVYBD14DW1QMBAFBHRBLQ0oEVVRvXQIUXFALDwcBXBsRRURSSmhRUxoPQFoEBAsPGk0WTVlZAxRcUA4IBgZWAAEHDxsaR1FTGg9AUgQHCgIaTRZcSEADRAgAVWZWURJeUFUVDVZCVFsUFw0NblZdWlkPUBsKFlYUSkNQSkIWXllGXFsbGlVRQ0pUFgYTCBoECFkEGxwWBVkTD01LSxZeFXJiFRsaUkBDXVsRCl5cGg0aFUcbHBYPRTkTXEpGRgFWXlVFFQIVCBUUFw8CSW1bWFYPUVpEXQlYFUMDGwEWSBVeX1leTFhKaEhcBkELEAoGAVkMG00=
+http://169.197.142.124:8080/Mikela0412/HrbrZnqqeerB/126558?token=TBVQVktfGg9ABwFUWlZbVgILAwFSUgNSDlsADVYCBVRWBVlSDQNcUFNBHRBLQ0oEVVRvXQIUXFALDwcBXBsRRURSSmhRUxoPQFIACg4DDUMYG0RdC1NEWwgOAwBWBAIEAwAUFUheXBdYQQMEAQcIQxgbVUwSUxQPWFVtUAFBWlNSFQJZTVtUGUAMX21cUlUAWl0SDkQGRE0bUEFERg1dRVtbFBVaXkxHAxdUEAIVClYACBIYRFUJFFdNQE1GDRFxZRUUFV1PTFAMEFhdVhUCQ0BKEhhEXxU+S1xBQBZSUl1SRRoNGgcaGUAOUEpnVFcPWlxTQA9ZCBIbAxAHRhsRXVhZUUNXRWdFCwcTCBoFCVgMARJJ
 #EXTINF:0 group-title="ENTRETENIMIENTO E INTERES GENERAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/512px-TLC_Logo.svg.png" ,TLC 02
 http://offshore.lat:8080/armando86/dPCeWVgyHN9j/301426
 #EXTINF:0 group-title="ENTRETENIMIENTO E INTERES GENERAL" ,TLC 03
