@@ -21,10 +21,12 @@ http://offshore.lat:8080/armando86/dPCeWVgyHN9j/294014
 http://offshore.lat:8080/armando86/dPCeWVgyHN9j/294011
 #EXTINF:0 group-title="24/7" tvg-logo="https://i.pinimg.com/originals/67/ef/f1/67eff169f7ed79114791315c6cf817cf.jpg" ,LOS TRES CHIFLADOS
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f85f1dc1418bd0007e11eb9/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff35bd0-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=025be615-509e-4721-8804-92898ace6781&userId=&serverSideAds=true
+#EXTINF:0 group-title="24/7" ,RETRO CARTOON
+https://stmv1.srvif.com/retrotv/retrotv/playlist-720p.m3u8
 #EXTINF:0 group-title="24/7" tvg-logo="https://img.tvcl.xyz/247/247.png" ,SAILOR MOON
 http://home-playtv.com:8080/CR62845553/NMYGF/177124
 #EXTINF:0 group-title="24/7" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/c/c6/SMCrystal.jpg/revision/latest?cb=20180504190435&path-prefix=es" ,SAILOR MOON CRYSTAL
-http://budtvlight.com:25461/bud-1680891/e69b8f5337/2395
+http://23.131.184.44:8080/JOSECERON/JVfc5p5rEF/2090900?token=GUNfBEdbQApAUVJQVA9TUlMMWwAHBwECVwAGVFoFVQYEU1JQUQFSVVcSGkcVTENVB1U8WwcUDQcDDFIJUgcdExcSUhdrWgYSWBIHVlQOBwFEFEFGCltSFwkEVQFWBQYIWlICSRZDC1RAChRcUQgCEkoaBkoXU0VbUlk9VAdBWFIHQw0LQV8OHEBfWDoCXVxRCFxBCEEGFRkRXBFAQA0TZQcNUgZRXRZCDRBlSycWExxEWgpGEVdDUBEPQAFVDgcTTkNUCkFdFkIbEgxHJ2oTHERdG0YGWERcXFtACkBDQhNOQ14Wa0EHQxZCUwQLXUMSXBpTEE8UWlRLagFfDFlUUhYIWAtHEVgSURIaRwtXX1kSVxFtE19TFwkXUwBQDgITHw==
 #EXTINF:0 group-title="24/7" tvg-logo="https://images.pluto.tv/channels/609ae5cd48d3200007b0a98e/colorLogoSVG.svg?auto=&fit=crop&fill=blur&ixlib=react-9.1.5&w=150&h=96&dpr=3&q=35" ,SOUTH PARK
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae5cd48d3200007b0a98e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 #EXTINF:-1 group-title="ARENA SPORT" ,ARENA SPORT 1
@@ -804,7 +806,7 @@ http://190.11.130.46/mnp/fox_sport3/output.mpd
 #EXTINF:0 group-title="FUTBOL ARGENTINO" tvg-id="http://181.209.114.13:8000/play/a02u/index.m3u8" parent-code="http://45.5.151.151:8000/play/a002/index.m3u8" tvg-logo="https://i.postimg.cc/ncqcD2GQ/TNT-SPORTS.png" ,TNT SPORTS
 http://190.11.130.46/mnp/tntsports/output.mpd
 #EXTINF:0 group-title="FUTBOL ARGENTINO" tvg-logo="https://1.bp.blogspot.com/-Z3CkwxY4fwY/YAJypg5UiPI/AAAAAAAA7vA/pzgUVEWEm6w7d-vCJEtQSU5MG8O-ixbkQCLcBGAsYHQ/s802/tvp-2020.png" ,TVP PUBLICA 2
-http://offshore.lat:8080/play/MWeogaSmpVBuh-TFCnuNr6O_2rAGhXlchnBbk1IrQ3FdLaBN8xd-CvffeoSKMk32
+http://104.243.34.212/auth/499.ts?token=FYPb206crCmHB8WZAeRuBDcugdfluZsPkphDkbwnqu-V0D5lCAGhtFTM-DvRxETMZfJdNbPJ9EwaaY7g3P7ONP7dku7MOYleVg2l8Wprys48yAbwnJep02CQx06VznRINByge7tczrnF7eI3uXz1sI2wBq0D41HHV2A20eILksil0tC6OyrH4w-f2qwaQNGdJufhck8_Lh12mA8JHHq0AX-a__PxiQQ3w4wn7hVzi1OGvkTdeYnIS3stDULnUYfH4K1NskrwU_c-uROhZgAwMU0fn4dpGMRvVFGjMk6UmkEENhLZg2c8VWGZKT9CFKIVUt5m1dURF4ZwQ9-bEtFlwAvLAK-YIghZT5aOyBUgEVyzN5vF8xk6iPEKtHoLOpu0tO3_bJ2gtwbSdLkve73hLoAtQwxnx_uqEZscgv2NHC9FbDI007UxXpYsLfMWWCiYPvmmaJLwEqvNujq46GRiaXShZnNWV6i8mDXYcpV25xVvyXgfj3T-R6RxerGo_qHylwlYW3dzL5_Yv72aQyV_aYb6WrmGlG7tgLVI0-YgJcSIWpBabJZzIXY-ZUfUihOKAGu-lpAVGGZGgs0J5QdKCE7LG5hmN2DDTkhAcFwcovlc0U_uyTk8dE1Kj1tguyRECziPirJj7fX3erZBJpZWUM4InJYymTw8gbqRkLS4uZs
 #EXTINF:0 group-title="FUTBOL ARGENTINO" tvg-name="https://delivery.cdn.rcs.net.ar/mnp/tyc/output.mpd" tvg-logo="https://i.postimg.cc/HkNRX3Sp/TYC-SPORTS.png" ,TYC SPORTS
 https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_4.m3u8
 #EXTINF:0 group-title="FUTBOL ARGENTINO" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgusCblUkZgbEe0QzEyqhic7yB5B0CpYkR80juX5pmjTMf_7TgBN0DU7el6uSHfeNmkjgu3uwIiibqo1Jc_qXaQeRFVKSyG-Fvn6XB1C9JxkdZ6poMOjHgi4jeRugapH5Kb9zXQNIPkSQAu_reJzAgX8q6OmxbMKARNm4uxGSC_wE92fyLW_dJyWEla/s512/tycsports2.png" ,TYC SPORTS 2
