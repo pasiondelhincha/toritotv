@@ -6891,6 +6891,44 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs28
 #EXTINF:-1 group-title="JAPON-PRIMEHOME" ,CANAL 29
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs29
+#EXTINF:0 group-title="LIVEIN" ,ARENA SPORT 1
+http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=93914&extension=m3u8&play_token=j8tvtalOGI
+#EXTINF:0 group-title="LIVEIN" ,ARENA SPORT 2
+http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=93916&extension=m3u8&play_token=j8tvtalOGI
+#EXTINF:0 group-title="LIVEIN" ,ARENA SPORT 3
+http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=93918&extension=m3u8&play_token=j8tvtalOGI
+#EXTINF:0 group-title="LIVEIN" ,ARENA SPORT 4
+http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=93921&extension=m3u8&play_token=j8tvtalOGI
+#EXTINF:0 group-title="LIVEIN" ,ARENA SPORT 5
+http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=93922&extension=m3u8&play_token=j8tvtalOGI
+#EXTINF:0 group-title="LIVEIN" ,ARENA SPORT 6
+http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=93923&extension=m3u8&play_token=j8tvtalOGI
+#EXTINF:0 group-title="LIVEIN" ,ARENA SPORT 7
+http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=93900&extension=m3u8&play_token=j8tvtalOGI
+#EXTINF:0 group-title="LIVEIN" ,ASTRO CRICKET
+p?mac=00:1a:79:b1:85:5e&stream=186386&extension=m3u8&play_token=j8tvtalOGI
+#EXTINF:0 group-title="LIVEIN" ,ASTRO SUPERSPORT 1
+http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=186387&extension=m3u8&play_token=j8tvtalOGI
+#EXTINF:0 group-title="LIVEIN" ,ASTRO SUPERSPORT 2
+http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=186388&extension=m3u8&play_token=j8tvtalOGI
+#EXTINF:0 group-title="LIVEIN" ,ASTRO SUPERSPORT 3
+http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=186389&extension=m3u8&play_token=j8tvtalOGI
+#EXTINF:0 group-title="LIVEIN" ,ASTRO SUPERSPORT 4
+http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=186390&extension=m3u8&play_token=j8tvtalOGI
+#EXTINF:0 group-title="LIVEIN" ,SPORKLUB 1
+http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=93972&extension=m3u8&play_token=j8tvtalOGI
+#EXTINF:0 group-title="LIVEIN" ,SPORKLUB 2
+http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=93973&extension=m3u8&play_token=j8tvtalOGI
+#EXTINF:0 group-title="LIVEIN" ,SPORKLUB 3
+http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=93974&extension=m3u8&play_token=j8tvtalOGI
+#EXTINF:0 group-title="LIVEIN" ,SPORKLUB 4
+http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=93975&extension=m3u8&play_token=j8tvtalOGI
+#EXTINF:0 group-title="LIVEIN" ,SPORKLUB 5
+http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=93976&extension=m3u8&play_token=j8tvtalOGI
+#EXTINF:0 group-title="LIVEIN" ,SPORKLUB 6
+http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=93977&extension=m3u8&play_token=j8tvtalOGI
+#EXTINF:0 group-title="LIVEIN" ,SPORKLUB GOLF
+http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=93978&extension=m3u8&play_token=j8tvtalOGI
 #EXTINF:-1 group-title="PLEX" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/Toon-Goggles-en-Espanol_logo_dark.png" ,BR | TOON GOGGLES EN ESPAÑOL
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=533&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=SYmqRsd_3zFsz7JJX_qb&content_series=6041643175c115002dc51259&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=SYmqRsd_3zFsz7JJX_qb&custom_7=6041643175c115002dc51259
 #EXTINF:-1 group-title="PLEX" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/Toon-Goggles-en-Espanol_logo_dark.png" ,BR | TOON GOGGLES EN ESPAÑOL
@@ -10145,12 +10183,16 @@ http://185.53.89.104:25461/bebo/12345678/114614?token=GRZRBRFaQwIWX15aVQBSVVQEUA
 http://185.53.89.104:25461/bebo/12345678/116288?token=GRZRBRFaQwIWVAhQBloDWlxSUlpUDVtQDFUGU1YCBwFRUQAFVFNXXgNEFEFDFhQHBVw7UAUbA1cIAgNZXkoVTBFRSzsLVkMCFlcIUAFWUldGHUZNCFRcRAMFBlBSUgUBWgMPSEBCCFwWXBpQA1VWUEYdRlwZTVwUV1VdPgIDQVABURteDEcNVBhEVw1vBgMPBV8AG1sbCEQVFlgSFkQNVxdYVUhAUAhMRgdMBhJYCBcIXUgbAlZMCE1GSENcRHZrQBgbARpGBFZHD1cNElhEFhcTSBsISmYUXEdFEwMHWlwQFgNGUhBNGlkHQDxTDQgMAVIQUA5XSkQDFgBDSkRaVgxdTQsQbRFRUEQCQQNRUFtXExk=
 #EXTINF:0 group-title="ZZPRUEBAS TOKEN EPG" ,ALFASPORTS CHIPRE
 https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/tracks-v1a1/mono.m3u8?token=8TXWzhY3h6jrzqEqx
+#EXTINF:0 group-title="ZZPRUEBAS TOKEN EPG" ,ASTRO PREMIER
+http://85.92.112.53:8080/live/play/WmxoWVYzaHBUa2x5U2tWSmIyRXJjRWt2ZVVSbmFtMW1WMVZsV2pOemJrRm1lREJRU20xRlNuQXdiejA9/571245
 #EXTINF:0 group-title="ZZPRUEBAS TOKEN EPG" ,ASTRO SUPER SPORT 1
 http://mmu032.wanicelife.com:8880/live/3ca7043n02/dsf23e423/59220.m3u8?token=TBRRBxJfEA9BWwlfVAYFBFpVUVQICVMGBFwJBAwCVVkPAAFfBw8GDQcaHBtCRUIEWV5tC1QTC1cIVwoEGBJCElJEZg8FFQgXUQoECQQBEk0aR1sPVRMLUh1HSF1QEg1DBQQJUlEVHhcGQERcQ19RDWdXVxRZUlRACwtNWFgcFQ5ZaV0DDFZcUUECEggTHRIIS0MQWF5EXQ4dR1pdQEJWFVIUA0RQBQUFQRQSWl5EXhVKShBYEnBjQB1HXUxAVVkSXllXRFsVXwYWABIVE1hDPkpWQRZCVFAPVBcaDhYAFU0VW1gePlRdWw1dU01YXl4SGgkQURIdEw9eC1FAW0JoEV5SG1xDBgEBVA4SRA==
 #EXTINF:0 group-title="ZZPRUEBAS TOKEN EPG" ,ASTRO SUPER SPORT 2
 http://mmu032.wanicelife.com:8880/live/3ca7043n02/dsf23e423/59219.m3u8?token=TBRRBxJfEA9BWwlbAAYFVgwCAwAGAFNTU1cNBgdRBwMCAQwHWQMFU1QaHBtCRUIEWV5tC1QTC1cIVwkNGBJCElJEZg8FFQgXUQoECQQBEk0aR1sPVRMLUh1HSF1QEg1DBgMNU1QVHhcGQERcQ19RDWdXVxRZUlRACwtNWFgcFQ5ZaV0DDFZcUUECEggTHRIIS0MQWF5EXQ4dR1pdQEJWFVIUA0RQDgYBQRQSWl5EXhVKShBYEnBjQB1HXUxAVVkSXllXRFsVXwYWABIVE1hDPkpWQRZCVFAPVBcaDhYAFU0VW1gePlRdWw1dU01YXl4SGgkQURIdEw9eC1FAW0JoEV5SG1xDAwEHVxpN
 #EXTINF:0 group-title="ZZPRUEBAS TOKEN EPG" ,ASTRO SUPER SPORT 4
 http://mmu032.wanicelife.com:8880/live/3ca7043n02/dsf23e423/59217.m3u8?token=TBRRBxJfEA9BXVQABgcABQtRBwMICFVaAAYADAdWAQMBBQpeVlFXAVIaHBtCRUIEWV5tC1QTC1cIVwkDGBJCElJEZg8FFQgXUQoECQQBEk0aR1sPVRMLUh1HSF1QEg1DAAQBRE0VV00XXUJXUF1vBV1FWwFVEwsMRAlUGBZfWT5TU1QHD1MQD0EJEhUTWEMRGglcF1xdHUBTDExGVURSQw0UCFFRABAZQVtfTF9FQhgaCRAjYhMdQFQdTFFaQ14OWRQDRAwERw1BFBJQQm5CBEtHQAdRXFQQE18aBBYcFQxWTmYFDllcUABMWVZfQhJbGgAQThJcXgxYEVdGa0BeBRUMG1RZBgMFQUU=
+#EXTINF:0 group-title="ZZPRUEBAS TOKEN EPG" ,ASTRO SUPERSPORT 2
+http://85.92.112.53:8080/live/play/YzJKV2VrNXNWblJaUmtsR1FqTTFWRXhIVEVkWlZGUndXR1J5TDFvNFozVnhlSEZPWkZCaWJIcG5TVDA9/571248
 #EXTINF:0 group-title="ZZPRUEBAS TOKEN EPG" ,AXN LATINO THEVDM
 http://23.227.133.2:25461/jhill/jumpman23/19837?token=QxcKA0ZRRFsTUgNQVwYDD1dXVgAFBFRVCwNTAwhVVVUOUFNXUVhVVVJESRFAREdTAA48W1MUWFALWQZVHBMUR11HPQtRG1xDA1JcER8SQV8MBkEIBgFTVQFZDVMBBk0WSFwGQA8bVVcBVUcfEVVNQgQRDVNbaQYERAhWBxILD0FUWU5AWlc5BVQLBF1XEg8UUEFPEF5FEkMID0AOXB1DVlFBEANBXERbE1dWAgISGRQCDBZcQ0QbQwhDdDASHUNRQEEHDEZQCQ8TXEdHQBIZFAgQPEBSRRYTVwBYB0ITWxYIF05AWFgePlIJC11WU0FfDg0QEA0UUEMeQ1gNXlgVW0pqEgtRG1xDAlNcBxFN
 #EXTINF:0 group-title="ZZPRUEBAS TOKEN EPG" ,BAND SPORTS
