@@ -1,22 +1,12 @@
 #EXTM3U
 #EXTINF:-1 group-title="01LOCAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" ,05-TELEFE
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
-#EXTINF:-1 group-title="01LOCAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" ,05-TELEFE
-https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
-#EXTINF:-1 group-title="01LOCAL" tvg-logo="https://www.seekpng.com/png/detail/822-8227011_telefe-internacional.png" ,06-TELEFE INTERNACIONAL
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492d5522166000071a73c8livestitch/2977158/playlist.m3u8?terminate=false&sid=SAMSUNG-TVPLUS-fa902873-3a9e-4450-bdcc-f7d97b271a8c&deviceDNT=0&advertisingId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceModel=samsung&deviceVersion=unknown&embedPartner=samsung-tvplus&samsung_app_domain=https:%2F%2Fwww.samsung.com%2Fus%2Fappstore%2Fapp.do%3FappId%3DG15147002586&samsung_app_name=Samsung%20TV%20Plus&serverSideAds=true&us_privacy=1YNY&appName=samsungtvplus&deviceId=%7BPSID%7D&appVersion=unknown&deviceType=samsung-tvplus&deviceMake=samsung&includeDeviceUA=true
 #EXTINF:-1 group-title="01LOCAL" tvg-logo="https://www.seekpng.com/png/detail/822-8227011_telefe-internacional.png" ,06-TELEFE INTERNACIONAL
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492d5522166000071a73c8livestitch/2977158/playlist.m3u8?terminate=false&sid=SAMSUNG-TVPLUS-fa902873-3a9e-4450-bdcc-f7d97b271a8c&deviceDNT=0&advertisingId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceModel=samsung&deviceVersion=unknown&embedPartner=samsung-tvplus&samsung_app_domain=https:%2F%2Fwww.samsung.com%2Fus%2Fappstore%2Fapp.do%3FappId%3DG15147002586&samsung_app_name=Samsung%20TV%20Plus&serverSideAds=true&us_privacy=1YNY&appName=samsungtvplus&deviceId=%7BPSID%7D&appVersion=unknown&deviceType=samsung-tvplus&deviceMake=samsung&includeDeviceUA=true
 #EXTINF:-1 group-title="01LOCAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Logo_Canal_13_200_8.png" ,07-CANAL 13 ARTEAR
 https://livetrx01.vodgc.net/eltrecetv/tracks-v3a1/mono.m3u8
-#EXTINF:-1 group-title="01LOCAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Logo_Canal_13_200_8.png" ,07-CANAL 13 ARTEAR
-https://livetrx01.vodgc.net/eltrecetv/tracks-v3a1/mono.m3u8
 #EXTINF:-1 group-title="01LOCAL" tvg-logo="https://i.imgur.com/6miysb8.png" ,16-24/7 CANAL DE NOTICIAS
 http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8
-#EXTINF:-1 group-title="01LOCAL" tvg-logo="https://i.imgur.com/6miysb8.png" ,16-24/7 CANAL DE NOTICIAS
-http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8
-#EXTINF:-1 group-title="01LOCAL" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_10/large.1027530100_IP2.png.09507349c734309f8ec316ccd9633b41.png" ,17-IP INFORMACION PERIODISTICA
-https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=4499968.m3u8?
 #EXTINF:-1 group-title="01LOCAL" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_10/large.1027530100_IP2.png.09507349c734309f8ec316ccd9633b41.png" ,17-IP INFORMACION PERIODISTICA
 https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=4499968.m3u8?
 #EXTINF:-1 group-title="01LOCAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/TLMX.png/220px-TLMX.png" ,19-Telemax
@@ -6313,6 +6303,20 @@ https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
 https://live.cast-control.eu:443/xalastratv/xalastratv/playlist.m3u8
 #EXTINF:-1 group-title="77 INDONESIA-MALASIA" ,Xalastra
 https://live.cast-control.eu:443/xalastratv/xalastratv/playlist.m3u8
+#EXTINF:0 group-title="ACESTREAM" ,DAZN F1
+http://127.0.0.1:6878/content/dc0732e5f63a59001b7ef446a7e69c4a4adf7999/0.919071423045
+#EXTINF:0 group-title="ACESTREAM" ,DAZN LA LIGA
+http://127.0.0.1:6878/content/3a50025a46c0befcf26371c3d8be7fa335dbfe71/0.648629344361
+#EXTINF:0 group-title="ACESTREAM" ,DAZN LA LIGA
+http://127.0.0.1:6878/content/9adab53db8307d5f0e90dcc8a34ba9083dc0a0aa/0.293763169636
+#EXTINF:0 group-title="ACESTREAM" ,DAZN 1 ESP
+http://127.0.0.1:6878/content/97ee1fc21dbe40474d55f956e302817258049a2b/0.774068863932
+#EXTINF:0 group-title="ACESTREAM" ,SETANTA SPORTS 1
+http://127.0.0.1:6878/content/626c5326f29984bbedceee04c9694a0447ba0a9a/0.803500454384
+#EXTINF:0 group-title="ACESTREAM" ,SETANTA SPORTS 2
+http://127.0.0.1:6878/content/fded295edff9d57adb77cf02a08c5f2fcb9e608b/0.551679544986
+#EXTINF:0 group-title="ACESTREAM" ,Матч! Премьер HD
+http://127.0.0.1:6878/content/88c482d9e57b1a031c032344f9c00cf7b36da8d9/0.195524663101
 #EXTINF:-1 group-title="BALKANIKA" ,Arena Sport 1
 http://45.139.122.96:2082/Albert/123/9
 #EXTINF:-1 group-title="BALKANIKA" ,Arena Sport 2
@@ -6381,6 +6385,314 @@ http://45.139.122.96:2082/Albert/123/264
 http://45.139.122.96:2082/Albert/123/265
 #EXTINF:-1 group-title="BALKANIKA" ,TRING SPORT 4
 http://45.139.122.96:2082/Albert/123/266
+#EXTINF:-1 group-title="CHILE NETWORK" ,A&E HD
+http://181.205.77.118:4849/play/CH67
+#EXTINF:-1 group-title="CHILE NETWORK" ,AMC HD
+http://181.205.77.118:4849/play/CH63
+#EXTINF:-1 group-title="CHILE NETWORK" ,ANIMAL PLANET
+http://181.205.77.118:4849/play/a09e
+#EXTINF:-1 group-title="CHILE NETWORK" ,ATRES SERIES HD
+http://181.205.77.118:4849/play/CH125
+#EXTINF:-1 group-title="CHILE NETWORK" ,AXN HD
+http://181.205.77.118:4849/play/CH34
+#EXTINF:-1 group-title="CHILE NETWORK" ,Adult Swim HD
+http://181.205.77.118:4849/play/CH155
+#EXTINF:-1 group-title="CHILE NETWORK" ,America TV HD
+http://181.205.77.118:4849/play/CH153
+#EXTINF:-1 group-title="CHILE NETWORK" ,Animal Planet HD
+http://181.205.77.118:4849/play/CH83
+#EXTINF:-1 group-title="CHILE NETWORK" ,BLU Radio
+http://181.205.77.118:4849/play/a0cz
+#EXTINF:-1 group-title="CHILE NETWORK" ,CARACOL HD 2
+http://181.205.77.118:4849/play/CH142
+#EXTINF:-1 group-title="CHILE NETWORK" ,CARACOL TV HD
+http://181.205.77.118:4849/play/a0eq
+#EXTINF:-1 group-title="CHILE NETWORK" ,CARTOON NETWORK
+http://181.205.77.118:4849/play/gddff
+#EXTINF:-1 group-title="CHILE NETWORK" ,CHV HD
+http://181.205.77.118:4849/play/CH121
+#EXTINF:-1 group-title="CHILE NETWORK" ,CNN Chile HD
+http://181.205.77.118:4849/play/CH102
+#EXTINF:-1 group-title="CHILE NETWORK" ,CNN Espaæol
+http://181.205.77.118:4849/play/CH101
+#EXTINF:-1 group-title="CHILE NETWORK" ,CableNoticias
+http://181.205.77.118:4849/play/CH109
+#EXTINF:-1 group-title="CHILE NETWORK" ,Canal 1 HD
+http://181.205.77.118:4849/play/CH6
+#EXTINF:-1 group-title="CHILE NETWORK" ,Canal 13
+http://181.205.77.118:4849/play/CH150
+#EXTINF:-1 group-title="CHILE NETWORK" ,Canal 13 HD
+http://181.205.77.118:4849/play/CH119
+#EXTINF:-1 group-title="CHILE NETWORK" ,Canal 24 Horas HD
+http://181.205.77.118:4849/play/CH106
+#EXTINF:-1 group-title="CHILE NETWORK" ,Canal Institucional HD
+http://181.205.77.118:4849/play/CH9
+#EXTINF:-1 group-title="CHILE NETWORK" ,Canal Test
+http://181.205.77.118:4849/play/a09w
+#EXTINF:-1 group-title="CHILE NETWORK" ,Cartoon Network HD
+http://181.205.77.118:4849/play/CH70
+#EXTINF:-1 group-title="CHILE NETWORK" ,Cinecanal HD
+http://181.205.77.118:4849/play/CH33
+#EXTINF:-1 group-title="CHILE NETWORK" ,Cinemax HD
+http://181.205.77.118:4849/play/CH57
+#EXTINF:-1 group-title="CHILE NETWORK" ,Clover HD
+http://181.205.77.118:4849/play/a0bh
+#EXTINF:-1 group-title="CHILE NETWORK" ,Comedy Central HD
+http://181.205.77.118:4849/play/CH50
+#EXTINF:-1 group-title="CHILE NETWORK" ,DHE HD
+http://181.205.77.118:4849/play/CH51
+#EXTINF:-1 group-title="CHILE NETWORK" ,DHE HD
+http://181.205.77.118:4849/play/CH138
+#EXTINF:-1 group-title="CHILE NETWORK" ,DISCOVERY CHANNEL
+http://181.205.77.118:4849/play/a09f
+#EXTINF:-1 group-title="CHILE NETWORK" ,DISCOVERY H&H
+http://181.205.77.118:4849/play/CH89
+#EXTINF:-1 group-title="CHILE NETWORK" ,DISCOVERY KIDS
+http://181.205.77.118:4849/play/a09b
+#EXTINF:-1 group-title="CHILE NETWORK" ,DISNEY CHANNEL
+http://181.205.77.118:4849/play/CH141
+#EXTINF:-1 group-title="CHILE NETWORK" ,De PelŦcula
+http://181.205.77.118:4849/play/CH65
+#EXTINF:-1 group-title="CHILE NETWORK" ,Discovery H&H HD
+http://181.205.77.118:4849/play/CH79
+#EXTINF:-1 group-title="CHILE NETWORK" ,Discovery HD
+http://181.205.77.118:4849/play/CH80
+#EXTINF:-1 group-title="CHILE NETWORK" ,Discovery Kids HD
+http://181.205.77.118:4849/play/CH71
+#EXTINF:-1 group-title="CHILE NETWORK" ,Discovery Theater HD
+http://181.205.77.118:4849/play/CH86
+#EXTINF:-1 group-title="CHILE NETWORK" ,Discovery Turbo
+http://181.205.77.118:4849/play/CH90
+#EXTINF:-1 group-title="CHILE NETWORK" ,Discovery World HD
+http://181.205.77.118:4849/play/CH84
+#EXTINF:-1 group-title="CHILE NETWORK" ,Disney Channel
+http://181.205.77.118:4849/play/a0bv
+#EXTINF:-1 group-title="CHILE NETWORK" ,Disney HD
+http://181.205.77.118:4849/play/CH72
+#EXTINF:-1 group-title="CHILE NETWORK" ,E! HD
+http://181.205.77.118:4849/play/CH130
+#EXTINF:-1 group-title="CHILE NETWORK" ,ECUADOR TV
+http://181.205.77.118:4849/play/a093
+#EXTINF:-1 group-title="CHILE NETWORK" ,ECUAVISA
+http://181.205.77.118:4849/play/a091
+#EXTINF:-1 group-title="CHILE NETWORK" ,ELCANALDELFUTBOL SD
+http://181.205.77.118:4849/play/a09u
+#EXTINF:-1 group-title="CHILE NETWORK" ,ESPN
+http://181.205.77.118:4849/play/a09l
+#EXTINF:-1 group-title="CHILE NETWORK" ,ESPN 2 HD
+http://181.205.77.118:4849/play/CH18
+#EXTINF:-1 group-title="CHILE NETWORK" ,ESPN 2 HD
+http://181.205.77.118:4849/play/a0bi
+#EXTINF:-1 group-title="CHILE NETWORK" ,ESPN 2 HD
+http://181.205.77.118:4849/play/a0au
+#EXTINF:-1 group-title="CHILE NETWORK" ,ESPN 3 HD
+http://181.205.77.118:4849/play/CH19
+#EXTINF:-1 group-title="CHILE NETWORK" ,ESPN 4 HD
+http://181.205.77.118:4849/play/CH147
+#EXTINF:-1 group-title="CHILE NETWORK" ,ESPN 5
+http://181.205.77.118:4849/play/CH28
+#EXTINF:-1 group-title="CHILE NETWORK" ,ESPN 6HD
+http://181.205.77.118:4849/play/CH24
+#EXTINF:-1 group-title="CHILE NETWORK" ,ESPN EXTRA HD
+http://181.205.77.118:4849/play/CH21
+#EXTINF:-1 group-title="CHILE NETWORK" ,ESPN HD
+http://181.205.77.118:4849/play/a0bm
+#EXTINF:-1 group-title="CHILE NETWORK" ,ESPN HD
+http://181.205.77.118:4849/play/a0a9
+#EXTINF:-1 group-title="CHILE NETWORK" ,ESPN HD
+http://181.205.77.118:4849/play/CH17
+#EXTINF:-1 group-title="CHILE NETWORK" ,El Gourmet
+http://181.205.77.118:4849/play/a0by
+#EXTINF:-1 group-title="CHILE NETWORK" ,El Gourmet HD
+http://181.205.77.118:4849/play/CH131
+#EXTINF:-1 group-title="CHILE NETWORK" ,FOX Sports 2 HD
+http://181.205.77.118:4849/play/CH23
+#EXTINF:-1 group-title="CHILE NETWORK" ,FX
+http://181.205.77.118:4849/play/CH59
+#EXTINF:-1 group-title="CHILE NETWORK" ,FX HD
+http://181.205.77.118:4849/play/CH38
+#EXTINF:-1 group-title="CHILE NETWORK" ,Food Network HD
+http://181.205.77.118:4849/play/CH144
+#EXTINF:-1 group-title="CHILE NETWORK" ,Fox Sports 1 HD
+http://181.205.77.118:4849/play/CH22
+#EXTINF:-1 group-title="CHILE NETWORK" ,GAMAVISION
+http://181.205.77.118:4849/play/a094
+#EXTINF:-1 group-title="CHILE NETWORK" ,GOLPERU HD
+http://181.205.77.118:4849/play/CH30
+#EXTINF:-1 group-title="CHILE NETWORK" ,Globovision
+http://181.205.77.118:4849/play/CH120
+#EXTINF:-1 group-title="CHILE NETWORK" ,GolTV HD
+http://181.205.77.118:4849/play/CH32
+#EXTINF:-1 group-title="CHILE NETWORK" ,Golden HD
+http://181.205.77.118:4849/play/CH47
+#EXTINF:-1 group-title="CHILE NETWORK" ,HBO
+http://181.205.77.118:4849/play/CH146
+#EXTINF:-1 group-title="CHILE NETWORK" ,HBO 2 HD
+http://181.205.77.118:4849/play/CH41
+#EXTINF:-1 group-title="CHILE NETWORK" ,HBO Family HD
+http://181.205.77.118:4849/play/CH44
+#EXTINF:-1 group-title="CHILE NETWORK" ,HBO HD
+http://181.205.77.118:4849/play/CH40
+#EXTINF:-1 group-title="CHILE NETWORK" ,HBO MUNDI
+http://181.205.77.118:4849/play/CH68
+#EXTINF:-1 group-title="CHILE NETWORK" ,HBO POP HD
+http://181.205.77.118:4849/play/CH58
+#EXTINF:-1 group-title="CHILE NETWORK" ,HBO XTREME HD
+http://181.205.77.118:4849/play/CH37
+#EXTINF:-1 group-title="CHILE NETWORK" ,HGTV
+http://181.205.77.118:4849/play/CH154
+#EXTINF:-1 group-title="CHILE NETWORK" ,HISTORY CHANNEL
+http://181.205.77.118:4849/play/asdadd
+#EXTINF:-1 group-title="CHILE NETWORK" ,HOLA TV HD
+http://181.205.77.118:4849/play/CH123
+#EXTINF:-1 group-title="CHILE NETWORK" ,HTV
+http://181.205.77.118:4849/play/CH95
+#EXTINF:-1 group-title="CHILE NETWORK" ,History 2 HD
+http://181.205.77.118:4849/play/CH78
+#EXTINF:-1 group-title="CHILE NETWORK" ,History Channel HD
+http://181.205.77.118:4849/play/CH1
+#EXTINF:-1 group-title="CHILE NETWORK" ,ID ? INVESTIGATION DISCOVERY
+http://181.205.77.118:4849/play/CH85
+#EXTINF:-1 group-title="CHILE NETWORK" ,ID HD
+http://181.205.77.118:4849/play/a0az
+#EXTINF:-1 group-title="CHILE NETWORK" ,LA FM RADIO
+http://181.205.77.118:4849/play/a0dg
+#EXTINF:-1 group-title="CHILE NETWORK" ,LA KALLE
+http://181.205.77.118:4849/play/CH152
+#EXTINF:-1 group-title="CHILE NETWORK" ,LA MEGA
+http://181.205.77.118:4849/play/lamega
+#EXTINF:-1 group-title="CHILE NETWORK" ,La Red HD
+http://181.205.77.118:4849/play/CH122
+#EXTINF:-1 group-title="CHILE NETWORK" ,Las Estrellas
+http://181.205.77.118:4849/play/a0bz
+#EXTINF:-1 group-title="CHILE NETWORK" ,Las Estrellas HD
+http://181.205.77.118:4849/play/CH112
+#EXTINF:-1 group-title="CHILE NETWORK" ,Latina HD
+http://181.205.77.118:4849/play/CH129
+#EXTINF:-1 group-title="CHILE NETWORK" ,Lifetime
+http://181.205.77.118:4849/play/CH117
+#EXTINF:-1 group-title="CHILE NETWORK" ,Lolly Kids HD
+http://181.205.77.118:4849/play/CH76
+#EXTINF:-1 group-title="CHILE NETWORK" ,Love Nature HD
+http://181.205.77.118:4849/play/CH82
+#EXTINF:-1 group-title="CHILE NETWORK" ,MEGA HD
+http://181.205.77.118:4849/play/CH126
+#EXTINF:-1 group-title="CHILE NETWORK" ,MTV 00s
+http://181.205.77.118:4849/play/CH151
+#EXTINF:-1 group-title="CHILE NETWORK" ,MTV HD
+http://181.205.77.118:4849/play/CH96
+#EXTINF:-1 group-title="CHILE NETWORK" ,MTV LIVE HD
+http://181.205.77.118:4849/play/CH94
+#EXTINF:-1 group-title="CHILE NETWORK" ,Movistar Deportes HD
+http://181.205.77.118:4849/play/CH149
+#EXTINF:-1 group-title="CHILE NETWORK" ,NATIONAL GEOGRAPHIC
+http://181.205.77.118:4849/play/CH88
+#EXTINF:-1 group-title="CHILE NETWORK" ,NTN 24 Horas
+http://181.205.77.118:4849/play/CH108
+#EXTINF:-1 group-title="CHILE NETWORK" ,NTV
+http://181.205.77.118:4849/play/CH75
+#EXTINF:-1 group-title="CHILE NETWORK" ,Nat Geo HD
+http://181.205.77.118:4849/play/CH81
+#EXTINF:-1 group-title="CHILE NETWORK" ,Nick HD
+http://181.205.77.118:4849/play/CH73
+#EXTINF:-1 group-title="CHILE NETWORK" ,Nuestra Tele
+http://181.205.77.118:4849/play/CH11
+#EXTINF:-1 group-title="CHILE NETWORK" ,Paramount HD
+http://181.205.77.118:4849/play/CH64
+#EXTINF:-1 group-title="CHILE NETWORK" ,Pasiones HD
+http://181.205.77.118:4849/play/CH111
+#EXTINF:-1 group-title="CHILE NETWORK" ,Playboy HD
+http://181.205.77.118:4849/play/CH53
+#EXTINF:-1 group-title="CHILE NETWORK" ,RCN HD
+http://181.205.77.118:4849/play/a0er
+#EXTINF:-1 group-title="CHILE NETWORK" ,RCN HD 2
+http://181.205.77.118:4849/play/RCNHD2
+#EXTINF:-1 group-title="CHILE NETWORK" ,RCN LA RADIO
+http://181.205.77.118:4849/play/112255
+#EXTINF:-1 group-title="CHILE NETWORK" ,RCN RADIO UNO
+http://181.205.77.118:4849/play/a0dm
+#EXTINF:-1 group-title="CHILE NETWORK" ,RTS
+http://181.205.77.118:4849/play/a097
+#EXTINF:-1 group-title="CHILE NETWORK" ,STAR CHANNEL
+http://181.205.77.118:4849/play/CH56
+#EXTINF:-1 group-title="CHILE NETWORK" ,STAR CHANNEL HD
+http://181.205.77.118:4849/play/a0bj
+#EXTINF:-1 group-title="CHILE NETWORK" ,STAR CHANNEL HD
+http://181.205.77.118:4849/play/CH2
+#EXTINF:-1 group-title="CHILE NETWORK" ,STAR CHANNEL HD
+http://181.205.77.118:4849/play/CH54
+#EXTINF:-1 group-title="CHILE NETWORK" ,STAR CHANNEL HD
+http://181.205.77.118:4849/play/CH55
+#EXTINF:-1 group-title="CHILE NETWORK" ,STAR TVE HD
+http://181.205.77.118:4849/play/CH128
+#EXTINF:-1 group-title="CHILE NETWORK" ,Seæal Colombia
+http://181.205.77.118:4849/play/a0br
+#EXTINF:-1 group-title="CHILE NETWORK" ,Señal Colombia HD
+http://181.205.77.118:4849/play/CH5
+#EXTINF:-1 group-title="CHILE NETWORK" ,Sony HD
+http://181.205.77.118:4849/play/CH48
+#EXTINF:-1 group-title="CHILE NETWORK" ,Space
+http://181.205.77.118:4849/play/CH60
+#EXTINF:-1 group-title="CHILE NETWORK" ,Space HD
+http://181.205.77.118:4849/play/CH42
+#EXTINF:-1 group-title="CHILE NETWORK" ,Stingray Concerts HD
+http://181.205.77.118:4849/play/CH107
+#EXTINF:-1 group-title="CHILE NETWORK" ,Studio Universal
+http://181.205.77.118:4849/play/CH69
+#EXTINF:-1 group-title="CHILE NETWORK" ,Studio Universal HD
+http://181.205.77.118:4849/play/CH36
+#EXTINF:-1 group-title="CHILE NETWORK" ,Sun Channel
+http://181.205.77.118:4849/play/a0c7
+#EXTINF:-1 group-title="CHILE NETWORK" ,Sun Channel HD
+http://181.205.77.118:4849/play/CH113
+#EXTINF:-1 group-title="CHILE NETWORK" ,TC TELEVISION
+http://181.205.77.118:4849/play/a095
+#EXTINF:-1 group-title="CHILE NETWORK" ,TELEAMAZONAS
+http://181.205.77.118:4849/play/a092
+#EXTINF:-1 group-title="CHILE NETWORK" ,TELEVICENTRO
+http://181.205.77.118:4849/play/a096
+#EXTINF:-1 group-title="CHILE NETWORK" ,TLT
+http://181.205.77.118:4849/play/a0bq
+#EXTINF:-1 group-title="CHILE NETWORK" ,TNT HD
+http://181.205.77.118:4849/play/CH39
+#EXTINF:-1 group-title="CHILE NETWORK" ,TNT Novelas HD
+http://181.205.77.118:4849/play/a05i
+#EXTINF:-1 group-title="CHILE NETWORK" ,TNT SPORTS 2
+http://181.205.77.118:4849/play/CH25
+#EXTINF:-1 group-title="CHILE NETWORK" ,TNT SPORTS HD
+http://181.205.77.118:4849/play/CH139
+#EXTINF:-1 group-title="CHILE NETWORK" ,TNT Series HD
+http://181.205.77.118:4849/play/CH35
+#EXTINF:-1 group-title="CHILE NETWORK" ,TV+ HD
+http://181.205.77.118:4849/play/CH145
+#EXTINF:-1 group-title="CHILE NETWORK" ,TVN HD
+http://181.205.77.118:4849/play/CH143
+#EXTINF:-1 group-title="CHILE NETWORK" ,TelefØ
+http://181.205.77.118:4849/play/a0c3
+#EXTINF:-1 group-title="CHILE NETWORK" ,Travelxp HD
+http://181.205.77.118:4849/play/CH91
+#EXTINF:-1 group-title="CHILE NETWORK" ,TyC Sports HD
+http://181.205.77.118:4849/play/a0ah
+#EXTINF:-1 group-title="CHILE NETWORK" ,UNIVERSAL CHANNEL HD
+http://181.205.77.118:4849/play/CH46
+#EXTINF:-1 group-title="CHILE NETWORK" ,Unknown
+http://181.205.77.118:4849/play/a061
+#EXTINF:-1 group-title="CHILE NETWORK" ,WARNER CHANNEL
+http://181.205.77.118:4849/play/a0ei
+#EXTINF:-1 group-title="CHILE NETWORK" ,Warner Channel HD
+http://181.205.77.118:4849/play/CH61
+#EXTINF:-1 group-title="CHILE NETWORK" ,Win Sports HD
+http://181.205.77.118:4849/play/CH16
+#EXTINF:-1 group-title="CHILE NETWORK" ,Win Sports+ HD
+http://181.205.77.118:4849/play/CH14
+#EXTINF:-1 group-title="Events" tvg-logo="https://i.imgur.com/K6CT6m6.png" ,Event 1
+https://7pal.short.gy/event1
+#EXTINF:-1 group-title="Events" tvg-logo="https://i.imgur.com/K6CT6m6.png" ,Event 2
+https://7pal.short.gy/event2
+#EXTINF:-1 group-title="Events" tvg-logo="https://i.imgur.com/K6CT6m6.png" ,Event 3
+https://7pal.short.gy/event3
+#EXTINF:-1 group-title="Events" tvg-logo="https://i.imgur.com/K6CT6m6.png" ,Event 4
+https://7pal.short.gy/event4
 #EXTINF:0 group-title="HOMEPLAY" ,DSPORTS 1
 http://193.176.244.108:25461/JimmyTaylor18/EXAHW/158511?token=SRtaBxYME1tEVVdYBQUAAVNVBFYEVwVXBlNQDVdXWAUHCQJRB1RQVV5HGhtHQBQBBAlvXAFEXlQDDwEIVx8bRkFcQDkMABNbRF0ODwwCREhHEFlYAEReVAEGAA1SBQsLARUQFgwAE1tEVgMJBg1ESEcBSEEAFAoEWmhQXBBaWlYQA1wTCQgdQwkLaV1RWQcKAUYKF1VESEdfREQbXBFtVl5cUQMLEEMORjYYeBoWSkYHDURHBBIBRwwVBg5eABsfEFpdEwsQQxhEXxR4ZhZKRgAcRFALFQ0KWBUOGxJAGx8QUEE5FwFCFRQAV1RRRkReR1QSGUcLBR1pVFtXCFZaR1tWXBVHXhNSREkUVFtaDxAKFm9FDAJGXxQPBwFETg==
 #EXTINF:0 group-title="HOMEPLAY" audio-track="http://home-playtv.com:8080/VILLANUEVAMANUEL/tyRVUHzFwW/456658" ,DSPORTS 2
@@ -6561,6 +6873,154 @@ http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=93976&extensi
 http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=93977&extension=m3u8&play_token=j8tvtalOGI
 #EXTINF:0 group-title="LIVEIN" ,SPORKLUB GOLF
 http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=93978&extension=m3u8&play_token=j8tvtalOGI
+#EXTINF:-1 group-title="MEXICO-UFINET" ,21 - 252 ComedyC
+http://181.78.105.146:2000/play/a04a/index.m3u8
+#EXTINF:-1 group-title="MEXICO-UFINET" ,23 - 290 CartoonNetwork
+http://181.78.105.146:2000/play/a03k/index.m3u8
+#EXTINF:-1 group-title="MEXICO-UFINET" ,25-292 Discovery kids
+http://181.78.105.146:2000/play/a015/index.m3u8
+#EXTINF:-1 group-title="MEXICO-UFINET" ,27-286 NICKELODEON
+http://181.78.105.146:2000/play/a014/index.m3u8
+#EXTINF:-1 group-title="MEXICO-UFINET" ,29-236 DH&H
+http://181.78.105.146:2000/play/a03g/index.m3u8
+#EXTINF:-1 group-title="MEXICO-UFINET" ,30-214 TNTSE
+http://181.78.105.146:2000/play/a00m/index.m3u8
+#EXTINF:-1 group-title="MEXICO-UFINET" ,31-370 TNT
+http://181.78.105.146:2000/play/a018/index.m3u8
+#EXTINF:-1 group-title="MEXICO-UFINET" ,208 SONY
+http://181.78.105.146:2000/play/a002/index.m3u8
+#EXTINF:-1 group-title="MEXICO-UFINET" ,101 Uno
+http://181.78.105.146:2000/play/a04p/index.m3u8
+#EXTINF:-1 group-title="MEXICO-UFINET" ,102 CANAL DE LAS ESTRELLAS
+http://181.78.105.146:2000/play/a00g/index.m3u8
+#EXTINF:-1 group-title="MEXICO-UFINET" ,103 Imagen
+http://181.78.105.146:2000/play/a00h/index.m3u8
+#EXTINF:-1 group-title="MEXICO-UFINET" ,105 Cinco
+http://181.78.105.146:2000/play/a038/index.m3u8
+#EXTINF:-1 group-title="MEXICO-UFINET" ,106 Multimedios
+http://181.78.105.146:2000/play/a039/index.m3u8
+#EXTINF:-1 group-title="MEXICO-UFINET" ,107 Siete
+http://181.78.105.146:2000/play/a00i/index.m3u8
+#EXTINF:-1 group-title="MEXICO-UFINET" ,111 ONCE
+http://181.78.105.146:2000/play/a03a/index.m3u8
+#EXTINF:-1 group-title="MEXICO-UFINET" ,114 Canal 14
+http://181.78.105.146:2000/play/a044/index.m3u8
+#EXTINF:-1 group-title="MEXICO-UFINET" ,120 UNAM
+http://181.78.105.146:2000/play/a045/index.m3u8
+#EXTINF:-1 group-title="MEXICO-UFINET" ,122 Canal22
+http://181.78.105.146:2000/play/a00j/index.m3u8
+#EXTINF:-1 group-title="MEXICO-UFINET" ,145 Congreso
+http://181.78.105.146:2000/play/a046/index.m3u8
+#EXTINF:-1 group-title="MEXICO-UFINET" ,152 MVSTV
+http://181.78.105.146:2000/play/a03b/index.m3u8
+#EXTINF:-1 group-title="MEXICO-UFINET" ,206 Universal
+http://181.78.105.146:2000/play/a03d/index.m3u8
+#EXTINF:-1 group-title="MEXICO-UFINET" ,210 WB
+http://181.78.105.146:2000/play/a01f/index.m3u8
+#EXTINF:-1 group-title="MEXICO-UFINET" ,222 AXN
+http://181.78.105.146:2000/play/a05y/index.m3u8
+#EXTINF:-1 group-title="MEXICO-UFINET" ,224 FX
+http://181.78.105.146:2000/play/a05z/index.m3u8
+#EXTINF:-1 group-title="MEXICO-UFINET" ,226 Space MX
+http://181.78.105.146:2000/play/a04x/index.m3u8
+#EXTINF:-1 group-title="MEXICO-UFINET" ,230 A&E
+http://181.78.105.146:2000/play/a03f/index.m3u8
+#EXTINF:-1 group-title="MEXICO-UFINET" ,234 Investigation Discovery La
+http://181.78.105.146:2000/play/a04y/index.m3u8
+#EXTINF:-1 group-title="MEXICO-UFINET" ,240 TLC
+http://181.78.105.146:2000/play/a03h/index.m3u8
+#EXTINF:-1 group-title="MEXICO-UFINET" ,242 Lifetime
+http://181.78.105.146:2000/play/a01i/index.m3u8
+#EXTINF:-1 group-title="MEXICO-UFINET" ,246 HOLA
+http://181.78.105.146:2000/play/a00n/index.m3u8
+#EXTINF:-1 group-title="MEXICO-UFINET" ,248 E!
+http://181.78.105.146:2000/play/a03i/index.m3u8
+#EXTINF:-1 group-title="MEXICO-UFINET" ,268 VideRola
+http://181.78.105.146:2000/play/a04c/index.m3u8
+#EXTINF:-1 group-title="MEXICO-UFINET" ,276 TELER
+http://181.78.105.146:2000/play/a03u/index.m3u8
+#EXTINF:-1 group-title="MEXICO-UFINET" ,280 OnceKids
+http://181.78.105.146:2000/play/a04f/index.m3u8
+#EXTINF:-1 group-title="MEXICO-UFINET" ,282 DisneyJR
+http://181.78.105.146:2000/play/a03j/index.m3u8
+#EXTINF:-1 group-title="MEXICO-UFINET" ,304 AprendeTV2
+http://181.78.105.146:2000/play/a04h/index.m3u8
+#EXTINF:-1 group-title="MEXICO-UFINET" ,306 IngenioTV
+http://181.78.105.146:2000/play/a04i/index.m3u8
+#EXTINF:-1 group-title="MEXICO-UFINET" ,308 Discovery
+http://181.78.105.146:2000/play/a03x/index.m3u8
+#EXTINF:-1 group-title="MEXICO-UFINET" ,312 NatGeo
+http://181.78.105.146:2000/play/a01l/index.m3u8
+#EXTINF:-1 group-title="MEXICO-UFINET" ,318 History
+http://181.78.105.146:2000/play/a017/index.m3u8
+#EXTINF:-1 group-title="MEXICO-UFINET" ,320 History2
+http://181.78.105.146:2000/play/a00v/index.m3u8
+#EXTINF:-1 group-title="MEXICO-UFINET" ,322 Arts
+http://181.78.105.146:2000/play/a04j/index.m3u8
+#EXTINF:-1 group-title="MEXICO-UFINET" ,336 Claro Sport
+http://181.78.105.146:2000/play/a053/index.m3u8
+#EXTINF:-1 group-title="MEXICO-UFINET" ,338 ESPN 2
+http://181.78.105.146:2000/play/a063/index.m3u8
+#EXTINF:-1 group-title="MEXICO-UFINET" ,342 ESPN
+http://181.78.105.146:2000/play/a064/index.m3u8
+#EXTINF:-1 group-title="MEXICO-UFINET" ,344 ESPN3
+http://181.78.105.146:2000/play/a03n/index.m3u8
+#EXTINF:-1 group-title="MEXICO-UFINET" ,350 CNNE
+http://181.78.105.146:2000/play/a00x/index.m3u8
+#EXTINF:-1 group-title="MEXICO-UFINET" ,356 Milenio
+http://181.78.105.146:2000/play/a00y/index.m3u8
+#EXTINF:-1 group-title="MEXICO-UFINET" ,358 TVC
+http://181.78.105.146:2000/play/a04m/index.m3u8
+#EXTINF:-1 group-title="MEXICO-UFINET" ,360 Judicial
+http://181.78.105.146:2000/play/a04n/index.m3u8
+#EXTINF:-1 group-title="MEXICO-UFINET" ,372 MC
+http://181.78.105.146:2000/play/a01o/index.m3u8
+#EXTINF:-1 group-title="MEXICO-UFINET" ,378 CineCanal O
+http://181.78.105.146:2000/play/a04q/index.m3u8
+#EXTINF:-1 group-title="MEXICO-UFINET" ,384 Films
+http://181.78.105.146:2000/play/a08i/index.m3u8
+#EXTINF:-1 group-title="MEXICO-UFINET" ,386 StudioUniversal
+http://181.78.105.146:2000/play/a04o/index.m3u8
+#EXTINF:-1 group-title="MEXICO-UFINET" ,388 Paramount
+http://181.78.105.146:2000/play/a01s/index.m3u8
+#EXTINF:-1 group-title="MEXICO-UFINET" ,AGROTENDENCIA
+http://181.78.105.146:2000/play/a08b/index.m3u8
+#EXTINF:-1 group-title="MEXICO-UFINET" ,Azteca 7
+http://181.78.105.146:2000/play/a08z/index.m3u8
+#EXTINF:-1 group-title="MEXICO-UFINET" ,BANDAMAX
+http://181.78.105.146:2000/play/a08h/index.m3u8
+#EXTINF:-1 group-title="MEXICO-UFINET" ,CTV CANAL
+http://181.78.105.146:2000/play/a08s/index.m3u8
+#EXTINF:-1 group-title="MEXICO-UFINET" ,Canal 27 GT
+http://181.78.105.146:2000/play/a08x/index.m3u8
+#EXTINF:-1 group-title="MEXICO-UFINET" ,Distrito Comedia
+http://181.78.105.146:2000/play/a08t/index.m3u8
+#EXTINF:-1 group-title="MEXICO-UFINET" ,Fox Deportes
+http://181.78.105.146:2000/play/a093/index.m3u8
+#EXTINF:-1 group-title="MEXICO-UFINET" ,GOLDEN EDGE
+http://181.78.105.146:2000/play/a08k/index.m3u8
+#EXTINF:-1 group-title="MEXICO-UFINET" ,Gol TV
+http://181.78.105.146:2000/play/a094/index.m3u8
+#EXTINF:-1 group-title="MEXICO-UFINET" ,SKY
+http://181.78.105.146:2000/play/a08m/index.m3u8
+#EXTINF:-1 group-title="MEXICO-UFINET" ,STARZ 1
+http://181.78.105.146:2000/play/a097/index.m3u8
+#EXTINF:-1 group-title="MEXICO-UFINET" ,TELENOVELAS
+http://181.78.105.146:2000/play/a08d/index.m3u8
+#EXTINF:-1 group-title="MEXICO-UFINET" ,TN23
+http://181.78.105.146:2000/play/a08g/index.m3u8
+#EXTINF:-1 group-title="MEXICO-UFINET" ,TUDN
+http://181.78.105.146:2000/play/a08j/index.m3u8
+#EXTINF:-1 group-title="MEXICO-UFINET" ,Telemundo Miami
+http://181.78.105.146:2000/play/a096/index.m3u8
+#EXTINF:-1 group-title="MEXICO-UFINET" ,TyC Sports
+http://181.78.105.146:2000/play/a095/index.m3u8
+#EXTINF:-1 group-title="MEXICO-UFINET" ,UNICABLE
+http://181.78.105.146:2000/play/a08f/index.m3u8
+#EXTINF:-1 group-title="MEXICO-UFINET" ,canal 13 Guate
+http://181.78.105.146:2000/play/a08p/index.m3u8
+#EXTINF:-1 group-title="MEXICO-UFINET" ,t13
+http://181.78.105.146:2000/play/a08c/index.m3u8
 #EXTINF:-1 group-title="PLEX" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/Toon-Goggles-en-Espanol_logo_dark.png" ,BR | TOON GOGGLES EN ESPAÑOL
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=533&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=SYmqRsd_3zFsz7JJX_qb&content_series=6041643175c115002dc51259&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=SYmqRsd_3zFsz7JJX_qb&custom_7=6041643175c115002dc51259
 #EXTINF:-1 group-title="PLEX" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/Toon-Goggles-en-Espanol_logo_dark.png" ,BR | TOON GOGGLES EN ESPAÑOL
@@ -7731,6 +8191,8 @@ http://131.161.53.2:8000/play/a01i/38059425.m3u8
 http://131.161.53.2:8000/play/a01j/29038435.m3u8
 #EXTINF:0 group-title="REGIO" ,FUTV
 http://131.161.53.2:8000/play/a05z/49498237.m3u8
+#EXTINF:0 group-title="REGIO" ,TIGO SPORTS
+http://131.161.53.2:8000/play/a05i/43535275.m3u8
 #EXTINF:-1 group-title="SAMSUNG" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/05/56/ESBA3300024AJ_20201118T003335.png" ,ES | BLOOMBERG TV+
 https://42890dd08f6e424e94c882424ced89c3.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_Bloomberg/playlist.m3u8?ads.wurl_channel%3D389%26ads.wurl_name%3DBloomberg%26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.coppa%3D0%26ads.consent%3D%7BTC_STRING%7D
 #EXTINF:-1 group-title="SAMSUNG" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/05/56/ESBA3300024AJ_20201118T003335.png" ,ES | BLOOMBERG TV+
@@ -7943,6 +8405,142 @@ http://145.239.5.177:8080/141/index.m3u8
 http://145.239.5.177:8080/148/index.m3u8
 #EXTINF:-1 group-title="SERVIDOR FRANCIA" ,CANAL 252
 http://145.239.5.177:8080/149/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/3XIe0au.png" ,🌍 Intro 🌍
+https://7pal.short.gy/intro
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/ETzQJdt.png" ,SkySports_MainEventUHD
+https://7pal.short.gy/SSMEuhd
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/LIxOI3U.png" ,AstroSuperSportUHD
+https://7pal.short.gy/astrouhd
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/ZYpUQ3w.png" ,beIN4k
+https://7pal.short.gy/bein-uhd
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.nowtv.now.com/media/logo/611-wbg-e.png" ,NowSports1-4k
+https://7pal.short.gy/nowsport4k
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/sdvs4u1659622094.png" ,HUBPremier2UHD
+https://7pal.short.gy/HubP2uhd
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/J2dnfBZ.png" ,VSportUltraHD
+https://7pal.short.gy/VSportUHD
+#EXTINF:-1 group-title="Sports" tvg-logo="https://media.info/l/o/5/5824.1689874022.png" ,TNTSport_Ultimate-4K_HDR
+https://7pal.short.gy/TNTUltimate
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DIGI_4K.jpg" ,Digi4K
+https://7pal.short.gy/digi4k
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/PUaJPaE.png" ,ElevenSport1-4K
+https://7pal.short.gy/11sports1
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/EPIy6eZ.png" ,5Sport4K
+https://7pal.short.gy/5sport
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/9wrgXyy.png" ,SkySportsF1UHD
+https://7pal.short.gy/SSF1uhd
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/wgvrku8.png" ,SkySport_BundesligaUHD.de
+https://7pal.short.gy/ssblgde
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/APE7FAm.jpg" ,EuroSport4K
+https://7pal.short.gy/eusport4k
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGUH.png" ,M+LaLigaUHD.es
+https://7pal.short.gy/mplusuhd
+#EXTINF:-1 group-title="Sports" tvg-logo="https://nesn.com/wp-content/uploads/sites/5/2019/10/webp.net-resizeimage.jpg" ,NESN_UHD
+https://7pal.short.gy/nesnuhd
+#EXTINF:-1 group-title="Sports" tvg-logo="https://media.info/l/o/1/1539.1690027797.png" ,TNTSports1-FHD
+https://7pal.short.gy/tntspts1
+#EXTINF:-1 group-title="Sports" tvg-logo="https://media.info/l/o/1/1540.1690027877.png" ,TNTSports2-FHD
+https://7pal.short.gy/tntspts2
+#EXTINF:-1 group-title="Sports" tvg-logo="https://media.info/l/o/5/5712.1690027954.png" ,TNTSports3-FHD
+https://7pal.short.gy/tntspts3
+#EXTINF:-1 group-title="Sports" tvg-logo="https://media.info/l/o/1/1491.1690027975.png" ,TNTSports4-FHD
+https://7pal.short.gy/tntspts4
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/mnAYZiQ.png" ,SkySports_MainEvent-FHD
+https://7pal.short.gy/SkSpMainE
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/dUAIbXN.png" ,SkySports_PremierLeague-FHD
+https://7pal.short.gy/ssportspl
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/TRX5fQr.png" ,SkySports_Football-FHD
+https://7pal.short.gy/ssportsfb
+#EXTINF:-1 group-title="Sports" tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2021/12/sky-sports-f1-vector-logo-2021.png" ,SkySports_F1-FHD
+https://7pal.short.gy/ssportsf1
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/1YbopYK.png" ,SkySports_Tennis-FHD
+https://7pal.short.gy/ssportstn
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/6h5V23t.png" ,SkySports_Golf-FHD
+https://7pal.short.gy/ssportsgf
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/I1gtyo7.png" ,SkySports_News-FHD
+https://7pal.short.gy/ssportsnw
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/tXHyBzW.png" ,SkySports_Action-FHD
+https://7pal.short.gy/ssportsat
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Sky_Sports_Box_Office.png/798px-Sky_Sports_Box_Office.png" ,SkySports_BoxOffice
+https://7pal.short.gy/ssportsbo
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/YqTCkGk.png" ,PremierSports1-FHD
+https://7pal.short.gy/prsport1
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/RenHhOi.png" ,PremierSports2-FHD
+https://7pal.short.gy/prsport2
+#EXTINF:-1 group-title="Sports" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/221_1920x1080_HTV.png" ,HubPremier1-FHD
+https://7pal.short.gy/HPremier1
+#EXTINF:-1 group-title="Sports" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/222_1920x1080_HTV.png" ,HubPremier2-FHD
+https://7pal.short.gy/HPremier2
+#EXTINF:-1 group-title="Sports" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/223_1920x1080_HTV.png" ,HubPremier3-FHD
+https://7pal.short.gy/HPremier3
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/PD1qeRO.jpg" ,USA_NetWork-FHD
+https://7pal.short.gy/usanetwork
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.nowtv.now.com/media/logo/621-wbg-e.png" ,NowSports_PremierLeague1-FHD
+https://7pal.short.gy/nowhkp1
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.nowtv.now.com/media/logo/622-wbg-e.png" ,NowSports_PremierLeague2-FHD
+https://7pal.short.gy/nowhkp2
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.nowtv.now.com/media/logo/623-wbg-e.png" ,NowSports_PremierLeague3-FHD
+https://7pal.short.gy/nowhkp3
+#EXTINF:-1 group-title="Sports" tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_1_logo_stack_rgb.png" ,SkySport1_NZ-FHD
+https://7pal.short.gy/skyspt1nz
+#EXTINF:-1 group-title="Sports" tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_2_logo_stack_rgb.png" ,SkySport2_NZ-FHD
+https://7pal.short.gy/skyspt2nz
+#EXTINF:-1 group-title="Sports" tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_3_logo_stack_rgb.png" ,SkySport3_NZ-FHD
+https://7pal.short.gy/skyspt3nz
+#EXTINF:-1 group-title="Sports" tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_4_logo_stack_rgb.png" ,SkySport4_NZ-FHD
+https://7pal.short.gy/skyspt4nz
+#EXTINF:-1 group-title="Sports" tvg-logo="https://static.sky.co.nz/sky/channel-logos/Sky_Sport_Premier_League_Channel_Logo.png" ,SkySport8-PremierLeague_NZ-FHD
+https://7pal.short.gy/skyspt8nz
+#EXTINF:-1 group-title="Sports" tvg-logo="https://origin.go.foxsports.com.au/wp-content/uploads/2017/02/aaaa_log_foxl_a-1.png" ,Fox502_AU-FHD
+https://7pal.short.gy/fox502au
+#EXTINF:-1 group-title="Sports" tvg-logo="https://media.info/l/o/6/6551.1489224386.png" ,Fox503_AU-FHD
+https://7pal.short.gy/fox503au
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" ,Astro_Supersport1_MY-FHD
+https://7pal.short.gy/astross1
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Astro_ASSP2.png" ,Astro_Supersport2_MY-FHD
+https://7pal.short.gy/astross2
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png" ,Astro_Supersport3_MY-FHD
+https://7pal.short.gy/astross3
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png" ,Astro_Supersport4_MY-FHD
+https://7pal.short.gy/astross4
+#EXTINF:-1 group-title="Sports" tvg-logo="https://images.supersport.com/media/yvuloxza/premier-league-1.png" ,Supersport_Premier_League-FHD
+https://7pal.short.gy/spersppl
+#EXTINF:-1 group-title="Sports" tvg-logo="https://images.supersport.com/media/wx5prn11/football-6.png" ,Supersport_Football-FHD
+https://7pal.short.gy/sperspfb
+#EXTINF:-1 group-title="Sports" tvg-logo="https://images.supersport.com/media/ngsfbrab/laliga.png" ,Supersport_Laliga-FHD
+https://7pal.short.gy/sperspllg
+#EXTINF:-1 group-title="Sports" tvg-logo="https://images.supersport.com/media/o1qmay0z/psl-1.png" ,Supersport_PSL-FHD
+https://7pal.short.gy/spersppsl
+#EXTINF:-1 group-title="Sports" tvg-logo="https://saeseries.com/wp-content/uploads/2023/12/Motorsportpng_-1024x275.png" ,Supersport_Motosport-FHD
+https://7pal.short.gy/sperspmts
+#EXTINF:-1 group-title="Sports" tvg-logo="https://images.supersport.com/media/krybzs0y/action-1.png" ,Supersport_Action-FHD
+https://7pal.short.gy/sperspat
+#EXTINF:-1 group-title="Sports" tvg-logo="https://images.supersport.com/media/ngeluwwy/rugby-5.png" ,Supersport_Rugby-FHD
+https://7pal.short.gy/spersprb
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/YtTDeWW.jpg" ,Supersport_Golf-FHD
+https://7pal.short.gy/sperspgf
+#EXTINF:-1 group-title="Sports" tvg-logo="https://archive.org/download/supersport-tennis/supersport-tennis.png" ,Supersport_Tennis-FHD
+https://7pal.short.gy/spersptns
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.rogerssportsandmedia.com/wp-content/uploads/2021/08/Copy-of-Media-Site-2.png" ,Sportsnet ONE
+https://7pal.short.gy/sptsnet1
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.rogerssportsandmedia.com/wp-content/uploads/2021/08/Copy-of-Media-Site-2.png" ,Sportsnet 360
+https://7pal.short.gy/sptsnet360
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/uo7pHjF.png" ,CBS_Sport_Network
+https://7pal.short.gy/cbssptnw
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/OLFLQi1.jpg" ,USA:MSG
+https://7pal.short.gy/msgusa
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/XKBiWym.jpg" ,USA:NFL_Network-FHD
+https://7pal.short.gy/nflnw
+#EXTINF:-1 group-title="Sports" tvg-logo="https://variety.com/wp-content/uploads/2013/09/espn-logo.jpg" ,USA:ESPN-HD
+https://7pal.short.gy/espnus
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/Nq4lPP4.png" ,USA:WWE_Network
+https://7pal.short.gy/wwenw
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/qAT0jSA.png" ,USA:NBA_TV
+https://7pal.short.gy/nbatvus
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/ZGrahiw.png" ,USA:MLB_Network
+https://7pal.short.gy/mlbnw
+#EXTINF:-1 group-title="Sports" tvg-logo="https://media.d3.nhle.com/image/private/t_ratio16_9-size50/prd/lhum6z3hyaga9ahnjow0.png" ,USA:NHL_Network
+https://7pal.short.gy/nhlnw
 #EXTINF:-1 group-title="SPORTS URSS" ,Equalympic HD
 http://cdnua03.hls.tv/524/hls/8743361621b245838bee193c9ec28322/4779/stream.m3u8
 #EXTINF:-1 group-title="SPORTS URSS" ,Eurosport 1
@@ -10363,3 +10961,17 @@ http://23232.top/play/live.php?mac=00:1A:79:C6:37:1B&stream=1387344&extension=ts
 http://23232.top/play/live.php?mac=00:1A:79:C6:37:1B&stream=1387345&extension=ts
 #EXTINF:0 group-title="ZZPRUEBAS TOKEN EPG" ,VSPORT LIVE 3
 http://23232.top/play/live.php?mac=00:1A:79:C6:37:1B&stream=1387346&extension=ts
+#EXTINF:-1 group-title="ZZPRUEBAS TOKEN EPG" ,Sky Sports Action
+https://7pal.short.gy/ssportsat
+#EXTINF:-1 group-title="ZZPRUEBAS TOKEN EPG" ,Sky Sports Golf
+https://7pal.short.gy/ssportsgf
+#EXTINF:-1 group-title="ZZPRUEBAS TOKEN EPG" ,Sky Sports Premier League
+https://7pal.short.gy/ssportspl
+#EXTINF:-1 group-title="ZZPRUEBAS TOKEN EPG" ,Sky Sports F1
+https://7pal.short.gy/ssportsf1
+#EXTINF:-1 group-title="ZZPRUEBAS TOKEN EPG" ,Sky Sports Football
+https://7pal.short.gy/ssportsfb
+#EXTINF:-1 group-title="ZZPRUEBAS TOKEN EPG" ,Sky Sports Main Event
+https://7pal.short.gy/skspmaine
+#EXTINF:-1 group-title="ZZPRUEBAS TOKEN EPG" ,Sky Sports News
+https://7pal.short.gy/ssportsnw
