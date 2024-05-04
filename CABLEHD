@@ -10975,10 +10975,11 @@ https://7pal.short.gy/ssportsfb
 https://7pal.short.gy/skspmaine
 #EXTINF:-1 group-title="ZZPRUEBAS TOKEN EPG" ,Sky Sports News
 https://7pal.short.gy/ssportsnw
-
 #EXTINF:0 group-title="EVENTOS" ,BESIKTAS VS RISEZPOR
 https://a49.azplay.me/hls/streama222402/index.m3u8?cst=95123d7495ccc60d989e5c7b9dbb60a7
 #EXTINF:0 group-title="EVENTOS" ,GINT GA 2
 https://a51.azplay.me/hls/streama222560/index.m3u8?cst=589fbc98d68cf7be8a4e5b359a13a3d9
 #EXTINF:0 group-title="EVENTOS" ,FINT GA 3
 https://a76.azplay.me/hls/streama222109/index.m3u8?cst=8c8b145a128f361bd124de7e31863abc
+#EXTINF:0 group-title="EVENTOS" ,VE BO 1
+https://pull.niues.live/live/stream-400798_lhd.m3u8?auth_key=1714788911-0-0-f6da073bcf1adcb7bc663e893b819bba
