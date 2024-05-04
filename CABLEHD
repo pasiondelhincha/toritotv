@@ -8193,14 +8193,16 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d7154fa8326b6ce4ec31f
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6049295e7dcef800073c2499/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="PLUTO" tvg-logo="https://images.pluto.tv/channels/6049295e7dcef800073c2499/colorLogoPNG.png" ,USA | VIAJE A LAS ESTRELLAS
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6049295e7dcef800073c2499/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:0 group-title="REGIO" ,CLARO SPORTS 1
-http://131.161.53.2:8000/play/a01i/38059425.m3u8
-#EXTINF:0 group-title="REGIO" ,CLARO SPORTS 2
-http://131.161.53.2:8000/play/a01j/29038435.m3u8
-#EXTINF:0 group-title="REGIO" ,FUTV
-http://131.161.53.2:8000/play/a05z/49498237.m3u8
-#EXTINF:0 group-title="REGIO" ,TIGO SPORTS
-http://131.161.53.2:8000/play/a05i/43535275.m3u8
+#EXTINF:0 group-title="portlandinterviewmagazine" ,101657
+https://pull.niur.live/live/stream-101657_lhd.m3u8?txSecret=204f3ead46a1604d40fb0261cecf4d24&txTime=66360dbb
+#EXTINF:0 group-title="portlandinterviewmagazine" ,372746
+https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1714800431-0-0-ffdc1d8295ecfc085380c4adf4e99026
+#EXTINF:0 group-title="portlandinterviewmagazine" ,380460
+https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1714800551-0-0-4a8d28b010a3e8c9dfe341dbca2a85de
+#EXTINF:0 group-title="portlandinterviewmagazine" ,9911957
+https://pull.niues.live/live/stream-9911957_lhd.m3u8?auth_key=1714800251-0-0-22deaae413c7a657ada43bc9f6916b5d
+#EXTINF:0 group-title="portlandinterviewmagazine" ,9912041
+https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=08add5ec4fa1b8b58468f1880242542e&txTime=66360c8f
 #EXTINF:-1 group-title="SAMSUNG" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/05/56/ESBA3300024AJ_20201118T003335.png" ,ES | BLOOMBERG TV+
 https://42890dd08f6e424e94c882424ced89c3.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_Bloomberg/playlist.m3u8?ads.wurl_channel%3D389%26ads.wurl_name%3DBloomberg%26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.coppa%3D0%26ads.consent%3D%7BTC_STRING%7D
 #EXTINF:-1 group-title="SAMSUNG" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/05/56/ESBA3300024AJ_20201118T003335.png" ,ES | BLOOMBERG TV+
@@ -10613,16 +10615,54 @@ http://ua3.iptv.monster/play/6825/350B326FB34F4B8/video.m3u8
 http://ua3.iptv.monster/play/37/350B326FB34F4B8/video.m3u8
 #EXTINF:0 group-title="UAIPTV" ,Матч! Наш спорт
 http://ua3.iptv.monster/play/134/350B326FB34F4B8/video.m3u8
+#EXTINF:0 group-title="VEBO TV" ,CANAL 01
+https://acdn.p2pcdn.xyz/xoilac/channel1.m3u8?auth_key=3000001703690291-0-0-16ba4a9c68d1d01419fd75a2ed103b1b
+#EXTINF:0 group-title="VEBO TV" ,CANAL 02
+https://acdn.p2pcdn.xyz/xoilac/channel2.m3u8?auth_key=3000001692978140-0-0-9d44300772fc22b62a68e18567d80ce4
+#EXTINF:0 group-title="VEBO TV" ,CANAL 03
+https://acdn.p2pcdn.xyz/xoilac/channel3.m3u8?auth_key=3000001682141163-0-0-19a1ad2d6dbfd4bb16553e38d8aee5a2
+#EXTINF:0 group-title="VEBO TV" ,CANAL 04
+https://acdn.p2pcdn.xyz/xoilac/channel4.m3u8?auth_key=3000001682141159-0-0-0d3e72a4cde9be11f1d29d85ac9d82d1
+#EXTINF:0 group-title="VEBO TV" ,CANAL 05
+https://acdn.p2pcdn.xyz/xoilac/channel5.m3u8?auth_key=3000001682141126-0-0-04fd101532e4ff9814a48ef7aaf68e70
+#EXTINF:0 group-title="VEBO TV" ,CANAL 06
+https://acdn.p2pcdn.xyz/xoilac/channel6.m3u8?auth_key=3000001682141166-0-0-768f7b6c3646393e265da0a11478ecda
+#EXTINF:0 group-title="VEBO TV" ,CANAL 07
+https://acdn.p2pcdn.xyz/xoilac/channel7.m3u8?auth_key=3000001682141135-0-0-4a850fb10b5c33c1bfea7bbeef905468
+#EXTINF:0 group-title="VEBO TV" ,CANAL 08
+https://acdn.p2pcdn.xyz/xoilac/channel8.m3u8?auth_key=3000001682141130-0-0-22aa0108c17bb2f769a2b45d4bf68d03
+#EXTINF:0 group-title="VEBO TV" ,CANAL 09
+https://acdn.p2pcdn.xyz/xoilac/channel9.m3u8?auth_key=3000001682758035-0-0-022d9a657f4405f5b1ef34df6ea9e7e7
+#EXTINF:0 group-title="VEBO TV" ,CANAL 10
+https://acdn.p2pcdn.xyz/xoilac/channel10.m3u8?auth_key=3000001682141128-0-0-efe2af080229825f2ab8db8ee41cf714
+#EXTINF:0 group-title="VEBO TV" ,CANAL 11
+https://acdn.p2pcdn.xyz/xoilac/channel11.m3u8?auth_key=3000001692455973-0-0-bcca4a0a7c6ed8db059630da9e7fc6a1
+#EXTINF:0 group-title="VEBO TV" ,CANAL 13
+https://acdn.p2pcdn.xyz/xoilac/channel13.m3u8?auth_key=3000001693660854-0-0-b94511ed302bd8d3057cbd22b6106faa
+#EXTINF:0 group-title="VEBO TV" ,CANAL 15
+https://acdn.p2pcdn.xyz/xoilac/channel15.m3u8?auth_key=3000001663267036-0-0-d43fde591a2dbc582a187f0064023250
+#EXTINF:0 group-title="VEBO TV" ,CANAL 16
+https://acdn.p2pcdn.xyz/xoilac/channel16.m3u8?auth_key=3000001682141106-0-0-300398083d474caa4d1f02de5733ae8f
+#EXTINF:0 group-title="VEBO TV" ,CANAL 17
+https://acdn.p2pcdn.xyz/xoilac/channel17.m3u8?auth_key=3000001682140311-0-0-f4bd4eb89597d363dae8b0c5c10b046d
+#EXTINF:0 group-title="VEBO TV" ,CANAL 18
+https://acdn.p2pcdn.xyz/xoilac/channel18.m3u8?auth_key=3000001709390242-0-0-250fa1f27c1ded296bfdbdd07ed91a5d
+#EXTINF:0 group-title="VEBO TV" ,CANAL 19
+https://acdn.p2pcdn.xyz/xoilac/channel9.m3u8?auth_key=3000001714218478-0-0-fc5749b5ff87c16ea776c1a8d3ade6d6
+#EXTINF:0 group-title="VEBO TV" ,CANAL 21
+https://acdn.p2pcdn.xyz/xoilac/channel21.m3u8?auth_key=3000001685286957-0-0-9c8552ee28847a19ee6ff64b2f12b1ed
 #EXTINF:0 group-title="VEBO TV" ,CANAL 24
 https://acdn.p2pcdn.xyz/xoilac/channel24.m3u8?auth_key=3000001714786147-0-0-4d8c7a8d34cbc362ae37dcb8df5fe2f8
 #EXTINF:0 group-title="VEBO TV" ,CANAL 25
-https://u8qshvrzitliv.moveon.one/b1ab8d26483a496e0054be37a6a667fc/1714829147606/channel-25/index.m3u8
+https://acdn.p2pcdn.xyz/xoilac/channel25.m3u8?auth_key=3000001714798420-0-0-6ec445489d50c22c061f8b1943a5aae8
 #EXTINF:0 group-title="VEBO TV" ,CANAL 26
 https://acdn.p2pcdn.xyz/xoilac/channel26.m3u8?auth_key=3000001714786207-0-0-02f7cd734a0dd08d4e4a9f355d3c75ca
 #EXTINF:0 group-title="VEBO TV" ,CANAL 27
 https://acdn.p2pcdn.xyz/xoilac/channel27.m3u8?auth_key=3000001714786965-0-0-df0bd4689413799a2e519aff329a3fb6
 #EXTINF:0 group-title="VEBO TV" ,CANAL 29
 https://acdn.p2pcdn.xyz/xoilac/channel29.m3u8?auth_key=3000001714787208-0-0-587cce145fbfabfee7bdf4577f9a5912
+#EXTINF:0 group-title="VEBO TV" ,CANAL 30
+https://acdn.p2pcdn.xyz/xoilac/channel30.m3u8?auth_key=3000001714789141-0-0-81d12054b2d58f0d1cc1941eef26365f
 #EXTINF:0 group-title="VEBO TV" ,CANAL 32
 https://acdn.p2pcdn.xyz/xoilac/channel32.m3u8?auth_key=3000001714787317-0-0-e1b3085619ccb90dbbc6fd98a96535ef
 #EXTINF:0 group-title="VEBO TV" ,CANAL 34
@@ -10631,22 +10671,32 @@ https://acdn.p2pcdn.xyz/xoilac/channel34.m3u8?auth_key=3000001714786997-0-0-0cd7
 https://acdn.p2pcdn.xyz/xoilac/channel35.m3u8?auth_key=3000001714786054-0-0-fd34609c99eba169672f22492ec106a6
 #EXTINF:0 group-title="VEBO TV" ,CANAL 36
 https://acdn.p2pcdn.xyz/xoilac/channel36.m3u8?auth_key=3000001714786715-0-0-df4b18bca78db4ace0e3da1e1dcc19d0
+#EXTINF:0 group-title="VEBO TV" ,CANAL 40
+https://acdn.p2pcdn.xyz/xoilac/channel40.m3u8?auth_key=3000001714797746-0-0-e6373bf7035f9667a989b5e6e8d43e38
+#EXTINF:0 group-title="VEBO TV" ,CANAL 41
+https://acdn.p2pcdn.xyz/xoilac/channel41.m3u8?auth_key=3000001714797304-0-0-df33c21cba528be1503a544f1cee86ea
+#EXTINF:0 group-title="VEBO TV" ,CANAL 42
+https://acdn.p2pcdn.xyz/xoilac/channel42.m3u8?auth_key=3000001714797855-0-0-31d8b6fca0f602dc16bb1ec84d91353b
+#EXTINF:0 group-title="VEBO TV" ,CANAL 43
+https://acdn.p2pcdn.xyz/xoilac/channel43.m3u8?auth_key=3000001714797917-0-0-8661da13aceecbfb628ff087b1e355f8
+#EXTINF:0 group-title="VEBO TV" ,CANAL 44
+https://acdn.p2pcdn.xyz/xoilac/channel44.m3u8?auth_key=3000001714797997-0-0-bea3254c30faa7e8f7ef1ccc498fd4da
+#EXTINF:0 group-title="VEBO TV" ,CANAL 45
+https://acdn.p2pcdn.xyz/xoilac/channel45.m3u8?auth_key=3000001714798055-0-0-9fc96713daa6cac45fb2e36606fc5ded
+#EXTINF:0 group-title="VEBO TV" ,CANAL 47
+https://acdn.p2pcdn.xyz/xoilac/channel47.m3u8?auth_key=3000001714798099-0-0-95498244b83939e82eca518e0b020d3a
+#EXTINF:0 group-title="VEBO TV" ,CANAL 48
+https://acdn.p2pcdn.xyz/xoilac/channel48.m3u8?auth_key=3000001714798146-0-0-3e8992176e478cbf5cf4bdcff7c96335
+#EXTINF:0 group-title="VEBO TV" ,CANAL 49
+https://acdn.p2pcdn.xyz/xoilac/channel49.m3u8?auth_key=3000001714798677-0-0-9ed59e5841e864e7f33370112b0760cd
+#EXTINF:0 group-title="VEBO TV" ,CANAL 50
+https://acdn.p2pcdn.xyz/xoilac/channel50.m3u8?auth_key=3000001714798329-0-0-746c6d5081af1c6f14a0ab42bb3f0943
 #EXTINF:0 group-title="VEBO TV" ,CANAL 51
 https://acdn.p2pcdn.xyz/xoilac/channel51.m3u8?auth_key=3000001714785629-0-0-bd405dee09020695ea832d00de0d949c
 #EXTINF:0 group-title="VEBO TV" ,CANAL 52
 https://acdn.p2pcdn.xyz/xoilac/channel52.m3u8?auth_key=3000001714786673-0-0-418c389a84ba50042bf469bf84ad0a49
 #EXTINF:0 group-title="VEBO TV" ,CANAL 53
 https://acdn.p2pcdn.xyz/xoilac/channel53.m3u8?auth_key=3000001714786802-0-0-33ef44fa6ad9ea74eaf45c360d89048a
-#EXTINF:0 group-title="VEBO TV" ,CANAL SIN NUMERO
-https://live.vbfast.xyz/6382ae1141dce3de468398724cd393d8/1714829456458/9l7x9pa/index.m3u8
-#EXTINF:0 group-title="VEBO TV" ,CANAL SIN NUMERO
-https://live.vbfast.xyz/4fdbc89df55e06e0faed023bd8298225/1714830108167/y2f69yo/y2f69yo@720p.m3u8
-#EXTINF:0 group-title="VEBO TV" ,CANAL SIN NUMERO
-https://live.vbfast.xyz/b2435be536f58a758c51a76c80be4005/1714830246325/twtxkja/index.m3u8
-#EXTINF:0 group-title="VEBO TV" ,CANAL SIN NUMERO
-https://live.vbfast.xyz/4828e583bfa00a24118285ec15a51f1f/1714830362392/ypcycco/ypcycco@720p.m3u8
-#EXTINF:0 group-title="VEBO TV" ,CANAL SIN NUMERO
-https://live.vbfast.xyz/5e513f6b3c9ccb6b2c79cf29e97b8a2b/1714830451013/lmjxrrq/lmjxrrq@720p.m3u8
 #EXTINF:-1 group-title="ViX" tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" ,ATV+
 https://linear-258.frequency.stream/dist/vix/258/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="ViX" tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" ,ATV+
@@ -10821,6 +10871,42 @@ https://linear-459.frequency.stream/dist/vix/459/hls/master/playlist.m3u8
 https://linear-459.frequency.stream/dist/vix/459/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="ViX" tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" ,WHEATHER CHANNEL ESPAÑOL
 https://linear-431.frequency.stream/dist/vix/431/hls/master/playlist.m3u8
+#EXTINF:0 group-title="XOILAC.XYZ" ,AK47
+https://pull.niur.live/live/stream-9912092_lhd.flv?txSecret=dbd9393e4c64d73b2772a19f792b1332&txTime=663609fb
+#EXTINF:0 group-title="XOILAC.XYZ" ,ASTRONAUTA
+https://pull06.scstream.net/live/stream-9911957_lhd.flv?auth_key=1714799891-0-0-e04ee6bab215887f73cdd3ef1d4d51ba
+#EXTINF:0 group-title="XOILAC.XYZ" ,BLV AKIRA
+https://pull.niur.live/live/stream-168964_lhd.flv?txSecret=6d53db2d8fcd9068e2850a06d30c820c&txTime=6636072b
+#EXTINF:0 group-title="XOILAC.XYZ" ,BLV BEAN
+https://pull.niur.live/live/stream-166054_lhd.flv?txSecret=b486e5d4f022e2210091240ec6c7f33f&txTime=663606ef
+#EXTINF:0 group-title="XOILAC.XYZ" ,BLV DUSTIN
+https://pull06.scstream.net/live/stream-289098_lhd.flv?auth_key=1714798871-0-0-bd6ba7774e64cf6702a517fcc042b037
+#EXTINF:0 group-title="XOILAC.XYZ" ,BLV LUFFY
+https://pull06.scstream.net/live/stream-400798_lhd.flv?auth_key=1714799051-0-0-2ddd8a3ac371d494c81f1605abb97b24
+#EXTINF:0 group-title="XOILAC.XYZ" ,BLV NAM TAO
+https://pull06.scstream.net/live/stream-452725_lhd.flv?auth_key=1714799171-0-0-4082da8e34e219c0ec516a337d9aa0bc
+#EXTINF:0 group-title="XOILAC.XYZ" ,BLV NIBO
+https://pull06.scstream.net/live/stream-372746_lhd.flv?auth_key=1714799231-0-0-42d8c8be4f3bd095dbb406722d553734
+#EXTINF:0 group-title="XOILAC.XYZ" ,BLV ODIN
+https://pull.niur.live/live/stream-9911969_lhd.flv?txSecret=689173326601d6c900fe562516a40fac&txTime=6636081b
+#EXTINF:0 group-title="XOILAC.XYZ" ,BLV TAP
+https://pull.niur.live/live/stream-9912041_lhd.flv?txSecret=89221cb980e37f1d6a6ece1e6708f178&txTime=6636081b
+#EXTINF:0 group-title="XOILAC.XYZ" ,BLV TOMIA
+https://pull06.scstream.net/live/stream-9912008_lhd.flv?auth_key=1714798871-0-0-8eaab2635459b467e2d600ded21b01b3
+#EXTINF:0 group-title="XOILAC.XYZ" ,BLV TONY
+https://pull.niur.live/live/stream-991117_lhd.flv?txSecret=88a659685e7e7d8d07101197653ebf65&txTime=663607df
+#EXTINF:0 group-title="XOILAC.XYZ" ,BLV ZUKA
+https://pull06.scstream.net/live/stream-387295_lhd.flv?auth_key=1714799171-0-0-a9f3cd320f8cf83c3bb4a0d5c1291be6
+#EXTINF:0 group-title="XOILAC.XYZ" ,BRIAN
+https://pull06.scstream.net/live/stream-122591_lhd.flv?auth_key=1714798811-0-0-5960e8f23253a57c33b0931770117364
+#EXTINF:0 group-title="XOILAC.XYZ" ,COMENTARISTA CAPITAN
+https://pull06.scstream.net/live/stream-9912027_lhd.flv?auth_key=1714799591-0-0-bbdc0a41814a27f5e012a7539ed75ca5
+#EXTINF:0 group-title="XOILAC.XYZ" ,KING
+https://pull.niur.live/live/stream-168964_lhd.flv?txSecret=6d53db2d8fcd9068e2850a06d30c820c&txTime=6636072b
+#EXTINF:0 group-title="XOILAC.XYZ" ,MR RE
+https://pull.niur.live/live/stream-101657_lhd.flv?txSecret=c88d7ce67f6c67bcc1969af1dd75dbd9&txTime=66360857
+#EXTINF:0 group-title="XOILAC.XYZ" ,PHI HANH
+https://pull06.scstream.net/live/stream-9911957_lhd.flv?auth_key=1714798931-0-0-f61adac21165c081df8c08b7dcab48cd
 #EXTINF:0 group-title="XTREAM 01" ,NETFLIX CINE
 http://23232.top/play/live.php?mac=00:1A:79:C6:37:1B&stream=1387693&extension=ts
 #EXTINF:0 group-title="XTREAM 01" ,NETFLIX CINE
