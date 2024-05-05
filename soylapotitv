@@ -591,3 +591,7 @@ https://pull06.scstream.net/live/stream-9912087_lhd.flv?auth_key=1714923672-0-0-
 https://pull.niur.live/live/stream-921508_lhd.flv?txSecret=e37c20109a3e23a06d44733c6349949d&txTime=6637eee8|Referer=https://xem.bdhub.xyz
 #EXTINF:0 group-title="SOCO PRUEBA" ,NOBITA
 https://pull06.scstream.net/live/stream-346184_lhd.flv?auth_key=1714923792-0-0-b1e06e1fe2ccb0a4ad3df887e396a6c5|Referer=https://xem.bdhub.xyz
+#EXTINF:0 group-title="Về bờ TV" ,VEBO tv (Tony)
+https://obevcimanyd179249207.thapcam.link/live/tonyFHD/playlist.m3u8|Referer=https://xem.bdhub.xyz
+#EXTINF:0 group-title="Về bờ TV" ,VEBOtv
+https://obevcimanyd179249207.thapcam.link/live/kudoFHD/playlist.m3u8|Referer=https://xem.bdhub.xyz
