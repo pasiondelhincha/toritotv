@@ -155,24 +155,12 @@ https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1714823052-0-0-ef3
 https://pull.niues.live/live/stream-9912009_lhd.m3u8?auth_key=1714823052-0-0-3ded16a302e726bfeff39c1cd3431704
 #EXTINF:-1 group-title="THAPCAM" ,VEBOtv 10
 https://obevcimanyd179314182.thapcam.link/live/may10/playlist.m3u8|Referer=https://xem.bdhub.xyz
-#EXTINF:-1 group-title="THAPCAM" ,VEBOtv 10
-https://live-eu-ay5eg6kw5uliv.thapcam.link/live/may10/playlist.m3u8|Referer=https://xem.bdhub.xyz
-#EXTINF:-1 group-title="THAPCAM" ,VEBOtv 101
-https://live-eu-ay5eg6kw5uliv.thapcam.link/live/may101/playlist.m3u8|Referer=https://xem.bdhub.xyz
 #EXTINF:-1 group-title="THAPCAM" ,VEBOtv 101
 https://obevcimanyd179314182.thapcam.link/live/may101/playlist.m3u8|Referer=https://xem.bdhub.xyz
 #EXTINF:-1 group-title="THAPCAM" ,VEBOtv 11
-https://obevcimanyd179314182.thapcam.link/live/may11/playlist.m3u8|Referer=https://xem.bdhub.xyz
-#EXTINF:-1 group-title="THAPCAM" ,VEBOtv 11
-https://live-eu-ay5eg6kw5uliv.thapcam.link/live/may11/playlist.m3u8|Referer=https://xem.bdhub.xyz
-#EXTINF:-1 group-title="THAPCAM" ,VEBOtv 11
-https://live-kh-1123139281.thapcam.link/may11/playlist.m3u8|Referer=https://xem.bdhub.xyz
+https://obevcimanyd179314182.thapcam.link/live/may11FHD/playlist.m3u8|Referer=https://xem.bdhub.xyz
 #EXTINF:-1 group-title="THAPCAM" ,VEBOtv 111
-https://obevcimanyd179314182.thapcam.link/live/may111/playlist.m3u8|Referer=https://xem.bdhub.xyz
-#EXTINF:-1 group-title="THAPCAM" ,VEBOtv 111
-https://live-kh-1123139281.thapcam.link/may111/playlist.m3u8|Referer=https://xem.bdhub.xyz
-#EXTINF:-1 group-title="THAPCAM" ,VEBOtv 12
-https://live-kh-1123139281.thapcam.link/may12/playlist.m3u8|Referer=https://xem.bdhub.xyz
+https://obevcimanyd179314182.thapcam.link/live/may111FHD/playlist.m3u8|Referer=https://xem.bdhub.xyz
 #EXTINF:-1 group-title="THAPCAM" ,VEBOtv 12
 https://obevcimanyd179314182.thapcam.link/live/may12/playlist.m3u8|Referer=https://xem.bdhub.xyz
 #EXTINF:-1 group-title="THAPCAM" ,VEBOtv 16
@@ -183,14 +171,8 @@ https://obevcimanyd179314182.thapcam.link/live/may17/playlist.m3u8|Referer=https
 https://obevcimanyd179314182.thapcam.link/live/may171/playlist.m3u8|Referer=https://xem.bdhub.xyz
 #EXTINF:-1 group-title="THAPCAM" ,VEBOtv 19
 https://obevcimanyd179314182.thapcam.link/live/may19/playlist.m3u8|Referer=https://xem.bdhub.xyz
-#EXTINF:-1 group-title="THAPCAM" ,VEBOtv 19
-https://live-kh-1123139281.thapcam.link/may19/playlist.m3u8|Referer=https://xem.bdhub.xyz
-#EXTINF:-1 group-title="THAPCAM" ,VEBOtv 191
-https://live-kh-1123139281.thapcam.link/may191/playlist.m3u8|Referer=https://xem.bdhub.xyz
 #EXTINF:-1 group-title="THAPCAM" ,VEBOtv 191
 https://obevcimanyd179314182.thapcam.link/live/may191/playlist.m3u8|Referer=https://xem.bdhub.xyz
-#EXTINF:-1 group-title="THAPCAM" ,VEBOtv 191
-https://live-eu-ay5eg6kw5uliv.thapcam.link/live/may191/playlist.m3u8|Referer=https://xem.bdhub.xyz
 #EXTINF:-1 group-title="THAPCAM" ,VEBOtv 20
 https://obevcimanyd179314182.thapcam.link/live/may20/playlist.m3u8|Referer=https://xem.bdhub.xyz
 #EXTINF:-1 group-title="THAPCAM" ,VEBOtv 201
@@ -199,98 +181,72 @@ https://obevcimanyd179314182.thapcam.link/live/may201/playlist.m3u8|Referer=http
 https://obevcimanyd179314182.thapcam.link/live/may21/playlist.m3u8|Referer=https://xem.bdhub.xyz
 #EXTINF:-1 group-title="THAPCAM" ,VEBOtv 211
 https://obevcimanyd179314182.thapcam.link/live/may211/playlist.m3u8|Referer=https://xem.bdhub.xyz
-#EXTINF:-1 group-title="THAPCAM" ,VEBOtv 211
-https://live-eu-ay5eg6kw5uliv.thapcam.link/live/may221/playlist.m3u8|Referer=https://xem.bdhub.xyz
 #EXTINF:-1 group-title="THAPCAM" ,VEBOtv 22
 https://obevcimanyd179314182.thapcam.link/live/may22/playlist.m3u8|Referer=https://xem.bdhub.xyz
-#EXTINF:-1 group-title="THAPCAM" ,VEBOtv 22
-https://live-eu-ay5eg6kw5uliv.thapcam.link/live/may22/playlist.m3u8|Referer=https://xem.bdhub.xyz
 #EXTINF:-1 group-title="THAPCAM" ,VEBOtv 221
 https://obevcimanyd179314182.thapcam.link/live/may221/playlist.m3u8|Referer=https://xem.bdhub.xyz
-#EXTINF:-1 group-title="THAPCAM" ,VEBOtv 221
-https://live-kh-1123139281.thapcam.link/may221/playlist.m3u8|Referer=https://xem.bdhub.xyz
 #EXTINF:-1 group-title="THAPCAM" ,VEBOtv 23
 https://obevcimanyd179314182.thapcam.link/live/may23/playlist.m3u8|Referer=https://xem.bdhub.xyz
 #EXTINF:-1 group-title="THAPCAM" ,VEBOtv 4
 https://obevcimanyd179314182.thapcam.link/live/may4/playlist.m3u8|Referer=https://xem.bdhub.xyz
-#EXTINF:-1 group-title="THAPCAM" ,VEBOtv 4
-https://live-eu-ay5eg6kw5uliv.thapcam.link/live/may4/playlist.m3u8|Referer=https://xem.bdhub.xyz
-#EXTINF:-1 group-title="THAPCAM" ,VEBOtv 6
-https://live-eu-ay5eg6kw5uliv.thapcam.link/live/may6/playlist.m3u8|Referer=https://xem.bdhub.xyz
 #EXTINF:-1 group-title="THAPCAM" ,VEBOtv 6
 https://obevcimanyd179314182.thapcam.link/live/may6/playlist.m3u8|Referer=https://xem.bdhub.xyz
-#EXTINF:-1 group-title="THAPCAM" ,VEBOtv 6
-https://live-kh-1123139281.thapcam.link/may6/playlist.m3u8|Referer=https://xem.bdhub.xyz
 #EXTINF:-1 group-title="THAPCAM" ,VEBOtv 61
 https://obevcimanyd179314182.thapcam.link/live/may61/playlist.m3u8|Referer=https://xem.bdhub.xyz
-#EXTINF:-1 group-title="THAPCAM" ,VEBOtv 61
-https://live-eu-ay5eg6kw5uliv.thapcam.link/live/may61/playlist.m3u8|Referer=https://xem.bdhub.xyz
 #EXTINF:-1 group-title="THAPCAM" ,VEBOtv 7
 https://obevcimanyd179314182.thapcam.link/live/may7/playlist.m3u8|Referer=https://xem.bdhub.xyz
-#EXTINF:-1 group-title="THAPCAM" ,VEBOtv 7
-https://live-eu-ay5eg6kw5uliv.thapcam.link/live/may7/playlist.m3u8|Referer=https://xem.bdhub.xyz
 #EXTINF:-1 group-title="THAPCAM" ,VEBOtv 71
 https://obevcimanyd179314182.thapcam.link/live/may71/playlist.m3u8|Referer=https://xem.bdhub.xyz
-#EXTINF:-1 group-title="THAPCAM" ,VEBOtv 71
-https://live-eu-ay5eg6kw5uliv.thapcam.link/live/may71/playlist.m3u8|Referer=https://xem.bdhub.xyz
 #EXTINF:-1 group-title="THAPCAM" ,VEBOtv 711
 https://obevcimanyd179314182.thapcam.link/live/may711/playlist.m3u8|Referer=https://xem.bdhub.xyz
 #EXTINF:-1 group-title="THAPCAM" ,VEBOtv 8
-https://live-eu-ay5eg6kw5uliv.thapcam.link/live/may8/playlist.m3u8|Referer=https://xem.bdhub.xyz
-#EXTINF:-1 group-title="THAPCAM" ,VEBOtv 8
 https://obevcimanyd179314182.thapcam.link/live/may8/playlist.m3u8|Referer=https://xem.bdhub.xyz
-#EXTINF:-1 group-title="THAPCAM" ,VEBOtv 81
-https://live-eu-ay5eg6kw5uliv.thapcam.link/live/may81/playlist.m3u8|Referer=https://xem.bdhub.xyz
 #EXTINF:-1 group-title="THAPCAM" ,VEBOtv 9
 https://obevcimanyd179314182.thapcam.link/live/may9/playlist.m3u8|Referer=https://xem.bdhub.xyz
-#EXTINF:-1 group-title="THAPCAM" ,VEBOtv 9
-https://live-eu-ay5eg6kw5uliv.thapcam.link/live/may9/playlist.m3u8|Referer=https://xem.bdhub.xyz
 #EXTINF:-1 group-title="THAPCAM" ,VEBOtv 91
 https://obevcimanyd179314182.thapcam.link/live/may91/playlist.m3u8|Referer=https://xem.bdhub.xyz
-#EXTINF:-1 group-title="THAPCAM" ,VEBOtv 91
-https://live-eu-ay5eg6kw5uliv.thapcam.link/live/may91/playlist.m3u8|Referer=https://xem.bdhub.xyz
 #EXTINF:-1 group-title="THAPCAM" ,VEBOtv 911
 https://obevcimanyd179314182.thapcam.link/live/may911/playlist.m3u8|Referer=https://xem.bdhub.xyz
 #EXTINF:-1 group-title="THAPCAM" ,ZZ NIBO
 https://pull06.scstream.net/live/stream-372746_lhd.m3u8|Referer=https://xem.bdhub.xyz
 #EXTINF:-1 group-title="VEBO MANUAL" ,CANAL 01
-https://obevcimanyd179314182.thapcam.link/live/may1/playlist.m3u8|Referer=https://xem.bdhub.xyz
+https://obevcimanyd179314182.thapcam.link/live/may1FHD/playlist.m3u8|Referer=https://xem.bdhub.xyz
 #EXTINF:-1 group-title="VEBO MANUAL" ,CANAL 02
-https://obevcimanyd179314182.thapcam.link/live/may2/playlist.m3u8|Referer=https://xem.bdhub.xyz
+https://obevcimanyd179314182.thapcam.link/live/may2FHD/playlist.m3u8|Referer=https://xem.bdhub.xyz
 #EXTINF:-1 group-title="VEBO MANUAL" ,CANAL 03
-https://obevcimanyd179314182.thapcam.link/live/may3/playlist.m3u8|Referer=https://xem.bdhub.xyz
+https://obevcimanyd179314182.thapcam.link/live/may3FHD/playlist.m3u8|Referer=https://xem.bdhub.xyz
 #EXTINF:-1 group-title="VEBO MANUAL" ,CANAL 04
-https://obevcimanyd179314182.thapcam.link/live/may4/playlist.m3u8|Referer=https://xem.bdhub.xyz
+https://obevcimanyd179314182.thapcam.link/live/may4FHD/playlist.m3u8|Referer=https://xem.bdhub.xyz
 #EXTINF:-1 group-title="VEBO MANUAL" ,CANAL 05
-https://obevcimanyd179314182.thapcam.link/live/may5/playlist.m3u8|Referer=https://xem.bdhub.xyz
+https://obevcimanyd179314182.thapcam.link/live/may5FHD/playlist.m3u8|Referer=https://xem.bdhub.xyz
 #EXTINF:-1 group-title="VEBO MANUAL" ,CANAL 06
-https://obevcimanyd179314182.thapcam.link/live/may6/playlist.m3u8|Referer=https://xem.bdhub.xyz
+https://obevcimanyd179314182.thapcam.link/live/may6FHD/playlist.m3u8|Referer=https://xem.bdhub.xyz
 #EXTINF:-1 group-title="VEBO MANUAL" ,CANAL 07
-https://obevcimanyd179314182.thapcam.link/live/may7/playlist.m3u8|Referer=https://xem.bdhub.xyz
+https://obevcimanyd179314182.thapcam.link/live/may7FHD/playlist.m3u8|Referer=https://xem.bdhub.xyz
 #EXTINF:-1 group-title="VEBO MANUAL" ,CANAL 08
-https://obevcimanyd179314182.thapcam.link/live/may8/playlist.m3u8|Referer=https://xem.bdhub.xyz
+https://obevcimanyd179314182.thapcam.link/live/may8FHD/playlist.m3u8|Referer=https://xem.bdhub.xyz
 #EXTINF:-1 group-title="VEBO MANUAL" ,CANAL 09
-https://obevcimanyd179314182.thapcam.link/live/may9/playlist.m3u8|Referer=https://xem.bdhub.xyz
+https://obevcimanyd179314182.thapcam.link/live/may9FHD/playlist.m3u8|Referer=https://xem.bdhub.xyz
 #EXTINF:-1 group-title="VEBO MANUAL" ,CANAL 10
-https://obevcimanyd179314182.thapcam.link/live/may10/playlist.m3u8|Referer=https://xem.bdhub.xyz
+https://obevcimanyd179314182.thapcam.link/live/may10FHD/playlist.m3u8|Referer=https://xem.bdhub.xyz
 #EXTINF:-1 group-title="VEBO MANUAL" ,CANAL 11
-https://obevcimanyd179314182.thapcam.link/live/may11/playlist.m3u8|Referer=https://xem.bdhub.xyz
+https://obevcimanyd179314182.thapcam.link/live/may11FHD/playlist.m3u8|Referer=https://xem.bdhub.xyz
 #EXTINF:-1 group-title="VEBO MANUAL" ,CANAL 12
-https://obevcimanyd179314182.thapcam.link/live/may12/playlist.m3u8|Referer=https://xem.bdhub.xyz
+https://obevcimanyd179314182.thapcam.link/live/may12FHD/playlist.m3u8|Referer=https://xem.bdhub.xyz
 #EXTINF:-1 group-title="VEBO MANUAL" ,CANAL 13
-https://obevcimanyd179314182.thapcam.link/live/may13/playlist.m3u8|Referer=https://xem.bdhub.xyz
+https://obevcimanyd179314182.thapcam.link/live/may13FHD/playlist.m3u8|Referer=https://xem.bdhub.xyz
 #EXTINF:-1 group-title="VEBO MANUAL" ,CANAL 14
-https://obevcimanyd179314182.thapcam.link/live/may14/playlist.m3u8|Referer=https://xem.bdhub.xyz
+https://obevcimanyd179314182.thapcam.link/live/may14FHD/playlist.m3u8|Referer=https://xem.bdhub.xyz
 #EXTINF:-1 group-title="VEBO MANUAL" ,CANAL 15
-https://obevcimanyd179314182.thapcam.link/live/may15/playlist.m3u8|Referer=https://xem.bdhub.xyz
+https://obevcimanyd179314182.thapcam.link/live/may15FHD/playlist.m3u8|Referer=https://xem.bdhub.xyz
 #EXTINF:-1 group-title="VEBO MANUAL" ,CANAL 16
-https://obevcimanyd179314182.thapcam.link/live/may16/playlist.m3u8|Referer=https://xem.bdhub.xyz
+https://obevcimanyd179314182.thapcam.link/live/may16FHD/playlist.m3u8|Referer=https://xem.bdhub.xyz
 #EXTINF:-1 group-title="VEBO MANUAL" ,CANAL 17
-https://obevcimanyd179314182.thapcam.link/live/may17/playlist.m3u8|Referer=https://xem.bdhub.xyz
+https://obevcimanyd179314182.thapcam.link/live/may17FHD/playlist.m3u8|Referer=https://xem.bdhub.xyz
 #EXTINF:-1 group-title="VEBO MANUAL" ,CANAL 18
-https://obevcimanyd179314182.thapcam.link/live/may18/playlist.m3u8|Referer=https://xem.bdhub.xyz
+https://obevcimanyd179314182.thapcam.link/live/may18FHD/playlist.m3u8|Referer=https://xem.bdhub.xyz
 #EXTINF:-1 group-title="VEBO MANUAL" ,CANAL 19
-https://obevcimanyd179314182.thapcam.link/live/may19/playlist.m3u8|Referer=https://xem.bdhub.xyz
+https://obevcimanyd179314182.thapcam.link/live/may19FHD/playlist.m3u8|Referer=https://xem.bdhub.xyz
 #EXTINF:-1 group-title="VEBO MANUAL" ,CANAL 20
 https://obevcimanyd179314182.thapcam.link/live/may21/playlist.m3u8|Referer=https://xem.bdhub.xyz
 #EXTINF:-1 group-title="VEBO MANUAL" ,CANAL 21
@@ -451,22 +407,10 @@ https://obevcimanyd179314182.thapcam.link/live/may98/playlist.m3u8|Referer=https
 https://obevcimanyd179314182.thapcam.link/live/may99/playlist.m3u8|Referer=https://xem.bdhub.xyz
 #EXTINF:-1 group-title="Về bờ TV" tvg-logo="https://static.90pcdn.com/tc/pwa/icon-144x144.png" ,VEBOtv 1 FHD
 https://obevcimanyd179249207.thapcam.link/live/may1FHD/playlist.m3u8|Referer=https://xem.bdhub.xyz
-#EXTINF:-1 group-title="Về bờ TV" tvg-logo="https://static.90pcdn.com/tc/pwa/icon-144x144.png" ,VEBOtv 1 HD
-https://live-eu-ay5eg6kw5uliv.thapcam.link/live/may1HD/playlist.m3u8|Referer=https://xem.bdhub.xyz
-#EXTINF:-1 group-title="Về bờ TV" tvg-logo="https://static.90pcdn.com/tc/pwa/icon-144x144.png" ,VEBOtv 1 SD
-https://live-kh-1123139281.thapcam.link/may1SD/playlist.m3u8|Referer=https://xem.bdhub.xyz
 #EXTINF:-1 group-title="Về bờ TV" tvg-logo="https://static.90pcdn.com/tc/pwa/icon-144x144.png" ,VEBOtv 2 FHD
 https://obevcimanyd179249207.thapcam.link/live/may2FHD/playlist.m3u8|Referer=https://xem.bdhub.xyz
-#EXTINF:-1 group-title="Về bờ TV" tvg-logo="https://static.90pcdn.com/tc/pwa/icon-144x144.png" ,VEBOtv 2 HD
-https://live-eu-ay5eg6kw5uliv.thapcam.link/live/may2HD/playlist.m3u8|Referer=https://xem.bdhub.xyz
-#EXTINF:-1 group-title="Về bờ TV" tvg-logo="https://static.90pcdn.com/tc/pwa/icon-144x144.png" ,VEBOtv 2 SD
-https://live-kh-1123139281.thapcam.link/may2SD/playlist.m3u8|Referer=https://xem.bdhub.xyz
 #EXTINF:-1 group-title="Về bờ TV" tvg-logo="https://static.90pcdn.com/tc/pwa/icon-144x144.png" ,VEBOtv 3 FHD
 https://obevcimanyd179249207.thapcam.link/live/may3FHD/playlist.m3u8|Referer=https://xem.bdhub.xyz
-#EXTINF:-1 group-title="Về bờ TV" tvg-logo="https://static.90pcdn.com/tc/pwa/icon-144x144.png" ,VEBOtv 3 HD
-https://live-eu-ay5eg6kw5uliv.thapcam.link/live/may3HD/playlist.m3u8|Referer=https://xem.bdhub.xyz
-#EXTINF:-1 group-title="Về bờ TV" tvg-logo="https://static.90pcdn.com/tc/pwa/icon-144x144.png" ,VEBOtv 3 SD
-https://live-kh-1123139281.thapcam.link/may3SD/playlist.m3u8|Referer=https://xem.bdhub.xyz
 #EXTINF:-1 group-title="Về bờ TV" tvg-logo="https://static.90pcdn.com/tc/pwa/icon-144x144.png" ,VEBOtv FHD (Bat)
 https://obevcimanyd179249207.thapcam.link/live/batFHD/playlist.m3u8|Referer=https://xem.bdhub.xyz
 #EXTINF:-1 group-title="Về bờ TV" tvg-logo="https://static.90pcdn.com/tc/pwa/icon-144x144.png" ,VEBOtv FHD (Cast)
@@ -509,108 +453,12 @@ https://obevcimanyd179249207.thapcam.link/live/soiFHD/playlist.m3u8|Referer=http
 https://obevcimanyd179249207.thapcam.link/live/trauFHD/playlist.m3u8|Referer=https://xem.bdhub.xyz
 #EXTINF:-1 group-title="Về bờ TV" tvg-logo="https://static.90pcdn.com/tc/pwa/icon-144x144.png" ,VEBOtv FHD (Xiên)
 https://obevcimanyd179249207.thapcam.link/live/xienFHD/playlist.m3u8|Referer=https://xem.bdhub.xyz
-#EXTINF:-1 group-title="Về bờ TV" tvg-logo="https://static.90pcdn.com/tc/pwa/icon-144x144.png" ,VEBOtv HD (Bat)
-https://live-eu-ay5eg6kw5uliv.thapcam.link/live/batHD/playlist.m3u8|Referer=https://xem.bdhub.xyz
-#EXTINF:-1 group-title="Về bờ TV" tvg-logo="https://static.90pcdn.com/tc/pwa/icon-144x144.png" ,VEBOtv HD (Cast)
-https://live-eu-ay5eg6kw5uliv.thapcam.link/live/catHD/playlist.m3u8|Referer=https://xem.bdhub.xyz
-#EXTINF:-1 group-title="Về bờ TV" tvg-logo="https://static.90pcdn.com/tc/pwa/icon-144x144.png" ,VEBOtv HD (Chả)
-https://live-eu-ay5eg6kw5uliv.thapcam.link/live/chaHD/playlist.m3u8|Referer=https://xem.bdhub.xyz
-#EXTINF:-1 group-title="Về bờ TV" tvg-logo="https://static.90pcdn.com/tc/pwa/icon-144x144.png" ,VEBOtv HD (Cuốn)
-https://live-eu-ay5eg6kw5uliv.thapcam.link/live/cuonHD/playlist.m3u8|Referer=https://xem.bdhub.xyz
-#EXTINF:-1 group-title="Về bờ TV" tvg-logo="https://static.90pcdn.com/tc/pwa/icon-144x144.png" ,VEBOtv HD (Cá)
-https://live-eu-ay5eg6kw5uliv.thapcam.link/live/caHD/playlist.m3u8|Referer=https://xem.bdhub.xyz
-#EXTINF:-1 group-title="Về bờ TV" tvg-logo="https://static.90pcdn.com/tc/pwa/icon-144x144.png" ,VEBOtv HD (Cáo)
-https://live-eu-ay5eg6kw5uliv.thapcam.link/live/caoHD/playlist.m3u8|Referer=https://xem.bdhub.xyz
-#EXTINF:-1 group-title="Về bờ TV" tvg-logo="https://static.90pcdn.com/tc/pwa/icon-144x144.png" ,VEBOtv HD (Cún)
-https://live-eu-ay5eg6kw5uliv.thapcam.link/live/cunHD/playlist.m3u8|Referer=https://xem.bdhub.xyz
-#EXTINF:-1 group-title="Về bờ TV" tvg-logo="https://static.90pcdn.com/tc/pwa/icon-144x144.png" ,VEBOtv HD (Húc)
-https://live-eu-ay5eg6kw5uliv.thapcam.link/live/hucHD/playlist.m3u8|Referer=https://xem.bdhub.xyz
-#EXTINF:-1 group-title="Về bờ TV" tvg-logo="https://static.90pcdn.com/tc/pwa/icon-144x144.png" ,VEBOtv HD (Lung)
-https://live-eu-ay5eg6kw5uliv.thapcam.link/live/lungHD/playlist.m3u8|Referer=https://xem.bdhub.xyz
-#EXTINF:-1 group-title="Về bờ TV" tvg-logo="https://static.90pcdn.com/tc/pwa/icon-144x144.png" ,VEBOtv HD (Lông)
-https://live-eu-ay5eg6kw5uliv.thapcam.link/live/longHD/playlist.m3u8|Referer=https://xem.bdhub.xyz
-#EXTINF:-1 group-title="Về bờ TV" tvg-logo="https://static.90pcdn.com/tc/pwa/icon-144x144.png" ,VEBOtv HD (Lơ Đao)
-https://live-eu-ay5eg6kw5uliv.thapcam.link/live/daoHD/playlist.m3u8|Referer=https://xem.bdhub.xyz
-#EXTINF:-1 group-title="Về bờ TV" tvg-logo="https://static.90pcdn.com/tc/pwa/icon-144x144.png" ,VEBOtv HD (Móm)
-https://live-eu-ay5eg6kw5uliv.thapcam.link/live/momHD/playlist.m3u8|Referer=https://xem.bdhub.xyz
-#EXTINF:-1 group-title="Về bờ TV" tvg-logo="https://static.90pcdn.com/tc/pwa/icon-144x144.png" ,VEBOtv HD (Mỳ)
-https://live-eu-ay5eg6kw5uliv.thapcam.link/live/myHD/playlist.m3u8|Referer=https://xem.bdhub.xyz
-#EXTINF:-1 group-title="Về bờ TV" tvg-logo="https://static.90pcdn.com/tc/pwa/icon-144x144.png" ,VEBOtv HD (Núi)
-https://live-eu-ay5eg6kw5uliv.thapcam.link/live/nuiHD/playlist.m3u8|Referer=https://xem.bdhub.xyz
-#EXTINF:-1 group-title="Về bờ TV" tvg-logo="https://static.90pcdn.com/tc/pwa/icon-144x144.png" ,VEBOtv HD (Nện)
-https://live-eu-ay5eg6kw5uliv.thapcam.link/live/nenHD/playlist.m3u8|Referer=https://xem.bdhub.xyz
-#EXTINF:-1 group-title="Về bờ TV" tvg-logo="https://static.90pcdn.com/tc/pwa/icon-144x144.png" ,VEBOtv HD (Old)
-https://live-eu-ay5eg6kw5uliv.thapcam.link/live/oldHD/playlist.m3u8|Referer=https://xem.bdhub.xyz
-#EXTINF:-1 group-title="Về bờ TV" tvg-logo="https://static.90pcdn.com/tc/pwa/icon-144x144.png" ,VEBOtv HD (Phép)
-https://live-eu-ay5eg6kw5uliv.thapcam.link/live/phepHD/playlist.m3u8|Referer=https://xem.bdhub.xyz
-#EXTINF:-1 group-title="Về bờ TV" tvg-logo="https://static.90pcdn.com/tc/pwa/icon-144x144.png" ,VEBOtv HD (Phở)
-https://live-eu-ay5eg6kw5uliv.thapcam.link/live/phoHD/playlist.m3u8|Referer=https://xem.bdhub.xyz
-#EXTINF:-1 group-title="Về bờ TV" tvg-logo="https://static.90pcdn.com/tc/pwa/icon-144x144.png" ,VEBOtv HD (Sói)
-https://live-eu-ay5eg6kw5uliv.thapcam.link/live/soiHD/playlist.m3u8|Referer=https://xem.bdhub.xyz
-#EXTINF:-1 group-title="Về bờ TV" tvg-logo="https://static.90pcdn.com/tc/pwa/icon-144x144.png" ,VEBOtv HD (Trâu)
-https://live-eu-ay5eg6kw5uliv.thapcam.link/live/trauHD/playlist.m3u8|Referer=https://xem.bdhub.xyz
-#EXTINF:-1 group-title="Về bờ TV" tvg-logo="https://static.90pcdn.com/tc/pwa/icon-144x144.png" ,VEBOtv HD (Xiên)
-https://live-eu-ay5eg6kw5uliv.thapcam.link/live/xienHD/playlist.m3u8|Referer=https://xem.bdhub.xyz
-#EXTINF:-1 group-title="Về bờ TV" tvg-logo="https://static.90pcdn.com/tc/pwa/icon-144x144.png" ,VEBOtv SD (Bat)
-https://live-kh-1123139281.thapcam.link/batSD/playlist.m3u8|Referer=https://xem.bdhub.xyz
-#EXTINF:-1 group-title="Về bờ TV" tvg-logo="https://static.90pcdn.com/tc/pwa/icon-144x144.png" ,VEBOtv SD (Cast)
-https://live-kh-1123139281.thapcam.link/catSD/playlist.m3u8|Referer=https://xem.bdhub.xyz
-#EXTINF:-1 group-title="Về bờ TV" tvg-logo="https://static.90pcdn.com/tc/pwa/icon-144x144.png" ,VEBOtv SD (Chả)
-https://live-kh-1123139281.thapcam.link/chaSD/playlist.m3u8|Referer=https://xem.bdhub.xyz
-#EXTINF:-1 group-title="Về bờ TV" tvg-logo="https://static.90pcdn.com/tc/pwa/icon-144x144.png" ,VEBOtv SD (Cuốn)
-https://live-kh-1123139281.thapcam.link/cuonSD/playlist.m3u8|Referer=https://xem.bdhub.xyz
-#EXTINF:-1 group-title="Về bờ TV" tvg-logo="https://static.90pcdn.com/tc/pwa/icon-144x144.png" ,VEBOtv SD (Cá)
-https://live-kh-1123139281.thapcam.link/caSD/playlist.m3u8|Referer=https://xem.bdhub.xyz
-#EXTINF:-1 group-title="Về bờ TV" tvg-logo="https://static.90pcdn.com/tc/pwa/icon-144x144.png" ,VEBOtv SD (Cáo)
-https://live-kh-1123139281.thapcam.link/caoSD/playlist.m3u8|Referer=https://xem.bdhub.xyz
-#EXTINF:-1 group-title="Về bờ TV" tvg-logo="https://static.90pcdn.com/tc/pwa/icon-144x144.png" ,VEBOtv SD (Cún)
-https://live-kh-1123139281.thapcam.link/cunSD/playlist.m3u8|Referer=https://xem.bdhub.xyz
-#EXTINF:-1 group-title="Về bờ TV" tvg-logo="https://static.90pcdn.com/tc/pwa/icon-144x144.png" ,VEBOtv SD (Húc)
-https://live-kh-1123139281.thapcam.link/hucSD/playlist.m3u8|Referer=https://xem.bdhub.xyz
-#EXTINF:-1 group-title="Về bờ TV" tvg-logo="https://static.90pcdn.com/tc/pwa/icon-144x144.png" ,VEBOtv SD (Lung)
-https://live-kh-1123139281.thapcam.link/lungSD/playlist.m3u8|Referer=https://xem.bdhub.xyz
-#EXTINF:-1 group-title="Về bờ TV" tvg-logo="https://static.90pcdn.com/tc/pwa/icon-144x144.png" ,VEBOtv SD (Lông)
-https://live-kh-1123139281.thapcam.link/longSD/playlist.m3u8|Referer=https://xem.bdhub.xyz
-#EXTINF:-1 group-title="Về bờ TV" tvg-logo="https://static.90pcdn.com/tc/pwa/icon-144x144.png" ,VEBOtv SD (Lơ Đao)
-https://live-kh-1123139281.thapcam.link/daoSD/playlist.m3u8|Referer=https://xem.bdhub.xyz
-#EXTINF:-1 group-title="Về bờ TV" tvg-logo="https://static.90pcdn.com/tc/pwa/icon-144x144.png" ,VEBOtv SD (Móm)
-https://live-kh-1123139281.thapcam.link/momSD/playlist.m3u8|Referer=https://xem.bdhub.xyz
-#EXTINF:-1 group-title="Về bờ TV" tvg-logo="https://static.90pcdn.com/tc/pwa/icon-144x144.png" ,VEBOtv SD (Mỳ)
-https://live-kh-1123139281.thapcam.link/mySD/playlist.m3u8|Referer=https://xem.bdhub.xyz
-#EXTINF:-1 group-title="Về bờ TV" tvg-logo="https://static.90pcdn.com/tc/pwa/icon-144x144.png" ,VEBOtv SD (Núi)
-https://live-kh-1123139281.thapcam.link/nuiSD/playlist.m3u8|Referer=https://xem.bdhub.xyz
-#EXTINF:-1 group-title="Về bờ TV" tvg-logo="https://static.90pcdn.com/tc/pwa/icon-144x144.png" ,VEBOtv SD (Nện)
-https://live-kh-1123139281.thapcam.link/nenSD/playlist.m3u8|Referer=https://xem.bdhub.xyz
-#EXTINF:-1 group-title="Về bờ TV" tvg-logo="https://static.90pcdn.com/tc/pwa/icon-144x144.png" ,VEBOtv SD (Old)
-https://live-kh-1123139281.thapcam.link/oldSD/playlist.m3u8|Referer=https://xem.bdhub.xyz
-#EXTINF:-1 group-title="Về bờ TV" tvg-logo="https://static.90pcdn.com/tc/pwa/icon-144x144.png" ,VEBOtv SD (Phép)
-https://live-kh-1123139281.thapcam.link/phepSD/playlist.m3u8|Referer=https://xem.bdhub.xyz
-#EXTINF:-1 group-title="Về bờ TV" tvg-logo="https://static.90pcdn.com/tc/pwa/icon-144x144.png" ,VEBOtv SD (Phở)
-https://live-kh-1123139281.thapcam.link/phoSD/playlist.m3u8|Referer=https://xem.bdhub.xyz
-#EXTINF:-1 group-title="Về bờ TV" tvg-logo="https://static.90pcdn.com/tc/pwa/icon-144x144.png" ,VEBOtv SD (Sói)
-https://live-kh-1123139281.thapcam.link/soiSD/playlist.m3u8|Referer=https://xem.bdhub.xyz
-#EXTINF:-1 group-title="Về bờ TV" tvg-logo="https://static.90pcdn.com/tc/pwa/icon-144x144.png" ,VEBOtv SD (Trâu)
-https://live-kh-1123139281.thapcam.link/trauSD/playlist.m3u8|Referer=https://xem.bdhub.xyz
-#EXTINF:-1 group-title="Về bờ TV" tvg-logo="https://static.90pcdn.com/tc/pwa/icon-144x144.png" ,VEBOtv SD (Xiên)
-https://live-kh-1123139281.thapcam.link/xienSD/playlist.m3u8|Referer=https://xem.bdhub.xyz
 #EXTINF:-1 group-title="Về bờ TV" tvg-logo="https://static.90pcdn.com/tc/pwa/icon-144x144.png" ,VEBOtv Z1 FHD
 https://obevcimanyd179249207.thapcam.link/live/Z1FHD/playlist.m3u8|Referer=https://xem.bdhub.xyz
-#EXTINF:-1 group-title="Về bờ TV" tvg-logo="https://static.90pcdn.com/tc/pwa/icon-144x144.png" ,VEBOtv Z1 HD
-https://live-eu-ay5eg6kw5uliv.thapcam.link/live/Z1HD/playlist.m3u8|Referer=https://xem.bdhub.xyz
-#EXTINF:-1 group-title="Về bờ TV" tvg-logo="https://static.90pcdn.com/tc/pwa/icon-144x144.png" ,VEBOtv Z1 SD
-https://live-kh-1123139281.thapcam.link/Z1SD/playlist.m3u8|Referer=https://xem.bdhub.xyz
 #EXTINF:-1 group-title="Về bờ TV" tvg-logo="https://static.90pcdn.com/tc/pwa/icon-144x144.png" ,VEBOtv Z2 FHD
 https://obevcimanyd179249207.thapcam.link/live/Z2FHD/playlist.m3u8|Referer=https://xem.bdhub.xyz
-#EXTINF:-1 group-title="Về bờ TV" tvg-logo="https://static.90pcdn.com/tc/pwa/icon-144x144.png" ,VEBOtv Z2 HD
-https://live-eu-ay5eg6kw5uliv.thapcam.link/live/Z2HD/playlist.m3u8|Referer=https://xem.bdhub.xyz
-#EXTINF:-1 group-title="Về bờ TV" tvg-logo="https://static.90pcdn.com/tc/pwa/icon-144x144.png" ,VEBOtv Z2 SD
-https://live-kh-1123139281.thapcam.link/Z2SD/playlist.m3u8|Referer=https://xem.bdhub.xyz
 #EXTINF:-1 group-title="Về bờ TV" tvg-logo="https://static.90pcdn.com/tc/pwa/icon-144x144.png" ,VEBOtv Z3 FHD
 https://obevcimanyd179249207.thapcam.link/live/Z3FHD/playlist.m3u8|Referer=https://xem.bdhub.xyz
-#EXTINF:-1 group-title="Về bờ TV" tvg-logo="https://static.90pcdn.com/tc/pwa/icon-144x144.png" ,VEBOtv Z3 HD
-https://live-eu-ay5eg6kw5uliv.thapcam.link/live/Z3HD/playlist.m3u8|Referer=https://xem.bdhub.xyz
-#EXTINF:-1 group-title="Về bờ TV" tvg-logo="https://static.90pcdn.com/tc/pwa/icon-144x144.png" ,VEBOtv Z3 SD
-https://live-kh-1123139281.thapcam.link/Z3SD/playlist.m3u8|Referer=https://xem.bdhub.xyz
 #EXTINF:0 group-title="XOILAC.XYZ" ,A PHAC
 https://pull.niur.live/live/stream-9912019_lhd.flv?txSecret=c81ed8e46552e70b04f9541dcef0a984&txTime=663679c8
 #EXTINF:0 group-title="XOILAC.XYZ" ,ADAM
