@@ -41,50 +41,6 @@ http://80.252.37.194:5000/udp/233.233.233.6:12000
 http://80.252.37.194:5000/udp/233.233.233.7:12000
 #EXTINF:-1 group-title="ARENA SPORT" ,ARENA SPORT 6
 http://80.252.37.194:5000/udp/233.233.233.8:12000
-#EXTINF:0 group-title="BEIN SPORTS" ,BEIN SPORTS 01
-http://x.v-iptv.com:25443/live/3UKHGFTQSG/C1WAIDLYW1/30756.ts
-#EXTINF:0 group-title="BEIN SPORTS" ,BEIN SPORTS 02
-http://x.v-iptv.com:25443/live/3UKHGFTQSG/C1WAIDLYW1/30757.ts
-#EXTINF:0 group-title="BEIN SPORTS" ,BEIN SPORTS 03
-http://x.v-iptv.com:25443/live/3UKHGFTQSG/C1WAIDLYW1/30758.ts
-#EXTINF:0 group-title="BEIN SPORTS" ,BEIN SPORTS 04
-http://x.v-iptv.com:25443/live/3UKHGFTQSG/C1WAIDLYW1/103764.ts
-#EXTINF:0 group-title="BEIN SPORTS" ,BEIN SPORTS 05
-http://x.v-iptv.com:25443/live/3UKHGFTQSG/C1WAIDLYW1/9141.ts
-#EXTINF:0 group-title="BEIN SPORTS" ,BEIN SPORTS 06
-http://x.v-iptv.com:25443/live/3UKHGFTQSG/C1WAIDLYW1/279962.ts
-#EXTINF:0 group-title="BEIN SPORTS" ,BEIN SPORTS 07
-http://x.v-iptv.com:25443/live/3UKHGFTQSG/C1WAIDLYW1/30760.ts
-#EXTINF:0 group-title="BEIN SPORTS" ,BEIN SPORTS 08
-http://x.v-iptv.com:25443/live/3UKHGFTQSG/C1WAIDLYW1/9143.ts
-#EXTINF:0 group-title="BEIN SPORTS" ,BEIN SPORTS FR 01
-http://x.v-iptv.com:25443/live/3UKHGFTQSG/C1WAIDLYW1/51102.ts
-#EXTINF:0 group-title="BEIN SPORTS" ,BEIN SPORTS FR 02
-http://x.v-iptv.com:25443/live/3UKHGFTQSG/C1WAIDLYW1/9588.ts
-#EXTINF:0 group-title="BEIN SPORTS" ,BEIN SPORTS FR 03
-http://x.v-iptv.com:25443/live/3UKHGFTQSG/C1WAIDLYW1/9587.ts
-#EXTINF:0 group-title="BEIN SPORTS" ,BEIN SPORTS FR 04
-http://x.v-iptv.com:25443/live/3UKHGFTQSG/C1WAIDLYW1/15210.ts
-#EXTINF:0 group-title="BEIN SPORTS" ,BEIN SPORTS FR 05
-http://x.v-iptv.com:25443/live/3UKHGFTQSG/C1WAIDLYW1/15209.ts
-#EXTINF:0 group-title="BEIN SPORTS" ,BEIN SPORTS FR 06
-http://x.v-iptv.com:25443/live/3UKHGFTQSG/C1WAIDLYW1/15208.ts
-#EXTINF:0 group-title="BEIN SPORTS" ,BEIN SPORTS FR 07
-http://x.v-iptv.com:25443/live/3UKHGFTQSG/C1WAIDLYW1/15207.ts
-#EXTINF:0 group-title="BEIN SPORTS" ,BEIN SPORTS FR 08
-http://x.v-iptv.com:25443/live/3UKHGFTQSG/C1WAIDLYW1/15206.ts
-#EXTINF:0 group-title="BEIN SPORTS" ,BEIN SPORTS FR 09
-http://x.v-iptv.com:25443/live/3UKHGFTQSG/C1WAIDLYW1/15205.ts
-#EXTINF:0 group-title="BEIN SPORTS" ,BEIN SPORTS FR 10
-http://x.v-iptv.com:25443/live/3UKHGFTQSG/C1WAIDLYW1/15211.ts
-#EXTINF:0 group-title="BEIN SPORTS" ,BEIN SPORTS TR 01
-http://x.v-iptv.com:25443/live/3UKHGFTQSG/C1WAIDLYW1/149526.ts
-#EXTINF:0 group-title="BEIN SPORTS" ,BEIN SPORTS TR 02
-http://x.v-iptv.com:25443/live/3UKHGFTQSG/C1WAIDLYW1/149529.ts
-#EXTINF:0 group-title="BEIN SPORTS" ,BEIN SPORTS TR 03
-http://x.v-iptv.com:25443/live/3UKHGFTQSG/C1WAIDLYW1/149531.ts
-#EXTINF:0 group-title="BEIN SPORTS" ,BEIN SPORTS TR 04
-http://x.v-iptv.com:25443/live/3UKHGFTQSG/C1WAIDLYW1/149533.ts
 #EXTINF:0 group-title="CINE Y SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/512px-A%26E_Network_logo.svg.png" ,A&E
 http://offshore.lat:8080/armando86/dPCeWVgyHN9j/289425
 #EXTINF:0 group-title="CINE Y SERIES" tvg-logo="https://fotografias.atresseries.com/clipping/cmsimages02/2018/02/22/20C2BFA8-ACA3-47DA-AAFB-188D456AB2A9/27.jpg" ,A3SERIES
@@ -203,14 +159,6 @@ http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/7266/index.m3u
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/7267/index.m3u
 #EXTINF:0 group-title="DEPORTES" ,ARENA SPORT HR 6
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/7268/index.m3u
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" ,Astro_Supersport1_MY-FHD
-https://7pal.short.gy/astross1
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Astro_ASSP2.png" ,Astro_Supersport2_MY-FHD
-https://7pal.short.gy/astross2
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png" ,Astro_Supersport3_MY-FHD
-https://7pal.short.gy/astross3
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png" ,Astro_Supersport4_MY-FHD
-https://7pal.short.gy/astross4
 #EXTINF:0 group-title="DEPORTES" ,BAND SPORTS
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/6159/index.m3u
 #EXTINF:0 group-title="DEPORTES" ,BEIN SPORTS FR 1
@@ -237,14 +185,6 @@ http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/18016/index.m3u
 https://pubads.g.doubleclick.net/ssai/event/rzUfbID8QZC1iWIgk0ThuA/master.m3u8
 #EXTINF:0 group-title="DEPORTES" ,BOXING TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/boxing-tv/BOXINGTV_SCTE.m3u8
-#EXTINF:0 group-title="DEPORTES" ,BT SPORT 1
-http://195.181.173.129:8080/live/HXEuB1yY9Z/5614203251/47850.ts?token=TUEMUBFQFVsUVQlQUgNVBwhQBwoIAAwJBgIAD1JaAwdUUwBXAQABAAIWFRdHQxcHWQk6UV0SAwVVC1YGGhpGEFMRO1gGGg1DBwwIAgQGR04aEAxVXBIDAFUCUAAPAQpTB09GQQtcFVsUBQAEAgFWQBRGAEBNVUtfA188UlNOWgBTQV5fF1RbTRRbV2pQUggDVgBHAhsAGx1AWhBGFAJdFloPSBMAUUMTV0BcFw4VXFYOXUcUG1NWRAxHEU8UAhEiZEFIEwdAQwRYR1BaWhVfQEwXRxQbWUpuEFYQQkRdUg5TEUYLQAgVTRRZWE1rVAoMVgEGTFBfV0JACUEDFBQRDlkNDUUNSmgRX1AbDxYCVFMPRhg=
-#EXTINF:0 group-title="DEPORTES" ,BT SPORT 2
-http://195.181.173.129:8080/live/HXEuB1yY9Z/5614203251/47851.ts?token=TUEMUBFQFVsUVQlQUgNVBwhQBwoIAAwJBgIAD1JaAwdUUwBXAQABAAIWFRdHQxcHWQk6UV0SAwVVC1YGGhpGEFMRO1gGGg1DBwwIAgQGR04aEAxVXBIDAFUCUAAPAQpTB09GQQtcFVsUBQAEAgFWQBRGAEBNVUtfA188UlNOWgBTQV5fF1RbTRRbV2pQUggDVgBHAhsAGx1AWhBGFAJdFloPSBMAUUMTV0BcFw4VXFYOXUcUG1NWRAxHEU8UAhEiZEFIEwdAQwRYR1BaWhVfQEwXRxQbWUpuEFYQQkRdUg5TEUYLQAgVTRRZWE1rVAoMVgEGTFBfV0JACUEDFBQRDlkNDUUNSmgRX1AbDxYCVFMPRhg=
-#EXTINF:0 group-title="DEPORTES" ,BT SPORT 3
-http://195.181.173.129:8080/live/HXEuB1yY9Z/5614203251/47852.ts?token=TUEMUBFQFVsUVQlQUgNVBwhQBwoIAAwJBgIAD1JaAwdUUwBXAQABAAIWFRdHQxcHWQk6UV0SAwVVC1YGGhpGEFMRO1gGGg1DBwwIAgQGR04aEAxVXBIDAFUCUAAPAQpTB09GQQtcFVsUBQAEAgFWQBRGAEBNVUtfA188UlNOWgBTQV5fF1RbTRRbV2pQUggDVgBHAhsAGx1AWhBGFAJdFloPSBMAUUMTV0BcFw4VXFYOXUcUG1NWRAxHEU8UAhEiZEFIEwdAQwRYR1BaWhVfQEwXRxQbWUpuEFYQQkRdUg5TEUYLQAgVTRRZWE1rVAoMVgEGTFBfV0JACUEDFBQRDlkNDUUNSmgRX1AbDxYCVFMPRhg=
-#EXTINF:0 group-title="DEPORTES" ,BT SPORT 4
-http://195.181.173.129:8080/live/HXEuB1yY9Z/5614203251/47853.ts?token=TUEMUBFQFVsUVQlQUgNVBwhQBwoIAAwJBgIAD1JaAwdUUwBXAQABAAIWFRdHQxcHWQk6UV0SAwVVC1YGGhpGEFMRO1gGGg1DBwwIAgQGR04aEAxVXBIDAFUCUAAPAQpTB09GQQtcFVsUBQAEAgFWQBRGAEBNVUtfA188UlNOWgBTQV5fF1RbTRRbV2pQUggDVgBHAhsAGx1AWhBGFAJdFloPSBMAUUMTV0BcFw4VXFYOXUcUG1NWRAxHEU8UAhEiZEFIEwdAQwRYR1BaWhVfQEwXRxQbWUpuEFYQQkRdUg5TEUYLQAgVTRRZWE1rVAoMVgEGTFBfV0JACUEDFBQRDlkNDUUNSmgRX1AbDxYCVFMPRhg=
 #EXTINF:0 group-title="DEPORTES" ,BUNDESLIGA 01
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2480/index.m3u
 #EXTINF:0 group-title="DEPORTES" ,BUNDESLIGA 02
@@ -291,6 +231,8 @@ http://offshore.lat:8080/armando86/dPCeWVgyHN9j/296662
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2535/index.m3u
 #EXTINF:0 group-title="DEPORTES" ,DAZN PORTUGUES
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2534/index.m3u
+#EXTINF:0 group-title="DEPORTES" ,DD SPORTS INDIA
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
 #EXTINF:0 group-title="DEPORTES" tvg-name="http://168.197.196.98:9981/stream/channelid/198858141?profile=pass" tvg-logo="https://i.postimg.cc/3xg7kw7j/DEPORTV.png" ,DEPORTV
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/chunklist_w1909906624.m3u8
 #EXTINF:0 group-title="DEPORTES" ,DIGI SPORT 1
@@ -521,6 +463,8 @@ http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2530/index.m3u
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2521/index.m3u
 #EXTINF:0 group-title="DEPORTES" ,SPORTS TV TR
 http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
+#EXTINF:0 group-title="DEPORTES" ,SPORTSMAX CARIBE
+https://is.gd/8Xi5qy
 #EXTINF:0 group-title="DEPORTES" ,SPOTV 1 KR
 http://202.150.161.68/spotv1/index.m3u8
 #EXTINF:0 group-title="DEPORTES" ,SPOTV 2 KR
@@ -535,6 +479,10 @@ http://154.58.202.185:8000/play/a06j
 http://154.58.202.185:8000/play/a06k
 #EXTINF:0 group-title="DEPORTES" tvg-logo="https://m.media-amazon.com/images/I/71FHz073Z8L.png" ,SSC NEWS
 http://154.58.202.185:8000/play/a06l
+#EXTINF:0 group-title="DEPORTES" ,STAR SPORTS 1 INDIA
+http://103.120.172.74:4600
+#EXTINF:0 group-title="DEPORTES" ,STAR SPORTS 2 INDIA
+http://103.120.172.74:4700
 #EXTINF:0 group-title="DEPORTES" ,STAR SPORTS SELECT 1 INDIA
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2508/index.m3u
 #EXTINF:0 group-title="DEPORTES" ,STAR SPORTS SELECT 2 INDIA
@@ -1629,91 +1577,5 @@ https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/26912
 https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/931168
 #EXTINF:-1 group-title="USA SPORTS" ,BALLY SPORTS WISCONSIN
 https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/26817
-#EXTINF:-1 group-title="Ve Bo TV" ,#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
-https://obevcimanyd179249207.thapcam.link/live/may00FHD/playlist.m3u8
-#EXTINF:-1 group-title="Ve Bo TV" ,#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
-https://obevcimanyd179249207.thapcam.link/live/may1FHD/playlist.m3u8
-#EXTINF:-1 group-title="Ve Bo TV" ,#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
-https://obevcimanyd179249207.thapcam.link/live/may2FHD/playlist.m3u8
-#EXTINF:-1 group-title="Ve Bo TV" ,#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
-https://obevcimanyd179249207.thapcam.link/live/may3FHD/playlist.m3u8
-#EXTINF:-1 group-title="Ve Bo TV" ,#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
-https://obevcimanyd179249207.thapcam.link/live/oldFHD/playlist.m3u8
-#EXTINF:-1 group-title="Ve Bo TV" ,#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
-https://obevcimanyd179249207.thapcam.link/live/chaFHD/playlist.m3u8
-#EXTINF:-1 group-title="Ve Bo TV" ,#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
-https://obevcimanyd179249207.thapcam.link/live/trauFHD/playlist.m3u8
-#EXTINF:-1 group-title="Ve Bo TV" ,#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
-https://obevcimanyd179249207.thapcam.link/live/cuonFHD/chunklist.m3u8
-#EXTINF:-1 group-title="Ve Bo TV" ,#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
-https://obevcimanyd179249207.thapcam.link/live/batFHD/playlist.m3u8
-#EXTINF:-1 group-title="Ve Bo TV" ,#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
-https://obevcimanyd179249207.thapcam.link/live/nenFHD/playlist.m3u8
-#EXTINF:-1 group-title="Ve Bo TV" ,#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
-https://obevcimanyd179249207.thapcam.link/live/phoFHD/playlist.m3u8
-#EXTINF:-1 group-title="Ve Bo TV" ,#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
-https://obevcimanyd179249207.thapcam.link/live/myFHD/playlist.m3u8
-#EXTINF:-1 group-title="Ve Bo TV" ,#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
-https://obevcimanyd179249207.thapcam.link/live/soiFHD/playlist.m3u8
-#EXTINF:-1 group-title="Ve Bo TV" ,#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
-https://live-eu-cizve9esipliv.thapcam.link/may00HD/index.m3u8
-#EXTINF:-1 group-title="Ve Bo TV" ,#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
-https://live-eu-cizve9esipliv.thapcam.link/may1HD/index.m3u8
-#EXTINF:-1 group-title="Ve Bo TV" ,#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
-https://live-eu-cizve9esipliv.thapcam.link/may2HD/index.m3u8
-#EXTINF:-1 group-title="Ve Bo TV" ,#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
-https://live-eu-cizve9esipliv.thapcam.link/may3HD/index.m3u8
-#EXTINF:-1 group-title="Ve Bo TV" ,#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
-https://live-eu-cizve9esipliv.thapcam.link/oldHD/index.m3u8
-#EXTINF:-1 group-title="Ve Bo TV" ,#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
-https://live-eu-cizve9esipliv.thapcam.link/chaHD/index.m3u8
-#EXTINF:-1 group-title="Ve Bo TV" ,#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
-https://live-eu-cizve9esipliv.thapcam.link/trauHD/index.m3u8
-#EXTINF:-1 group-title="Ve Bo TV" ,#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
-https://live-eu-cizve9esipliv.thapcam.link/cuonHD/index.m3u8
-#EXTINF:-1 group-title="Ve Bo TV" ,#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
-https://live-eu-cizve9esipliv.thapcam.link/batHD/index.m3u8
-#EXTINF:-1 group-title="Ve Bo TV" ,#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
-https://live-eu-cizve9esipliv.thapcam.link/nenHD/index.m3u8
-#EXTINF:-1 group-title="Ve Bo TV" ,#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
-https://live-eu-cizve9esipliv.thapcam.link/phoHD/index.m3u8
-#EXTINF:-1 group-title="Ve Bo TV" ,#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
-https://live-eu-cizve9esipliv.thapcam.link/myHD/index.m3u8
-#EXTINF:-1 group-title="Ve Bo TV" ,#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
-https://live-eu-cizve9esipliv.thapcam.link/soiHD/playlist.m3u8
-#EXTINF:-1 group-title="Ve Bo TV" ,#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
-https://live-kh-1123139281.thapcam.link/may00SD/playlist.m3u8
-#EXTINF:-1 group-title="Ve Bo TV" ,#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
-https://live-kh-1123139281.thapcam.link/may1SD/playlist.m3u8
-#EXTINF:-1 group-title="Ve Bo TV" ,#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
-https://live-kh-1123139281.thapcam.link/may2SD/playlist.m3u8
-#EXTINF:-1 group-title="Ve Bo TV" ,#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
-https://live-kh-1123139281.thapcam.link/may3SD/playlist.m3u8
-#EXTINF:-1 group-title="Ve Bo TV" ,#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
-https://live-kh-1123139281.thapcam.link/oldSD/playlist.m3u8
-#EXTINF:-1 group-title="Ve Bo TV" ,#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
-https://live-kh-1123139281.thapcam.link/chaFHD/playlist.m3u8
-#EXTINF:-1 group-title="Ve Bo TV" ,#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
-https://live-kh-1123139281.thapcam.link/trauSD/playlist.m3u8
-#EXTINF:-1 group-title="Ve Bo TV" ,#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
-https://live-kh-1123139281.thapcam.link/cuonSD/playlist.m3u8
-#EXTINF:-1 group-title="Ve Bo TV" ,#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
-https://live-kh-1123139281.thapcam.link/batSD/playlist.m3u8
-#EXTINF:-1 group-title="Ve Bo TV" ,#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
-https://live-kh-1123139281.thapcam.link/nenSD/playlist.m3u8
-#EXTINF:-1 group-title="Ve Bo TV" ,#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
-https://live-kh-1123139281.thapcam.link/phoSD/playlist.m3u8
-#EXTINF:-1 group-title="Ve Bo TV" ,#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
-https://live-kh-1123139281.thapcam.link/mySD/playlist.m3u8
-#EXTINF:-1 group-title="Ve Bo TV" ,#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
-https://live-kh-1123139281.thapcam.link/soiSD/playlist.m3u8
-#EXTINF:0 group-title="WEBCAMS Y PAISAJES" ,LAGO
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55593&extension=ts&play_token=ltn2GgE1z6
 #EXTINF:0 group-title="WEBCAMS Y PAISAJES" ,LOVE NATURE 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
-#EXTINF:0 group-title="WORLD RADIO TOKEN" ,ASTRO SUPER SPORT 1
-https://worldradio.online/proxy/?q=185.53.90.34:25461/pachaman/asdfghuytrc/63112
-#EXTINF:0 group-title="WORLD RADIO TOKEN" ,ASTRO SUPER SPORT 2
-https://worldradio.online/proxy/?q=185.53.90.34:25461/pachaman/asdfghuytrc/63113
-#EXTINF:0 group-title="WORLD RADIO TOKEN" ,ASTRO SUPER SPORT 3
-https://worldradio.online/proxy/?q=185.53.90.34:25461/pachaman/asdfghuytrc/63114
