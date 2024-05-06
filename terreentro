@@ -41,6 +41,50 @@ http://80.252.37.194:5000/udp/233.233.233.6:12000
 http://80.252.37.194:5000/udp/233.233.233.7:12000
 #EXTINF:-1 group-title="ARENA SPORT" ,ARENA SPORT 6
 http://80.252.37.194:5000/udp/233.233.233.8:12000
+#EXTINF:0 group-title="BEIN SPORTS" ,BEIN SPORTS 01
+http://x.v-iptv.com:25443/live/3UKHGFTQSG/C1WAIDLYW1/30756.ts
+#EXTINF:0 group-title="BEIN SPORTS" ,BEIN SPORTS 02
+http://x.v-iptv.com:25443/live/3UKHGFTQSG/C1WAIDLYW1/30757.ts
+#EXTINF:0 group-title="BEIN SPORTS" ,BEIN SPORTS 03
+http://x.v-iptv.com:25443/live/3UKHGFTQSG/C1WAIDLYW1/30758.ts
+#EXTINF:0 group-title="BEIN SPORTS" ,BEIN SPORTS 04
+http://x.v-iptv.com:25443/live/3UKHGFTQSG/C1WAIDLYW1/103764.ts
+#EXTINF:0 group-title="BEIN SPORTS" ,BEIN SPORTS 05
+http://x.v-iptv.com:25443/live/3UKHGFTQSG/C1WAIDLYW1/9141.ts
+#EXTINF:0 group-title="BEIN SPORTS" ,BEIN SPORTS 06
+http://x.v-iptv.com:25443/live/3UKHGFTQSG/C1WAIDLYW1/279962.ts
+#EXTINF:0 group-title="BEIN SPORTS" ,BEIN SPORTS 07
+http://x.v-iptv.com:25443/live/3UKHGFTQSG/C1WAIDLYW1/30760.ts
+#EXTINF:0 group-title="BEIN SPORTS" ,BEIN SPORTS 08
+http://x.v-iptv.com:25443/live/3UKHGFTQSG/C1WAIDLYW1/9143.ts
+#EXTINF:0 group-title="BEIN SPORTS" ,BEIN SPORTS FR 01
+http://x.v-iptv.com:25443/live/3UKHGFTQSG/C1WAIDLYW1/51102.ts
+#EXTINF:0 group-title="BEIN SPORTS" ,BEIN SPORTS FR 02
+http://x.v-iptv.com:25443/live/3UKHGFTQSG/C1WAIDLYW1/9588.ts
+#EXTINF:0 group-title="BEIN SPORTS" ,BEIN SPORTS FR 03
+http://x.v-iptv.com:25443/live/3UKHGFTQSG/C1WAIDLYW1/9587.ts
+#EXTINF:0 group-title="BEIN SPORTS" ,BEIN SPORTS FR 04
+http://x.v-iptv.com:25443/live/3UKHGFTQSG/C1WAIDLYW1/15210.ts
+#EXTINF:0 group-title="BEIN SPORTS" ,BEIN SPORTS FR 05
+http://x.v-iptv.com:25443/live/3UKHGFTQSG/C1WAIDLYW1/15209.ts
+#EXTINF:0 group-title="BEIN SPORTS" ,BEIN SPORTS FR 06
+http://x.v-iptv.com:25443/live/3UKHGFTQSG/C1WAIDLYW1/15208.ts
+#EXTINF:0 group-title="BEIN SPORTS" ,BEIN SPORTS FR 07
+http://x.v-iptv.com:25443/live/3UKHGFTQSG/C1WAIDLYW1/15207.ts
+#EXTINF:0 group-title="BEIN SPORTS" ,BEIN SPORTS FR 08
+http://x.v-iptv.com:25443/live/3UKHGFTQSG/C1WAIDLYW1/15206.ts
+#EXTINF:0 group-title="BEIN SPORTS" ,BEIN SPORTS FR 09
+http://x.v-iptv.com:25443/live/3UKHGFTQSG/C1WAIDLYW1/15205.ts
+#EXTINF:0 group-title="BEIN SPORTS" ,BEIN SPORTS FR 10
+http://x.v-iptv.com:25443/live/3UKHGFTQSG/C1WAIDLYW1/15211.ts
+#EXTINF:0 group-title="BEIN SPORTS" ,BEIN SPORTS TR 01
+http://x.v-iptv.com:25443/live/3UKHGFTQSG/C1WAIDLYW1/149526.ts
+#EXTINF:0 group-title="BEIN SPORTS" ,BEIN SPORTS TR 02
+http://x.v-iptv.com:25443/live/3UKHGFTQSG/C1WAIDLYW1/149529.ts
+#EXTINF:0 group-title="BEIN SPORTS" ,BEIN SPORTS TR 03
+http://x.v-iptv.com:25443/live/3UKHGFTQSG/C1WAIDLYW1/149531.ts
+#EXTINF:0 group-title="BEIN SPORTS" ,BEIN SPORTS TR 04
+http://x.v-iptv.com:25443/live/3UKHGFTQSG/C1WAIDLYW1/149533.ts
 #EXTINF:0 group-title="CINE Y SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/512px-A%26E_Network_logo.svg.png" ,A&E
 http://offshore.lat:8080/armando86/dPCeWVgyHN9j/289425
 #EXTINF:0 group-title="CINE Y SERIES" tvg-logo="https://fotografias.atresseries.com/clipping/cmsimages02/2018/02/22/20C2BFA8-ACA3-47DA-AAFB-188D456AB2A9/27.jpg" ,A3SERIES
@@ -159,6 +203,14 @@ http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/7266/index.m3u
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/7267/index.m3u
 #EXTINF:0 group-title="DEPORTES" ,ARENA SPORT HR 6
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/7268/index.m3u
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" ,Astro_Supersport1_MY-FHD
+https://7pal.short.gy/astross1
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Astro_ASSP2.png" ,Astro_Supersport2_MY-FHD
+https://7pal.short.gy/astross2
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png" ,Astro_Supersport3_MY-FHD
+https://7pal.short.gy/astross3
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png" ,Astro_Supersport4_MY-FHD
+https://7pal.short.gy/astross4
 #EXTINF:0 group-title="DEPORTES" ,BAND SPORTS
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/6159/index.m3u
 #EXTINF:0 group-title="DEPORTES" ,BEIN SPORTS FR 1
@@ -185,6 +237,14 @@ http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/18016/index.m3u
 https://pubads.g.doubleclick.net/ssai/event/rzUfbID8QZC1iWIgk0ThuA/master.m3u8
 #EXTINF:0 group-title="DEPORTES" ,BOXING TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/boxing-tv/BOXINGTV_SCTE.m3u8
+#EXTINF:0 group-title="DEPORTES" ,BT SPORT 1
+http://195.181.173.129:8080/live/HXEuB1yY9Z/5614203251/47850.ts?token=TUEMUBFQFVsUVQlQUgNVBwhQBwoIAAwJBgIAD1JaAwdUUwBXAQABAAIWFRdHQxcHWQk6UV0SAwVVC1YGGhpGEFMRO1gGGg1DBwwIAgQGR04aEAxVXBIDAFUCUAAPAQpTB09GQQtcFVsUBQAEAgFWQBRGAEBNVUtfA188UlNOWgBTQV5fF1RbTRRbV2pQUggDVgBHAhsAGx1AWhBGFAJdFloPSBMAUUMTV0BcFw4VXFYOXUcUG1NWRAxHEU8UAhEiZEFIEwdAQwRYR1BaWhVfQEwXRxQbWUpuEFYQQkRdUg5TEUYLQAgVTRRZWE1rVAoMVgEGTFBfV0JACUEDFBQRDlkNDUUNSmgRX1AbDxYCVFMPRhg=
+#EXTINF:0 group-title="DEPORTES" ,BT SPORT 2
+http://195.181.173.129:8080/live/HXEuB1yY9Z/5614203251/47851.ts?token=TUEMUBFQFVsUVQlQUgNVBwhQBwoIAAwJBgIAD1JaAwdUUwBXAQABAAIWFRdHQxcHWQk6UV0SAwVVC1YGGhpGEFMRO1gGGg1DBwwIAgQGR04aEAxVXBIDAFUCUAAPAQpTB09GQQtcFVsUBQAEAgFWQBRGAEBNVUtfA188UlNOWgBTQV5fF1RbTRRbV2pQUggDVgBHAhsAGx1AWhBGFAJdFloPSBMAUUMTV0BcFw4VXFYOXUcUG1NWRAxHEU8UAhEiZEFIEwdAQwRYR1BaWhVfQEwXRxQbWUpuEFYQQkRdUg5TEUYLQAgVTRRZWE1rVAoMVgEGTFBfV0JACUEDFBQRDlkNDUUNSmgRX1AbDxYCVFMPRhg=
+#EXTINF:0 group-title="DEPORTES" ,BT SPORT 3
+http://195.181.173.129:8080/live/HXEuB1yY9Z/5614203251/47852.ts?token=TUEMUBFQFVsUVQlQUgNVBwhQBwoIAAwJBgIAD1JaAwdUUwBXAQABAAIWFRdHQxcHWQk6UV0SAwVVC1YGGhpGEFMRO1gGGg1DBwwIAgQGR04aEAxVXBIDAFUCUAAPAQpTB09GQQtcFVsUBQAEAgFWQBRGAEBNVUtfA188UlNOWgBTQV5fF1RbTRRbV2pQUggDVgBHAhsAGx1AWhBGFAJdFloPSBMAUUMTV0BcFw4VXFYOXUcUG1NWRAxHEU8UAhEiZEFIEwdAQwRYR1BaWhVfQEwXRxQbWUpuEFYQQkRdUg5TEUYLQAgVTRRZWE1rVAoMVgEGTFBfV0JACUEDFBQRDlkNDUUNSmgRX1AbDxYCVFMPRhg=
+#EXTINF:0 group-title="DEPORTES" ,BT SPORT 4
+http://195.181.173.129:8080/live/HXEuB1yY9Z/5614203251/47853.ts?token=TUEMUBFQFVsUVQlQUgNVBwhQBwoIAAwJBgIAD1JaAwdUUwBXAQABAAIWFRdHQxcHWQk6UV0SAwVVC1YGGhpGEFMRO1gGGg1DBwwIAgQGR04aEAxVXBIDAFUCUAAPAQpTB09GQQtcFVsUBQAEAgFWQBRGAEBNVUtfA188UlNOWgBTQV5fF1RbTRRbV2pQUggDVgBHAhsAGx1AWhBGFAJdFloPSBMAUUMTV0BcFw4VXFYOXUcUG1NWRAxHEU8UAhEiZEFIEwdAQwRYR1BaWhVfQEwXRxQbWUpuEFYQQkRdUg5TEUYLQAgVTRRZWE1rVAoMVgEGTFBfV0JACUEDFBQRDlkNDUUNSmgRX1AbDxYCVFMPRhg=
 #EXTINF:0 group-title="DEPORTES" ,BUNDESLIGA 01
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2480/index.m3u
 #EXTINF:0 group-title="DEPORTES" ,BUNDESLIGA 02
@@ -231,8 +291,6 @@ http://offshore.lat:8080/armando86/dPCeWVgyHN9j/296662
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2535/index.m3u
 #EXTINF:0 group-title="DEPORTES" ,DAZN PORTUGUES
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2534/index.m3u
-#EXTINF:0 group-title="DEPORTES" ,DD SPORTS INDIA
-http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
 #EXTINF:0 group-title="DEPORTES" tvg-name="http://168.197.196.98:9981/stream/channelid/198858141?profile=pass" tvg-logo="https://i.postimg.cc/3xg7kw7j/DEPORTV.png" ,DEPORTV
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/chunklist_w1909906624.m3u8
 #EXTINF:0 group-title="DEPORTES" ,DIGI SPORT 1
@@ -463,8 +521,6 @@ http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2530/index.m3u
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2521/index.m3u
 #EXTINF:0 group-title="DEPORTES" ,SPORTS TV TR
 http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
-#EXTINF:0 group-title="DEPORTES" ,SPORTSMAX CARIBE
-https://is.gd/8Xi5qy
 #EXTINF:0 group-title="DEPORTES" ,SPOTV 1 KR
 http://202.150.161.68/spotv1/index.m3u8
 #EXTINF:0 group-title="DEPORTES" ,SPOTV 2 KR
@@ -479,10 +535,6 @@ http://154.58.202.185:8000/play/a06j
 http://154.58.202.185:8000/play/a06k
 #EXTINF:0 group-title="DEPORTES" tvg-logo="https://m.media-amazon.com/images/I/71FHz073Z8L.png" ,SSC NEWS
 http://154.58.202.185:8000/play/a06l
-#EXTINF:0 group-title="DEPORTES" ,STAR SPORTS 1 INDIA
-http://103.120.172.74:4600
-#EXTINF:0 group-title="DEPORTES" ,STAR SPORTS 2 INDIA
-http://103.120.172.74:4700
 #EXTINF:0 group-title="DEPORTES" ,STAR SPORTS SELECT 1 INDIA
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2508/index.m3u
 #EXTINF:0 group-title="DEPORTES" ,STAR SPORTS SELECT 2 INDIA
@@ -959,8 +1011,6 @@ https://delivery.cdn.rcs.net.ar/mnp/elnueve/output.mpd
 https://livetrx01.vodgc.net/eltrecetv/tracks-v3a1/mono.m3u8
 #EXTINF:0 group-title="LOCAL" tvg-id="http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0055" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Canal_encuentro_2020.png/480px-Canal_encuentro_2020.png" ,ENCUENTRO
 https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/.m3u8
-#EXTINF:0 group-title="LOCAL" ,EXTRA TV
-https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/perfiltv/livestream1/chunks.m3u8?nimblesessionid=859805656
 #EXTINF:0 group-title="LOCAL" tvg-name="https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=4499968.m3u8?" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_10/large.1027530100_IP2.png.09507349c734309f8ec316ccd9633b41.png" ,IP INFORMACION PERIODISTICA
 https://usher.ttvnw.net/api/channel/hls/ip_noticias.m3u8?acmb=e30%3D&allow_source=true&browser_family=chrome&browser_version=123.0&cdm=wv&fast_bread=true&os_name=Windows&os_version=NT%2010.0&p=777486&parent_domains=twitchplayer&platform=web&play_session_id=d9be91ffb494d9781d05f4d7b28cee5c&player_backend=mediaplayer&player_version=1.27.0-rc.2.3&playlist_include_framerate=true&reassignments_supported=true&sig=7156ff77eb4e59f96e1a2ea6c5857e425ab39ec9&supported_codecs=av1,h265,h264&token=%7B%22adblock%22:false%2C%22authorization%22:%7B%22forbidden%22:false%2C%22reason%22:%22%22%7D%2C%22blackout_enabled%22:false%2C%22channel%22:%22ip_noticias%22%2C%22channel_id%22:625134483%2C%22chansub%22:%7B%22restricted_bitrates%22:%5B%5D%2C%22view_until%22:1924905600%7D%2C%22ci_gb%22:false%2C%22geoblock_reason%22:%22%22%2C%22device_id%22:%22Gb3NTwCdYT1SWiEU0YPxVIJfqQOCUF6o%22%2C%22expires%22:1713069294%2C%22extended_history_allowed%22:false%2C%22game%22:%22%22%2C%22hide_ads%22:false%2C%22https_required%22:true%2C%22mature%22:false%2C%22partner%22:false%2C%22platform%22:%22web%22%2C%22player_type%22:%22embed%22%2C%22private%22:%7B%22allowed_to_view%22:true%7D%2C%22privileged%22:false%2C%22role%22:%22%22%2C%22server_ads%22:true%2C%22show_ads%22:true%2C%22subscriber%22:false%2C%22turbo%22:false%2C%22user_id%22:null%2C%22user_ip%22:%22186.19.2.40%22%2C%22version%22:2%7D&transcode_mode=cbr_v1
 #EXTINF:0 group-title="LOCAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/La-Nacion-Mas-Logo.svg/1024px-La-Nacion-Mas-Logo.svg.png" ,LA NACION +
@@ -983,6 +1033,444 @@ https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/0/playlist.m3u8
 https://ythls.armelin.one/channel/UCj6PcyLvpnIRT_2W_mwa9Aw.m3u8
 #EXTINF:0 group-title="LOCAL" tvg-logo="https://1.bp.blogspot.com/-Z3CkwxY4fwY/YAJypg5UiPI/AAAAAAAA7vA/pzgUVEWEm6w7d-vCJEtQSU5MG8O-ixbkQCLcBGAsYHQ/s802/tvp-2020.png" ,TVP PUBLICA
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
+#EXTINF:-1 group-title="MOL LATINA" ,A24
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174479&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:-1 group-title="MOL LATINA" ,ADULT SWIM
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174548&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:-1 group-title="MOL LATINA" ,AMC
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174480&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:-1 group-title="MOL LATINA" ,AMERICA TV
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174482&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:-1 group-title="MOL LATINA" ,AMERICA TV PERU
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174451&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:-1 group-title="MOL LATINA" ,ANTARES TV PERU
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174453&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:-1 group-title="MOL LATINA" ,BABY TV
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174486&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:0 group-title="MOL LATINA" ,BOLIVISION
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=175126&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:-1 group-title="MOL LATINA" ,C5N
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174488&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:-1 group-title="MOL LATINA" ,CANAL 26
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174496&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:-1 group-title="MOL LATINA" ,CANAL N PERU
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174454&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:0 group-title="MOL LATINA" ,CARACOL COLOMBIA
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=318225&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:-1 group-title="MOL LATINA" ,CINE LATINO
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174499&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:-1 group-title="MOL LATINA" ,CINECANAL
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174500&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:-1 group-title="MOL LATINA" ,CIUDAD MAGAZINE
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174502&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:-1 group-title="MOL LATINA" ,COMEDY CENTRAL
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174508&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:-1 group-title="MOL LATINA" ,CRONICA
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174511&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:-1 group-title="MOL LATINA" ,DISNEY JUNIOR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174516&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:-1 group-title="MOL LATINA" ,ECO TV PANAMA
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174418&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:-1 group-title="MOL LATINA" ,EL NUEVE
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174521&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:-1 group-title="MOL LATINA" ,EL TRECE
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174522&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:-1 group-title="MOL LATINA" ,ENCUENTRO
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174523&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:-1 group-title="MOL LATINA" ,EUROPA EUROPA
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174528&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:-1 group-title="MOL LATINA" ,FILM & ARTS
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174529&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:-1 group-title="MOL LATINA" ,GLOBO BR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174402&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:-1 group-title="MOL LATINA" ,GLOBO NEWS BR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174400&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:-1 group-title="MOL LATINA" ,HBO POP
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174568&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:-1 group-title="MOL LATINA" ,LATINA PERU
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174467&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:-1 group-title="MOL LATINA" ,LITUS
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174563&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:-1 group-title="MOL LATINA" ,LN+
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174565&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:-1 group-title="MOL LATINA" ,M+
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174470&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:-1 group-title="MOL LATINA" ,MULTIVISION
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174573&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:-1 group-title="MOL LATINA" ,NAT GEO WILD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174577&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:-1 group-title="MOL LATINA" ,NICKELODEON
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174579&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:0 group-title="MOL LATINA" ,NTN24 COLOMBIA
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=318257&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:-1 group-title="MOL LATINA" ,PAKA PAKA
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174580&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:-1 group-title="MOL LATINA" ,PANAMERICANA TV PERU
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174472&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:0 group-title="MOL LATINA" ,RCN COLOMBIA
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=318261&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:-1 group-title="MOL LATINA" ,RURAL
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174586&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:0 group-title="MOL LATINA" ,SURAM TV
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=318276&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:-1 group-title="MOL LATINA" ,SYFY
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174591&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:-1 group-title="MOL LATINA" ,TELEFE
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174594&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:-1 group-title="MOL LATINA" ,TELEMAX
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174595&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:-1 group-title="MOL LATINA" ,TELEMETRO PANAMA
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174424&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:-1 group-title="MOL LATINA" ,TELEMUNDO INTERNACIONAL
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174596&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:-1 group-title="MOL LATINA" ,TN
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174600&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:-1 group-title="MOL LATINA" ,TVN PANAMA
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174426&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:-1 group-title="MOL LATINA" ,TVP TELEVISION PUBLICA
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174598&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:-1 group-title="MOL LATINA" ,TVPE PERU
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174463&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:-1 group-title="MOL LATINA" ,VOLVER
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174613&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:-1 group-title="MOL LATINA" ,ZZSIN SEÑAL
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174477&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:0 group-title="MOL2" ,A BOLA PT
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=461165&extension=ts&play_token=ltn2GgE1z6
+#EXTINF:0 group-title="MOL2" ,AL KASS 1
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=59318&extension=ts&play_token=ltn2GgE1z6
+#EXTINF:0 group-title="MOL2" ,AL KASS 2
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=59319&extension=ts&play_token=ltn2GgE1z6
+#EXTINF:0 group-title="MOL2" ,AL KASS 5
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=59320&extension=ts&play_token=ltn2GgE1z6
+#EXTINF:0 group-title="MOL2" ,AMAZON PRIME
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=365295&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:0 group-title="MOL2" ,AMAZON PRIME 1
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=683560&extension=ts&play_token=ltn2GgE1z6
+#EXTINF:0 group-title="MOL2" ,AMAZON PRIME 2
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=365296&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:0 group-title="MOL2" ,AMAZON PRIME 2
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=683564&extension=ts&play_token=ltn2GgE1z6
+#EXTINF:0 group-title="MOL2" ,AMAZON PRIME 3
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=683567&extension=ts&play_token=ltn2GgE1z6
+#EXTINF:0 group-title="MOL2" ,AMAZON PRIME 4
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=683570&extension=ts&play_token=ltn2GgE1z6
+#EXTINF:0 group-title="MOL2" ,AMAZON PRIME 5
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=683573&extension=ts&play_token=ltn2GgE1z6
+#EXTINF:0 group-title="MOL2" ,ARAB SPORT NN
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=59303&extension=ts&play_token=ltn2GgE1z6
+#EXTINF:0 group-title="MOL2" ,ARENA SPORT 1
+http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=213666&extension=ts
+#EXTINF:0 group-title="MOL2" ,ARENA SPORT 2
+http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=213665&extension=ts
+#EXTINF:0 group-title="MOL2" ,ARENA SPORT 3
+http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=213664&extension=ts
+#EXTINF:0 group-title="MOL2" ,ARENA SPORT 4
+http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=213663&extension=ts
+#EXTINF:0 group-title="MOL2" ,ARENA SPORT 5
+http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=213662&extension=ts
+#EXTINF:0 group-title="MOL2" ,BAND SPORTS
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=166813&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:0 group-title="MOL2" ,BEIN SPORT FR 06
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=59068&extension=ts&play_token=ltn2GgE1z6
+#EXTINF:0 group-title="MOL2" ,BEIN SPORTS AR 00
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=59305&extension=ts&play_token=ltn2GgE1z6
+#EXTINF:0 group-title="MOL2" ,BEIN SPORTS AR 01
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=59306&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:0 group-title="MOL2" ,BEIN SPORTS AR 02
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=59307&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:0 group-title="MOL2" ,BEIN SPORTS AR 03
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=59308&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:0 group-title="MOL2" ,BEIN SPORTS AR 04
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=59309&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:0 group-title="MOL2" ,BEIN SPORTS AR 05
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=59310&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:0 group-title="MOL2" ,BEIN SPORTS AR 06
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=59311&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:0 group-title="MOL2" ,BEIN SPORTS AR 07
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=59312&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:-1 group-title="MOL2" tvg-logo="https://static.epg.best/fr/BeinSports1.fr.png" ,BeIn Sports FR 01
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:BC:CF:06&stream=2816&extension=ts&play_token=fubq0ZpVWx&sn2=
+#EXTINF:-1 group-title="MOL2" tvg-logo="https://static.epg.best/fr/BeinSports2.fr.png" ,BeIn Sports FR 02
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:BC:CF:06&stream=2818&extension=ts&play_token=NetqiLLyMA&sn2=
+#EXTINF:-1 group-title="MOL2" tvg-logo="https://static.epg.best/fr/BeinSports3.fr.png" ,BeIn Sports FR 03
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:BC:CF:06&stream=2820&extension=ts&play_token=fSU4CBEl5o&sn2=
+#EXTINF:0 group-title="MOL2" ,BEIN SPORTS FR 04
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=59066&extension=ts&play_token=ltn2GgE1z6
+#EXTINF:0 group-title="MOL2" ,BEIN SPORTS FR 05
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=59067&extension=ts&play_token=ltn2GgE1z6
+#EXTINF:0 group-title="MOL2" ,BEIN SPORTS FR 07
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=59069&extension=ts&play_token=ltn2GgE1z6
+#EXTINF:0 group-title="MOL2" ,BEIN SPORTS FR 08
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=59070&extension=ts&play_token=ltn2GgE1z6
+#EXTINF:0 group-title="MOL2" ,BEIN SPORTS FR 09
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=59071&extension=ts&play_token=ltn2GgE1z6
+#EXTINF:0 group-title="MOL2" ,BEIN SPORTS MAX 04
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=59066&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:0 group-title="MOL2" ,BEIN SPORTS MAX 05
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=59067&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:0 group-title="MOL2" ,BEIN SPORTS MAX 06
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=59068&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:0 group-title="MOL2" ,BEIN SPORTS MAX 07
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=59069&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:0 group-title="MOL2" ,BEIN SPORTS MAX 08
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=59070&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:0 group-title="MOL2" ,BEIN SPORTS MAX 09
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=59071&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:0 group-title="MOL2" ,BEIN SPORTS MAX 10
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=59065&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:-1 group-title="MOL2" tvg-logo="https://static.epg.best/fr/CanalPlus.fr.png" ,Canal+ FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:BC:CF:06&stream=43972&extension=ts&play_token=CfU9GIzt83&sn2=
+#EXTINF:-1 group-title="MOL2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canal-plus-foot-fr.png" ,Canal+ Foot FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:BC:CF:06&stream=418308&extension=ts&play_token=gI9BEIsFGv&sn2=
+#EXTINF:0 group-title="MOL2" ,CANAL+ FORMULA1
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=305273&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:0 group-title="MOL2" ,CANAL+ GOLF
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=59074&extension=ts&play_token=ltn2GgE1z6
+#EXTINF:0 group-title="MOL2" ,CANAL+ MOTO GP
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=305274&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:-1 group-title="MOL2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canal-plus-sport-360-fr.png" ,Canal+ Sport 360 FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:BC:CF:06&stream=418307&extension=ts&play_token=BUkrdm9NKD&sn2=
+#EXTINF:-1 group-title="MOL2" tvg-logo="https://static.epg.best/fr/CanalPlusSport.fr.png" ,Canal+ Sport FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:BC:CF:06&stream=2804&extension=ts&play_token=we3qaeVQwz&sn2=
+#EXTINF:0 group-title="MOL2" ,CANAL+ TOP14 RUGBY
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=305276&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:0 group-title="MOL2" ,CBS SPORTS
+http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61352&extension=ts
+#EXTINF:0 group-title="MOL2" ,Champions League-Prime Video 1 (Only Event)
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=363356&extension=ts&play_token=1BYKjPi9XO
+#EXTINF:0 group-title="MOL2" ,Champions League-Prime Video 2 (Only Event)
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=363357&extension=ts&play_token=Gmf6D7M3Y9
+#EXTINF:0 group-title="MOL2" ,Champions League-Prime Video 3 (Only Event)
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=363358&extension=ts&play_token=owKI6JMDDy
+#EXTINF:0 group-title="MOL2" ,Champions League-Prime Video 4 (Only Event)
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=363359&extension=ts&play_token=6mh1wxeuKQ
+#EXTINF:0 group-title="MOL2" ,Champions League-Prime Video 5 (Only Event)
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=363360&extension=ts&play_token=QPjP6DS1sm
+#EXTINF:0 group-title="MOL2" ,Champions League-Prime Video 6 (Only Event)
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=363361&extension=ts&play_token=6CrUk77lDt
+#EXTINF:0 group-title="MOL2" ,Champions League-Prime Video 7 (Only Event)
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=363362&extension=ts&play_token=xQh54QvfRJ
+#EXTINF:0 group-title="MOL2" ,CYTAVISION 1
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=649225&extension=ts&play_token=ltn2GgE1z6
+#EXTINF:0 group-title="MOL2" ,CYTAVISION 2
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=649226&extension=ts&play_token=ltn2GgE1z6
+#EXTINF:0 group-title="MOL2" ,CYTAVISION 3
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=649227&extension=ts&play_token=ltn2GgE1z6
+#EXTINF:0 group-title="MOL2" ,CYTAVISION 4
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=649228&extension=ts&play_token=ltn2GgE1z6
+#EXTINF:0 group-title="MOL2" ,DAZN 01
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=56674&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:0 group-title="MOL2" ,DAZN 02
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=56675&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:0 group-title="MOL2" ,DAZN 03
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=56676&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:0 group-title="MOL2" ,DAZN 04
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=56677&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:0 group-title="MOL2" ,DAZN 05
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=56678&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:0 group-title="MOL2" ,DAZN 06
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=56679&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:0 group-title="MOL2" ,DAZN 07
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=56680&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:0 group-title="MOL2" ,DAZN 08
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=56681&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:0 group-title="MOL2" ,DAZN 09
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=56682&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:0 group-title="MOL2" ,DAZN 10
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=56683&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:0 group-title="MOL2" ,DAZN PROGRAMACION
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=181350&extension=ts&play_token=5X5eTFV9Oc
+#EXTINF:0 group-title="MOL2" ,DAZN ZONA
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=365406&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:-1 group-title="MOL2" ,DEPORTV
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174512&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:0 group-title="MOL2" ,DIEMA SPORT 1
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=205422&extension=ts&play_token=ltn2GgE1z6
+#EXTINF:0 group-title="MOL2" ,DIEMA SPORT 2
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=205421&extension=ts&play_token=ltn2GgE1z6
+#EXTINF:-1 group-title="MOL2" ,ESPN 1 ARG
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174526&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:0 group-title="MOL2" ,ESPN 1 BRASIL
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=166794&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:-1 group-title="MOL2" ,ESPN 3 ARG
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174525&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:0 group-title="MOL2" ,ESPN 5 BRASIL
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=166796&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:0 group-title="MOL2" ,ESPN US 1
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=61458&extension=ts&play_token=ltn2GgE1z6
+#EXTINF:0 group-title="MOL2" ,ESPN US 2
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=61459&extension=ts&play_token=ltn2GgE1z6
+#EXTINF:-1 group-title="MOL2" ,FOX SPORTS 2 ARG
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174542&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:0 group-title="MOL2" ,FS ESPAÑOL
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=61404&extension=ts&play_token=ltn2GgE1z6
+#EXTINF:0 group-title="MOL2" ,FS1
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=61457&extension=ts&play_token=ltn2GgE1z6
+#EXTINF:0 group-title="MOL2" ,FS1 MLS
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=166797&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:0 group-title="MOL2" ,FS2
+http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61346&extension=ts
+#EXTINF:-1 group-title="MOL2" ,GOL PERU
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174464&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:-1 group-title="MOL2" ,GOL TV ECU
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174549&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:0 group-title="MOL2" ,GOLF CHANNEL
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=61455&extension=ts&play_token=ltn2GgE1z6
+#EXTINF:-1 group-title="MOL2" tvg-logo="https://static.epg.best/fr/InfosportPlus.fr.png" ,Infosport+ FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:BC:CF:06&stream=2802&extension=ts&play_token=PEX5WpVqN4&sn2=
+#EXTINF:0 group-title="MOL2" ,INTER TV
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=56626&extension=ts&play_token=VjR9ZJI4ob
+#EXTINF:0 group-title="MOL2" ,JORDAN TV SPORT
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=59300&extension=ts&play_token=ltn2GgE1z6
+#EXTINF:0 group-title="MOL2" ,KSA SPORT 2
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=59298&extension=ts&play_token=ltn2GgE1z6
+#EXTINF:0 group-title="MOL2" ,KUWAIT SPORT TV
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=59299&extension=ts&play_token=ltn2GgE1z6
+#EXTINF:0 group-title="MOL2" ,L EQUIPE
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=59027&extension=ts&play_token=ltn2GgE1z6
+#EXTINF:0 group-title="MOL2" ,Lazio TV
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=56627&extension=ts&play_token=HFSX5enFx8
+#EXTINF:0 group-title="MOL2" ,M+ 01
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55590&extension=ts&play_token=ltn2GgE1z6
+#EXTINF:0 group-title="MOL2" ,M+ 02
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55589&extension=ts&play_token=ltn2GgE1z6
+#EXTINF:0 group-title="MOL2" ,M+ 03
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55588&extension=ts&play_token=ltn2GgE1z6
+#EXTINF:0 group-title="MOL2" ,M+ 04
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55587&extension=ts&play_token=ltn2GgE1z6
+#EXTINF:0 group-title="MOL2" ,M+ DEPORTES
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55586&extension=ts&play_token=ltn2GgE1z6
+#EXTINF:0 group-title="MOL2" ,M+ IGA DE CAMPEONES 01
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55578&extension=ts&play_token=ltn2GgE1z6
+#EXTINF:0 group-title="MOL2" ,M+ LIGA DE CAMPEONES 02
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55580&extension=ts&play_token=ltn2GgE1z6
+#EXTINF:0 group-title="MOL2" ,M+ LIGA DE CAMPEONES 03
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55581&extension=ts&play_token=ltn2GgE1z6
+#EXTINF:0 group-title="MOL2" ,M+ LIGA DE CAMPEONES 04
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55583&extension=ts&play_token=ltn2GgE1z6
+#EXTINF:0 group-title="MOL2" ,MILAN TV
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=56625&extension=ts&play_token=va31oFlJdL
+#EXTINF:0 group-title="MOL2" ,NBA TV
+http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=187070&extension=ts
+#EXTINF:0 group-title="MOL2" ,NILE SPORT
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=59302&extension=ts&play_token=ltn2GgE1z6
+#EXTINF:0 group-title="MOL2" ,OLPLAY TV Olympique Lyonnais
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=313877&extension=m3u8
+#EXTINF:0 group-title="MOL2" ,ON TIME SPORTS
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=59301&extension=ts&play_token=ltn2GgE1z6
+#EXTINF:0 group-title="MOL2" ,POLSAT SPORT PREMIUM 1
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=97241&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:0 group-title="MOL2" ,POLSAT SPORT PREMIUM 2
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=97243&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:0 group-title="MOL2" ,PREMIERE 1 BR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=166801&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:0 group-title="MOL2" ,RAI SPORT HD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=56646&extension=ts&play_token=dxEc6Qvr9D
+#EXTINF:0 group-title="MOL2" ,RING
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=205424&extension=ts&play_token=ltn2GgE1z6
+#EXTINF:-1 group-title="MOL2" tvg-logo="https://static.epg.best/fr/RMCSport1.fr.png" ,RMC Sport 1 FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=59057&extension=ts&play_token=ltn2GgE1z6
+#EXTINF:-1 group-title="MOL2" tvg-logo="https://static.epg.best/fr/RMCSport2.fr.png" ,RMC Sport 2 FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:BC:CF:06&stream=59058&extension=ts&play_token=LE8LjwuM4i&sn2=
+#EXTINF:0 group-title="MOL2" ,Sky EUROSPORT 1 FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=56630&extension=ts&play_token=GYSPCsnwjv
+#EXTINF:0 group-title="MOL2" ,Sky EUROSPORT 2 FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=56632&extension=ts&play_token=hDpqyawx6z
+#EXTINF:0 group-title="MOL2" ,Sky Sport 24 FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=56592&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:0 group-title="MOL2" ,Sky Sport Action FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=337098&extension=ts&play_token=oAmYu3EjT9
+#EXTINF:0 group-title="MOL2" ,Sky Sport Arena FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=56618&extension=ts&play_token=mvHRlGSVBw
+#EXTINF:0 group-title="MOL2" ,SKY Sport Bar Due FHD (Only Event)
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=365292&extension=ts&play_token=BqkLiXCr3u
+#EXTINF:0 group-title="MOL2" ,SKY Sport Bar Prime video HD (Only Event)
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=365295&extension=ts&play_token=juXNwKIpBD
+#EXTINF:0 group-title="MOL2" ,SKY Sport Bar Uno FHD (Only Event)
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=365289&extension=ts&play_token=md3eQk2anG
+#EXTINF:0 group-title="MOL2" ,SKY SPORT CALCIO
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=56621&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:0 group-title="MOL2" ,SKY SPORT CALCIO 1
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=56650&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:0 group-title="MOL2" ,SKY SPORT CALCIO 2
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=56653&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:0 group-title="MOL2" ,SKY SPORT CALCIO 3
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=56656&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:0 group-title="MOL2" ,SKY SPORT CALCIO 4
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=56659&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:0 group-title="MOL2" ,SKY SPORT CALCIO 5
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=56662&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:0 group-title="MOL2" ,SKY SPORT CALCIO 6
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=56664&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:0 group-title="MOL2" ,SKY SPORT CALCIO 7
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=56666&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:0 group-title="MOL2" ,SKY SPORT CALCIO 8
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=56667&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:0 group-title="MOL2" ,Sky Sport Calcio FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=56621&extension=ts&play_token=SgcEo9MTC3
+#EXTINF:0 group-title="MOL2" ,SKY Sport Collection HD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=136687&extension=ts&play_token=qKy63AWftJ
+#EXTINF:0 group-title="MOL2" ,Sky Sport F1 FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=56604&extension=ts&play_token=EbzHFNi1gF
+#EXTINF:0 group-title="MOL2" ,Sky Sport Football FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=56615&extension=ts&play_token=0UFSStcrkS
+#EXTINF:0 group-title="MOL2" ,Sky Sport Golf FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=56607&extension=ts&play_token=m87LHeMXPv
+#EXTINF:0 group-title="MOL2" ,Sky Sport MotoGP FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=56601&extension=ts&play_token=MsYy6XY6wL
+#EXTINF:0 group-title="MOL2" ,Sky Sport NBA FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=56610&extension=ts&play_token=iQCxuwyeq3
+#EXTINF:0 group-title="MOL2" ,Sky Sport Uno FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=56598&extension=ts&play_token=Gy5B7WFptF
+#EXTINF:0 group-title="MOL2" ,SPORTV 1 BR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=166798&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:0 group-title="MOL2" ,SPORTV 2 BR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=166799&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:0 group-title="MOL2" ,SPORTV 3 BR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=166800&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:0 group-title="MOL2" ,SUPER TENNIS FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B7:95:E5&stream=56628&extension=ts&play_token=h4h0smHD9d
+#EXTINF:0 group-title="MOL2" ,SUPERPORT RUGBY
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=457067&extension=ts&play_token=ltn2GgE1z6
+#EXTINF:0 group-title="MOL2" ,SUPERSPORT ACTION
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=457066&extension=ts&play_token=ltn2GgE1z6
+#EXTINF:0 group-title="MOL2" ,SUPERSPORT CRICKET
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=457068&extension=ts&play_token=ltn2GgE1z6
+#EXTINF:0 group-title="MOL2" ,SUPERSPORT PSL
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=457076&extension=ts&play_token=ltn2GgE1z6
+#EXTINF:0 group-title="MOL2" ,SUPERSPORT VARIETY 01
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=457062&extension=ts&play_token=ltn2GgE1z6
+#EXTINF:0 group-title="MOL2" ,SUPERSPORT VARIETY 02
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=457063&extension=ts&play_token=ltn2GgE1z6
+#EXTINF:0 group-title="MOL2" ,SUPERSPORT VARIETY 03
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=457064&extension=ts&play_token=ltn2GgE1z6
+#EXTINF:0 group-title="MOL2" ,SUPERSPORT VARIETY 04
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=457065&extension=ts&play_token=ltn2GgE1z6
+#EXTINF:-1 group-title="MOL2" ,TNT SPORTS ARG
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174603&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:0 group-title="MOL2" ,TSN 2
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=61409&extension=ts&play_token=ltn2GgE1z6
+#EXTINF:0 group-title="MOL2" ,TSN 4
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=61407&extension=ts&play_token=ltn2GgE1z6
+#EXTINF:0 group-title="MOL2" ,TSN 5
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=61406&extension=ts&play_token=ltn2GgE1z6
+#EXTINF:-1 group-title="MOL2" ,TYC SPORTS
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=174609&extension=ts&play_token=6Bk2L1oFUT
+#EXTINF:0 group-title="MOL2" ,VOO SPORT 1
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=42370&extension=ts&play_token=ltn2GgE1z6
+#EXTINF:0 group-title="MOL2" ,VOO SPORT 2
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=179666&extension=ts&play_token=ltn2GgE1z6
+#EXTINF:0 group-title="MOL2" ,VOO SPORT 3
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=390410&extension=ts&play_token=ltn2GgE1z6
+#EXTINF:0 group-title="MOL2" ,WINSPORTS
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=318298&extension=ts&play_token=ltn2GgE1z6
+#EXTINF:0 group-title="MOL2" ,WWE
+http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=287479&extension=ts
+#EXTINF:0 group-title="MOL2" ,ZONA DAZN
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:BA:74:9B&stream=56669&extension=ts&play_token=KrIS0GAdqL
+#EXTINF:0 group-title="MOVISTAR" ,ACCION M+
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55577&extension=ts&play_token=ltn2GgE1z6
 #EXTINF:-1 group-title="MOVISTAR" tvg-logo="http://epg.it999.ru/img/3382.png" ,Movistar Accion ES
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/7065/index.m3u8
 #EXTINF:-1 group-title="MOVISTAR" tvg-logo="http://epg.it999.ru/img/3100.png" ,Movistar Cine Doc & Roll HD ES
@@ -1005,10 +1493,6 @@ http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/6076/index.m3u8
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/6073/index.m3u8
 #EXTINF:0 group-title="MUSICA" ,BALKANIKA MTV
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=205453&extension=ts&play_token=ltn2GgE1z6
-#EXTINF:0 group-title="MUSICA" ,BDJ RADIO - ITALO DISCO
-https://bdjradio-80sand90ssoundofyourlife.stream.laut.fm/bdj_radio_-_80s_and_90s_sound_of_your_life?t302=2022-02-26_19-18-20&uuid=5242226e-20c8-4c82-ae9e-9ec10fca51a6
-#EXTINF:0 group-title="MUSICA" ,BEST RADIO 80S
-http://radio.streemlion.com:1230/stream
 #EXTINF:0 group-title="MUSICA" ,BOX MUSIC RUSIA
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=205443&extension=ts&play_token=ltn2GgE1z6
 #EXTINF:0 group-title="MUSICA" ,CLUBBING TV
@@ -1067,6 +1551,8 @@ https://lightning-now80s-samsungnz.amagi.tv/playlist720p.m3u8
 https://lightning-now90s-samsungnz.amagi.tv/playlist720p.m3u8
 #EXTINF:0 group-title="MUSICA" tvg-logo="https://i.ytimg.com/vi/SJVc_W0pK1s/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLA3jmXV3hIc_LmSzZZ1LvKaTE7f0A" ,OLD MUSIC
 http://45.160.12.253:8000/play/137
+#EXTINF:0 group-title="MUSICA" ,PLAYLIST STREAM FOR EVER
+https://streamforever.co/PLth_HQQrDLRdTukZ5Mbg93ZaMTC7Ym32F
 #EXTINF:0 group-title="MUSICA" tvg-logo="https://i.imgur.com/RO9Dz3X.png" ,QUIERO MUSICA!
 http://168.197.196.98:9981/stream/channelid/67605742?profile=pass
 #EXTINF:0 group-title="MUSICA" ,RELAJACION
@@ -1107,14 +1593,16 @@ http://iptv.icsnleb.com:25461/12/12/36
 http://45.160.12.253:8000/play/138
 #EXTINF:0 group-title="MUSICA PARA SOÑAR CHONA" ,01
 https://ythls.armelin.one/channel/UCS4kVH1srJ9h9nqJPG2iDLg.m3u8
-#EXTINF:0 group-title="MUSICA PARA SOÑAR CHONA" ,LIMPIEZA ENERGETICA
-https://www.youtube.com/embed/FwEpw8AlfoE&ab_channel
+#EXTINF:0 group-title="MUSICA PARA SOÑAR CHONA" ,Frecuencia 432 hz + 528 hz + 741 hz + 963 hz | Regeneración de cuerpo completo
+https://www.youtube.com/embed/OayjmN6bffs&ab_channel
 #EXTINF:0 group-title="MUSICA PARA SOÑAR CHONA" ,MEDITACION ESPIRITUAL
 https://ythls.armelin.one/channel/UCTgSq-ni2E3GbHPxY1EVh0A.m3u8
 #EXTINF:0 group-title="MUSICA PARA SOÑAR CHONA" ,MEDITATION VIBES
 https://ythls.armelin.one/channel/UCMggadAPUkKSL2AehXKeQYw.m3u8
 #EXTINF:0 group-title="MUSICA PARA SOÑAR CHONA" ,MEDITATIVE IDEA
 https://ythls.armelin.one/channel/UCvW9_Je-hEmrc52mkYS3TJw.m3u8
+#EXTINF:0 group-title="MUSICA PARA SOÑAR CHONA" ,OJO LOCO
+https://www.youtube.com/embed/XSTGdEBOWxY&ab_channel
 #EXTINF:0 group-title="MUSICA PARA SOÑAR CHONA" ,SOUL
 https://ythls.armelin.one/channel/UCU525RF5Qhds2hDK1dDz-8Q.m3u8
 #EXTINF:0 group-title="NOTICIAS INTERNACIONALES" ,ABC NEWS AUSTRALIA
@@ -1217,6 +1705,156 @@ http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/master.m3u8?fluxustv.m3u8
 http://38.56.118.88:4000/play/a010/index.m3u8
 #EXTINF:0 group-title="NOTICIAS INTERNACIONALES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/TVRI_World_Old_Logo.png/revision/latest?cb=20220222084819" ,TVRI WORLD
 https://s7.mbahnunungonline.net/live/m3u8/id/3f58825fe229a8i.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_14
+http://paco@181.78.105.146:2000/play/a014/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_15
+http://paco@181.78.105.146:2000/play/a015/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_17
+http://paco@181.78.105.146:2000/play/a017/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_18
+http://paco@181.78.105.146:2000/play/a018/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_2
+http://paco@181.78.105.146:2000/play/a002/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_207
+http://paco@181.78.105.146:2000/play/a00g/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_208
+http://paco@181.78.105.146:2000/play/a00h/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_209
+http://paco@181.78.105.146:2000/play/a00i/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_210
+http://paco@181.78.105.146:2000/play/a00j/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_213
+http://paco@181.78.105.146:2000/play/a00m/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_214
+http://paco@181.78.105.146:2000/play/a00n/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_222
+http://paco@181.78.105.146:2000/play/a00v/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_224
+http://paco@181.78.105.146:2000/play/a00x/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_225
+http://paco@181.78.105.146:2000/play/a00y/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_232
+http://paco@181.78.105.146:2000/play/a01f/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_235
+http://paco@181.78.105.146:2000/play/a01i/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_238
+http://paco@181.78.105.146:2000/play/a01l/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_241
+http://paco@181.78.105.146:2000/play/a01o/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_245
+http://paco@181.78.105.146:2000/play/a01s/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_279
+http://paco@181.78.105.146:2000/play/a03a/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_280
+http://paco@181.78.105.146:2000/play/a03b/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_282
+http://paco@181.78.105.146:2000/play/a03d/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_284
+http://paco@181.78.105.146:2000/play/a03f/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_285
+http://paco@181.78.105.146:2000/play/a03g/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_286
+http://paco@181.78.105.146:2000/play/a03h/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_287
+http://paco@181.78.105.146:2000/play/a03i/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_288
+http://paco@181.78.105.146:2000/play/a03j/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_289
+http://paco@181.78.105.146:2000/play/a03k/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_292
+http://paco@181.78.105.146:2000/play/a03n/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_299
+http://paco@181.78.105.146:2000/play/a03u/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_302
+http://paco@181.78.105.146:2000/play/a03x/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_305
+http://paco@181.78.105.146:2000/play/a04a/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_307
+http://paco@181.78.105.146:2000/play/a04c/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_310
+http://paco@181.78.105.146:2000/play/a04f/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_312
+http://paco@181.78.105.146:2000/play/a04h/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_313
+http://paco@181.78.105.146:2000/play/a04i/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_314
+http://paco@181.78.105.146:2000/play/a04j/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_317
+http://paco@181.78.105.146:2000/play/a04m/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_318
+http://paco@181.78.105.146:2000/play/a04n/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_319
+http://paco@181.78.105.146:2000/play/a04o/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_320
+http://paco@181.78.105.146:2000/play/a04p/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_321
+http://paco@181.78.105.146:2000/play/a04q/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_328
+http://paco@181.78.105.146:2000/play/a04x/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_329
+http://paco@181.78.105.146:2000/play/a04y/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_38
+http://paco@181.78.105.146:2000/play/a038/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_39
+http://paco@181.78.105.146:2000/play/a039/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_44
+http://paco@181.78.105.146:2000/play/a044/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_45
+http://paco@181.78.105.146:2000/play/a045/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_46
+http://paco@181.78.105.146:2000/play/a046/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_485
+http://paco@181.78.105.146:2000/play/a05y/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_486
+http://paco@181.78.105.146:2000/play/a05z/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_53
+http://paco@181.78.105.146:2000/play/a053/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_540
+http://paco@181.78.105.146:2000/play/a08b/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_541
+http://paco@181.78.105.146:2000/play/a08c/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_542
+http://paco@181.78.105.146:2000/play/a08d/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_544
+http://paco@181.78.105.146:2000/play/a08f/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_545
+http://paco@181.78.105.146:2000/play/a08g/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_546
+http://paco@181.78.105.146:2000/play/a08h/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_547
+http://paco@181.78.105.146:2000/play/a08i/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_548
+http://paco@181.78.105.146:2000/play/a08j/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_549
+http://paco@181.78.105.146:2000/play/a08k/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_551
+http://paco@181.78.105.146:2000/play/a08m/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_554
+http://paco@181.78.105.146:2000/play/a08p/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_557
+http://paco@181.78.105.146:2000/play/a08s/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_558
+http://paco@181.78.105.146:2000/play/a08t/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_562
+http://paco@181.78.105.146:2000/play/a08x/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_564
+http://paco@181.78.105.146:2000/play/a08z/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_63
+http://paco@181.78.105.146:2000/play/a063/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_64
+http://paco@181.78.105.146:2000/play/a064/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_92
+http://paco@181.78.105.146:2000/play/a092/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_93
+http://paco@181.78.105.146:2000/play/a093/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_94
+http://paco@181.78.105.146:2000/play/a094/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_95
+http://paco@181.78.105.146:2000/play/a095/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_96
+http://paco@181.78.105.146:2000/play/a096/index.m3u8
+#EXTINF:-1 group-title="PACO ESPAÑA" ,Unknown_97
+http://paco@181.78.105.146:2000/play/a097/index.m3u8
 #EXTINF:-1 group-title="PERU - BANTEL PERU" ,A&E (EST)
 http://bantel.iptvperu.tv:1935/transcoder_t4/aye_t4/playlist.m3u8
 #EXTINF:-1 group-title="PERU - BANTEL PERU" ,America TV (EST) | PE
@@ -1387,8 +2025,6 @@ http://181.224.64.2:89/cartoonnetworkhd/manifest.m3u8
 http://181.224.64.2:89/cinecanalhd/manifest.m3u8
 #EXTINF:-1 group-title="SERVIDOR CHILENO 181.224.64.2:89" ,CINEMAX
 http://181.224.64.2:89/cinemaxhd/manifest.m3u8
-#EXTINF:0 group-title="SERVIDOR CHILENO 181.224.64.2:89" ,CINEMAX 2
-http://live1.cl.cdn.lla.vtrplay.com/cinemaxhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 #EXTINF:-1 group-title="SERVIDOR CHILENO 181.224.64.2:89" ,DHE
 http://181.224.64.2:89/dhehd/manifest.m3u8
 #EXTINF:-1 group-title="SERVIDOR CHILENO 181.224.64.2:89" ,DISCOVERY CHANNEL
@@ -1423,8 +2059,6 @@ http://181.224.64.2:89/tnthd/manifest.m3u8
 http://181.224.64.2:89/tntserieshd/manifest.m3u8
 #EXTINF:-1 group-title="SERVIDOR CHILENO 181.224.64.2:89" ,TNT SPORTS
 http://181.224.64.2:89/tntsportshd/manifest.m3u8
-#EXTINF:0 group-title="SERVIDOR CHILENO 181.224.64.2:89" ,TNT SPORTS 3
-http://live1.cl.cdn.lla.vtrplay.com/tntsports3hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 #EXTINF:-1 group-title="SERVIDOR CHILENO 181.224.64.2:89" ,UNIVERSAL HD
 http://181.224.64.2:89/universalhd/manifest.m3u8
 #EXTINF:0 group-title="SERVIDOR CHILENO 181.224.64.2:89" ,VIDA TV
@@ -1577,5 +2211,31 @@ https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/26912
 https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/931168
 #EXTINF:-1 group-title="USA SPORTS" ,BALLY SPORTS WISCONSIN
 https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/26817
+#EXTINF:-1 group-title="Ve Bo TV" ,#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
+https://obevcimanyd179249207.thapcam.link/live/may00FHD/playlist.m3u8
+#EXTINF:-1 group-title="Ve Bo TV" ,#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
+https://obevcimanyd179249207.thapcam.link/live/may1FHD/playlist.m3u8
+#EXTINF:-1 group-title="Ve Bo TV" ,#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
+https://obevcimanyd179249207.thapcam.link/live/may2FHD/playlist.m3u8
+#EXTINF:-1 group-title="Ve Bo TV" ,#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
+https://obevcimanyd179249207.thapcam.link/live/may3FHD/playlist.m3u8
+#EXTINF:-1 group-title="Ve Bo TV" ,#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
+https://obevcimanyd179249207.thapcam.link/live/oldFHD/playlist.m3u8
+#EXTINF:-1 group-title="Ve Bo TV" ,#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
+https://obevcimanyd179249207.thapcam.link/live/chaFHD/playlist.m3u8
+#EXTINF:-1 group-title="Ve Bo TV" ,#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
+https://obevcimanyd179249207.thapcam.link/live/trauFHD/playlist.m3u8
+#EXTINF:-1 group-title="Ve Bo TV" ,#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
+https://obevcimanyd179249207.thapcam.link/live/cuonFHD/chunklist.m3u8
+#EXTINF:-1 group-title="Ve Bo TV" ,#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
+https://obevcimanyd179249207.thapcam.link/live/batFHD/playlist.m3u8
+#EXTINF:-1 group-title="Ve Bo TV" ,#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
+https://obevcimanyd179249207.thapcam.link/live/nenFHD/playlist.m3u8
+#EXTINF:-1 group-title="Ve Bo TV" ,#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
+https://obevcimanyd179249207.thapcam.link/live/phoFHD/playlist.m3u8
+#EXTINF:-1 group-title="Ve Bo TV" ,#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
+https://obevcimanyd179249207.thapcam.link/live/myFHD/playlist.m3u8
+#EXTINF:-1 group-title="Ve Bo TV" ,#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
+https://obevcimanyd179249207.thapcam.link/live/soiFHD/playlist.m3u8
 #EXTINF:0 group-title="WEBCAMS Y PAISAJES" ,LOVE NATURE 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
