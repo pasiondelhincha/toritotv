@@ -81,42 +81,42 @@ https://acdn.p2pcdn.xyz/xoilac/channel51.m3u8?auth_key=3000001714785629-0-0-bd40
 https://acdn.p2pcdn.xyz/xoilac/channel52.m3u8?auth_key=3000001714786673-0-0-418c389a84ba50042bf469bf84ad0a49
 #EXTINF:0 group-title="01 VEBO TV" ,CANAL 53
 https://acdn.p2pcdn.xyz/xoilac/channel53.m3u8?auth_key=3000001714786802-0-0-33ef44fa6ad9ea74eaf45c360d89048a
-#EXTINF:0 group-title="CAPOFUT" ,APPLE TV
-https://delta02.dlive.click/YiapewoFsXeop86ud6vv8Q/1714911252/323830303a3831303a3436343a3138343a346461383a386635663a646434623a31326131/ff490/playlist.m3u8?b=1
-#EXTINF:0 group-title="CAPOFUT" ,CANAL 36
-https://delta03.dlive.click/484U6qoN--N0g-bDRTUiDQ/1714954025/323830303a3831303a3436343a3138343a346461383a386635663a646434623a31326131/ff431/playlist.m3u8?b=1
-#EXTINF:0 group-title="CAPOFUT" ,CAPOFUT 02 (mpd)
-https://linear001-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(premiersports1)/manifest_720.mpd
-#EXTINF:0 group-title="CAPOFUT" ,CAPOFUT 14
-https://delta03.dlive.click/cP39udiGOVyfUfpF5eEg3A/1714915209/323830303a3831303a3436343a3138343a346461383a386635663a646434623a31326131/ff446/playlist.m3u8?b=1
-#EXTINF:0 group-title="CAPOFUT" ,ESPN SIN FORMATO
-https://clarovideo.candler.beauty/mpdk2.html?get=Ly9sYXRhbXZvc2xpdmVjbGFyb3ZpZGVvLmFrYW1haXplZC5uZXQvQ29udGVudC9EQVNIX0RBU0hfRksvTGl2ZS9DaGFubmVsKEVTUE5fSEQpL21hbmlmZXN0Lm1wZA&key=MGY4NWE0ZTFmYzU5MzdhODI3MzEzNTk3ZDA0ZjhlMjc=&key2=Y2MxZDgyMTliZTAxMzBkYTg1ZTRjNGNlNzNhNzVhYmI=
+#EXTINF:0 group-title="CAPOFUT" ,ESPN NL EXTRA
+https://ab1.dlive.click/pdg/SAnKu-Ez1gQpcy8ZqCmnUA/616521/de86fcbf7af19ee6/236818/323830303a3831303a3436343a3138343a346461383a386635663a646434623a31326131/1714963277.m3u8
 #EXTINF:0 group-title="CAPOFUT" ,ESPN USA ESPAÑOL
 https://ab2.dlive.click/p/tZ1SOPAZV6rTdXK50kO4Vg/dc5e9eae0aee66d4/323830303a3831303a3436343a3138343a346461383a386635663a646434623a31326131/1714957430.m3u8
-#EXTINF:0 group-title="CAPOFUT" ,ESPN USA ESPAÑOL 2 SIN FORMATO
-https://clarovideo.candler.beauty/mpdk2.html?get=Ly9sYXRhbXZvc2xpdmVjbGFyb3ZpZGVvLmFrYW1haXplZC5uZXQvQ29udGVudC9EQVNIX0RBU0hfRksvTGl2ZS9DaGFubmVsKEVTUE5fMl9IRCkvbWFuaWZlc3QubXBk&key=OGQ3Y2I4ZmJjODFjZjNlZGRmOGViYjVkYjVlMTEyODI=&key2=YjdhOTg4MTJhYjhkODk3NDY0OWE2ZWM0MjBjMDEzZTE=
 #EXTINF:0 group-title="CAPOFUT" ,EVENTO 01
 https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
-#EXTINF:0 group-title="CAPOFUT" ,L1MAX
-https://delta02.dlive.click/-G5K5aHKPNS1ITefjCghDQ/1714957044/323830303a3831303a3436343a3138343a346461383a386635663a646434623a31326131/ff508/playlist.m3u8?b=1
-#EXTINF:0 group-title="CAPOFUT" ,LA LIGA TV MPD
-https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/woujvkfnmn/out/v1/141b52f08a1e4e97850219729ee48dc8/cenc.mpd
-#EXTINF:0 group-title="CAPOFUT" ,SKY SPORTS 251 MPD
-https://linear311-it-dash1-prd.selector.skycdn.it/016a/31917/FHD/skysport251/master.mpd
-#EXTINF:0 group-title="CAPOFUT" ,SKY SPORTS MAIN EVENT MPD
-https://linear001-gb-dash1-prd-ll.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(skysportsmainevent)/manifest_720.mpd
-#EXTINF:0 group-title="CAPOFUT" ,TELEMUNDO EN VIVO
-https://delta03.dlive.click/lGuC3hVZy_myij2Pij9iGQ/1714956525/323830303a3831303a3436343a3138343a346461383a386635663a646434623a31326131/ff493/playlist.m3u8?b=1
-#EXTINF:0 group-title="CAPOFUT" ,TNT SPORTS PREMIUM CHILE
-https://delta01.dlive.click/7zZIF6isOlfPl9-p9Y0bDA/1714957224/323830303a3831303a3436343a3138343a346461383a386635663a646434623a31326131/ff534/playlist.m3u8?b=1
-#EXTINF:0 group-title="CAPOFUT" ,TNT SPORTS UK 3 MPD
-https://linear001-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(tntsport3)/manifest_720.mpd
-#EXTINF:0 group-title="CAPOFUT" ,TSN 4 MPD
-https://live-ctv.video.9c9media.com/f/TSN/TSN4/manifest.mpd
 #EXTINF:0 group-title="CAPOFUT" ,ZIGGO SPORTS SELECT MPD
 https://da-d436236720010b88000103030000000000000009.id.cdn.upcbroadband.com/wp/wp1-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000094_019321/_shared_cc010062b17300c4504b6ab5681b5417/NL_000094_019321.mpd
 #EXTINF:0 group-title="CAPOFUT" ,ZIGO SPORTS DOCU MPD
 https://da-d436234820010b8800010302000000000000000a.id.cdn.upcbroadband.com/wp/wp5-vxtoken-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000098_019255/_shared_cc010062b17300c4504b6ab5681b5417/NL_000098_019255.mpd
+#EXTINF:0 group-title="COLA TV" ,ANCHOR 01
+https://live1.xiangmirong.com/live/8204429_b303d872e1e17bed7b0058a60e5f8163.m3u8?auth_key=1714978972-0-0-08aa837d4fb6619a46db70f5a3eada70
+#EXTINF:0 group-title="COLA TV" ,ANCHOR 02
+https://live.xiangmirong.com/live/8205945_b5277aec85a9a74a1e479915bdedb73f.m3u8?auth_key=1714979887-0-0-3398ef027552c4146a806c2ab05efb44
+#EXTINF:0 group-title="COLA TV" ,ANCHOR 03
+https://live3.xiangmirong.com/live/8182719_7b9e4065c382a7abcfa7094e58661f25.m3u8?auth_key=1714982705-0-0-dbda2b4cc848138b5ec28dee28748392
+#EXTINF:0 group-title="COLA TV" ,ANCHOR 04
+https://live1.xiangmirong.com/live/8153068_93ef205fa80a69688fa11d407c23ea00.m3u8?auth_key=1714983226-0-0-7b37fbed9fb39f8d67af28bcf00d91e1
+#EXTINF:0 group-title="COLA TV" ,ANCHOR 05
+https://live.xiangmirong.com/live/8153057_f8d623d563657906b04a049d4c07548d.m3u8?auth_key=1714983260-0-0-64bcd680f01551a813289134d1d9d4c9
+#EXTINF:0 group-title="COLA TV" ,ANCHOR 06
+https://live.xiangmirong.com/live/8153072_41c2e0d7c6e1868d75b5b244919e01ef.m3u8?auth_key=1714983385-0-0-93b3baa715a1b7b5cdc05de2094a5033
+#EXTINF:0 group-title="COLA TV" ,ANCHOR 07
+https://live4.xiangmirong.com/live/8182729_fe9975d874ab38eaf38b96e7c1039adf.m3u8?auth_key=1714983671-0-0-3649e2422fecc2d11ae577ea8ac561e1
+#EXTINF:0 group-title="COLA TV" ,RACER
+https://live3.xiangmirong.com/live/49586707_33b53f4288b0a61fdeaf990412058231.m3u8?auth_key=1714983464-0-0-f504707f32b2161bf89e3637894e0454
+#EXTINF:0 group-title="COLA TV" ,RACER 01
+https://live.xiangmirong.com/live/49905593_b11ecef21ccbf237ef38e05838497c29.m3u8?auth_key=1714980271-0-0-fe9ee33b6e474da55ba259c987b0314f
+#EXTINF:0 group-title="COLA TV" ,RACER 02
+https://live.xiangmirong.com/live/49903757_e8cae874bb03f150748541f2e389ec98.m3u8?auth_key=1714980385-0-0-718395ffe31f14ab8d9efd140e786909
+#EXTINF:0 group-title="COLA TV" ,RACER 03
+https://live.xiangmirong.com/live/49905385_30fc881c8ba20539bc136c5a7a4c8e34.m3u8?auth_key=1714980460-0-0-07af5fed16ba76b3add9748ef398e6fe
+#EXTINF:0 group-title="COLA TV" ,RACER 04
+https://live2.xiangmirong.com/live/47644535_03b457f9ab27c3873a190d7318bc4a81.m3u8?auth_key=1714982946-0-0-56f03e0d8fd617609e788101b0b355c9
+#EXTINF:0 group-title="COLA TV" ,RACER 05
+https://live1.xiangmirong.com/live/47644537_f2f9e6ea08d18123c7409cd42865e9d1.m3u8?auth_key=1714983090-0-0-0fe0e27d0a77b20d3570faa8c45a15d0
 #EXTINF:0 group-title="PORTLAND" ,BACAR
 https://pull.niues.live/live/stream-9912087_lhd.m3u8?auth_key=1714822572-0-0-7f06b81b289c37e641547ba3ff7a494a
 #EXTINF:0 group-title="PORTLAND" ,BAP BUNG
