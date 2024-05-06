@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 ,
+corrupt/empty
 #EXTINF:-1 ,007 - Casino Royale (2006)
 http://archive.org/download/mio53_yopmail_5/5.mp4
 #EXTINF:-1 ,007 - El mañana nunca muere (1997)
@@ -1815,6 +1817,8 @@ https://archive.org/download/manguera_20210930/N4di3%20s4l3%20c0n%20v1d4.mkv
 https://archive.org/download/4ef-06fcb-5210e-7aae-2a-3b-116dbb-34f-9b/Napole%C3%B3n.2023.720p-Dual-Lat.mkv
 #EXTINF:-1 ,Napoleón (2023)
 https://axa4wow3dcia.objectstorage.us-phoenix-1.oci.customer-oci.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/Ver%20Napole%C3%B3n%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull_3.mp4
+#EXTINF:-1 ,Napoleón (2023) CAM
+https://od.lk/s/NV8xODkzOTY2NTNf/Ver%20Napole%C3%B3n%202023--.mp4
 #EXTINF:-1 ,Napoleón (2023) CAM
 https://od.lk/s/NV8xODkzOTY2NTNf/Ver%20Napole%C3%B3n%202023--.mp4
 #EXTINF:-1 ,Narvik (2023)
@@ -4693,92 +4697,84 @@ https://content.jwplatform.com/videos/QfgRLwoU-X2qpGveT.mp4
 https://content.jwplatform.com/videos/OqBxZ4qu-X2qpGveT.mp4
 #EXTINF:-1 group-title="Chernobyl" ,Chernobyl T1 - Capitulo 5 Final
 https://content.jwplatform.com/videos/VtFG6vqz-X2qpGveT.mp4
-#EXTINF:0 group-title="CHONA" ,COCO 2017
+#EXTINF:-1 group-title="CHONA" ,COCO 2017
 http://195.62.32.177:8080/movie/JOSECERON/JVfc5p5rEF/2135915.mp4?token=GUNfBEdbQApAAQVcUQEAUVReUVQHAQ4MUgNbCVsDBAdVA1VWUQVQCFESGkcVTENVB1U8WwcUDQcCBlcJUwIdExcSUhdrWgYSWBIHVlQOBwFEFEFGCltSFwkEVQFWBQkHWlIDSRZDC1RAChRTUwwBCUQUQVcbQlJHXVQObwZSR1gBBBVfFhFOEg1eaQEDVVBeAhpZEFMUGxdaRhISWBVlVA4EVABaRxBfQmMYJEgaHRIEURdAAkJSFwkXUAJbABMdQAJYEFpHEElAChQkNBodEgNAF1cNRV5aXRdYEg9HBRNOQ14Wa0EHQxZCUwQLXUMSXBpTEE8UWlRLagFfDFlUUhYIWAtHEVgSURIaRwtXX1kSVxFtE19TFwlbF1wOSg==
-#EXTINF:0 group-title="CHONA" ,DIRTY DANCING 1987
+#EXTINF:-1 group-title="CHONA" ,DIRTY DANCING 1987
 http://108.181.5.67:9004/feb/d1/r/490159071.MP4
-#EXTINF:0 group-title="CHONA" ,DRACULA 1992
+#EXTINF:-1 group-title="CHONA" ,DRACULA 1992
 http://108.181.5.67:9004/feb/vd/p2/2053760935.mp4
-#EXTINF:0 group-title="CHONA" ,EL CUERVO 1994
+#EXTINF:-1 group-title="CHONA" ,EL CUERVO 1994
 http://195.62.32.177:8080/movie/JOSECERON/JVfc5p5rEF/2149941.mkv?token=GUNfBEdbQApAVAUAUV0DBFYJVQQGUwUGVwBRCAAGCFIAVlFTAQMHVVoSGkcVTENVB1U8WwcUDQcCAVsJVgYdExcSUhdrWgYSWBIHVlQOBwFEFEFGCltSFwkEVQFWBQkJVFEFSRZDC1RAChRUUgkDAEQUQVcbQlJHXVQObwZSR1gBBBVfFhFOEg1eaQEDVVBeAhpZEFMUGxdaRhISWBVlVA4EVABaRxBfQmMYJEgaHRIEURdAAkJSFwkXVAVRBxMdQAJYEFpHEElAChQkNBodEgNAF1cNRV5aXRdYEg9cRxNOQ14Wa0EHQxZCUwQLXUMSXBpTEE8UWlRLagFfDFlUUhYIWAtHEVgSURIaRwtXX1kSVxFtE19TFwlbF1wOSg==
-#EXTINF:0 group-title="CHONA" ,FOOTLOOSE 1984
+#EXTINF:-1 group-title="CHONA" ,FOOTLOOSE 1984
 http://108.181.5.67:9004/feb/vd/p2/552348380.mp4
-#EXTINF:0 group-title="CHONA" ,HARRY POTTER - AND THE CHAMBER OF SECRETS 2002
+#EXTINF:-1 group-title="CHONA" ,HARRY POTTER - AND THE CHAMBER OF SECRETS 2002
 http://108.181.5.67:9004/mar/sg/sg/4S/hpt/4278028598.mp4
-#EXTINF:0 group-title="CHONA" ,HARRY POTTER - AND THE DEATHLY HALLOWS PARTE 1 2010
+#EXTINF:-1 group-title="CHONA" ,HARRY POTTER - AND THE DEATHLY HALLOWS PARTE 1 2010
 http://108.181.5.67:9004/mar/sg/sg/4E/hpt/2732059235.mp4
-#EXTINF:0 group-title="CHONA" ,HARRY POTTER - AND THE DEATHLY HALLOWS PARTE 2 2010
+#EXTINF:-1 group-title="CHONA" ,HARRY POTTER - AND THE DEATHLY HALLOWS PARTE 2 2010
 http://108.181.5.67:9004/mar/sg/sg/4S/hpt/1004452825.mp4
-#EXTINF:0 group-title="CHONA" ,HARRY POTTER - AND THE GOBLET OF FIRE
+#EXTINF:-1 group-title="CHONA" ,HARRY POTTER - AND THE GOBLET OF FIRE
 http://108.181.5.67:9004/mar/sg/sg/4S/hpt/889533419.mp4
-#EXTINF:0 group-title="CHONA" ,HARRY POTTER - AND THE HALF BLOOD PRINCE 2009
+#EXTINF:-1 group-title="CHONA" ,HARRY POTTER - AND THE HALF BLOOD PRINCE 2009
 http://108.181.5.67:9004/mar/sg/sg/4E/hpt/1270107990.mp4
-#EXTINF:0 group-title="CHONA" ,HARRY POTTER - AND THE ORDER OH PHOENIX 2007
+#EXTINF:-1 group-title="CHONA" ,HARRY POTTER - AND THE ORDER OH PHOENIX 2007
 http://108.181.5.67:9004/mar/sg/sg/4S/hpt/3535609580.mp4
-#EXTINF:0 group-title="CHONA" ,HARRY POTTER - AND THE PHILOSOPHER´S STONE
+#EXTINF:-1 group-title="CHONA" ,HARRY POTTER - AND THE PHILOSOPHER´S STONE
 http://108.181.5.67:9004/mar/sg/sg/4E/hpt/1620647061.mp4
-#EXTINF:0 group-title="CHONA" ,HARRY POTTER - AND THE PRISONER OF ASKABAN 2004
+#EXTINF:-1 group-title="CHONA" ,HARRY POTTER - AND THE PRISONER OF ASKABAN 2004
 http://108.181.5.67:9004/mar/sg/sg/4E/hpt/1744099468.mp4
-#EXTINF:0 group-title="CHONA" ,HARRY POTTER - Y EL CALIZ DE FUEGO
-http://108.181.5.67:9004/mar/sg/sg/4E/hpt/1744099468.mp4
-#EXTINF:0 group-title="CHONA" ,HARRY POTTER - Y EL MISTERIO DEL PRINCIPE
+#EXTINF:-1 group-title="CHONA" ,HARRY POTTER - Y EL MISTERIO DEL PRINCIPE
 http://195.62.32.177:8080/movie/JOSECERON/JVfc5p5rEF/2136854.mp4?token=GUNfBEdbQApACFRcBV5UVgQPUgVRVQAEUVNQVAEABgZaBQRUBlFbBwASGkcVTENVB1U8WwcUDQcCBlQIVwMdExcSUhdrWgYSWBIHVlQOBwFEFEFGCltSFwkEVQFWBQgAUFYPSRZDC1RAChRUUgoDB0QUQVcbQlJHXVQObwZSR1gBBBVfFhFOEg1eaQEDVVBeAhpZEFMUGxdaRhISWBVlVA4EVABaRxBfQmMYJEgaHRIEURdAAkJSFwkXUwdVAxMdQAJYEFpHEElAChQkNBodEgNAF1cNRV5aXRdYEg9HBRNOQ14Wa0EHQxZCUwQLXUMSXBpTEE8UWlRLagFfDFlUUhYIWAtHEVgSURIaRwtXX1kSVxFtE19TFwlbF1wOSg==
-#EXTINF:0 group-title="CHONA" ,INSIDIOUS 2011
+#EXTINF:-1 group-title="CHONA" ,INSIDIOUS 2011
 http://108.181.5.67:9004/mar/sg/sg/4E/ins/581035613.mp4
-#EXTINF:0 group-title="CHONA" ,INSIDIOUS 2013
+#EXTINF:-1 group-title="CHONA" ,INSIDIOUS 2013
 http://108.181.5.67:9004/mar/sg/sg/4E/ins/3418506088.mp4
-#EXTINF:0 group-title="CHONA" ,INSIDIOUS 2015
+#EXTINF:-1 group-title="CHONA" ,INSIDIOUS 2015
 http://108.181.5.67:9004/mar/sg/sg/4E/ins/634135108.mp4
-#EXTINF:0 group-title="CHONA" ,INSIDIOUS 2018
+#EXTINF:-1 group-title="CHONA" ,INSIDIOUS 2018
 http://108.181.5.67:9004/ene/ene/f/m/1479224164.mkv
-#EXTINF:0 group-title="CHONA" tvg-name="https://ds7xkoqsmef8.sw-cdnstreamwish.com/hls2/01/00812/n9kiv29pbrjm_n/index-v1-a1.m3u8?t=wEES6gUGoekJvb4Sh3Hk3vjP8-wuAyJBJGs5yfSLhd0&s=1714409814&e=129600&f=4064502&srv=gy4kxlg7mxrdxe7k&i=0.4&sp=500&p1=gy4kxlg7mxrdxe7k&p2=gy4kxlg7mxrdxe7k&asn=27747" ,INSIDIOUS 2023
+#EXTINF:-1 group-title="CHONA" ,INSIDIOUS 2023
 https://ds7xkoqsmef8.sw-cdnstreamwish.com/hls2/01/00812/n9kiv29pbrjm_n/master.m3u8?t=wEES6gUGoekJvb4Sh3Hk3vjP8-wuAyJBJGs5yfSLhd0&s=1714409814&e=129600&f=4064502&srv=gy4kxlg7mxrdxe7k&i=0.4&sp=500&p1=gy4kxlg7mxrdxe7k&p2=gy4kxlg7mxrdxe7k&asn=27747
-#EXTINF:0 group-title="CHONA" ,POWER RANGERS
+#EXTINF:-1 group-title="CHONA" ,POWER RANGERS
 https://be4242.rcr52.ams03.cdn112.com/hls2/02/05577/y90x02ofzqm4_h/index-v1-a1.m3u8?t=IXideAt3zmLmMk0_aQoyQFK9JZ_SOViRwY-yj51CV0w&s=1714440138&e=43200&f=27885812&srv=31&asn=27747&sp=4000
-#EXTINF:0 group-title="CHONA" tvg-logo="https://panel.budtv-ultra.com/posters/7fwVpF5gXnFkfM5FyhFRMt199n2.jpg" ,SAILOR MOON - COSMOS THE MOVIE PARTE 1
+#EXTINF:-1 group-title="CHONA" tvg-logo="https://panel.budtv-ultra.com/posters/7fwVpF5gXnFkfM5FyhFRMt199n2.jpg" ,SAILOR MOON - COSMOS THE MOVIE PARTE 1
 https://21t-ovh.budtv-ultra.com:9887/Gera/Peliculas.SUB.2023/Sailor.Moon.Cosmos.The.Movie.Parte.1.SUB.mp4
-#EXTINF:0 group-title="CHONA" tvg-logo="https://panel.budtv-ultra.com/posters/1b7FemRIf8cYHwRFzIAcKpdBpdc.jpg" ,SAILOR MOON - COSMOS THE MOVIE PARTE 2
+#EXTINF:-1 group-title="CHONA" tvg-logo="https://panel.budtv-ultra.com/posters/1b7FemRIf8cYHwRFzIAcKpdBpdc.jpg" ,SAILOR MOON - COSMOS THE MOVIE PARTE 2
 https://21t-ovh.budtv-ultra.com:9887/Gera/Peliculas.SUB.2023/Sailor.Moon.Cosmos.The.Movie.Parte.2.SUB.mp4
-#EXTINF:0 group-title="CHONA" ,SAILOR MOON - EL AGUJERO NEGRO DE LOS SUEÑOS
+#EXTINF:-1 group-title="CHONA" ,SAILOR MOON - EL AGUJERO NEGRO DE LOS SUEÑOS
 http://108.181.5.67:9004/feb/vd/p2/am/4012090960.mp4
-#EXTINF:0 group-title="CHONA" tvg-logo="https://panel.budtv-ultra.com/posters/4ULCVKQEC6Lq61ILKByNRcffKu.jpg" ,SAILOR MOON - ETHERNAL PARTE 1 (2021)
+#EXTINF:-1 group-title="CHONA" tvg-logo="https://panel.budtv-ultra.com/posters/4ULCVKQEC6Lq61ILKByNRcffKu.jpg" ,SAILOR MOON - ETHERNAL PARTE 1 (2021)
 https://67t-ssd.budtv-ultra.com:9887/6t-4g/disk6/PELICULAS/2021/sailor.moon.eternal.the.movie.part.1.2021.hdrip.720p.latino.mp4
-#EXTINF:0 group-title="CHONA" tvg-logo="https://panel.budtv-ultra.com/posters/70K8rEGCtZEPsNqeDJjRNfDuSKI.jpg" ,SAILOR MOON - ETHERNAL PARTE 2 (2021)
+#EXTINF:-1 group-title="CHONA" tvg-logo="https://panel.budtv-ultra.com/posters/70K8rEGCtZEPsNqeDJjRNfDuSKI.jpg" ,SAILOR MOON - ETHERNAL PARTE 2 (2021)
 https://zenex.budtv-ultra.com:9887/nane2/movlat/PrettyGuardianSailorMoonEternal.mp4
-#EXTINF:0 group-title="CHONA" ,SAILOR MOON - LA PROMESA DE LA ROSA (1993)
+#EXTINF:-1 group-title="CHONA" ,SAILOR MOON - LA PROMESA DE LA ROSA (1993)
 http://108.181.5.67:9004/feb/vd/p2/am/4055034661.mp4
-#EXTINF:0 group-title="CHONA" tvg-logo="https://panel.budtv-ultra.com/posters/zCUp88sULQBBvsSqdLecFLlpnoC.jpg" ,SAILOR MOON EL AMOR DE LA PRINCESA KAGUYA (1999)
+#EXTINF:-1 group-title="CHONA" tvg-logo="https://panel.budtv-ultra.com/posters/zCUp88sULQBBvsSqdLecFLlpnoC.jpg" ,SAILOR MOON EL AMOR DE LA PRINCESA KAGUYA (1999)
 https://todo3.budtv-ultra.com:9887/vod/peliculas/anime/sailormoonslaprincesakaguyadelasnieves.mp4
-#EXTINF:0 group-title="CHONA" ,SANDRO - GITANO
+#EXTINF:-1 group-title="CHONA" ,SANDRO - GITANO
 https://www.youtube.com/embed/LZGtNHmzMqk&t
-#EXTINF:0 group-title="CHONA" ,SUPER MARIO 2023
+#EXTINF:-1 group-title="CHONA" ,SUPER MARIO 2023
 http://195.62.32.177:8080/movie/JOSECERON/JVfc5p5rEF/2161979.mp4?token=GUNfBEdbQApAVgUHAg1VAgQKUldTAAAGA1FWBgBWV1NbWA9XAQdTBFYSGkcVTENVB1U8WwcUDQcCA1MJVQ4dExcSUhdrWgYSWBIHVlQOBwFEFEFGCltSFwkEVQFWBAAJVVcPSRZDC1RAChRRUAEDB0QUQVcbQlJHXVQObwZSR1gBBBVfFhFOEg1eaQEDVVBeAhpZEFMUGxdaRhISWBVlVA4EVABaRxBfQmMYJEgaHRIEURdAAkJSFwkXUQhaDhMdQAJYEFpHEElAChQkNBodEgNAF1cNRV5aXRdYEg9HBRNOQ14Wa0EHQxZCUwQLXUMSXBpTEE8UWlRLagFfDFlUUhYIWAtHEVgSURIaRwtXX1kSVxFtE19TFwlbF1wOSg==
-#EXTINF:0 group-title="CHONO" ,CLICK
+#EXTINF:-1 group-title="CHONO" ,CLICK
 http://67.220.86.133:25461/movie/JimmyTaylor18/EXAHW/92925.mp4?token=SRtaBxYME1tEXQBaA1JQVFxVBwUEBVVdAQUCDVYHWAMBCgQDXQYGVgRHGhtHQBQBBAlvXAFEXlwEDgYMShFMQFdLbQ8BRgtDXl0AAQIWSkYRDV1QR1xVUgcDAAxVAQwAHhtCDwFGC0NTVgcPBBZKRgAcRFAXCAUJaVNRTw9QXBEIGxBKRwtfPgIAW1haUEReR1QSGUcPFxUUDRZtA19cUFdXRhQKRGJPJ0sUFRZWDxAXBURQR1xGVgMCBxtKEVpcR1dGFBxGC0MnNxQVFlEeEAAKQ1wKCEZfFFpEDUQfG1pBZkADFhBDBAcIU0sWDkRUR0gSWAQeOwZZWVpcBUdQXFxKEFxHVxNNRAhZV11ACRY6FFlRR1wKEFpbSQ==
-#EXTINF:0 group-title="CHONO" ,DESCANSAR EN PAZ
+#EXTINF:-1 group-title="CHONO" ,DESCANSAR EN PAZ
 https://fr5jn8z0rbsqi.sw-cdnstreamwish.com/hls2/01/03663/ujvj5m666ui0_,n,h,.urlset/index-f1-v1-a1.m3u8?t=fneYtcKvCkb54dm7DquZSVHFRDzEkXlg21-FTIJ-6UI&s=1714439696&e=129600&f=18319294&srv=5nrdhdrayadkaqp2&i=0.4&sp=500&p1=5nrdhdrayadkaqp2&p2=5nrdhdrayadkaqp2&asn=27747
-#EXTINF:0 group-title="CHONO" tvg-logo="https://www.cuevana2espanol.net/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FqS2KvIftgBf32ijeMuAwb6DbHkP.jpg&w=256&q=75" ,TAZ Y SU ODISEA POR LAS HAMBURGUESAS
+#EXTINF:-1 group-title="CHONO" tvg-logo="https://www.cuevana2espanol.net/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FqS2KvIftgBf32ijeMuAwb6DbHkP.jpg&w=256&q=75" ,TAZ Y SU ODISEA POR LAS HAMBURGUESAS
 https://xrec99e0.sw-cdnstreamwish.com/hls2/01/00274/5tvak3jgwxln_n/index-v1-a1.m3u8?t=psUO5MiUSZz4YjKaTsr1GkE3Ic1u07Q3z0zHW7QNWOs&s=1714410463&e=129600&f=1371637&srv=meuzahgd24x5v&i=0.4&sp=500&p1=meuzahgd24x5v&p2=meuzahgd24x5v&asn=27747
 #EXTINF:-1 group-title="ESTRENOS 2022/2023" ,365 días más (2022)
 http://vod.tuxchannel.mx/peliculas/720/kolejne%20365%20dni%202022.mkv
 #EXTINF:-1 group-title="ESTRENOS 2022/2023" ,Amenaza explosiva (2022)
 http://vod.tuxchannel.mx/peliculas/720/balsinjehan%202021.mkv
-#EXTINF:-1 group-title="ESTRENOS 2022/2023" ,Bodas de plomo (2023)
-http://208.88.245.85/nuevo/bodas.deplomo.2023.dual.mkv
 #EXTINF:-1 group-title="ESTRENOS 2022/2023" ,Cazando a Ava Bravo (2022)
 http://vod.tuxchannel.mx/peliculas/720/hunting%20ava%20bravo%202022.mkv
 #EXTINF:-1 group-title="ESTRENOS 2022/2023" ,DC Showcase: Constantine - The House of Mystery (2022)
 http://vod.tuxchannel.mx/peliculas/720/dc%20showcase%20constantine-the%20house%20of%20mystery%202022.mkv
 #EXTINF:-1 group-title="ESTRENOS 2022/2023" ,Francotirador: misión secreta (2022)
 http://vod.tuxchannel.mx/peliculas/720/sniper%20rogue%20mission%202022.mkv
-#EXTINF:-1 group-title="ESTRENOS 2022/2023" ,Gemelo Siniestro (2022)
-http://vod.tuxchannel.mx/peliculas/720/the%20twin%202022.mkv
 #EXTINF:-1 group-title="ESTRENOS 2022/2023" ,La Bestia (2022)
 http://vod.tuxchannel.mx/peliculas/720/beast%202022.mkv
 #EXTINF:-1 group-title="ESTRENOS 2022/2023" ,Mal de ojo (2022)
 http://vod.tuxchannel.mx/peliculas/720/mal%20de%20ojo%202022.mkv
-#EXTINF:-1 group-title="ESTRENOS 2022/2023" ,Narvik (2023)
-http://208.88.245.85/nuevo/narvik.2023.dual.mkv
 #EXTINF:-1 group-title="ESTRENOS 2022/2023" ,Pinocho (2022)
 http://vod.tuxchannel.mx/peliculas/720/pinocchio%202022.mkv
 #EXTINF:-1 group-title="ESTRENOS 2022/2023" ,Presencias (2022)
@@ -4789,17 +4785,17 @@ http://vod.tuxchannel.mx/peliculas/720/samaritan%202022.mkv
 http://vod-normal-global-cdn-z01.afreecatv.com/v3/afflv14/_definst_/mp4:save/afreeca/station/2022/0418/22/1650290280464857.mp4/playlist.m3u8
 #EXTINF:-1 group-title="ESTRENOS 2022/2023" ,Tren Bala (2022)
 http://vod.tuxchannel.mx/peliculas/720/bullet%20train%202022.mkv
-#EXTINF:0 group-title="INFANTILES" ,LA ERA DE HIELO - Las aventuras de Buck 2022
+#EXTINF:-1 group-title="INFANTILES" ,LA ERA DE HIELO - Las aventuras de Buck 2022
 http://195.62.32.177:8080/movie/JOSECERON/JVfc5p5rEF/2110071.mp4?token=GUNfBEdbQApABFdRXgxXAVJcBQJbVQQDAVFTBQAGUwAGUFEDDVZSU1YSGkcVTENVB1U8WwcUDQcCBFIAVQYdExcSUhdrWgYSWBIHVlQOBwFEFEFGCltSFwkEVQFWBQkJV1cASRZDC1RAChRQVQEBEkoaBkoXU0VbUlk9VAdBWFIHQw1HFh9AXwxvUgALWV9URAJBAkEaFVxARUAKQGNUXQcCUgtAQQ0QMR53S0QUE1IPTBFTF1MVDxEHUwBVFR0TAQ5CC0BBGxJYEnc3RBQTVR5MBlwQX1hbEQ9AXRIDEx1ACEQ6RlYRRBBVVwgDShMKRAhBHkFbVk1sVg1eDFJSRQsOWRYWCUADQBwUCAlWWEQJSjxCClIVD11ADlwf
-#EXTINF:0 group-title="INFANTILES" ,LA ERA DE HIELO 1
+#EXTINF:-1 group-title="INFANTILES" ,LA ERA DE HIELO 1
 http://108.181.5.67:9004/mar/sg/sg/4E/edh/1064695608.mp4
-#EXTINF:0 group-title="INFANTILES" ,LA ERA DE HIELO 2
+#EXTINF:-1 group-title="INFANTILES" ,LA ERA DE HIELO 2
 http://108.181.5.67:9004/mar/sg/sg/4E/edh/3637369407.mp4
-#EXTINF:0 group-title="INFANTILES" ,LA ERA DE HIELO 3
+#EXTINF:-1 group-title="INFANTILES" ,LA ERA DE HIELO 3
 http://108.181.5.67:9004/mar/sg/sg/4E/edh/918797075.mp4
-#EXTINF:0 group-title="INFANTILES" ,LA ERA DE HIELO 4
+#EXTINF:-1 group-title="INFANTILES" ,LA ERA DE HIELO 4
 http://108.181.5.67:9004/mar/sg/sg/4E/edh/3751812646.mkv
-#EXTINF:0 group-title="INFANTILES" ,LA ERA DE HIELO 5
+#EXTINF:-1 group-title="INFANTILES" ,LA ERA DE HIELO 5
 http://108.181.5.67:9004/mar/sg/sg/4E/edh/833519370.mp4
 #EXTINF:-1 group-title="Jesus de Nazareth" ,Jesus de Nazareth T1 - Capitulo 1
 https://content.jwplatform.com/videos/ZP27Yg4z-vCYxyFC9.mp4
@@ -5331,34 +5327,16 @@ https://cdn.jwplayer.com/manifests/da5kxY4t.m3u8
 https://cdn.jwplayer.com/manifests/7Eu0eQCZ.m3u8
 #EXTINF:-1 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/7Eu0eQCZ/poster.jpg?width=720" ,¿...y dónde están las rubias? (2004)
 https://content.jwplatform.com/videos/7Eu0eQCZ-sVI2ukY9.mp4
-#EXTINF:-1 group-title="PELICULAS VARIAS" ,007 - Casino Royale
-http://archive.org/download/mio53_yopmail_5/5.mp4
-#EXTINF:-1 group-title="PELICULAS VARIAS" ,007 - El mañana nunca muere
-http://archive.org/download/mio53_yopmail_2/2.mp4
-#EXTINF:-1 group-title="PELICULAS VARIAS" ,007 - El mundo no basta
-http://archive.org/download/mio53_yopmail_3/3.mp4
-#EXTINF:-1 group-title="PELICULAS VARIAS" ,007 - Goldeneye
-http://archive.org/download/mio53_yopmail_1/1.mp4
-#EXTINF:-1 group-title="PELICULAS VARIAS" ,007 - Otro día para morir
-http://archive.org/download/mio53_yopmail_4/4.mp4
-#EXTINF:-1 group-title="PELICULAS VARIAS" ,007 - Quantum
-http://archive.org/download/mio53_yopmail_6/6.mp4
 #EXTINF:-1 group-title="PELICULAS VARIAS" ,007 - Skyfall
 http://archive.org/download/mio53_yopmail_7/7.mp4
 #EXTINF:-1 group-title="PELICULAS VARIAS" ,007 - Spectre
 http://archive.org/download/mio53_yopmail_8/8.mp4
 #EXTINF:-1 group-title="PELICULAS VARIAS" ,A prueba de fuego (2008)
 http://archive.org/download/gikudec5/Sub1d0_p4r4_5tr34ming_A85_Cr15T14n4S/3.avi
-#EXTINF:-1 group-title="PELICULAS VARIAS" ,A prueba de hombres
-http://archive.org/download/PaqueteClinico1/APruebaDeHombresPeliculaCompletaEnEspaolLatinoYoutube454544545.mp4
-#EXTINF:-1 group-title="PELICULAS VARIAS" ,A Question of Faith (2017)
-http://archive.org/download/gikudec5/Sub1d0_p4r4_5tr34ming_A85_Cr15T14n4S/4.mkv
 #EXTINF:-1 group-title="PELICULAS VARIAS" ,AD ASTRA 2019
 http://ia801406.us.archive.org/4/items/000_20200129_20200129_0445/2.mp4
 #EXTINF:-1 group-title="PELICULAS VARIAS" ,AMENAZA EN LO PROFUNDO
 http://ia801400.us.archive.org/7/items/000_20200402/07.mp4
-#EXTINF:-1 group-title="PELICULAS VARIAS" ,An Interview with God (2018)
-http://archive.org/download/gikudec5/Sub1d0_p4r4_5tr34ming_A85_Cr15T14n4S/16.mkv
 #EXTINF:-1 group-title="PELICULAS VARIAS" ,Animales Fantásticos 1 : y dónde encontrarlos
 http://archive.org/download/AFantasticosDEncontrarlosbrspawww.newpct1.com654848946487468498449489/AFantasticosDEncontrarlosbrspa%20%5Bwww.newpct1.com%5D654848946487468498449489.mp4
 #EXTINF:-1 group-title="PELICULAS VARIAS" ,ATENTADO EN EL ESTADIO
@@ -5367,18 +5345,12 @@ http://ia601402.us.archive.org/22/items/1_20191127_20191127_1730/1.mp4
 http://archive.org/download/kicinigi1/Sub1d0_p4r4_5tr34ming_A85_V4R145_21/3.avi
 #EXTINF:-1 group-title="PELICULAS VARIAS" ,AVENGERS END GAME 2019
 http://ia601507.us.archive.org/16/items/e4dg1me/e4dg1me.mp4
-#EXTINF:-1 group-title="PELICULAS VARIAS" ,Avengers: Infinity Wars
-http://archive.org/download/mio3_yopmail_1/1.mp4
 #EXTINF:-1 group-title="PELICULAS VARIAS" ,Avenida Cloverfield 10
 http://archive.org/download/4QU4M4N000_201904/4V3N1D4%20CR0083RF1L11.mp4
-#EXTINF:-1 group-title="PELICULAS VARIAS" ,Bienvenidos a Marwen
-http://archive.org/download/AnimalesFantsticos20182564564445646/12918915252196Bienvenidos%20a%20Marwen%20%282018%2954198164189164198416168419.mp4
 #EXTINF:-1 group-title="PELICULAS VARIAS" ,BLACK AND BLUE
 http://ia801505.us.archive.org/28/items/000_20200122/2.mp4
 #EXTINF:-1 group-title="PELICULAS VARIAS" ,BLEACH
 http://ia601504.us.archive.org/20/items/sototo_patonce_04/04.mp4
-#EXTINF:-1 group-title="PELICULAS VARIAS" ,Breakthrough (2019)
-http://archive.org/download/kicinigi1/Sub1d0_p4r4_5tr34ming_A85_V4R145_21/11.mkv
 #EXTINF:-1 group-title="PELICULAS VARIAS" ,BURN OUT
 http://ia601500.us.archive.org/8/items/000_20191210/4.mp4
 #EXTINF:-1 group-title="PELICULAS VARIAS" ,CAPITANA MARVEL
@@ -5389,8 +5361,6 @@ http://ia801403.us.archive.org/14/items/ciejrkr/ciejrkr.mp4
 http://ia801500.us.archive.org/17/items/000_20191202_20191202/4.mp4
 #EXTINF:-1 group-title="PELICULAS VARIAS" ,CONTRABANDO
 http://ia601509.us.archive.org/16/items/2_20191128_20191128_1720/16.mp4
-#EXTINF:-1 group-title="PELICULAS VARIAS" ,Courageous (2011)
-http://archive.org/download/gikudec5/Sub1d0_p4r4_5tr34ming_A85_Cr15T14n4S/17.mkv
 #EXTINF:-1 group-title="PELICULAS VARIAS" ,CRUZADA
 http://archive.org/download/meyabaror_netmails_3/3.mp4
 #EXTINF:-1 group-title="PELICULAS VARIAS" ,Crónicas de Navidad
@@ -5401,24 +5371,14 @@ http://archive.org/download/w-17-fl-1-x-1/Cyb0rgJ34nCl4ud3V4nD4mm3.mp4
 http://archive.org/download/ditemo1/Sub1d0_p4r4_5tr34ming_A85_V4R145_8/8.avi
 #EXTINF:-1 group-title="PELICULAS VARIAS" ,DESEO DE MATAR
 http://archive.org/download/damiantellez78_gmail_362/Sthepensonprieto_ladron/362.mp4
-#EXTINF:-1 group-title="PELICULAS VARIAS" ,Deslizando a la gloria
-http://archive.org/download/npr82752_zoqqa_1_20190323_1859/subid0_p4r4_stre4m1ng_a85/1.mp4
 #EXTINF:-1 group-title="PELICULAS VARIAS" ,DESTRUCCION LOS ANGELES
 http://ia801509.us.archive.org/29/items/ziduyaliri_mail-register_08/08.mp4
 #EXTINF:-1 group-title="PELICULAS VARIAS" ,DIA DEL ATENTADO
 http://archive.org/download/dia-del-atentado-2016/Dia%20Del%20Atentado%20%282016%29/Dia%20Del%20Atentado%20%282016%29.mp4
 #EXTINF:-1 group-title="PELICULAS VARIAS" ,Do You Believe? (2015)
 http://archive.org/download/gikudec5/Sub1d0_p4r4_5tr34ming_A85_Cr15T14n4S/7.mkv
-#EXTINF:-1 group-title="PELICULAS VARIAS" ,Día de la Independencia (op. 2)
-http://archive.org/download/npr82752_zoqqa_1_201903/subid0_p4r4_str34ming_a85/1.mp4
 #EXTINF:-1 group-title="PELICULAS VARIAS" ,EL ABUELO SIN VERGUENZA
 http://archive.org/download/meme-5/asv.mp4
-#EXTINF:-1 group-title="PELICULAS VARIAS" ,El aro: 3  (2019)
-http://archive.org/download/LaNiebla2007694185146148415/R1ngs.BR-Screener.XviD.%5BDTL%5D6549848648.mp4
-#EXTINF:-1 group-title="PELICULAS VARIAS" ,El caballo de dos piernas
-http://archive.org/download/zqu21148_zoqqa_3/su1id0_p4r4_stre4ming_a85/1.mp4
-#EXTINF:-1 group-title="PELICULAS VARIAS" ,El diablo viste a la moda (2006)
-http://archive.org/download/listasaqui_ymail4_1/1.avi
 #EXTINF:-1 group-title="PELICULAS VARIAS" ,El Grinch
 http://archive.org/download/AnimalesFantsticos20182564564445646/El%20Grinch%20%282018%296464645411.mp4
 #EXTINF:-1 group-title="PELICULAS VARIAS" ,EL IRLANDES (SUBTITULADA)
@@ -5429,8 +5389,6 @@ http://clubtv.link/2ene/peliculas3.php?c=the%20marksman%202021.mkv
 http://archive.org/download/AnimalesFantsticos20182564564445646/2%2B892%2B2%2B2522Principe%20Encantado654196165468564168%20%282018%29.mp4
 #EXTINF:-1 group-title="PELICULAS VARIAS" ,El regreso de Mary Poppins
 http://archive.org/download/AnimalesFantsticos20182564564445646/El%20regreso%20de%20Mary%20Poppins%20%282018%29654564684646.mp4
-#EXTINF:-1 group-title="PELICULAS VARIAS" ,El resplandor (1980)
-http://archive.org/download/LaNiebla2007694185146148415/El%20Resplandor6541851465165165.mp4
 #EXTINF:-1 group-title="PELICULAS VARIAS" ,EL TRAFICANTE
 http://ia801507.us.archive.org/11/items/000_20191203/2.mp4
 #EXTINF:-1 group-title="PELICULAS VARIAS" ,EL TRANSPORTADOR
@@ -5443,12 +5401,6 @@ http://archive.org/download/ditemo1/Sub1d0_p4r4_5tr34ming_A85_V4R145_8/13.mkv
 http://ia600206.us.archive.org/27/items/7H3.794N5P09/7H3.794N5P09739.93FU313D-ES-360.mp4
 #EXTINF:-1 group-title="PELICULAS VARIAS" ,EL UNICO
 http://archive.org/download/elalcaheda28_gmail_EUO/EUO.mp4
-#EXTINF:-1 group-title="PELICULAS VARIAS" ,Facing the Giants (2006)
-http://archive.org/download/gikudec5/Sub1d0_p4r4_5tr34ming_A85_Cr15T14n4S/5.mkv
-#EXTINF:-1 group-title="PELICULAS VARIAS" ,God Bless the Broken Road (2018)
-http://archive.org/download/kicinigi1/Sub1d0_p4r4_5tr34ming_A85_V4R145_21/1.mkv
-#EXTINF:-1 group-title="PELICULAS VARIAS" ,God's Not Dead (2014)
-http://archive.org/download/vodav1_20190319/Sub1d0_p4r4_5tr34ming_A85%201/1.mkv
 #EXTINF:-1 group-title="PELICULAS VARIAS" ,Guardianes de la noche
 http://archive.org/download/0guardianes0de0la0Noche/0guardianes0de0la0Noche.mp4
 #EXTINF:-1 group-title="PELICULAS VARIAS" ,HACKER
@@ -5475,18 +5427,8 @@ http://ia601405.us.archive.org/26/items/000_20200306_202003/04.mp4
 http://ia801302.us.archive.org/16/items/HI7M4N/HI7M4N.463N7.47-360-ES.mp4
 #EXTINF:-1 group-title="PELICULAS VARIAS" ,HULK
 http://archive.org/download/correoicfes2016_gmail_42/ulk.mp4
-#EXTINF:-1 group-title="PELICULAS VARIAS" ,I Can Only Imagine (2018)
-http://archive.org/download/gikudec5/Sub1d0_p4r4_5tr34ming_A85_Cr15T14n4S/12.mkv
 #EXTINF:-1 group-title="PELICULAS VARIAS" ,I'm Not Ashamed (2016)
 http://archive.org/download/L4H1st0r1aD3R4ch3lSc0tt/La%20historia%20de%20Rachel%20Scott%20%20%20Hechos%20Reales.mp4
-#EXTINF:-1 group-title="PELICULAS VARIAS" ,Jack & Jill
-http://archive.org/download/T81818M8787B87L544672p/J42k%2B4n60%2B2111.avi
-#EXTINF:-1 group-title="PELICULAS VARIAS" ,Janette Oke: Love Begins (2011)
-http://archive.org/download/3l4m0rC0m13nza/9%20%20El%20amor%20comienza%20Pel%C3%ADcula%20cristiana%20en%20VO%20y%20con%20subtitulos%20en%20espa%C3%B1ol.mp4
-#EXTINF:-1 group-title="PELICULAS VARIAS" ,Janette Oke: Love Finds A Home (2009)
-http://archive.org/download/8YEl4morLleg4lH0gar/8%20%20Y%20el%20amor%20lleg%C3%B3%20al%20hogar%20%20%20Pel%C3%ADcula%20cristiana%20completa%20en%20espa%C3%B1ol.mp4
-#EXTINF:-1 group-title="PELICULAS VARIAS" ,Janette Oke: Love's Unending Legacy (2007)
-http://archive.org/download/3l4m0rV0lvi0AN0s0tr0s/7%20%20Y%20el%20amor%20volvi%C3%B3%20a%20nosotros%20Pel%C3%ADcula%20cristiana%20completa%20en%20espa%C3%B1ol.mp4
 #EXTINF:-1 group-title="PELICULAS VARIAS" ,Jesus (1979)
 http://archive.org/download/gikudec2/Sub1d0_p4r4_5tr34ming_A85_J35hU4/1.mkv
 #EXTINF:-1 group-title="PELICULAS VARIAS" ,JOHN WICK 1
@@ -5521,8 +5463,6 @@ https://www.googleapis.com/drive/v3/files/18xEJluIja2EL-2sBh_meaJqojRtGk40T?alt=
 http://archive.org/download/KimagureOrangeRoadLaPelicula/kimagure%20orange%20road%20la%20pelicula.mp4
 #EXTINF:-1 group-title="PELICULAS VARIAS" ,Kong skull island
 https://www.googleapis.com/drive/v3/files/1nnOgpgfJpsz1xAQG6hY8wfV44pCEYTe7?alt=media&key=AIzaSyC_SfUy_PVVO8qEPumM0E0D0UWvrYybyCU
-#EXTINF:-1 group-title="PELICULAS VARIAS" ,Kung Fu Yoga
-http://archive.org/download/AFantasticosDEncontrarlosbrspawww.newpct1.com654848946487468498449489/Kung.Fu.Yoga.1080P.Latino64645465465456456.mp4
 #EXTINF:-1 group-title="PELICULAS VARIAS" ,Kurt Cobain: Montage of Heck
 https://cdn.pavideohost.com/contents/s/f8/bf/ef/87176e28b664c08d498c486fda/720p/01316773599972.mp4
 #EXTINF:-1 group-title="PELICULAS VARIAS" ,LA DEUDA
@@ -5537,10 +5477,6 @@ http://ia601507.us.archive.org/16/items/5_20191128_201911/8.mp4
 http://archive.org/download/uranio94_yopmail_2/6.mp4
 #EXTINF:-1 group-title="PELICULAS VARIAS" ,La momia: La tumba del emperador dragón
 http://archive.org/download/uranio94_yopmail_2/3.mp4
-#EXTINF:-1 group-title="PELICULAS VARIAS" ,La Monja
-http://archive.org/download/PaqueteClinico34/The.Nun.2018.HDRipf.Latino94984984984894894984.mp4
-#EXTINF:-1 group-title="PELICULAS VARIAS" ,La niebla
-http://archive.org/download/LaNiebla2007694185146148415/La%20niebla%202007694185146148415.mp4
 #EXTINF:-1 group-title="PELICULAS VARIAS" ,la ONU PRINCIPE SUELTO EN NUEVA YORK 2
 http://archive.org/download/b-2-ny/B2NY.mp4
 #EXTINF:-1 group-title="PELICULAS VARIAS" ,LA TRAMPA DE LA ARAÑA
@@ -5557,12 +5493,8 @@ http://ia601402.us.archive.org/22/items/1_20191127_20191127_1730/11.mp4
 http://ia601509.us.archive.org/16/items/2_20191128_20191128_1720/15.mp4
 #EXTINF:-1 group-title="PELICULAS VARIAS" ,Los Juegos del Hambre 1
 http://archive.org/download/ezra_2/subid0_par4_stre4ming_a85/1.mkv
-#EXTINF:-1 group-title="PELICULAS VARIAS" ,Los Juegos del Hambre : En llamas
-http://archive.org/download/ezra_2/subid0_par4_stre4ming_a85/2.mkv
 #EXTINF:-1 group-title="PELICULAS VARIAS" ,Los Juegos del Hambre : Sinsajo Parte 1
 http://archive.org/download/ezra_2/subid0_par4_stre4ming_a85/3.mkv
-#EXTINF:-1 group-title="PELICULAS VARIAS" ,Los Juegos del hambre: Sinsajo Parte 2
-http://archive.org/download/ezra_2/subid0_par4_stre4ming_a85/4.mkv
 #EXTINF:-1 group-title="PELICULAS VARIAS" ,LOS PERDEDORES
 http://archive.org/download/1_20200612_20200612_2318/1.avi
 #EXTINF:-1 group-title="PELICULAS VARIAS" ,LUKAS
@@ -5579,8 +5511,6 @@ http://ia601500.us.archive.org/17/items/000_20191202_20191202/2.mp4
 http://archive.org/download/ariga8/Sub1d0_p4r4_5tr34ming_A85_V4R145_3/5.avi
 #EXTINF:-1 group-title="PELICULAS VARIAS" ,MAXIMA VELOCIDAD 2
 http://archive.org/download/ariga8/Sub1d0_p4r4_5tr34ming_A85_V4R145_3/6.mp4
-#EXTINF:-1 group-title="PELICULAS VARIAS" ,Miracles from Heaven (2016)
-http://archive.org/download/gikudec5/Sub1d0_p4r4_5tr34ming_A85_Cr15T14n4S/15.mkv
 #EXTINF:-1 group-title="PELICULAS VARIAS" ,Miraculous World New york United Heroez.
 https://www.googleapis.com/drive/v3/files/1CY2bDUaaGKyHCVpJnEixavBIHaB0RVEd?alt=media&key=AIzaSyCB_dfyaadx9vfgrHmLI03phz_6N7RGPwk
 #EXTINF:-1 group-title="PELICULAS VARIAS" ,MONSTER HUNTER 2021
@@ -5599,18 +5529,12 @@ http://archive.org/download/jojo.-dvd.-lat.-www.-hackstore.-net/OLIMPO.DVD.LAT.W
 http://archive.org/download/1_20190715_20190715_2033/1.avi
 #EXTINF:-1 group-title="PELICULAS VARIAS" ,Parque Jurasico III
 http://archive.org/download/1_20190715_20190715_2033/3.mp4
-#EXTINF:-1 group-title="PELICULAS VARIAS" ,Pasante de Moda
-http://archive.org/download/kuhlman_1_20190504/3.mp4
 #EXTINF:-1 group-title="PELICULAS VARIAS" ,PRIMAL
 http://archive.org/download/mafaki1/Sub1d0_p4r4_5tr34ming_A85_v4r8/5.mkv
 #EXTINF:-1 group-title="PELICULAS VARIAS" ,Proyecto X
 http://archive.org/download/hcr83403_zoqqa_2/subid0_p4r4_stre4m1ng_a85/2.mp4
-#EXTINF:-1 group-title="PELICULAS VARIAS" ,Rebeldes con causa
-http://archive.org/download/2193KAMWNEW/2193KAMWNEW.mp4
 #EXTINF:-1 group-title="PELICULAS VARIAS" ,RENDEL
 http://ia801401.us.archive.org/12/items/000_20191205_201912/3.mp4
-#EXTINF:-1 group-title="PELICULAS VARIAS" ,Same Kind of Different as Me (2017)
-http://archive.org/download/gikudec5/Sub1d0_p4r4_5tr34ming_A85_Cr15T14n4S/20.mkv
 #EXTINF:-1 group-title="PELICULAS VARIAS" ,SHARK
 http://ia801409.us.archive.org/30/items/000_20200106/4.mp4
 #EXTINF:-1 group-title="PELICULAS VARIAS" ,Son como niños 1 2010
@@ -5629,32 +5553,12 @@ http://archive.org/download/07_20191209/hoiho/05.mp4
 http://archive.org/download/07_20191209/hoiho/03.mp4
 #EXTINF:-1 group-title="PELICULAS VARIAS" ,SPIDERMAN HOMECOMING
 http://ia601402.us.archive.org/22/items/1_20191127_20191127_1730/9.mp4
-#EXTINF:-1 group-title="PELICULAS VARIAS" ,Stargate
-http://archive.org/download/npr82752_zoqqa_1_20190323/subid0_p4r4_stre4ming_a85/1.mp4
-#EXTINF:-1 group-title="PELICULAS VARIAS" ,Ted 2
-http://archive.org/download/PaqueteClinico1/Ted2PeliculaCompletaEnEspaolLatino-Youtube61465464645.mp4
-#EXTINF:-1 group-title="PELICULAS VARIAS" ,Terminator
-http://archive.org/download/5_20190713_201907/1.avi
-#EXTINF:-1 group-title="PELICULAS VARIAS" ,Terminator 2: Dia del juicio
-http://archive.org/download/5_20190713_201907/2.mp4
-#EXTINF:-1 group-title="PELICULAS VARIAS" ,Terminator 3: La rebelión de las maquinas
-http://archive.org/download/5_20190713_201907/3.avi
-#EXTINF:-1 group-title="PELICULAS VARIAS" ,Terminator 4: Salvacion
-http://archive.org/download/5_20190713_201907/4.avi
-#EXTINF:-1 group-title="PELICULAS VARIAS" ,Terminator: Genesis
-http://archive.org/download/5_20190713_201907/5.avi
-#EXTINF:-1 group-title="PELICULAS VARIAS" ,The Case for Christ (2017)
-http://archive.org/download/gikudec5/Sub1d0_p4r4_5tr34ming_A85_Cr15T14n4S/8.mkv
 #EXTINF:-1 group-title="PELICULAS VARIAS" ,The Passion of the Christ (2004)
 http://archive.org/download/gikudec5/Sub1d0_p4r4_5tr34ming_A85_Cr15T14n4S/13.mkv
 #EXTINF:-1 group-title="PELICULAS VARIAS" tvg-logo="https://images.pluto.tv/channels/60d356a534f63f000850cdd7/colorLogoPNG.png" ,TOP GEAR
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60d356a534f63f000850cdd7/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7d8272-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=83907acb-ee3c-4b1f-8026-c92526fccb6e&userId=&serverSideAds=true
-#EXTINF:-1 group-title="PELICULAS VARIAS" ,Un sueño posible
-http://archive.org/download/kuhlman_1_20190504/2.mp4
 #EXTINF:-1 group-title="PELICULAS VARIAS" ,WANDER WOMAN
 http://clubtv.link/2ene/peliculas3.php?c=wonder%20woman%202020.mkv
-#EXTINF:-1 group-title="PELICULAS VARIAS" ,War Room (2015)
-http://archive.org/download/gikudec5/Sub1d0_p4r4_5tr34ming_A85_Cr15T14n4S/14.mkv
 #EXTINF:-1 group-title="PELICULAS VARIAS" ,X MEN APOCALYPSIS
 http://archive.org/download/07_20191209/hoiho/07.mp4
 #EXTINF:-1 group-title="PELICULAS VARIAS" ,¿Quién mató a los puppets?
@@ -6253,6 +6157,220 @@ http://vod.tuxchannel.mx/peliculas/720/the%20wolverine%202013.mkv
 http://vod.tuxchannel.mx/peliculas/720/yo%20robot.mkv
 #EXTINF:-1 group-title="Peliculas Viejas" tvg-logo="https://es.web.img3.acsta.net/pictures/15/03/17/13/02/022315.jpg" ,Zapatero a tus zapatos (2014)
 http://vod.tuxchannel.mx/peliculas/720/zapatero%20a%20tus%20zapatos.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500" ,4:44 El último día en la Tierra (2011)
+http://vod.tuxchannel.mx/peliculas/720/444%20last%20day%20on%20earth.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/kMI3tgxLAZbzGOVlorUBva0kriS.jpg" ,A millones de kilómetros
+http://208.88.245.85/nuevo/a.millones.de.kilometros.dual2023.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/vB8o2p4ETnrfiWEgVxHmHWP9yRl.jpg" ,Agente Stone
+http://208.88.245.85/nuevo/agentestone.dual2023.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/e7CKgRnRdE7bk1jl2vhJniX89cU.jpg" ,Al descubierto Johnn football
+http://208.88.245.85/nuevo/al.descubierto.johnnyfootball.dual2023.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/qi9r5xBgcc9KTxlOLjssEbDgO0J.jpg" ,Alerta extrema (2023)
+http://208.88.245.85/nuevo/alerta.extrema.dual.2023.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/wmH3VaUbwwTO3vDJhWT35BOFgb3.jpg" ,Amigos de las vacaciones 2
+http://208.88.245.85/nuevo/amigos.dlas.vacaciones2.dual.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/jqSNWHKAmVudHhMDhUuV8qhSJLt.jpg" ,Amigos hasta la muerte
+http://208.88.245.85/nuevo/amigos.hasta.lamuerte.cast2023.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/mybL2Hd3PvsY7Qyjf7W6BKsoECu.jpg" ,Anna Nicolle
+http://208.88.245.85/nuevo/annanicolle.dual.2023.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/tcKBclNUdkas4Jis8RYYZnPdTIm.jpg" ,Asteroid city
+http://208.88.245.85/nuevo/asteroidcity.dual2023.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg" ,Barbie
+http://208.88.245.85/nuevo/barbie.dual.2023.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/5xupm2thQic5GzYi6nim6URMZOY.jpg" ,Bendita suegra
+http://208.88.245.85/nuevo/benditasuegra.latino.2023.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/nRVnpz4dzRvknK0BANjJ76dP0D3.jpg" ,Big Mack gangsters
+http://208.88.245.85/nuevo/bigmack.gangstersyoro.2023dual.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/lZ2sOCMCcGaPppaXj0Wiv0S7A08.jpg" ,Blue beetle
+http://208.88.245.85/nuevo/bluebeetle.dual2023.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/hWHwWsKVr5GkmOI1hWgHZBYkRwi.jpg" ,Cassandro
+http://208.88.245.85/nuevo/casandro.2023dual.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/yqnNLn24shYnZ6kqGpbwuB3NJ0D.jpg" ,Cementerio de mascotas
+http://208.88.245.85/nuevo/cementerio.mascotas.elorigen.dual2023.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/n8ZpMwYT02XjpQHpSxn1eJw5Zpz.jpg" ,Crater
+http://208.88.245.85/nuevo/crater.dual.2023.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/pZyeoBDQJFPGfd0Mu8XIElGBjZz.jpg" ,Cuando termines de salvar al mundo
+http://208.88.245.85/nuevo/cuando.termines.dsalvar.almundo.2023dual.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/ktpoqsz2O5xz8SPxc358YXmmzHU.jpg" ,Cuiden a maya
+http://208.88.245.85/nuevo/cuiden.a.maya.dual2023.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/qMgx4ofxWNqgXliRyXGXImoA7vX.jpg0" ,Dime lo que quieres
+http://208.88.245.85/nuevo/dime.lo.que.quieras.latino.2023.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/6qpYwWq6KxuLTjmLfBVcGtjdz4g.jpg" ,Divina señal
+http://208.88.245.85/nuevo/divina.senal.latino2023.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/nrtbv6Cew7qC7k9GsYSf5uSmuKh.jpg" ,Dracula mar de sangre
+http://208.88.245.85/nuevo/dracula.mar.de.sangre.dual2023.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/hnzXoDaK346U4ByfvQenu2DZnTg.jpg" ,El clon de tyrone
+http://208.88.245.85/nuevo/el.clon.de.tyrone.dual2023.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/d8YaaRIDzvHL4NyHJQxIvm0qDng.jpg" ,El final que quiero
+http://208.88.245.85/nuevo/el.final.que.quiero.dual2023.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/b0Ej6fnXAP8fK75hlyi2jKqdhHz.jpg" ,El Justiciero 3 capítulo final
+http://208.88.245.85/nuevo/el.justiciero3.dual2023.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/9xvEhZZMOmLIkqe4khrtF5TkOnO.jpg" ,El mejor del mundo
+http://208.88.245.85/nuevo/el.mejor.delmundo.dual2023.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/7ibI5KJmdEYQnCcuDMk0clCrz1C.jpg" ,El pacto
+http://208.88.245.85/nuevo/el.pacto.2023dual.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/516MFML05KWiPfiQNAsVCGMySc7.jpg" ,El rencor de edimburgo parte 2
+http://208.88.245.85/nuevo/el.rencor.de.edimburgo.part2.dual2023.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/jJAF2h2iLLCpKUocEnoJz7wKtWq.jpg" ,El rey de los clones
+http://208.88.245.85/nuevo/rey.delos.clones.dual2023.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/sIk2wnKj9OSMrUNZ5Z97XkzUICK.jpg" ,El salón de la infamia
+http://208.88.245.85/nuevo/untolld.el.salon.dla.infamia.dual2023.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/8Tf7bBXpLQjgFI0a5KJ1eHrxHTw.jpg" ,El último vagon
+http://208.88.245.85/nuevo/ultimo.vagon.latino2023.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/8riWcADI1ekEiBguVB9vkilhiQm.jpg" ,Elemental
+http://208.88.245.85/nuevo/elemental.dual2023.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/lXoeOcWWhPpLH1wzTIhOx8jydBo.jpg" ,Ellas quieren más
+http://208.88.245.85/nuevo/cuando.ellasquierenmas.2023dual.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/gmZGAbI42ecAoixyvZI0Se4Qiau.jpg" ,Finnck
+http://208.88.245.85/nuevo/finnick.dual2023.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/995t1sb4ummXHBfKlXLSM1IAEjc.jpg" ,Fisrt solamente dunk
+http://208.88.245.85/nuevo/firstslamdunk.dual.2023.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/a7KyFMPXj0iY4EoLq1PIGU1WJPw.jpg" ,Flaminhot
+http://208.88.245.85:80/nuevo/flaminhot.2023dual.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/liLN69YgoovHVgmlHJ876PKi5Yi.jpg" ,Ghosted (2023)
+http://208.88.245.85/nuevo/ghosted.dual.2023.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/51tqzRtKMMZEYUpSYkrUE7v9ehm.jpg" ,Gran Turismo
+https://bank.bemtv.cn/vod01/Movies/vod16286wxNEtb/vod16286wxNEtb_720.mp4/index.m3u8
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/j741ip55NOzabrllOXHJv2vpag7.jpg" ,Hasta la madre
+http://208.88.245.85/nuevo/hastalam.dldia.dlamadre.latino.2023.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/4K7gQjD19CDEPd7A9KZwr2D9Nco.jpg" ,Hazme el favor
+http://208.88.245.85/nuevo/hazme.el.favor.dual2023.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/Af4bXE63pVsb2FtbW8uYIyPBadD.jpg" ,Indiana Jones and the dial of Destiny
+http://208.88.245.85/nuevo/indianajones5.latino.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/uS1AIL7I1Ycgs8PTfqUeN6jYNsQ.jpg" ,Insidiuos puerta roja
+http://208.88.245.85/nuevo/insidiuos.puertaroja.dual2023.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/fWsuqZ5kk5rYeWVXpjrHercEBNH.jpg" ,Invitación a un asesino
+http://208.88.245.85/nuevo/invitacion.a.un.asesinato.latino2023.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/7KK4s4QOYemq1fC9stcdZbhIiVm.jpg" ,Isabel el caso nardoni
+http://208.88.245.85/nuevo/isabella.el.caso.nardoni.dual.2023.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/qmW8mPhcdOP3v36Gz8WEeDdewFN.jpg" ,La dama del silencio
+http://208.88.245.85/nuevo/la.dama.del.silencio.dual2023.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/9YDW8dCrQyRpppK5985hKY1Mc8X.jpg" ,La fiebre de los peluches
+http://208.88.245.85/nuevo/la.fiebre.dlos.peluches.beanie.dual2023.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/4EONm3medZBNfHhost4taqrje1r.jpg" ,La gran seducción
+http://208.88.245.85/nuevo/la.gran.seduccion.2023.latino.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/2NYd7jKFnilcIOUfDI8o2TOuCmu.jpg" ,La hija del prisionero
+http://208.88.245.85/nuevo/la.hija.del.prisionero.dual2023.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/uybOgGtSW3orlkHTO0qYOQcSgfq.jpg" ,La leyenda de los chaneques
+http://208.88.245.85/nuevo/la.leyenda.delos.chaneques.ltino2023.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/qmevjlNDaWoEughGlXFWHbQ4TaR.jpg" ,La liga de la justicia mundo bélico
+http://208.88.245.85/nuevo/ligadlajusticia.mundo.belico.dual2023.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/uYxrWr9o44yO0HvVfFFHGu01gfX.jpg" ,La niña de la comunión
+http://208.88.245.85:80/nuevo/la.nina.dela.comunion.2023cast.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="La oscuridad de la luz del mundo" ,La oscuridad de la luz del mundo
+http://208.88.245.85/nuevo/la.oscuridad.delaluz.del.mundo.latino2023.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/2axXVpi3dKfESWzgncbakLB7o7f.jpg" ,La princesa cisne
+http://208.88.245.85/nuevo/princesa.cisne.2023dual.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/ym1dxyOk4jFcSl4Q2zmRrA5BEEN.jpg" ,La Sirenita (2023) (CAM)
+http://208.88.245.85/nuevo/la.sirenita.2023dual.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/40UPlmnQcG71KSmjijksZjbsH2q.jpg" ,La usurpadora
+http://208.88.245.85/nuevo/la.usurpadora2023.latino.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/nQG3HhzRnr26e0O0yuTeXqnVGbn.jpg" ,Las cintas de rosa peral
+http://208.88.245.85/nuevo/las.cintas.de.rosaperal.cast2023.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/sjfCWn5OG1KneAZ3gqVrS46WDzW.jpg" ,Lego friends
+http://208.88.245.85/nuevo/legofriends.nextchapter.dual2023.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/xFR8Sxvb1isO5UoMIWsXGs95fdk.jpg" ,Lionel Messi destiny
+http://208.88.245.85/nuevo/lionelmessi.destiny.2023.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/wve9qIZ8pXrDpHy1h47cGXHjZpH.jpg" ,Los 3 mosqueteros dartagnan
+http://208.88.245.85/nuevo/los.tres.mosqueteros.dartagnan.dual2023.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/9aYflMUqFZo5zEbquNmVSQpFfby.jpg" ,Los blancos no saben saltar
+http://208.88.245.85/nuevo/losblancos.nosabensaltar.dual2023.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/2aBjSNnl1eIsR8RVNlczc1beL6l.jpg" ,Los casi ídolos de bahía colorada
+http://208.88.245.85/nuevo/los.casi.idolos.de.bahia.colorada.latino2023.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/p4U0DQdxK7VeFImi2gzFKhe1JuB.jpg" ,Los habitantes
+http://208.88.245.85/nuevo/los.habitantes.2023.latino.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/3gFtw4w2bIUYKWOrmBgfI6iXfmZ.jpg" ,Mansión embrujada
+http://208.88.245.85/nuevo/mansion.embrujada.dual2023.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/hAKV3WLdHOL313IImAoR2GFWC1W.jpg" ,Maquillame otra vez
+http://208.88.245.85/nuevo/maquillame.otravez.latino.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/okNxsEpMbCQgQBqSw2U5hIq4Fd5.jpg" ,Materia gris
+http://208.88.245.85/nuevo/materiagris.dual.2023.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/4m1Au3YkjqsxF8iwQy0fPYSxE0h.jpg" ,Meg 2 el gran abismo
+http://208.88.245.85/nuevo/meg2.el.gran.abismo.dual2023.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/7gKI9hpEMcZUQpNgKrkDzJpbnNS.jpg" ,Misión de rescate 2
+http://208.88.245.85/nuevo/extraction.dual.2023.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/NNxYkU70HPurnNCSiCjYAmacwm.jpg" ,Mission impossible
+http://208.88.245.85/nuevo/misionimposible.senmortal.2023.dual.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/mClrCMfGpOqTSiuCTSK67WZ92x5.jpg" ,Monster high 2
+http://208.88.245.85/nuevo/monsterhigh.dual.2023.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/ofnOwcG9l1DuGl7vB45JHsfSlR6.jpg" ,Nada qué ver
+http://208.88.245.85/nuevo/nadakver.latino2023.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/2NQljeavtfl22207D1kxLpa4LS3.jpg" ,Nimona
+http://208.88.245.85/nuevo/nimona.dual.2023.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg" ,Oppen heimer
+http://208.88.245.85/nuevo/oppenheimer.2023.dual.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg" ,Oppenheimer el dilema de la bomba atómica
+http://208.88.245.85/nuevo/oppenheimer.el.dilema.delabomba.atomica.dual2023.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/krA2iXd1PK1vhg4jeWfbSD4fSJi.jpg" ,Papas a la antigua
+http://208.88.245.85/nuevo/papas.ala.antigua.dual2023.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/aTvePCU7exLepwg5hWySjwxojQK.jpg" ,Paw patrón la.super película
+http://208.88.245.85/nuevo/pawpatrol.lasuperpelicula.dual2023.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/q17tXNROOslj7uCGicKNlIf9Rx6.jpg" ,Princesas lego Disney aventuras
+http://208.88.245.85/nuevo/castle.quest.legodisney.princes.dual2023.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/zsbolOkw8RhTU4DKOrpf4M7KCmi.jpg" ,Proyecto extracción
+http://208.88.245.85/nuevo/proyecto.extraccion.dual2023.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/6cZbQppNSELFdsV7gvrOflL6DWK.jpg" ,Quieres ser mi hijo
+http://208.88.245.85/nuevo/quieres.ser.mi.hijo.lat2023.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/p6yUjhvNGQpFZilKwOKbxQ1eHlo.jpg" ,Renfield: Asistente de vampiro (2023)
+http://208.88.245.85/nuevo/renfield.asistdvampiro.dual2023.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/tiZF8b9T9fMcwvsEEkJ5ik1wCnV.jpg" ,Reposo absoluto
+http://208.88.245.85/nuevo/reposo.absoluto.dual2023.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/soIgqZBoTiTgMqUW0JtxsPWAilQ.jpg" ,Reptiles
+http://208.88.245.85/nuevo/reptiles.dual2023.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/oUmmY7QWWn7OhKlcPOnirHJpP1F.jpg" ,Retribución contra reloj
+http://208.88.245.85/nuevo/retribution.contrareloj.dual2023.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/39Hr1FKfqqvx0umS60PCCWtBOKd.jpg" ,Rock dog 3
+http://208.88.245.85/nuevo/rockdog3.dual.2023.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/1E5baAaEse26fej7uHcjOgEE2t2.jpg" ,Rápidos y furiosos 10
+http://208.88.245.85/nuevo/fastfuriusx.dual.2023.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/rhNmY4Djv4273A1TktDCEaOwHIz.jpg" ,Scary Girl
+http://208.88.245.85/nuevo/scarygirl.dual.2023.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/ntMOnvlYYnio7Fx3xqBu9B1Sz7f.jpg" ,Scooby crypto al rescate
+http://208.88.245.85/nuevo/scooby.ykrypto.alrescate.dual2023.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/zLQHNW0XVT7IWjUahBlpVSba3sC.jpg" ,Shooting stars
+http://208.88.245.85/nuevo/shooting.stars.dual2023.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/lFDPyo6mdooNcHvgy17gz1GEjg4.jpg" ,Snoopy presenta
+http://208.88.245.85/nuevo/snoopypresenta.launicaeinigualable.marcie.dual2023.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/vjAMj81oYBryzGBhJk4gcK0M636.jpg" ,Sombras de un crimen
+http://208.88.245.85/nuevo/marlowe.2023.dual.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/kSf9svfL2WrKeuK8W08xeR5lTn8.jpg" ,Sonido de libertad
+http://208.88.245.85/nuevo/sonido.de.libertad.2023dual.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg" ,Spiderman a través del spiderverso
+http://208.88.245.85:80/nuevo/spiderm.atravesdelspiderverso.2023dual.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/vd8YdaH7dzeIMGTNwQinlSiA1gV.jpg" ,Spy kids armagedon
+http://208.88.245.85/nuevo/spykids.armagedon.dual2023.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/5dliMQ2ODbGNoq0hlefdnuXQxMw.jpg" ,Suegros de armas tomar
+http://208.88.245.85/nuevo/suegros.dearmas.tomar.dual.2023.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/vIeu8WysZrTSFb2uhPViKjX9EcC.jpg" ,Suzume
+http://208.88.245.85/nuevo/suzume.dual.2023.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/kL4GDXHnwknt5oyD9eyyi693gbB.jpg" ,Taz odisea por las hamburguesas
+http://208.88.245.85:80/nuevo/taz.odiseaxlashamburguesas.2023dual.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/ueO9MYIOHO7M1PiMUeX74uf8fB9.jpg" ,Teen mutant ninfa turtles mayhem
+http://208.88.245.85/hd/Teenage.Mutant.Ninja.Turtles.Mutant.Mayhem.2023.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/9ssNSfNKpzZwhbFsnW3wa82m2sG.jpg" ,THE  burial
+http://208.88.245.85/nuevo/the.burial.dual2023.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/9YEGawvjaRgnyW6QVcUhFJPFDco.jpg" ,The Black clover la espada del rey
+http://208.88.245.85/nuevo/blacklover.espadadelreymago.2023dual.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/rktDFPbfHfUbArZ6OOOKsXcv0Bm.jpg" ,The flash
+http://208.88.245.85/nuevo/the.flash.2023dual.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/gwVAb3hMYl5F68mvKGl2eqDOj0G.jpg" ,Tin y Tina (2023)
+http://208.88.245.85/nuevo/tin.tina.2023.cast.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/hQUT2B0QVV17pYMHyLzdNGVdrBF.jpg" ,Todo sobre mi padre
+http://208.88.245.85/nuevo/todo.sobre.mipadre.dual2023.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/gPbM0MK8CP8A174rmUwGsADNYKD.jpg" ,Transformers despertar de las bestias
+http://208.88.245.85/nuevo/transformers.despertar.dlas.bestias.2023dual.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/duv6wtHMuN74HF7UuLjvUUrn8dB.jpg" ,Un sorbo frío  asesinato de Jessica Won
+http://208.88.245.85/nuevo/un.sorbo.frio.asesinato.de.jessicawon.dual2023.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/30we4NrF5F1FcBDklBGXvCDn1pG.jpg" ,Una verdadera familia embrujada
+http://208.88.245.85/nuevo/una.verdadera.familiaembrujada.dual2023.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/yMeKoe3ui4Pad8FUOJwCby3SOWe.jpg" ,Uno para morir
+http://208.88.245.85/nuevo/unoparamorir.latino.2023.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/liVS0KJMviz4iOfbrZkLqdCzBIp.jpg" ,Zoey 102 la boda
+http://208.88.245.85/nuevo/zoey102.laboda.dual2023.mkv
+#EXTINF:-1 group-title="Pelis 1" tvg-logo="https://image.tmdb.org/t/p/w500/6qR9WbXYIddZcVk6nxFULfHcKmK.jpg" ,Águila y Jaguar
+http://208.88.245.85/nuevo/aguila.y.jaguar.2023.latino.mkv
+#EXTINF:-1 group-title="Pelis 2" tvg-logo="https://image.tmdb.org/t/p/w500/ovIX8JQSh58GKhYlhIhJohVqEaj.jpg" ,Angela (2023)
+https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Foctubre%2FVer%20Angela%20online%20HD%20-%20Cuevana%202.mp4
 #EXTINF:-1 group-title="Prison Break" ,Prison Break T1 - Capitulo 1
 https://content.jwplatform.com/videos/MUH8rhS1-9MsOdhOt.mp4
 #EXTINF:-1 group-title="Prison Break" ,Prison Break T1 - Capitulo 10
@@ -13233,315 +13351,3 @@ http://144.217.70.79/VODS-M/1080P/Zoolander%202001.mkv
 http://144.217.70.79/VODS-M/1080P/Zootopia%202016.mkv
 #EXTINF:-1 group-title="ZZPELICULAS GLOBAL 01" ,Zulu 1964
 http://144.217.70.79/VODS-M/1080P/Zulu%201964.mkv
-#EXTINF:-1 group-title="zzvarios01" ,12 monos (1995)
-http://vod.tuxchannel.mx/peliculas/720/12%20monkeys.mkv
-#EXTINF:-1 group-title="zzvarios01" ,300 1 (2006)
-http://vod.tuxchannel.mx/peliculas/720/300.mkv
-#EXTINF:-1 group-title="zzvarios01" ,300 2 (2014)
-http://vod.tuxchannel.mx/peliculas/720/300%20rise%20of%20an%20empire.mkv
-#EXTINF:-1 group-title="zzvarios01" ,6 Underground (2019)
-http://vod.tuxchannel.mx/peliculas/720/6%20underground%202019.mkv
-#EXTINF:-1 group-title="zzvarios01" ,A.I. Inteligencia artificial (2001)
-http://vod.tuxchannel.mx/peliculas/720/inteligencia%20artificial.mkv
-#EXTINF:-1 group-title="zzvarios01" ,Acción policial (2013)
-http://vod.tuxchannel.mx/peliculas/720/police%20story.mkv
-#EXTINF:-1 group-title="zzvarios01" ,Ad Astra (2019)
-http://vod.tuxchannel.mx/peliculas/720/ad%20astra%202019.mkv
-#EXTINF:-1 group-title="zzvarios01" ,Adú (2020)
-http://vod.tuxchannel.mx/peliculas/720/adu%202020.mkv
-#EXTINF:-1 group-title="zzvarios01" ,After. En mil pedazos (2020)
-http://vod.tuxchannel.mx/peliculas/720/after%20we%20collided%202020.mkv
-#EXTINF:-1 group-title="zzvarios01" ,Agente Salt (2010)
-http://vod.tuxchannel.mx/peliculas/720/salt.mkv
-#EXTINF:-1 group-title="zzvarios01" ,Alerta extrema (2023)
-http://208.88.245.81/nuevo/alerta.extrema.dual.2023.mkv
-#EXTINF:-1 group-title="zzvarios01" ,Alicia a través del espejo (2016)
-http://vod.tuxchannel.mx/peliculas/720/alice%20throught%20the%20looking%20glass.mkv
-#EXTINF:-1 group-title="zzvarios01" ,Alicia en el país de las maravillas (2010)
-http://vod.tuxchannel.mx/peliculas/720/alice%20in%20wonderland.mkv
-#EXTINF:-1 group-title="zzvarios01" ,Alita (2019)
-http://vod.tuxchannel.mx/peliculas/720/alita%20battle%20angel%202019.mkv
-#EXTINF:-1 group-title="zzvarios01" ,Amenaza en lo profundo (2020)
-http://vod.tuxchannel.mx/peliculas/720/underwater%202020.mkv
-#EXTINF:-1 group-title="zzvarios01" ,American Pie Presents: Girls' Rules (2020)
-http://vod.tuxchannel.mx/peliculas/720/american%20pie%20presents%20girls%20rules%202020.mkv
-#EXTINF:-1 group-title="zzvarios01" ,Amor ciego (2001)
-http://vod.tuxchannel.mx/peliculas/720/shallow%20hal.mkv
-#EXTINF:-1 group-title="zzvarios01" ,Animales fantásticos 1 (2016)
-http://vod.tuxchannel.mx/peliculas/720/fantastic%20beast%20and%20where%20to%20find%20them.mkv
-#EXTINF:-1 group-title="zzvarios01" ,Animales fantásticos 2 (2018)
-http://vod.tuxchannel.mx/peliculas/720/animales%20fantasticos%20los%20crimenes%20de%20grindelwald.mkv
-#EXTINF:-1 group-title="zzvarios01" ,Anna (2019)
-http://vod.tuxchannel.mx/peliculas/720/anna%202019.mkv
-#EXTINF:-1 group-title="zzvarios01" ,Apocalypto (2006)
-http://vod.tuxchannel.mx/peliculas/720/apocalypto.mkv
-#EXTINF:-1 group-title="zzvarios01" ,Aprendices fuera de línea (2013)
-http://vod.tuxchannel.mx/peliculas/720/the%20internship.mkv
-#EXTINF:-1 group-title="zzvarios01" ,Armageddon (1998)
-http://vod.tuxchannel.mx/peliculas/720/armageddon.mkv
-#EXTINF:-1 group-title="zzvarios01" ,Asesinos Sádicos (2021)
-http://vod.tuxchannel.mx/peliculas/720/butchers%202020.mkv
-#EXTINF:-1 group-title="zzvarios01" ,Ava (2020)
-http://vod.tuxchannel.mx/peliculas/720/ava%202020.mkv
-#EXTINF:-1 group-title="zzvarios01" ,Bajocero (2021)
-http://vod.tuxchannel.mx/peliculas/720/bajocero%202021.mkv
-#EXTINF:-1 group-title="zzvarios01" ,Bala perdida (2020)
-http://vod.tuxchannel.mx/peliculas/720/balle%20perdue%202020.mkv
-#EXTINF:-1 group-title="zzvarios01" ,Barrenderos espaciales (2021)
-http://vod.tuxchannel.mx/peliculas/720/seungriho%202021.mkv
-#EXTINF:-1 group-title="zzvarios01" ,Becky (2020)
-http://vod.tuxchannel.mx/peliculas/720/becky%202020.mkv
-#EXTINF:-1 group-title="zzvarios01" ,Bill & Ted salvando el universo (2020)
-http://vod.tuxchannel.mx/peliculas/720/bill%20and%20ted%20face%20the%20music%202020.mkv
-#EXTINF:-1 group-title="zzvarios01" ,Bob Esponja al rescate (2020)
-http://vod.tuxchannel.mx/peliculas/720/the%20spongebob%20movie%20sponge%20on%20the%20run%202020.mkv
-#EXTINF:-1 group-title="zzvarios01" ,Boda Sangrienta (2019)
-http://vod.tuxchannel.mx/peliculas/720/ready%20or%20not%202019.mkv
-#EXTINF:-1 group-title="zzvarios01" ,Bronx (2020) NF
-http://vod.tuxchannel.mx/peliculas/720/bronx%202020.mkv
-#EXTINF:-1 group-title="zzvarios01" ,Bulbul (2019)
-http://vod.tuxchannel.mx/peliculas/720/bulbbul%202020.mkv
-#EXTINF:-1 group-title="zzvarios01" ,Chappie (2015)
-http://vod.tuxchannel.mx/peliculas/720/chappie.mkv
-#EXTINF:-1 group-title="zzvarios01" ,Chicas armadas y peligrosas (2013)
-http://vod.tuxchannel.mx/peliculas/720/the%20heat.mkv
-#EXTINF:-1 group-title="zzvarios01" ,Cold Blood (2019)
-http://vod.tuxchannel.mx/peliculas/720/cold%20blood%202019.mkv
-#EXTINF:-1 group-title="zzvarios01" ,Cry Macho (2021)
-http://vod.tuxchannel.mx/peliculas/720/cry%20macho%202021.mkv
-#EXTINF:-1 group-title="zzvarios01" ,Culpable (2021)
-http://vod.tuxchannel.mx/peliculas/720/the%20guilty%202021.mkv
-#EXTINF:-1 group-title="zzvarios01" ,Código 8 (2019)
-http://vod.tuxchannel.mx/peliculas/720/code%208%202019.mkv
-#EXTINF:-1 group-title="zzvarios01" ,Código Fuente (2011)
-http://vod.tuxchannel.mx/peliculas/720/source%20code.mkv
-#EXTINF:-1 group-title="zzvarios01" ,Dicha (2021)
-http://vod.tuxchannel.mx/peliculas/720/bliss%202021.mkv
-#EXTINF:-1 group-title="zzvarios01" ,Distrito 9 (2009)
-http://vod.tuxchannel.mx/peliculas/720/distrit%209.mkv
-#EXTINF:-1 group-title="zzvarios01" ,Doom: Annihilation (2019)
-http://vod.tuxchannel.mx/peliculas/720/doom%20annihilation%202019.mkv
-#EXTINF:-1 group-title="zzvarios01" ,Dora y la ciudad perdida (2019)
-http://vod.tuxchannel.mx/peliculas/720/dora%20and%20the%20lost%20city%20of%20gold%202019.mkv
-#EXTINF:-1 group-title="zzvarios01" ,Dune (2021)
-http://vod.tuxchannel.mx/peliculas/720/dune%202021.mkv
-#EXTINF:-1 group-title="zzvarios01" ,E.T. el extraterrestre (1982)
-http://vod.tuxchannel.mx/peliculas/720/e.t.%20the%20extra-terrestrial.mkv
-#EXTINF:-1 group-title="zzvarios01" ,El diablo me dijo qué hacer (2019)
-http://vod.tuxchannel.mx/peliculas/720/el%20diablo%20me%20dijo%20que%20hacer%202019.mkv
-#EXTINF:-1 group-title="zzvarios01" ,El día del fin del mundo (2020)
-http://vod.tuxchannel.mx/peliculas/720/greenland%202020.mkv
-#EXTINF:-1 group-title="zzvarios01" ,El Halloween de Hubie (2020)
-http://vod.tuxchannel.mx/peliculas/720/hubie%20halloween%202020.mkv
-#EXTINF:-1 group-title="zzvarios01" ,El hombre invisible (2020)
-http://vod.tuxchannel.mx/peliculas/720/the%20invisible%20man%202020.mkv
-#EXTINF:-1 group-title="zzvarios01" ,El libro de Eli (2010)
-http://vod.tuxchannel.mx/peliculas/720/the%20book%20ok%20eli.mkv
-#EXTINF:-1 group-title="zzvarios01" ,El llanero solitario (2013)
-http://vod.tuxchannel.mx/peliculas/720/the%20lone%20ranger.mkv
-#EXTINF:-1 group-title="zzvarios01" ,El niño 2 (2020)
-http://vod.tuxchannel.mx/peliculas/720/brahms%20the%20boy%20II%202020.mkv
-#EXTINF:-1 group-title="zzvarios01" ,El origen (2010)
-http://vod.tuxchannel.mx/peliculas/720/el%20origen.mkv
-#EXTINF:-1 group-title="zzvarios01" ,El Plan Perfecto (2019)
-http://vod.tuxchannel.mx/peliculas/720/inside%20man%20most%20wanted%202019.mkv
-#EXTINF:-1 group-title="zzvarios01" ,El poder del talismán (2003)
-http://vod.tuxchannel.mx/peliculas/720/the%20medallion.mkv
-#EXTINF:-1 group-title="zzvarios01" ,El sótano de Ma (2019)
-http://vod.tuxchannel.mx/peliculas/720/ma%202019.mkv
-#EXTINF:-1 group-title="zzvarios01" ,El Único Y Gran Iván (2020)
-http://vod.tuxchannel.mx/peliculas/720/the%20one%20and%20only%20ivan%202020.mkv
-#EXTINF:-1 group-title="zzvarios01" ,El último baile de Magic Mike (2023)
-http://208.88.245.85/nuevo/magicmike.elultimo.baile.dual2023.mkv
-#EXTINF:-1 group-title="zzvarios01" ,El último samurái (2003)
-http://vod.tuxchannel.mx/peliculas/720/the%20last%20samurai.mkv
-#EXTINF:-1 group-title="zzvarios01" ,El único (2001)
-http://vod.tuxchannel.mx/peliculas/720/the%20one.mkv
-#EXTINF:-1 group-title="zzvarios01" ,Elegida (2020)
-http://vod.tuxchannel.mx/peliculas/720/antebellum%202020.mkv
-#EXTINF:-1 group-title="zzvarios01" ,Eli (2019)
-http://vod.tuxchannel.mx/peliculas/720/eli%202019.mkv
-#EXTINF:-1 group-title="zzvarios01" ,Embaucadores (2023)
-http://208.88.245.85/nuevo/sharper.2023.dual.mkv
-#EXTINF:-1 group-title="zzvarios01" ,En la hierba alta (2019)
-http://vod.tuxchannel.mx/peliculas/720/in%20the%20tall%20grass%202019.mkv
-#EXTINF:-1 group-title="zzvarios01" ,En la misma ola (2021)
-http://vod.tuxchannel.mx/peliculas/720/sulla%20stessa%20onda%202021.mkv
-#EXTINF:-1 group-title="zzvarios01" ,Enemigo Inmortal (2017)
-http://vod.tuxchannel.mx/peliculas/720/enemigo%20inmortal.mkv
-#EXTINF:-1 group-title="zzvarios01" ,Escolta (2019)
-http://vod.tuxchannel.mx/peliculas/720/close.mkv
-#EXTINF:-1 group-title="zzvarios01" ,Escuadrón suicida (2016)
-http://vod.tuxchannel.mx/peliculas/720/suicide%20squad.mkv
-#EXTINF:-1 group-title="zzvarios01" ,Estafadoras de Wall Street (2019)
-http://vod.tuxchannel.mx/peliculas/720/hustlers%202019.mkv
-#EXTINF:-1 group-title="zzvarios01" ,Freaky (2020)
-http://vod.tuxchannel.mx/peliculas/720/freaky%202020.mkv
-#EXTINF:-1 group-title="zzvarios01" ,Free Guy (2021)
-http://vod.tuxchannel.mx/peliculas/720/free%20guy%202021.mkv
-#EXTINF:-1 group-title="zzvarios01" ,Frozen 2 (2019)
-http://vod.tuxchannel.mx/peliculas/720/frozen%20II%202019.mkv
-#EXTINF:-1 group-title="zzvarios01" ,Fuga de Pretoria (2020)
-http://vod.tuxchannel.mx/peliculas/720/escape%20from%20pretoria%202020.mkv
-#EXTINF:-1 group-title="zzvarios01" ,Furia de titanes 1 (2010)
-http://vod.tuxchannel.mx/peliculas4k/clash%20of%20the%20titans.mkv
-#EXTINF:-1 group-title="zzvarios01" ,Furia de titanes 2 (2012)
-http://vod.tuxchannel.mx/peliculas4k/wrath%20of%20the%20titans.mkv
-#EXTINF:-1 group-title="zzvarios01" ,Geo-tormenta (2017)
-http://vod.tuxchannel.mx/peliculas/720/geostorm.mkv
-#EXTINF:-1 group-title="zzvarios01" ,Godzilla 2 (2019)
-http://vod.tuxchannel.mx/peliculas/720/godzilla%20king%20of%20the%20monsters%202019.mkv
-#EXTINF:-1 group-title="zzvarios01" ,Greyhound (2020)
-http://vod.tuxchannel.mx/peliculas/720/greyhound%202020.mkv
-#EXTINF:-1 group-title="zzvarios01" ,Géminis (2019)
-http://vod.tuxchannel.mx/peliculas/720/gemini%20man%202019.mkv
-#EXTINF:-1 group-title="zzvarios01" ,Había una vez en Hollywood (2020)
-http://vod.tuxchannel.mx/peliculas/720/once%20upon%20a%20snowman%202020.mkv
-#EXTINF:-1 group-title="zzvarios01" ,Halloween Kills (2021)
-http://vod.tuxchannel.mx/peliculas/720/halloween%202021.mkv
-#EXTINF:-1 group-title="zzvarios01" ,Historia de Honor (2022)
-http://208.88.245.85/nuevo/historia.dehonor.dual2023.mkv
-#EXTINF:-1 group-title="zzvarios01" ,Historia de un matrimonio (2019)
-http://vod.tuxchannel.mx/peliculas/720/marriage%20story%202019.mkv
-#EXTINF:-1 group-title="zzvarios01" ,Historias de miedo para contar en la oscuridad (2019)
-http://vod.tuxchannel.mx/peliculas/720/scary%20stories%20to%20tell%20in%20the%20dark%202019.mkv
-#EXTINF:-1 group-title="zzvarios01" ,Hércules (2014)
-http://vod.tuxchannel.mx/peliculas/720/hercules%202014.mkv
-#EXTINF:-1 group-title="zzvarios01" ,Jiu Jitsu (2020)
-http://vod.tuxchannel.mx/peliculas/720/jiu%20jitsu%202020.mkv
-#EXTINF:-1 group-title="zzvarios01" ,John Carter (2012)
-http://vod.tuxchannel.mx/peliculas/720/john%20carter.mkv
-#EXTINF:-1 group-title="zzvarios01" ,La cacería (2020)
-http://vod.tuxchannel.mx/peliculas/720/the%20hunt%202020.mkv
-#EXTINF:-1 group-title="zzvarios01" ,La casa de las flores: la película (2021)
-http://vod.tuxchannel.mx/peliculas/720/la%20casa%20de%20las%20flores%20la%20pelicula%202021.mkv
-#EXTINF:-1 group-title="zzvarios01" ,La fuerza de la naturaleza (2020)
-http://vod.tuxchannel.mx/peliculas/720/force%20of%20nature%202020.mkv
-#EXTINF:-1 group-title="zzvarios01" ,La guardería del abuelo (2019)
-http://vod.tuxchannel.mx/peliculas/720/grand-daddy%20day%20care%202019.mkv
-#EXTINF:-1 group-title="zzvarios01" ,La horca 2 (2019)
-http://vod.tuxchannel.mx/peliculas/720/the%20gallows%20act%20II%202019.mkv
-#EXTINF:-1 group-title="zzvarios01" ,La influencia (2019)
-http://vod.tuxchannel.mx/peliculas/720/la%20influencia%202019.mkv
-#EXTINF:-1 group-title="zzvarios01" ,La isla de la fantasía (2020)
-http://vod.tuxchannel.mx/peliculas/720/fantasy%20island%202020%20unrated.mkv
-#EXTINF:-1 group-title="zzvarios01" ,La maldición de la ouija (2018)
-http://vod.tuxchannel.mx/peliculas/720/ouija%20house%202018.mkv
-#EXTINF:-1 group-title="zzvarios01" ,La noche buena es mi condena (2020)
-http://vod.tuxchannel.mx/peliculas/720/tudo%20bem%20no%20natal%20que%20vem%202020.mkv
-#EXTINF:-1 group-title="zzvarios01" ,La razón de estar contigo (2019)
-http://vod.tuxchannel.mx/peliculas/720/a%20dogs%20journey%202019.mkv
-#EXTINF:-1 group-title="zzvarios01" ,La vieja guardia (2020)
-http://vod.tuxchannel.mx/peliculas/720/the%20old%20guard%202020.mkv
-#EXTINF:-1 group-title="zzvarios01" ,Lassie vuelve a casa (2020)
-http://vod.tuxchannel.mx/peliculas/720/lassie-eine%20abenteuerliche%20reise%202020.mkv
-#EXTINF:-1 group-title="zzvarios01" ,Llaman a la puerta (2023)
-http://208.88.245.85/nuevo/llaman.ala.puerta.dual.2023.mkv
-#EXTINF:-1 group-title="zzvarios01" ,Looper (2012)
-http://vod.tuxchannel.mx/peliculas/720/looper.mkv
-#EXTINF:-1 group-title="zzvarios01" ,Los muertos no mueren (2019)
-http://vod.tuxchannel.mx/peliculas/720/the%20dead%20dont%20die%202019.mkv
-#EXTINF:-1 group-title="zzvarios01" ,Luchando con mi familia (2019)
-http://vod.tuxchannel.mx/peliculas/720/fighting%20whit%20my%20family%202019.mkv
-#EXTINF:-1 group-title="zzvarios01" ,Lucy (2014)
-http://vod.tuxchannel.mx/peliculas/720/lucy%202014.mkv
-#EXTINF:-1 group-title="zzvarios01" ,Malcriados (2023)
-http://208.88.245.85/nuevo/malcriados.2023.latino.mkv
-#EXTINF:-1 group-title="zzvarios01" ,Mercenarios de élite (2020)
-http://vod.tuxchannel.mx/peliculas/720/hard%20kill%202020.mkv
-#EXTINF:-1 group-title="zzvarios01" ,Michael Jackson: Searching for Neverland (2017)
-http://vod.tuxchannel.mx/peliculas/720/michael%20jackson%20searching%20for%20neverland%202017.mkv
-#EXTINF:-1 group-title="zzvarios01" ,Misterio a bordo (2019)
-http://vod.tuxchannel.mx/peliculas/720/murder%20mystery%202019.mkv
-#EXTINF:-1 group-title="zzvarios01" ,Monster Hunter (2020)
-http://vod.tuxchannel.mx/peliculas/720/monster%20hunter%202020.mkv
-#EXTINF:-1 group-title="zzvarios01" ,Nadie duerme en el bosque esta noche (2020) NF
-http://vod.tuxchannel.mx/peliculas/720/w%20lesie%20dzis%20nie%20zasnie%20nikt%202020.mkv
-#EXTINF:-1 group-title="zzvarios01" ,Nadie duerme en el bosque esta noche 2 (2021)
-http://vod.tuxchannel.mx/peliculas/720/w%20lesie%20dzis%20nie%20zasnie%20nikt%202%202021.mkv
-#EXTINF:-1 group-title="zzvarios01" ,Need for Speed (2014)
-http://vod.tuxchannel.mx/peliculas/720/need%20for%20speed.mkv
-#EXTINF:-1 group-title="zzvarios01" ,Noticias del mundo (2020)
-http://vod.tuxchannel.mx/peliculas/720/news%20of%20the%20world%202020.mkv
-#EXTINF:-1 group-title="zzvarios01" ,Noé (2014)
-http://vod.tuxchannel.mx/peliculas/720/noah.mkv
-#EXTINF:-1 group-title="zzvarios01" ,Náufrago (2000)
-http://vod.tuxchannel.mx/peliculas/720/cast%20away.mkv
-#EXTINF:-1 group-title="zzvarios01" ,Palmer (2021)
-http://vod.tuxchannel.mx/peliculas/720/palmer%202021.mkv
-#EXTINF:-1 group-title="zzvarios01" ,Pequeños secretos (2021)
-http://vod.tuxchannel.mx/peliculas/720/the%20little%20things%202021.mkv
-#EXTINF:-1 group-title="zzvarios01" ,Pesadilla al amanecer (2019)
-http://vod.tuxchannel.mx/peliculas/720/rassvet%202019.mkv
-#EXTINF:-1 group-title="zzvarios01" ,Poder sin límites (2012)
-http://vod.tuxchannel.mx/peliculas/720/chronicle.mkv
-#EXTINF:-1 group-title="zzvarios01" ,Presencias del mal (2020)
-http://vod.tuxchannel.mx/peliculas/720/the%20turning%202020.mkv
-#EXTINF:-1 group-title="zzvarios01" ,Prince of Persia (2010)
-http://vod.tuxchannel.mx/peliculas/720/el%20principe%20de%20persia%20las%20arenas%20del%20tiempo.mkv
-#EXTINF:-1 group-title="zzvarios01" ,Rambo: Last Blood (2019)
-http://vod.tuxchannel.mx/peliculas/720/rambo%20last%20blood%202019.mkv
-#EXTINF:-1 group-title="zzvarios01" ,Rampage (2018)
-http://vod.tuxchannel.mx/peliculas/720/rampage.mkv
-#EXTINF:-1 group-title="zzvarios01" ,Rascacielos (2018)
-http://vod.tuxchannel.mx/peliculas/720/el%20rascacielos.mkv
-#EXTINF:-1 group-title="zzvarios01" ,Ready Player One (2018)
-http://vod.tuxchannel.mx/peliculas/720/ready%20player%20one.mkv
-#EXTINF:-1 group-title="zzvarios01" ,Rebeca (2020) NF
-http://vod.tuxchannel.mx/peliculas/720/rebecca%202020.mkv
-#EXTINF:-1 group-title="zzvarios01" ,Rocketman (2019)
-http://vod.tuxchannel.mx/peliculas/720/rocketman%202019.mkv
-#EXTINF:-1 group-title="zzvarios01" ,Serpiente de cascabel (2019)
-http://vod.tuxchannel.mx/peliculas/720/rattlesnake%202019.mkv
-#EXTINF:-1 group-title="zzvarios01" ,Sextillizos (2019)
-http://vod.tuxchannel.mx/peliculas/720/sextuplets%202019.mkv
-#EXTINF:-1 group-title="zzvarios01" ,Shang-Chi y la leyenda de los Diez Anillos (2021)
-http://vod.tuxchannel.mx/peliculas/720/shang-chi%20%20and%20the%20legend%20of%20the%20ten%20rings%202021.mkv
-#EXTINF:-1 group-title="zzvarios01" ,Shazam 1 (2019)
-http://vod.tuxchannel.mx/peliculas/720/shazam%202019.mkv
-#EXTINF:-1 group-title="zzvarios01" ,Sin tiempo para morir (2021)
-http://vod.tuxchannel.mx/peliculas/720/no%20time%20to%20die%202021.mkv
-#EXTINF:-1 group-title="zzvarios01" ,Snake Eyes: El origen (2021)
-http://vod.tuxchannel.mx/peliculas/720/snake%20eyes%20gi%20joe%20origins%202021.mkv
-#EXTINF:-1 group-title="zzvarios01" ,Sputnik (2020)
-http://vod.tuxchannel.mx/peliculas/720/sputnik%202020.mkv
-#EXTINF:-1 group-title="zzvarios01" ,Su Casa (2020) NF
-http://vod.tuxchannel.mx/peliculas/720/his%20house%202020.mkv
-#EXTINF:-1 group-title="zzvarios01" ,Tenet (2020)
-http://vod.tuxchannel.mx/peliculas/720/tenet%202020.mkv
-#EXTINF:-1 group-title="zzvarios01" ,Terremoto:la falla de San Andrés (2015)
-http://vod.tuxchannel.mx/peliculas/720/terretomo%20la%20falla%20de%20san%20andres.mkv
-#EXTINF:-1 group-title="zzvarios01" ,The Jack in the Box: El despertar (2022)
-http://208.88.245.81/nuevo/jackinthebox2.eldespertar.dual.2023.mkv
-#EXTINF:-1 group-title="zzvarios01" ,The Silencing (2020)
-http://vod.tuxchannel.mx/peliculas/720/the%20silencing%202020.mkv
-#EXTINF:-1 group-title="zzvarios01" ,Tigre blanco (2021)
-http://vod.tuxchannel.mx/peliculas/720/the%20white%20tiger%202021.mkv
-#EXTINF:-1 group-title="zzvarios01" ,Todos mis amigos están muertos (2020)
-http://vod.tuxchannel.mx/peliculas/720/wszyscy%20moi%20przyjaciele%20nie%20zyja%202020.mkv
-#EXTINF:-1 group-title="zzvarios01" ,Togo (2019)
-http://vod.tuxchannel.mx/peliculas/720/togo%202019.mkv
-#EXTINF:-1 group-title="zzvarios01" ,Trauma Center (2019)
-http://vod.tuxchannel.mx/peliculas/720/trauma%20center%202019.mkv
-#EXTINF:-1 group-title="zzvarios01" ,Triple Frontier (2019)
-http://vod.tuxchannel.mx/peliculas/720/triple%20frontier%202018.mkv
-#EXTINF:-1 group-title="zzvarios01" ,Un Hombre Lobo entre Nosotros (2021)
-http://vod.tuxchannel.mx/peliculas/720/werewolves%20within%202021.mkv
-#EXTINF:-1 group-title="zzvarios01" ,Un paraíso peligroso (2023)
-http://208.88.245.85/nuevo/paradisecity.dual.2023.mkv
-#EXTINF:-1 group-title="zzvarios01" ,Venganza (2019)
-http://vod.tuxchannel.mx/peliculas/720/cold%20pursuit%202019.mkv
-#EXTINF:-1 group-title="zzvarios01" ,Venganza implacable (2020)
-http://vod.tuxchannel.mx/peliculas/720/honest%20thief%202020.mkv
-#EXTINF:-1 group-title="zzvarios01" ,Venom (2018)
-http://vod.tuxchannel.mx/peliculas/720/venom.mkv
-#EXTINF:-1 group-title="zzvarios01" ,Viejos (2021)
-http://vod.tuxchannel.mx/peliculas/720/old%202021.mkv
-#EXTINF:-1 group-title="zzvarios01" ,Warcraft: El Origen (2016)
-http://vod.tuxchannel.mx/peliculas/720/warcraft.mkv
-#EXTINF:-1 group-title="zzvarios01" ,Wonder Woman 1984 (2020)
-http://vod.tuxchannel.mx/peliculas/720/wonder%20woman%202020.mkv
-#EXTINF:-1 group-title="zzvarios01" ,You Should Have Left (2020)
-http://vod.tuxchannel.mx/peliculas/720/you%20should%20have%20left%202020.mkv
-#EXTINF:-1 group-title="zzvarios01" ,Zona de Riesgo (2021)
-http://vod.tuxchannel.mx/peliculas/720/outside%20the%20wire%202021.mkv
