@@ -6685,6 +6685,16 @@ http://181.205.77.118:4849/play/CH61
 http://181.205.77.118:4849/play/CH16
 #EXTINF:-1 group-title="CHILE NETWORK" ,Win Sports+ HD
 http://181.205.77.118:4849/play/CH14
+#EXTINF:0 group-title="EMULIGL" ,CLARO SPORTS
+http://23.134.94.176:8080/zjjqC6jBkBTA/x732MtLAy4QQ/392?token=HUNQAkVfEw5EAwELU1VVD1FQBgcLAQYMA1AEClRXUAAEBwBXUA4GDFQSGREWRRRdU1s7Cl0RCAoLABsRR0dXRTkIXEEMFQAFVgYEAUcdRExbWwFBAwIFCAcABQsGAwYbRBFRBxQNEwBXBQERSRMDQEZTFg1YX21dV0ReUFcWCFkTDVRPFFhfawJVWFILVUQCEAdGTxtaQUkQCBVnV1hXVAMPTBFZF2IaJx4XH0dTD0xAVxAGGwkQCgYFDxEeFlFYEw9MEU8VCxYnYhcfR1QeTFdYFwpWXRADEEZEER4WW0Q5E10QQkVUVQtVRxFfE1YaHhQJAkFsUVZcXFJQRl1dWRVDAkEFFR0WC19bWhFeFGdCXwBBAxEHDQcQSg==
+#EXTINF:0 group-title="EMULIGL" ,ESPN PREMIUM
+http://212.52.12.70:8080/zjjqC6jBkBTA/x732MtLAy4QQ/99?token=HUNQAkVfEw5EVVYKVwgDW1RUUVANCgYJV1ZWClMAC1RWVFwBAQ8GDQASGREWRRRdU1s7Cl0RCAALHhVGQVFAaA8FGlkUBgAEUAEHEUkTElFfU0ZZCAQDDAAADwUHAh4VFghcQQwVAgdTAAwRSRMDQEZTFg1YX21dV0ReUFcWCFkTDVRPFFhfawJVWFILVUQCEAdGTxtaQUkQCBVnV1hXVAMPTBFZF2IaJx4XH0dTD0xAVxAGGwkQCAUBBxEeFlFYEw9MEU8VCxYnYhcfR1QeTFdYFwpWXRADEEZEER4WW0Q5E10QQkVUVQtVRxFfE1YaHhQJAkFsUVZcXFJQRl1dWRVDAkEFFR0WC19bWhFeFGdCXwBBAxEADwQBFU4=
+#EXTINF:0 group-title="EMULIGL" ,ESPN PREMIUM CHILE
+http://212.52.12.70:8080/zjjqC6jBkBTA/x732MtLAy4QQ/244254?token=HUNQAkVfEw5EBVAKBgdTW1dSXFEPCwINUFMEA1ECVlNeAl1XBVUGBlESGREWRRRdU1s7Cl0RCAsGBgUGBhgQQhUESjxfUxMORAEEA1MAVBoeFBAKVFYQAwMFBgYABgoBVlkUQUZeVRZcXkBfCR1EXUpCARFXUl5mVldBWlFREA0IFFQPGhVeWjlUUF4EXwIaCBRVQRURW0pCEA0RZlFeUgUEVhdEWBFnSHEbEUkTBFFGRAUXXBEIV0deWx8QV11CCBVKGhQNE3U0EhkRAEkSXVxFDQxXEQgbRkEVHxBdQWgUBEsXRFJQWQNCFwlHAUQUEFsFG2ZQXVdcV1RHW1tcRERbGlAUGxNZCV5cRwpDOUhbUkZZV0ZeVU8=
+#EXTINF:0 group-title="EMULIGL" ,TIGO SPORT PARAGUAY
+http://212.52.12.69:8080/zjjqC6jBkBTA/x732MtLAy4QQ/244451?token=HUNQAkVfEw5EAAMDBgFUWVRTUFYNV1MMVFMECwQCBlEEBwoGAQcJAVESGREWRRRdU1s7Cl0RCAsGBgMGAxgQQhUESjxfUxMORAEEA1MAVBoeFBAKVFYQAwMFBgYABgoAUFQUQUZeVRZcEgEFUQVUGh4UARtNVkBXU15oV1dCW1QDQwINQ1tdGERfW2wBVAtZXFJGWRsCEBUQW0RDEA4QYwMNXQBTWUVGCRBmHSQfRBQQVA0XS1JGXBAIFQYGBgcVSkNbDENZRUYfEg8RJGNEFBBTHBdcXUFQXVwVCRBAQRVKQ1EQaUVURxJCUFIIVBQaCBRUQRURX1hKbVRcXFpXVBIIVw1FFQsWVRIZEQheCFFGWRY8SVpWGwgQAwUBBQUVGw==
+#EXTINF:0 group-title="EMULIGL" ,TNT SPORTS
+http://108.181.57.133:8080/zjjqC6jBkBTA/x732MtLAy4QQ/147?token=HUNQAkVfEw5EUQADVAQCAAtSVlRYUQAPAFNUAlRVVwJfUgtXVAdXUVISGREWRRRdU1s7Cl0RCAgGBRsRR0dXRTkIXEEMFQAFVgYEAUcdRExbWwFBAwIFCAcABQsHAQUbRBFRBxQNEwVVAgYRSRMDQEZTFg1YX21dV0ReUFcWCFkTDVRPFFhfawJVWFILVUQCEAZGTxtaQUkQCBVnV1hXVAMPTBFZF2IaJx4XH0dTD0xAVxAGGwkQDAcKBREeFlFYEw9MEU8VCxYnYhcfR1QeTFdYFwpWXRADEEZEER4WW0Q5E10QQkVUVQtVRxFfE1YaHhQJAkFsUVZcXFJQRl1dWRVDAkEFFR0WC19bWhFeFGdCXwBBAxEDAQUDBRFP
 #EXTINF:0 group-title="EVENTOS" ,BESIKTAS VS RISEZPOR
 https://a49.azplay.me/hls/streama222402/index.m3u8?cst=95123d7495ccc60d989e5c7b9dbb60a7
 #EXTINF:0 group-title="EVENTOS" ,FINT GA 3
@@ -8199,10 +8209,50 @@ https://pull.niur.live/live/stream-101657_lhd.m3u8?txSecret=204f3ead46a1604d40fb
 https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1714800431-0-0-ffdc1d8295ecfc085380c4adf4e99026
 #EXTINF:0 group-title="portlandinterviewmagazine" ,380460
 https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1714800551-0-0-4a8d28b010a3e8c9dfe341dbca2a85de
+#EXTINF:0 group-title="portlandinterviewmagazine" ,9910243
+https://pull.niues.live/live/stream-9912043_lhd.m3u8?auth_key=1714822331-0-0-a01cd1bf650cbdc5550f7fd68078c141
 #EXTINF:0 group-title="portlandinterviewmagazine" ,9911957
 https://pull.niues.live/live/stream-9911957_lhd.m3u8?auth_key=1714800251-0-0-22deaae413c7a657ada43bc9f6916b5d
 #EXTINF:0 group-title="portlandinterviewmagazine" ,9912041
 https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=08add5ec4fa1b8b58468f1880242542e&txTime=66360c8f
+#EXTINF:0 group-title="portlandinterviewmagazine" ,BACAR
+https://pull.niues.live/live/stream-9912087_lhd.m3u8?auth_key=1714822572-0-0-7f06b81b289c37e641547ba3ff7a494a
+#EXTINF:0 group-title="portlandinterviewmagazine" ,CAPTAIN
+https://pull.niues.live/live/stream-283501_lhd.m3u8?auth_key=1714822752-0-0-81aa0a09bec233391f4bdaa092fef4b3
+#EXTINF:0 group-title="portlandinterviewmagazine" ,FIREMAN
+https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1714822932-0-0-11e219f43128a082ee18a80d7643f8a2
+#EXTINF:0 group-title="portlandinterviewmagazine" ,HOPE
+https://pull.niues.live/live/stream-9912043_lhd.m3u8?auth_key=1714822692-0-0-31ce5b7b949659bf6be2345491c113a5
+#EXTINF:0 group-title="portlandinterviewmagazine" ,KAN
+https://pull.niues.live/live/stream-283501_lhd.m3u8?auth_key=1714822812-0-0-32295fca84f8bda644d5e14b21d35042
+#EXTINF:0 group-title="portlandinterviewmagazine" ,KEVILL
+https://pull.niues.live/live/stream-477560_lhd.m3u8?auth_key=1714822452-0-0-d41a5e866d24aca350b91fe7a93a7a9a
+#EXTINF:0 group-title="portlandinterviewmagazine" ,KHONG NGU
+https://pull.niur.live/live/stream-9912042_lhd.m3u8?txSecret=f2a7ca2375a87d3c69c6eae1092a5e7c&txTime=66366528
+#EXTINF:0 group-title="portlandinterviewmagazine" ,LOGAN
+https://pull.niur.live/live/stream-9911977_lhd.m3u8?txSecret=ca7965e61bf26a185f2b8eb58b9c3fcd&txTime=66366348
+#EXTINF:0 group-title="portlandinterviewmagazine" ,MESSI
+https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1714822392-0-0-21adf7ed241c3b8977ed4c22925c7836
+#EXTINF:0 group-title="portlandinterviewmagazine" ,PELE
+https://pull.niur.live/live/stream-9912042_lhd.m3u8?txSecret=db4c55c0a0fbec592591d35c5491a23e&txTime=663664ec
+#EXTINF:0 group-title="portlandinterviewmagazine" ,PICASSO
+https://pull.niur.live/live/stream-427856_lhd.m3u8?txSecret=267f7badf2659b74320a55e1b24e832d&txTime=663665dc
+#EXTINF:0 group-title="portlandinterviewmagazine" ,RAM
+https://pull.niues.live/live/stream-9912077_lhd.m3u8?auth_key=1714822572-0-0-0d22904ced5d2c6f9dffdc435cd9ecbe
+#EXTINF:0 group-title="portlandinterviewmagazine" ,RICARDO
+https://pull.niues.live/live/stream-9912052_lhd.m3u8?auth_key=1714822932-0-0-8fc83dbbc2310dd2952093e254f82772
+#EXTINF:0 group-title="portlandinterviewmagazine" ,SAO LA
+https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=5f78a47474dde11c1e04170b5223e143&txTime=66366528
+#EXTINF:0 group-title="portlandinterviewmagazine" ,SOI
+https://pull.niues.live/live/stream-427562_lhd.m3u8?auth_key=1714822692-0-0-69992d862f78bfcd8f3710a0c222db6a
+#EXTINF:0 group-title="portlandinterviewmagazine" ,STING
+https://pull.niues.live/live/stream-9912016_lhd.m3u8?auth_key=1714822572-0-0-4ffc8e85031b777f170882a0ee94ad60
+#EXTINF:0 group-title="portlandinterviewmagazine" ,TAP
+https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=ba43bf0fe4932f6db51b47c0f2d86049&txTime=66366564
+#EXTINF:0 group-title="portlandinterviewmagazine" ,TOMIA
+https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1714823052-0-0-ef31efadb0c0ea8ea38baa48db600039
+#EXTINF:0 group-title="portlandinterviewmagazine" ,TYPN
+https://pull.niues.live/live/stream-9912009_lhd.m3u8?auth_key=1714823052-0-0-3ded16a302e726bfeff39c1cd3431704
 #EXTINF:-1 group-title="SAMSUNG" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/05/56/ESBA3300024AJ_20201118T003335.png" ,ES | BLOOMBERG TV+
 https://42890dd08f6e424e94c882424ced89c3.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_Bloomberg/playlist.m3u8?ads.wurl_channel%3D389%26ads.wurl_name%3DBloomberg%26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.coppa%3D0%26ads.consent%3D%7BTC_STRING%7D
 #EXTINF:-1 group-title="SAMSUNG" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/05/56/ESBA3300024AJ_20201118T003335.png" ,ES | BLOOMBERG TV+
@@ -10881,6 +10931,8 @@ https://pull.niur.live/live/stream-168964_lhd.flv?txSecret=6d53db2d8fcd9068e2850
 https://pull.niur.live/live/stream-166054_lhd.flv?txSecret=b486e5d4f022e2210091240ec6c7f33f&txTime=663606ef
 #EXTINF:0 group-title="XOILAC.XYZ" ,BLV DUSTIN
 https://pull06.scstream.net/live/stream-289098_lhd.flv?auth_key=1714798871-0-0-bd6ba7774e64cf6702a517fcc042b037
+#EXTINF:0 group-title="XOILAC.XYZ" ,BLV HOPE
+https://pull06.scstream.net/live/stream-9912043_lhd.flv?auth_key=1714821912-0-0-772f1269638702fb411b09c215bf81c2
 #EXTINF:0 group-title="XOILAC.XYZ" ,BLV LUFFY
 https://pull06.scstream.net/live/stream-400798_lhd.flv?auth_key=1714799051-0-0-2ddd8a3ac371d494c81f1605abb97b24
 #EXTINF:0 group-title="XOILAC.XYZ" ,BLV NAM TAO
@@ -10889,6 +10941,8 @@ https://pull06.scstream.net/live/stream-452725_lhd.flv?auth_key=1714799171-0-0-4
 https://pull06.scstream.net/live/stream-372746_lhd.flv?auth_key=1714799231-0-0-42d8c8be4f3bd095dbb406722d553734
 #EXTINF:0 group-title="XOILAC.XYZ" ,BLV ODIN
 https://pull.niur.live/live/stream-9911969_lhd.flv?txSecret=689173326601d6c900fe562516a40fac&txTime=6636081b
+#EXTINF:0 group-title="XOILAC.XYZ" ,BLV SOI
+https://pull06.scstream.net/live/stream-427562_lhd.flv?auth_key=1714821912-0-0-ef1ab05eadb5a59e873791e046b7b8a6
 #EXTINF:0 group-title="XOILAC.XYZ" ,BLV TAP
 https://pull.niur.live/live/stream-9912041_lhd.flv?txSecret=89221cb980e37f1d6a6ece1e6708f178&txTime=6636081b
 #EXTINF:0 group-title="XOILAC.XYZ" ,BLV TOMIA
@@ -10903,10 +10957,14 @@ https://pull06.scstream.net/live/stream-122591_lhd.flv?auth_key=1714798811-0-0-5
 https://pull06.scstream.net/live/stream-9912027_lhd.flv?auth_key=1714799591-0-0-bbdc0a41814a27f5e012a7539ed75ca5
 #EXTINF:0 group-title="XOILAC.XYZ" ,KING
 https://pull.niur.live/live/stream-168964_lhd.flv?txSecret=6d53db2d8fcd9068e2850a06d30c820c&txTime=6636072b
+#EXTINF:0 group-title="XOILAC.XYZ" ,MONSTER
+https://pull06.scstream.net/live/stream-237299_lhd.flv?auth_key=1714821792-0-0-a74eab5ee9fa8999bcb78d3017816756
 #EXTINF:0 group-title="XOILAC.XYZ" ,MR RE
 https://pull.niur.live/live/stream-101657_lhd.flv?txSecret=c88d7ce67f6c67bcc1969af1dd75dbd9&txTime=66360857
 #EXTINF:0 group-title="XOILAC.XYZ" ,PHI HANH
 https://pull06.scstream.net/live/stream-9911957_lhd.flv?auth_key=1714798931-0-0-f61adac21165c081df8c08b7dcab48cd
+#EXTINF:0 group-title="XOILAC.XYZ" ,VI TIEU BAO
+https://pull06.scstream.net/live/stream-421637_lhd.flv?auth_key=1714821792-0-0-ccf4bd5a62fbff14d1fc138e0b511501
 #EXTINF:0 group-title="XTREAM 01" ,NETFLIX CINE
 http://23232.top/play/live.php?mac=00:1A:79:C6:37:1B&stream=1387693&extension=ts
 #EXTINF:0 group-title="XTREAM 01" ,NETFLIX CINE
