@@ -115,6 +115,8 @@ https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@chathd1.flv
 https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@cohd1.flv
 #EXTINF:-1 group-title="BEAR SPORT [Ra Khơi]" tvg-logo="https://i.ibb.co/TghyRDY/BEARTV-rakhoitv.png" ,RA KHOI 11 FHD [50fps]
 https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@thoxayhd1.flv
+#EXTINF:0 group-title="DENDA TV" ,KAKA
+https://blv.hjkai791a.site/live/_definst_/stream_1_1f667@4wyrn4hogxepq86_65afc5939e5f0765078a780a/playlist.m3u8
 #EXTINF:0 group-title="DENDA TV" ,TONY
 https://blv.hjkai791a.site/live/_definst_/stream_1_1f667@23xmvkh8g45vqg8_64747a4e172ff91c4cc1ed05/playlist.m3u8
 #EXTINF:0 group-title="DENDA TV" ,ZZ PRUEBA 01
@@ -423,3 +425,7 @@ https://obevcimanyd179249207.thapcam.link/live/Z2FHD/playlist.m3u8|Referer=https
 https://obevcimanyd179249207.thapcam.link/live/Z3FHD/playlist.m3u8|Referer=https://xem.bdhub.xyz
 #EXTINF:0 group-title="zzPRUEBAS" ,BONG TV?
 https://live.vbfast.xyz/7d41a3aac1a2b3ce452deb052986cbe9/1701999435002/en7hf6r/index.m3u8
+#EXTINF:0 group-title="THAPCAM" ,LONG FHD
+https://obevcimanyd179249207.thapcam.link/live/longFHD/playlist.m3u8
+#EXTINF:0 group-title="THAPCAM" ,LONG BACKUP
+https://apisportvb90xltcbk.nsnd.live/live/sd-6MsEv9r2v6ZRyHtopw/playlist.m3u8
