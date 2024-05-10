@@ -311,6 +311,10 @@ https://pull.niues.live/live/stream-991182_lsd.m3u8?auth_key=1697492647-0-0-11e9
 https://pull.niues.live/live/stream-280022_lhd.m3u8?auth_key=1696448262-0-0-f9bc0cadcd36fb43dad84c89d7e4454d
 #EXTINF:0 group-title="PORTLAND" ,ZZ10
 https://pull.niues.live/live/stream-9912086_lhd.m3u8?auth_key=1711456988-0-0-401fc0e1cd13f6e49df65f1eede495c7
+#EXTINF:0 group-title="THAPCAM" ,LONG BACKUP
+https://apisportvb90xltcbk.nsnd.live/live/sd-6MsEv9r2v6ZRyHtopw/playlist.m3u8
+#EXTINF:0 group-title="THAPCAM" ,LONG FHD
+https://obevcimanyd179249207.thapcam.link/live/longFHD/playlist.m3u8
 #EXTINF:-1 group-title="THAPCAM" ,VEBOtv 10
 https://obevcimanyd179314182.thapcam.link/live/may10/playlist.m3u8|Referer=https://xem.bdhub.xyz
 #EXTINF:-1 group-title="THAPCAM" ,VEBOtv 101
@@ -423,10 +427,6 @@ https://obevcimanyd179249207.thapcam.link/live/Z1FHD/playlist.m3u8|Referer=https
 https://obevcimanyd179249207.thapcam.link/live/Z2FHD/playlist.m3u8|Referer=https://xem.bdhub.xyz
 #EXTINF:-1 group-title="Về bờ TV" tvg-logo="https://static.90pcdn.com/tc/pwa/icon-144x144.png" ,VEBOtv Z3 FHD
 https://obevcimanyd179249207.thapcam.link/live/Z3FHD/playlist.m3u8|Referer=https://xem.bdhub.xyz
-#EXTINF:0 group-title="THAPCAM" ,LONG FHD
-https://obevcimanyd179249207.thapcam.link/live/longFHD/playlist.m3u8
-#EXTINF:0 group-title="THAPCAM" ,LONG BACKUP
-https://apisportvb90xltcbk.nsnd.live/live/sd-6MsEv9r2v6ZRyHtopw/playlist.m3u8
 #EXTINF:-1 group-title="ZZ PRUEBAS" ,#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
 https://obevcimanyd179249207.thapcam.link/live/may00FHD/playlist.m3u8
 #EXTINF:-1 group-title="ZZ PRUEBAS" ,#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
@@ -459,12 +459,20 @@ https://apisportvb90xltcbk.nsnd.live/live/sd-6wXsXz4bVsEKFaGPcX/playlist.m3u8
 https://obevcimanyd179249207.thapcam.link/live/cunFHD/chunklist.m3u8
 #EXTINF:-1 group-title="ZZ PRUEBAS" ,#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
 https://vb90xltcvg.nsnd.live/live/_definst_/stream_1_1bda7@cunSD/chunklist.m3u8
+#EXTINF:-1 group-title="ZZ PRUEBAS" ,CA FHD,#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
+https://obevcimanyd179249207.thapcam.link/live/caFHD/chunklist.m3u8
+#EXTINF:-1 group-title="ZZ PRUEBAS" ,CA SD,#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
+https://vb90xltcvg.nsnd.live/live/_definst_/stream_1_1bda7@caSD/playlist.m3u8
 #EXTINF:-1 group-title="ZZ PRUEBAS" ,CUN,#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
 https://live-eu-ay5eg6kw5uliv.thapcam.link/live/cunHD/chunklist.m3u8
-#EXTINF:-1 group-title="ZZ PRUEBAS" ,MOM,#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
-https://obevcimanyd179249207.thapcam.link/live/momFHD/chunklist.m3u8
+#EXTINF:-1 group-title="ZZ PRUEBAS" ,LONG FHD,#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
+https://obevcimanyd179249207.thapcam.link/live/longFHD/chunklist.m3u8
+#EXTINF:-1 group-title="ZZ PRUEBAS" ,LONG SD,#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
+https://vb90xltcvg.nsnd.live/live/_definst_/stream_1_1bda7@longSD/chunklist.m3u8
 #EXTINF:-1 group-title="ZZ PRUEBAS" ,MOM,#EXTVLCOPT:http-referrer=https://blockupy.org/
 https://live.vbfast.xyz/7aac4b47a777b98afc5d64e282703c86/1715404818336/wkatjcf/wkatjcf@720p.m3u8
+#EXTINF:-1 group-title="ZZ PRUEBAS" ,MOM,#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
+https://obevcimanyd179249207.thapcam.link/live/momFHD/chunklist.m3u8
 #EXTINF:0 group-title="ZZEVENTOS" ,01
 https://ynzbpull2.nbxhth.cn/live/91343799064687546794.m3u8
 #EXTINF:0 group-title="ZZEVENTOS" ,02
@@ -479,11 +487,3 @@ https://zbpull3.zyjymall.com/live/91332999609196336318.m3u8
 https://zbpull3.zyjymall.com/live/91332704039349978303.m3u8
 #EXTINF:0 group-title="ZZEVENTOS" ,07 VIEJO
 https://play1nm.hnyongshun.cn/live/sd-1-3984711.m3u8|referer=https://player.huminbird.cn/
-#EXTINF:-1 group-title="ZZ PRUEBAS" ,LONG FHD,#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
-https://obevcimanyd179249207.thapcam.link/live/longFHD/chunklist.m3u8
-#EXTINF:-1 group-title="ZZ PRUEBAS" ,LONG SD,#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
-https://vb90xltcvg.nsnd.live/live/_definst_/stream_1_1bda7@longSD/chunklist.m3u8
-#EXTINF:-1 group-title="ZZ PRUEBAS" ,CA FHD,#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
-https://obevcimanyd179249207.thapcam.link/live/caFHD/chunklist.m3u8
-#EXTINF:-1 group-title="ZZ PRUEBAS" ,CA SD,#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
-https://vb90xltcvg.nsnd.live/live/_definst_/stream_1_1bda7@caSD/playlist.m3u8
