@@ -458,13 +458,270 @@ https://obevcimanyd179249207.thapcam.link/live/myFHD/playlist.m3u8
 https://obevcimanyd179249207.thapcam.link/live/soiFHD/playlist.m3u8
 #EXTINF:-1 group-title="ZZ PRUEBAS" ,#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
 https://apisportvb90xltcbk.nsnd.live/live/sd-6wXsXz4bVsEKFaGPcX/playlist.m3u8
-#EXTINF:-1 group-title="ZZ PRUEBAS" ,CUN FHD,#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
+#EXTINF:-1 group-title="ZZ PRUEBAS" ,#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
 https://obevcimanyd179249207.thapcam.link/live/cunFHD/chunklist.m3u8
-#EXTINF:-1 group-title="ZZ PRUEBAS" ,CUN,#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
+#EXTINF:-1 group-title="ZZ PRUEBAS" ,#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
 https://vb90xltcvg.nsnd.live/live/_definst_/stream_1_1bda7@cunSD/chunklist.m3u8
 #EXTINF:-1 group-title="ZZ PRUEBAS" ,CUN,#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
 https://live-eu-ay5eg6kw5uliv.thapcam.link/live/cunHD/chunklist.m3u8
 #EXTINF:-1 group-title="ZZ PRUEBAS" ,MOM,#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
 https://obevcimanyd179249207.thapcam.link/live/momFHD/chunklist.m3u8
-#EXTINF:-1 group-title="ZZ PRUEBAS" ,KEN,#EXTVLCOPT:http-referrer=https://blockupy.org/
+#EXTINF:-1 group-title="ZZ PRUEBAS" ,MOM,#EXTVLCOPT:http-referrer=https://blockupy.org/
 https://live.vbfast.xyz/7aac4b47a777b98afc5d64e282703c86/1715404818336/wkatjcf/wkatjcf@720p.m3u8
+
+#EXTINF:-1 group-title="⚽️| ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png", 23:30-18/02: Luton Town vs Off fan MU - Ngoại hạng Anh (BLV Người Rơi) #SD1
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
+https://vb90xltcvg.nsnd.live/live/_definst_/stream_1_1bda7@Z1SD/playlist.m3u8#|Referer=https://xem.bdhub.xyz
+#EXTINF:-1 group-title="⚽️| ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png", 23:30-18/02: Luton Town vs Off fan MU - Ngoại hạng Anh (BLV Người Rơi) #SD2
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
+https://live-kh-1123139281.thapcam.link/Z1SD/playlist.m3u8#|Referer=https://xem.bdhub.xyz
+#EXTINF:-1 group-title="⚽️| ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png", 23:30-18/02: Luton Town vs Off fan MU - Ngoại hạng Anh (BLV Người Rơi) #HD
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
+https://live-eu-cizve9esipliv.thapcam.link/Z1HD/index.m3u8#|Referer=https://xem.bdhub.xyz
+#EXTINF:-1 group-title="⚽️| ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png", 23:30-18/02: Luton Town vs Off fan MU - Ngoại hạng Anh (BLV Người Rơi) #FullHD
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
+https://obevcimanyd179249207.thapcam.link/live/Z1FHD/playlist.m3u8#|Referer=https://xem.bdhub.xyz
+#EXTINF:-1 group-title="⚽️| ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png", 23:30-18/02: Luton Town vs Off fan MU - Ngoại hạng Anh (BLV Người Rơi) #Nhà Đài
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
+https://live-eu-cizve9esipliv.thapcam.link/may8/index.m3u8#|Referer=https://xem.bdhub.xyz
+#EXTINF:-1 group-title="⚽️| ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png", 21:00-18/02: Sheffield United vs Brighton Hove Albion - Ngoại hạng Anh (BLV Mỳ Tôm) #SD1
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
+https://vb90xltcvg.nsnd.live/live/_definst_/stream_1_1bda7@may1SD/playlist.m3u8#|Referer=https://xem.bdhub.xyz
+#EXTINF:-1 group-title="⚽️| ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png", 21:00-18/02: Sheffield United vs Brighton Hove Albion - Ngoại hạng Anh (BLV Mỳ Tôm) #SD2
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
+https://live-kh-1123139281.thapcam.link/may1SD/playlist.m3u8#|Referer=https://xem.bdhub.xyz
+#EXTINF:-1 group-title="⚽️| ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png", 21:00-18/02: Sheffield United vs Brighton Hove Albion - Ngoại hạng Anh (BLV Mỳ Tôm) #HD
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
+https://live-eu-cizve9esipliv.thapcam.link/may1HD/index.m3u8#|Referer=https://xem.bdhub.xyz
+#EXTINF:-1 group-title="⚽️| ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png", 21:00-18/02: Sheffield United vs Brighton Hove Albion - Ngoại hạng Anh (BLV Mỳ Tôm) #FullHD
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
+https://obevcimanyd179249207.thapcam.link/live/may1FHD/playlist.m3u8#|Referer=https://xem.bdhub.xyz
+#EXTINF:-1 group-title="⚽️| ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png", 21:00-18/02: Sheffield United vs Brighton Hove Albion - Ngoại hạng Anh (BLV Mỳ Tôm) #Nhà Đài
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
+https://obevcimanyd179314182.thapcam.link/live/may10/playlist.m3u8#|Referer=https://xem.bdhub.xyz
+#EXTINF:-1 group-title="⚽️| ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png", 21:00-18/02: Sheffield United vs Brighton Hove Albion - Ngoại hạng Anh (BLV Mỳ Tôm) #Backup 1
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
+https://apisportvb90xltcbk.nsnd.live/live/sd-zp5rzgh6k9x7q82/playlist.m3u8#|Referer=https://xem.bdhub.xyz
+#EXTINF:-1 group-title="⚽️| ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png", 21:00-18/02: Sheffield United vs Brighton Hove Albion - Ngoại hạng Anh (BLV Mỳ Tôm) #Backup 2
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
+https://apisportvb90xltcbk.nsnd.live/live/hd-en-zp5rzgh6k9x7q82/playlist.m3u8#|Referer=https://xem.bdhub.xyz
+#EXTINF:-1 group-title="⚽️| ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/e6ee784bdd6af4694075206cd069387e.png", 22:15-18/02: Granada CF vs Almeria - La Liga (BLV Nhà đài) #SD
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
+https://live-kh-1123139281.thapcam.link/may6/playlist.m3u8#|Referer=https://xem.bdhub.xyz
+#EXTINF:-1 group-title="⚽️| ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/e6ee784bdd6af4694075206cd069387e.png", 22:15-18/02: Granada CF vs Almeria - La Liga (BLV Nhà đài) #Backup 1
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
+https://apisportvb90xltcbk.nsnd.live/live/sd-3glrw7h38dzgqdy/playlist.m3u8#|Referer=https://xem.bdhub.xyz
+#EXTINF:-1 group-title="⚽️| ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/e6ee784bdd6af4694075206cd069387e.png", 22:15-18/02: Granada CF vs Almeria - La Liga (BLV Nhà đài) #Backup 2
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
+https://apisportvb90xltcbk.nsnd.live/live/hd-en-3glrw7h38dzgqdy/playlist.m3u8#|Referer=https://xem.bdhub.xyz
+#EXTINF:-1 group-title="⚽️| ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/280e7df640872c99064a56a3361450a9.png", 22:45-18/02: Feyenoord vs RKC Waalwijk - Vô địch quốc gia Hà Lan (BLV Nhà đài) #Backup 1
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
+https://apisportvb90xltcbk.nsnd.live/live/sd-ednm9wh23wnwryo/playlist.m3u8#|Referer=https://xem.bdhub.xyz
+#EXTINF:-1 group-title="⚽️| ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/d1569394723b61d7aa6b0aee530945fe.png", 21:00-18/02: Monaco vs Toulouse - Ligue 1 (BLV Người Cồn) #SD1
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
+https://vb90xltcvg.nsnd.live/live/_definst_/stream_1_1bda7@may3SD/playlist.m3u8#|Referer=https://xem.bdhub.xyz
+#EXTINF:-1 group-title="⚽️| ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/d1569394723b61d7aa6b0aee530945fe.png", 21:00-18/02: Monaco vs Toulouse - Ligue 1 (BLV Người Cồn) #SD2
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
+https://live-kh-1123139281.thapcam.link/may3SD/playlist.m3u8#|Referer=https://xem.bdhub.xyz
+#EXTINF:-1 group-title="⚽️| ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/d1569394723b61d7aa6b0aee530945fe.png", 21:00-18/02: Monaco vs Toulouse - Ligue 1 (BLV Người Cồn) #HD
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
+https://live-eu-cizve9esipliv.thapcam.link/may3HD/index.m3u8#|Referer=https://xem.bdhub.xyz
+#EXTINF:-1 group-title="⚽️| ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/d1569394723b61d7aa6b0aee530945fe.png", 21:00-18/02: Monaco vs Toulouse - Ligue 1 (BLV Người Cồn) #FullHD
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
+https://obevcimanyd179249207.thapcam.link/live/may3FHD/playlist.m3u8#|Referer=https://xem.bdhub.xyz
+#EXTINF:-1 group-title="⚽️| ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/d1569394723b61d7aa6b0aee530945fe.png", 21:00-18/02: Monaco vs Toulouse - Ligue 1 (BLV Người Cồn) #Backup 1
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
+https://apisportvb90xltcbk.nsnd.live/live/sd-8yomo4hgdyd5q0j/playlist.m3u8#|Referer=https://xem.bdhub.xyz
+#EXTINF:-1 group-title="⚽️| ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/d1569394723b61d7aa6b0aee530945fe.png", 21:00-18/02: Monaco vs Toulouse - Ligue 1 (BLV Người Cồn) #Backup 2
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
+https://apisportvb90xltcbk.nsnd.live/live/hd-en-8yomo4hgdyd5q0j/playlist.m3u8#|Referer=https://xem.bdhub.xyz
+#EXTINF:-1 group-title="⚽️| ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/d1569394723b61d7aa6b0aee530945fe.png", 21:00-18/02: Montpellier vs Metz - Ligue 1 (BLV Nhà đài) #SD
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
+https://obevcimanyd179314182.thapcam.link/live/may111/playlist.m3u8#|Referer=https://xem.bdhub.xyz
+#EXTINF:-1 group-title="⚽️| ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/d1569394723b61d7aa6b0aee530945fe.png", 21:00-18/02: Montpellier vs Metz - Ligue 1 (BLV Nhà đài) #Backup 1
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
+https://apisportvb90xltcbk.nsnd.live/live/sd-6ypq3nh7jkjgmd7/playlist.m3u8#|Referer=https://xem.bdhub.xyz
+#EXTINF:-1 group-title="⚽️| ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/d1569394723b61d7aa6b0aee530945fe.png", 21:00-18/02: Montpellier vs Metz - Ligue 1 (BLV Nhà đài) #Backup 2
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
+https://apisportvb90xltcbk.nsnd.live/live/hd-en-6ypq3nh7jkjgmd7/playlist.m3u8#|Referer=https://xem.bdhub.xyz
+#EXTINF:-1 group-title="⚽️| ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/d1569394723b61d7aa6b0aee530945fe.png", 23:05-18/02: Reims vs Lens - Ligue 1 (BLV Nhà đài) #SD
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
+https://obevcimanyd179314182.thapcam.link/live/may11/playlist.m3u8#|Referer=https://xem.bdhub.xyz
+#EXTINF:-1 group-title="⚽️| ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png", 23:30-18/02: VfL Bochum vs Bayern Munchen - Bundesliga (BLV Người Nện) #SD1
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
+https://vb90xltcvg.nsnd.live/live/_definst_/stream_1_1bda7@Z3SD/playlist.m3u8#|Referer=https://xem.bdhub.xyz
+#EXTINF:-1 group-title="⚽️| ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png", 23:30-18/02: VfL Bochum vs Bayern Munchen - Bundesliga (BLV Người Nện) #SD2
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
+https://live-kh-1123139281.thapcam.link/Z3SD/playlist.m3u8#|Referer=https://xem.bdhub.xyz
+#EXTINF:-1 group-title="⚽️| ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png", 23:30-18/02: VfL Bochum vs Bayern Munchen - Bundesliga (BLV Người Nện) #HD
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
+https://live-eu-cizve9esipliv.thapcam.link/Z3HD/index.m3u8#|Referer=https://xem.bdhub.xyz
+#EXTINF:-1 group-title="⚽️| ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png", 23:30-18/02: VfL Bochum vs Bayern Munchen - Bundesliga (BLV Người Nện) #FullHD
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
+https://obevcimanyd179249207.thapcam.link/live/Z3FHD/playlist.m3u8#|Referer=https://xem.bdhub.xyz
+#EXTINF:-1 group-title="⚽️| ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png", 23:30-18/02: VfL Bochum vs Bayern Munchen - Bundesliga (BLV Người Nện) #Nhà Đài
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
+https://live-eu-cizve9esipliv.thapcam.link/may91/index.m3u8#|Referer=https://xem.bdhub.xyz
+#EXTINF:-1 group-title="⚽️| ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png", 21:30-18/02: SC Freiburg vs Eintracht Frankfurt - Bundesliga (BLV Người Sói) #SD1
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
+https://vb90xltcvg.nsnd.live/live/_definst_/stream_1_1bda7@soiSD/playlist.m3u8#|Referer=https://xem.bdhub.xyz
+#EXTINF:-1 group-title="⚽️| ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png", 21:30-18/02: SC Freiburg vs Eintracht Frankfurt - Bundesliga (BLV Người Sói) #SD2
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
+https://live-kh-1123139281.thapcam.link/soiSD/playlist.m3u8#|Referer=https://xem.bdhub.xyz
+#EXTINF:-1 group-title="⚽️| ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png", 21:30-18/02: SC Freiburg vs Eintracht Frankfurt - Bundesliga (BLV Người Sói) #HD
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
+https://live-eu-cizve9esipliv.thapcam.link/soiHD/index.m3u8#|Referer=https://xem.bdhub.xyz
+#EXTINF:-1 group-title="⚽️| ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png", 21:30-18/02: SC Freiburg vs Eintracht Frankfurt - Bundesliga (BLV Người Sói) #FullHD
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
+https://obevcimanyd179249207.thapcam.link/live/soiFHD/playlist.m3u8#|Referer=https://xem.bdhub.xyz
+#EXTINF:-1 group-title="⚽️| ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png", 21:30-18/02: SC Freiburg vs Eintracht Frankfurt - Bundesliga (BLV Người Sói) #Nhà Đài
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
+https://live-eu-cizve9esipliv.thapcam.link/may9/index.m3u8#|Referer=https://xem.bdhub.xyz
+#EXTINF:-1 group-title="⚽️| ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png", 21:30-18/02: SC Freiburg vs Eintracht Frankfurt - Bundesliga (BLV Người Sói) #Backup 1
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
+https://apisportvb90xltcbk.nsnd.live/live/sd-pxwrxlhxko77ryk/playlist.m3u8#|Referer=https://xem.bdhub.xyz
+#EXTINF:-1 group-title="⚽️| ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png", 21:30-18/02: SC Freiburg vs Eintracht Frankfurt - Bundesliga (BLV Người Sói) #Backup 2
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
+https://apisportvb90xltcbk.nsnd.live/live/hd-en-pxwrxlhxko77ryk/playlist.m3u8#|Referer=https://xem.bdhub.xyz
+#EXTINF:-1 group-title="⚽️| ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/e481bc102a38742e6abfafd2f8873ea9.png", 21:00-18/02: Udinese vs Cagliari - Serie A (BLV Nhà đài) #SD
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
+https://obevcimanyd179314182.thapcam.link/live/may11/playlist.m3u8#|Referer=https://xem.bdhub.xyz
+#EXTINF:-1 group-title="⚽️| ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/e481bc102a38742e6abfafd2f8873ea9.png", 21:00-18/02: Empoli vs Fiorentina - Serie A (BLV Nhà đài) #SD
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
+https://live-kh-1123139281.thapcam.link/may7/playlist.m3u8#|Referer=https://xem.bdhub.xyz
+#EXTINF:-1 group-title="⚽️| ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/e481bc102a38742e6abfafd2f8873ea9.png", 21:00-18/02: Empoli vs Fiorentina - Serie A (BLV Nhà đài) #Backup 1
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
+https://apisportvb90xltcbk.nsnd.live/live/sd-x7lm7ph3lpjkm2w/playlist.m3u8#|Referer=https://xem.bdhub.xyz
+#EXTINF:-1 group-title="⚽️| ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/e481bc102a38742e6abfafd2f8873ea9.png", 21:00-18/02: Empoli vs Fiorentina - Serie A (BLV Nhà đài) #Backup 2
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
+https://apisportvb90xltcbk.nsnd.live/live/hd-en-x7lm7ph3lpjkm2w/playlist.m3u8#|Referer=https://xem.bdhub.xyz
+#EXTINF:-1 group-title="⚽️| ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/944fcefc160f78322ddcc68ec995040e.png", 22:30-18/02: Casa Pia AC vs FC Arouca - Vô địch Bồ Đào Nha (BLV Nhà đài) #SD
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
+https://live-eu-cizve9esipliv.thapcam.link/may101/index.m3u8#|Referer=https://xem.bdhub.xyz
+#EXTINF:-1 group-title="⚽️| ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/944fcefc160f78322ddcc68ec995040e.png", 22:30-18/02: Casa Pia AC vs FC Arouca - Vô địch Bồ Đào Nha (BLV Nhà đài) #Backup 1
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
+https://apisportvb90xltcbk.nsnd.live/live/sd-x7lm7ph3l5yzm2w/playlist.m3u8#|Referer=https://xem.bdhub.xyz
+#EXTINF:-1 group-title="⚽️| ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/732e87cac85fccf702f3ce0516c7d93f.png", 23:00-18/02: Ankaragucu vs Galatasaray - Turkey Super League (BLV Nhà đài) #SD
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
+https://live-eu-cizve9esipliv.thapcam.link/may91/index.m3u8#|Referer=https://xem.bdhub.xyz
+#EXTINF:-1 group-title="⚽️| ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/640757d5859af4a883b1c4597e881951.png", 21:00-18/02: Al Hilal vs Al Raed - Saudi Professional League (BLV Nhà đài) #SD
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
+https://live-eu-cizve9esipliv.thapcam.link/may91/index.m3u8#|Referer=https://xem.bdhub.xyz
+#EXTINF:-1 group-title="⚽️| ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/640757d5859af4a883b1c4597e881951.png", 21:00-18/02: Al Hilal vs Al Raed - Saudi Professional League (BLV Nhà đài) #Backup 1
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
+https://apisportvb90xltcbk.nsnd.live/live/sd-6ypq3nh7x3n4md7/playlist.m3u8#|Referer=https://xem.bdhub.xyz
+#EXTINF:-1 group-title="⚽️| ThapcamTV" tvg-logo="https://i.imgur.com/hZNRca8.png", 23:30-18/02: Slepsk Suwalki vs Lublin - Bóng chuyền nam Ba Lan (BLV Nhà đài) #HD
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
+https://obevcimanyd179314182.thapcam.link/live/may171/playlist.m3u8#|Referer=https://xem.bdhub.xyz
+#EXTINF:-1 group-title="⚽️| ThapcamTV" tvg-logo="https://img.thesports.com/volleyball/competition/910703213762c57461ec4e4c6fad1e4a.png", 22:00-18/02: Padova vs Perugia - Bóng chuyền nam Italy (BLV Nhà đài) #HD
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
+https://obevcimanyd179314182.thapcam.link/live/may20/playlist.m3u8#|Referer=https://xem.bdhub.xyz
+#EXTINF:-1 group-title="⚽️| ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png", 23:30-18/02: Đầu cầu Luton vs Manchester United - Ngoại hạng Anh (BLV Trâu Gác Bếp) #SD1
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
+https://vb90xltcvg.nsnd.live/live/_definst_/stream_1_1bda7@trauSD/playlist.m3u8#|Referer=https://xem.bdhub.xyz
+#EXTINF:-1 group-title="⚽️| ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png", 23:30-18/02: Đầu cầu Luton vs Manchester United - Ngoại hạng Anh (BLV Trâu Gác Bếp) #SD2
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
+https://live-kh-1123139281.thapcam.link/trauSD/playlist.m3u8#|Referer=https://xem.bdhub.xyz
+#EXTINF:-1 group-title="⚽️| ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png", 23:30-18/02: Đầu cầu Luton vs Manchester United - Ngoại hạng Anh (BLV Trâu Gác Bếp) #HD
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
+https://live-eu-cizve9esipliv.thapcam.link/trauHD/index.m3u8#|Referer=https://xem.bdhub.xyz
+#EXTINF:-1 group-title="⚽️| ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png", 23:30-18/02: Đầu cầu Luton vs Manchester United - Ngoại hạng Anh (BLV Trâu Gác Bếp) #FullHD
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
+https://obevcimanyd179249207.thapcam.link/live/trauFHD/playlist.m3u8#|Referer=https://xem.bdhub.xyz
+#EXTINF:-1 group-title="⚽️| ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png", 23:30-18/02: Đầu cầu Luton vs Manchester United - Ngoại hạng Anh (BLV Trâu Gác Bếp) #Nhà Đài
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
+https://live-eu-cizve9esipliv.thapcam.link/may8/index.m3u8#|Referer=https://xem.bdhub.xyz
+#EXTINF:-1 group-title="⚽️| ThapcamTV" tvg-logo="https://static.vebotv.app/files/tennis1.png", 21:30-18/02: Jannik Sinner vs Alex De Minaur - Chung kết Tennis Rotterdam Open (BLV Phở Bò) #SD1
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
+https://vb90xltcvg.nsnd.live/live/_definst_/stream_1_1bda7@phoSD/playlist.m3u8#|Referer=https://xem.bdhub.xyz
+#EXTINF:-1 group-title="⚽️| ThapcamTV" tvg-logo="https://static.vebotv.app/files/tennis1.png", 21:30-18/02: Jannik Sinner vs Alex De Minaur - Chung kết Tennis Rotterdam Open (BLV Phở Bò) #SD2
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
+https://live-kh-1123139281.thapcam.link/phoSD/playlist.m3u8#|Referer=https://xem.bdhub.xyz
+#EXTINF:-1 group-title="⚽️| ThapcamTV" tvg-logo="https://static.vebotv.app/files/tennis1.png", 21:30-18/02: Jannik Sinner vs Alex De Minaur - Chung kết Tennis Rotterdam Open (BLV Phở Bò) #HD
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
+https://live-eu-cizve9esipliv.thapcam.link/phoHD/index.m3u8#|Referer=https://xem.bdhub.xyz
+#EXTINF:-1 group-title="⚽️| ThapcamTV" tvg-logo="https://static.vebotv.app/files/tennis1.png", 21:30-18/02: Jannik Sinner vs Alex De Minaur - Chung kết Tennis Rotterdam Open (BLV Phở Bò) #FullHD
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
+https://obevcimanyd179249207.thapcam.link/live/phoFHD/playlist.m3u8#|Referer=https://xem.bdhub.xyz
+#EXTINF:-1 group-title="⚽️| ThapcamTV" tvg-logo="https://static.vebotv.app/files/tennis1.png", 14:00-18/02: WTA1000 vs Dubai Open - Tennis (BLV Nhà đài) #HD
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
+https://obevcimanyd179314182.thapcam.link/live/may19/playlist.m3u8#|Referer=https://xem.bdhub.xyz
+
+#EXTINF:-1 group-title="⚽️| VeboTV Xem lại" tvg-logo="https://static.vebotv.app/news/mc-18224.jpg", BLV Trâu Gác Bếp | 18.2.24       
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
+https://code.vthanhtivi.pw/bongda/vbxemlai/6O0Bisi.m3u8#|Referer=https://xem.bdhub.xyz
+#EXTINF:-1 group-title="⚽️| VeboTV Xem lại" tvg-logo="https://static.vebotv.app/news/bar-18224.jpg",  BLV Người Cồn | 18.2.24       
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
+https://code.vthanhtivi.pw/bongda/vbxemlai/xRp8rbv.m3u8#|Referer=https://xem.bdhub.xyz
+#EXTINF:-1 group-title="⚽️| VeboTV Xem lại" tvg-logo="https://static.vebotv.app/news/ars-17224.jpg", Full match Burnley vs Arsenal | BLV Người Cồn | 17.2.24       
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
+https://code.vthanhtivi.pw/bongda/vbxemlai/RNVZCUb.m3u8#|Referer=https://xem.bdhub.xyz
+#EXTINF:-1 group-title="⚽️| VeboTV Xem lại" tvg-logo="https://static.vebotv.app/news/liv-17224.jpg", Full match Brentford vs Liverpool | BLV Người Sói | 17.2.24       
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
+https://code.vthanhtivi.pw/bongda/vbxemlai/aYpHiw8.m3u8#|Referer=https://xem.bdhub.xyz
+#EXTINF:-1 group-title="⚽️| VeboTV Xem lại" tvg-logo="https://static.vebotv.app/news/acc.jpg", Fullmatch AC Milan vs Rennes | BLV Old Man | 16.2.24       
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
+https://code.vthanhtivi.pw/bongda/vbxemlai/g2RhdyK.m3u8#|Referer=https://xem.bdhub.xyz
+#EXTINF:-1 group-title="⚽️| VeboTV Xem lại" tvg-logo="https://static.vebotv.app/news/psg-15224.jpg", Full match PSG vs Real Sociedad | BLV Trâu Gác Bếp | 15.2.24       
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
+https://code.vthanhtivi.pw/bongda/vbxemlai/YSuk9CZ.m3u8#|Referer=https://xem.bdhub.xyz
+#EXTINF:-1 group-title="⚽️| VeboTV Xem lại" tvg-logo="https://static.vebotv.app/news/bay-15224.jpg", Full match Lazio vs Bayern Munich | BLV Phở Bò | 15.2.24       
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
+https://code.vthanhtivi.pw/bongda/vbxemlai/fiuHNUI.m3u8#|Referer=https://xem.bdhub.xyz
+#EXTINF:-1 group-title="⚽️| VeboTV Xem lại" tvg-logo="https://static.vebotv.app/news/mc-14224.jpg", Full match Copenhagen vs Man City | BLV Người Già | 14.2.24       
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
+https://code.vthanhtivi.pw/bongda/vbxemlai/SKaXAtD.m3u8#|Referer=https://xem.bdhub.xyz
+#EXTINF:-1 group-title="⚽️| VeboTV Xem lại" tvg-logo="https://static.vebotv.app/news/rma-14224.jpg", Full match RB Leipzig vs Real Madrid | BLV Người Thỏ | 14.2.24       
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
+https://code.vthanhtivi.pw/bongda/vbxemlai/VcBQ078.m3u8#|Referer=https://xem.bdhub.xyz
+#EXTINF:-1 group-title="⚽️| VeboTV Xem lại" tvg-logo="https://static.vebotv.app/news/che-13224.jpg", Full match Crystal Palace vs Chelsea | BLV Trâu Gác Bếp | 13.2.24       
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
+https://code.vthanhtivi.pw/bongda/vbxemlai/CmaXoYy.m3u8#|Referer=https://xem.bdhub.xyz
+#EXTINF:-1 group-title="⚽️| VeboTV Xem lại" tvg-logo="https://static.vebotv.app/news/juv-13224.jpg", Full match Juventus vs Udinese | BLV Phở Bò | 13.2.24       
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
+https://code.vthanhtivi.pw/bongda/vbxemlai/JueJZpl.m3u8#|Referer=https://xem.bdhub.xyz
+#EXTINF:-1 group-title="⚽️| VeboTV Xem lại" tvg-logo="https://static.vebotv.app/news/bar-12224.jpg", Full match Barcelona vs Granada | BLV Người Sói | 12.2.24       
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
+https://code.vthanhtivi.pw/bongda/vbxemlai/OMfVBpO.m3u8#|Referer=https://xem.bdhub.xyz
+#EXTINF:-1 group-title="⚽️| VeboTV Xem lại" tvg-logo="https://static.vebotv.app/news/mil-12224.jpg", Full match Milan vs Napoli | BLV Người Già | 12.2.24          
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
+https://code.vthanhtivi.pw/bongda/vbxemlai/PbmKrC0.m3u8#|Referer=https://xem.bdhub.xyz
+#EXTINF:-1 group-title="⚽️| VeboTV Xem lại" tvg-logo="https://static.vebotv.app/news/atm-12224.jpg", Full match Sevilla vs Atl.Madrid | BLV Phở Bò | 12.2.24          
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
+https://code.vthanhtivi.pw/bongda/vbxemlai/x3oBJpC.m3u8#|Referer=https://xem.bdhub.xyz
+#EXTINF:-1 group-title="⚽️| VeboTV Xem lại" tvg-logo="https://static.vebotv.app/news/mu-11224.jpg", Full match Aston Villa vs Man Utd | BLV Người Thỏ ft Bánh Cuốn | 11.2.24          
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
+https://code.vthanhtivi.pw/bongda/vbxemlai/Y0lMv6G.m3u8#|Referer=https://xem.bdhub.xyz
+#EXTINF:-1 group-title="⚽️| VeboTV Xem lại" tvg-logo="https://static.vebotv.app/news/ars-11224.jpg", Full match West Ham vs Arsenal | BLV Người Cồn | 11.2.24          
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
+https://code.vthanhtivi.pw/bongda/vbxemlai/ykeFmSy.m3u8#|Referer=https://xem.bdhub.xyz
+#EXTINF:-1 group-title="⚽️| VeboTV Xem lại" tvg-logo="https://static.vebotv.app/news/int-11224.jpg", Full match Roma vs Inter | BLV Người Già | 11.2.24          
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
+https://code.vthanhtivi.pw/bongda/vbxemlai/fdy1iEs.m3u8#|Referer=https://xem.bdhub.xyz
+#EXTINF:-1 group-title="⚽️| VeboTV Xem lại" tvg-logo="https://static.vebotv.app/news/liv-10224.jpg", Full match Liverpool vs Burnley | BLV Người Sói | 10.2.24          
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
+https://code.vthanhtivi.pw/bongda/vbxemlai/JbVoqq8.m3u8#|Referer=https://xem.bdhub.xyz
+#EXTINF:-1 group-title="⚽️| VeboTV Xem lại" tvg-logo="https://static.vebotv.app/news/bay-11224.jpg", Full match Bayer Leverkusen vs Bayern Munich | BLV Người Sói | 11.2.24          
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
+https://code.vthanhtivi.pw/bongda/vbxemlai/n64m1Q2.m3u8#|Referer=https://xem.bdhub.xyz
+#EXTINF:-1 group-title="⚽️| VeboTV Xem lại" tvg-logo="https://static.vebotv.app/news/new-11224.jpg", Full match Nottingham vs Newcastle | BLV Người Thỏ | 11.2.24          
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
+https://code.vthanhtivi.pw/bongda/vbxemlai/cfseqpD.m3u8#|Referer=https://xem.bdhub.xyz
+#EXTINF:-1 group-title="⚽️| VeboTV Xem lại" tvg-logo="https://static.vebotv.app/news/jor-10224.jpg", Full match Jordan vs Qatar | BLV Bánh Cuốn | 10.2.24          
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
+https://code.vthanhtivi.pw/bongda/vbxemlai/uWAbtHF.m3u8#|Referer=https://xem.bdhub.xyz
+#EXTINF:-1 group-title="⚽️| VeboTV Xem lại" tvg-logo="https://static.vebotv.app/news/tot-10224.jpg", Full match Tottenham vs Brighton | BLV Phở Bò | 10.2.24          
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
+https://code.vthanhtivi.pw/bongda/vbxemlai/377w9Y8.m3u8#|Referer=https://xem.bdhub.xyz
+#EXTINF:-1 group-title="⚽️| VeboTV Xem lại" tvg-logo="https://static.vebotv.app/news/mc-10224.jpg", Full match Man City vs Everton | BLV Người Già | 10.2.24          
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
+https://code.vthanhtivi.pw/bongda/vbxemlai/VVfCt0l.m3u8#|Referer=https://xem.bdhub.xyz
+#EXTINF:-1 group-title="⚽️| VeboTV Xem lại" tvg-logo="https://static.vebotv.app/news/cr7-9224.jpg", Full match Al Nassr vs Al Hilal | BLV Người Cồn | 9.2.24          
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
+https://code.vthanhtivi.pw/bongda/vbxemlai/RadEKHs.m3u8#|Referer=https://xem.bdhub.xyz
+#EXTINF:-1 group-title="⚽| GavangTV" tvg-logo="https://stc02bc54661548.cloud.anycastapnic.com/logo_horizontal.png", 20:00-18/02: Sakaryaspor - Corum Belediyespor (BLV Nhà đài) - Turkish First League #Nhà đài
+https://cdn.doctruyenmienphi.net/live/sd-2y8m4zhwlw2yql0/playlist.m3u8
+#EXTINF:-1 group-title="⚽| GavangTV" tvg-logo="https://stc02bc54661548.cloud.anycastapnic.com/logo_horizontal.png", 20:00-18/02: Hvidovre IF - Randers FC (BLV Nhà đài) - Danish Superliga #Nhà đài
+https://cdn.doctruyenmienphi.net/live/sd-4jwq2ghz2yg2m0v/playlist.m3u8
+#EXTINF:-1 group-title="⚽| GavangTV" tvg-logo="https://stc02bc54661548.cloud.anycastapnic.com/logo_horizontal.png", 20:00-18/02: Albacete Balompié SAD - Racing Santander (BLV Nhà đài) - Spanish Segunda Division #Nhà đài
+https://cdn.doctruyenmienphi.net/live/sd-8yomo4hgdg19q0j/playlist.m3u8	
