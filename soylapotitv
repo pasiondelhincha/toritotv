@@ -1,88 +1,4 @@
 #EXTM3U
-#EXTINF:-1 ,
-https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@m201nd/chunklist.m3u8
-#EXTINF:-1 ,
-https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@m202nd/chunklist.m3u8
-#EXTINF:-1 ,
-https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@m203nd/chunklist.m3u8
-#EXTINF:-1 ,
-https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@m301nd/chunklist.m3u8
-#EXTINF:-1 ,
-https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@m302nd/chunklist.m3u8
-#EXTINF:-1 ,
-https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@m303nd/chunklist.m3u8
-#EXTINF:-1 ,
-https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@m401nd/chunklist.m3u8
-#EXTINF:-1 ,
-https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@m402nd/chunklist.m3u8
-#EXTINF:-1 ,
-https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@m403nd/chunklist.m3u8
-#EXTINF:-1 ,
-https://obevcimanyd179249207.thapcam.link/live/may1FHD/chunklist.m3u8
-#EXTINF:-1 ,
-https://obevcimanyd179249207.thapcam.link/live/may2FHD/chunklist.m3u8
-#EXTINF:-1 ,
-https://obevcimanyd179249207.thapcam.link/live/may3FHD/chunklist.m3u8
-#EXTINF:-1 ,
-https://obevcimanyd179249207.thapcam.link/live/myFHD/chunklist.m3u8
-#EXTINF:-1 ,
-https://obevcimanyd179249207.thapcam.link/live/phoFHD/chunklist.m3u8
-#EXTINF:-1 ,
-https://obevcimanyd179249207.thapcam.link/live/trauFHD/chunklist.m3u8
-#EXTINF:-1 ,
-https://obevcimanyd179249207.thapcam.link/live/nenFHD/chunklist.m3u8
-#EXTINF:-1 ,
-https://obevcimanyd179249207.thapcam.link/live/oldFHD/chunklist.m3u8
-#EXTINF:-1 ,
-https://obevcimanyd179249207.thapcam.link/live/cuonFHD/chunklist.m3u8
-#EXTINF:-1 ,
-https://obevcimanyd179249207.thapcam.link/live/soiFHD/chunklist.m3u8
-#EXTINF:-1 ,
-https://obevcimanyd179249207.thapcam.link/live/chaFHD/chunklist.m3u8
-#EXTINF:-1 ,
-https://obevcimanyd179249207.thapcam.link/live/may1SD/chunklist.m3u8
-#EXTINF:-1 ,
-https://obevcimanyd179249207.thapcam.link/live/may2SD/chunklist.m3u8
-#EXTINF:-1 ,
-https://obevcimanyd179249207.thapcam.link/live/may3SD/chunklist.m3u8
-#EXTINF:-1 ,
-https://obevcimanyd179249207.thapcam.link/live/Z1FHD/chunklist.m3u8
-#EXTINF:-1 ,
-https://1123139281.cdn.khmer-hd.com/phoHD/chunks.m3u8
-#EXTINF:-1 ,
-https://1123139281.cdn.khmer-hd.com/myHD/chunks.m3u8
-#EXTINF:-1 ,
-https://1123139281.cdn.khmer-hd.com/chaHD/chunks.m3u8
-#EXTINF:-1 ,
-https://obevcimanyd179249207.thapcam.link/live/may4/chunklist.m3u8
-#EXTINF:-1 ,
-https://obevcimanyd179249207.thapcam.link/live/may6/chunklist.m3u8
-#EXTINF:-1 ,
-https://obevcimanyd179249207.thapcam.link/live/may7/chunklist.m3u8
-#EXTINF:-1 ,
-https://obevcimanyd179249207.thapcam.link/live/may8/chunklist.m3u8
-#EXTINF:-1 ,
-https://obevcimanyd179249207.thapcam.link/live/may9/chunklist.m3u8
-#EXTINF:-1 ,
-https://obevcimanyd179249207.thapcam.link/live/may10/chunklist.m3u8
-#EXTINF:-1 ,
-https://obevcimanyd179249207.thapcam.link/live/may11/chunklist.m3u8
-#EXTINF:-1 ,
-https://obevcimanyd179249207.thapcam.link/live/may12/chunklist.m3u8
-#EXTINF:-1 ,
-https://obevcimanyd179249207.thapcam.link/live/may13/chunklist.m3u8
-#EXTINF:-1 ,
-https://obevcimanyd179249207.thapcam.link/live/may61/chunklist.m3u8
-#EXTINF:-1 ,
-https://obevcimanyd179249207.thapcam.link/live/may71/chunklist.m3u8
-#EXTINF:-1 ,
-https://obevcimanyd179249207.thapcam.link/live/may81/chunklist.m3u8
-#EXTINF:-1 ,
-https://obevcimanyd179249207.thapcam.link/live/may91/chunklist.m3u8
-#EXTINF:-1 ,
-https://obevcimanyd179249207.thapcam.link/live/may101/chunklist.m3u8
-#EXTINF:-1 ,
-https://obevcimanyd179249207.thapcam.link/live/may111/chunklist.m3u8
 #EXTINF:0 group-title="01 VEBO TV" ,CANAL 01 ROY
 https://acdn.p2pcdn.xyz/xoilac/channel1.m3u8?auth_key=3000001703690291-0-0-16ba4a9c68d1d01419fd75a2ed103b1b
 #EXTINF:0 group-title="01 VEBO TV" ,CANAL 02 ALEX
@@ -177,46 +93,6 @@ https://acdn.p2pcdn.xyz/xoilac/channel59.m3u8?auth_key=3000001714992482-0-0-4bf4
 https://acdn.p2pcdn.xyz/xoilac/channel60.m3u8?auth_key=3000001715131495-0-0-88e6995e443d789ad38185715ae7eed2
 #EXTINF:0 group-title="01 VEBO TV" ,CANAL STEP
 https://live.vbfast.xyz/73d84ba5ce430d160a459f70fc59170d/1715171104115/mpsrxzq/mpsrxzq@720p.m3u8
-#EXTINF:-1 group-title="B4TV Produce" tvg-logo="http://b4tv.live/images/f48921dd0505305aff871882567eeca9.png" ,B4BOX
-http://b4tv.live/b4tv/b4tv/84.m3u8
-#EXTINF:-1 group-title="B4TV Produce" tvg-logo="http://103.172.78.47/b4boxplus.png" ,B4BOX PLUS (Kênh phim mới chọn lọc)
-http://b4tv.live/b4tv/b4tv/120.m3u8
-#EXTINF:-1 group-title="B4TV Produce" tvg-logo="http://b4tv.live/images/0ef23e2c33c966c5c76e2b5cca9428f8.png" ,B4CONNECT 1
-http://b4tv.live/b4tv/b4tv/86.m3u8
-#EXTINF:-1 group-title="B4TV Produce" tvg-logo="http://b4tv.live/images/0ef23e2c33c966c5c76e2b5cca9428f8.png" ,B4CONNECT 2
-http://b4tv.live/b4tv/b4tv/76.m3u8
-#EXTINF:-1 group-title="B4TV Produce" tvg-logo="http://b4tv.live/images/994c671dd2015154c0a928f00aa4934a.png" ,B4EVENT 1
-http://b4tv.live/b4tv/b4tv/3.m3u8
-#EXTINF:-1 group-title="B4TV Produce" tvg-logo="http://b4tv.live/images/994c671dd2015154c0a928f00aa4934a.png" ,B4EVENT 2
-http://b4tv.live/b4tv/b4tv/47.m3u8
-#EXTINF:-1 group-title="B4TV Produce" tvg-logo="http://b4tv.live/images/994c671dd2015154c0a928f00aa4934a.png" ,B4EVENT 3
-http://b4tv.live/b4tv/b4tv/48.m3u8
-#EXTINF:-1 group-title="B4TV Produce" tvg-logo="http://b4tv.live/images/6c30cdc8aa40aa5776c7d8ebd78a93d4.png" ,B4MEN
-http://b4tv.live/b4tv/b4tv/1.m3u8
-#EXTINF:-1 group-title="B4TV Produce" tvg-logo="http://103.172.78.47/b4sport.png" ,B4SPORT1 PLUS (Kênh thể thao đỉnh cao)
-http://b4tv.live/b4tv/b4tv/19.m3u8
-#EXTINF:-1 group-title="B4TV Produce" tvg-logo="http://103.172.78.47/b4sport.png" ,B4SPORT2 PLUS(Kênh thể thao đỉnh cao)
-http://b4tv.live/b4tv/b4tv/20.m3u8
-#EXTINF:-1 group-title="B4TV Produce" tvg-logo="http://103.172.78.47/b4sport.png" ,B4SPORT3 PLUS (Kênh thể thao đỉnh cao)
-http://b4tv.live/b4tv/b4tv/21.m3u8
-#EXTINF:-1 group-title="BEAR SPORT [Ra Khơi]" tvg-logo="https://i.ibb.co/XkQP3f1/cakhiatv-BEARTV.png" ,CA KHIA 1 [Nhà Đài]
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTINF:-1 group-title="BEAR SPORT [Ra Khơi]" tvg-logo="https://i.ibb.co/XkQP3f1/cakhiatv-BEARTV.png" ,CA KHIA 2 [Nhà Đài]
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTINF:-1 group-title="BEAR SPORT [Ra Khơi]" tvg-logo="https://i.ibb.co/XkQP3f1/cakhiatv-BEARTV.png" ,CA KHIA 3 [Nhà Đài]
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTINF:-1 group-title="BEAR SPORT [Ra Khơi]" tvg-logo="https://i.ibb.co/XkQP3f1/cakhiatv-BEARTV.png" ,CA KHIA 4 [Nhà Đài]
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTINF:-1 group-title="BEAR SPORT [Ra Khơi]" tvg-logo="https://i.ibb.co/XkQP3f1/cakhiatv-BEARTV.png" ,CA KHIA 5 [Nhà Đài]
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTINF:-1 group-title="BEAR SPORT [Ra Khơi]" tvg-logo="https://i.ibb.co/XkQP3f1/cakhiatv-BEARTV.png" ,CA KHIA 6 [Nhà Đài]
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTINF:-1 group-title="BEAR SPORT [Ra Khơi]" tvg-logo="https://i.ibb.co/XkQP3f1/cakhiatv-BEARTV.png" ,CA KHIA 7 [Nhà Đài]
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTINF:-1 group-title="BEAR SPORT [Ra Khơi]" tvg-logo="https://i.ibb.co/XkQP3f1/cakhiatv-BEARTV.png" ,CA KHIA 8 [Nhà Đài]
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTINF:-1 group-title="BEAR SPORT [Ra Khơi]" tvg-logo="https://i.ibb.co/XkQP3f1/cakhiatv-BEARTV.png" ,CA KHIA 9 [Nhà Đài]
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTINF:-1 group-title="BEAR SPORT [Ra Khơi]" tvg-logo="https://i.ibb.co/TghyRDY/BEARTV-rakhoitv.png" ,RA KHOI 01 FHD [50fps]
 https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@luluhd1.flv
 #EXTINF:-1 group-title="BEAR SPORT [Ra Khơi]" tvg-logo="https://i.ibb.co/TghyRDY/BEARTV-rakhoitv.png" ,RA KHOI 02 FHD [50fps]
@@ -239,78 +115,16 @@ https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@chathd1.flv
 https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@cohd1.flv
 #EXTINF:-1 group-title="BEAR SPORT [Ra Khơi]" tvg-logo="https://i.ibb.co/TghyRDY/BEARTV-rakhoitv.png" ,RA KHOI 11 FHD [50fps]
 https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@thoxayhd1.flv
-#EXTINF:-1 group-title="BEAR SPORT [Thập Cẩm]" tvg-logo="https://i.ibb.co/cyrtdz9/BEARTV-thapcamtv.png" ,BEAR 01 FHD [50fps]
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTINF:-1 group-title="BEAR SPORT [Thập Cẩm]" tvg-logo="https://i.ibb.co/cyrtdz9/BEARTV-thapcamtv.png" ,BEAR 02 FHD [50fps]
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTINF:-1 group-title="BEAR SPORT [Thập Cẩm]" tvg-logo="https://i.ibb.co/cyrtdz9/BEARTV-thapcamtv.png" ,BEAR 03 FHD [50fps]
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTINF:-1 group-title="BEAR SPORT [Thập Cẩm]" tvg-logo="https://i.ibb.co/cyrtdz9/BEARTV-thapcamtv.png" ,BEAR 04 FHD [50fps]
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTINF:-1 group-title="BEAR SPORT [Thập Cẩm]" tvg-logo="https://i.ibb.co/cyrtdz9/BEARTV-thapcamtv.png" ,BEAR 05 FHD [50fps]
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTINF:-1 group-title="BEAR SPORT [Thập Cẩm]" tvg-logo="https://i.ibb.co/cyrtdz9/BEARTV-thapcamtv.png" ,BEAR 06 FHD [50fps]
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTINF:-1 group-title="BEAR SPORT [Thập Cẩm]" tvg-logo="https://i.ibb.co/cyrtdz9/BEARTV-thapcamtv.png" ,BEAR 07 FHD [50fps]
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTINF:-1 group-title="BEAR SPORT [Thập Cẩm]" tvg-logo="https://i.ibb.co/cyrtdz9/BEARTV-thapcamtv.png" ,BEAR 08 FHD [50fps]
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTINF:-1 group-title="BEAR SPORT [Thập Cẩm]" tvg-logo="https://i.ibb.co/cyrtdz9/BEARTV-thapcamtv.png" ,BEAR 09 FHD [50fps]
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTINF:-1 group-title="BEAR SPORT [Thập Cẩm]" tvg-logo="https://i.ibb.co/cyrtdz9/BEARTV-thapcamtv.png" ,BEAR 10 FHD [50fps]
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTINF:-1 group-title="BEAR SPORT [Thập Cẩm]" tvg-logo="https://i.ibb.co/cyrtdz9/BEARTV-thapcamtv.png" ,BEAR 11 FHD [50fps]
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTINF:-1 group-title="BEAR SPORT [Thập Cẩm]" tvg-logo="https://i.ibb.co/RY9CTXL/vebotv-BEARTV.webp" ,VEBO TV 1
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTINF:-1 group-title="BEAR SPORT [Thập Cẩm]" tvg-logo="https://i.ibb.co/RY9CTXL/vebotv-BEARTV.webp" ,VEBO TV 10
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTINF:-1 group-title="BEAR SPORT [Thập Cẩm]" tvg-logo="https://i.ibb.co/RY9CTXL/vebotv-BEARTV.webp" ,VEBO TV 11
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTINF:-1 group-title="BEAR SPORT [Thập Cẩm]" tvg-logo="https://i.ibb.co/RY9CTXL/vebotv-BEARTV.webp" ,VEBO TV 12
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTINF:-1 group-title="BEAR SPORT [Thập Cẩm]" tvg-logo="https://i.ibb.co/RY9CTXL/vebotv-BEARTV.webp" ,VEBO TV 13
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTINF:-1 group-title="BEAR SPORT [Thập Cẩm]" tvg-logo="https://i.ibb.co/RY9CTXL/vebotv-BEARTV.webp" ,VEBO TV 14
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTINF:-1 group-title="BEAR SPORT [Thập Cẩm]" tvg-logo="https://i.ibb.co/RY9CTXL/vebotv-BEARTV.webp" ,VEBO TV 15
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTINF:-1 group-title="BEAR SPORT [Thập Cẩm]" tvg-logo="https://i.ibb.co/RY9CTXL/vebotv-BEARTV.webp" ,VEBO TV 16
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTINF:-1 group-title="BEAR SPORT [Thập Cẩm]" tvg-logo="https://i.ibb.co/RY9CTXL/vebotv-BEARTV.webp" ,VEBO TV 17
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTINF:-1 group-title="BEAR SPORT [Thập Cẩm]" tvg-logo="https://i.ibb.co/RY9CTXL/vebotv-BEARTV.webp" ,VEBO TV 18
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTINF:-1 group-title="BEAR SPORT [Thập Cẩm]" tvg-logo="https://i.ibb.co/RY9CTXL/vebotv-BEARTV.webp" ,VEBO TV 19
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTINF:-1 group-title="BEAR SPORT [Thập Cẩm]" tvg-logo="https://i.ibb.co/RY9CTXL/vebotv-BEARTV.webp" ,VEBO TV 2
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTINF:-1 group-title="BEAR SPORT [Thập Cẩm]" tvg-logo="https://i.ibb.co/RY9CTXL/vebotv-BEARTV.webp" ,VEBO TV 20
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTINF:-1 group-title="BEAR SPORT [Thập Cẩm]" tvg-logo="https://i.ibb.co/RY9CTXL/vebotv-BEARTV.webp" ,VEBO TV 21
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTINF:-1 group-title="BEAR SPORT [Thập Cẩm]" tvg-logo="https://i.ibb.co/RY9CTXL/vebotv-BEARTV.webp" ,VEBO TV 22
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTINF:-1 group-title="BEAR SPORT [Thập Cẩm]" tvg-logo="https://i.ibb.co/RY9CTXL/vebotv-BEARTV.webp" ,VEBO TV 3
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTINF:-1 group-title="BEAR SPORT [Thập Cẩm]" tvg-logo="https://i.ibb.co/RY9CTXL/vebotv-BEARTV.webp" ,VEBO TV 4
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTINF:-1 group-title="BEAR SPORT [Thập Cẩm]" tvg-logo="https://i.ibb.co/RY9CTXL/vebotv-BEARTV.webp" ,VEBO TV 5
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTINF:-1 group-title="BEAR SPORT [Thập Cẩm]" tvg-logo="https://i.ibb.co/RY9CTXL/vebotv-BEARTV.webp" ,VEBO TV 6
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTINF:-1 group-title="BEAR SPORT [Thập Cẩm]" tvg-logo="https://i.ibb.co/RY9CTXL/vebotv-BEARTV.webp" ,VEBO TV 7
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTINF:-1 group-title="BEAR SPORT [Thập Cẩm]" tvg-logo="https://i.ibb.co/RY9CTXL/vebotv-BEARTV.webp" ,VEBO TV 8
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTINF:-1 group-title="BEAR SPORT [Thập Cẩm]" tvg-logo="https://i.ibb.co/RY9CTXL/vebotv-BEARTV.webp" ,VEBO TV 9
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTINF:0 group-title="DENDA TV" ,TONY
 https://blv.hjkai791a.site/live/_definst_/stream_1_1f667@23xmvkh8g45vqg8_64747a4e172ff91c4cc1ed05/playlist.m3u8
 #EXTINF:0 group-title="DENDA TV" ,ZZ PRUEBA 01
 https://live.hjkai791a.site/live/_definst_/stream_1_f1484@4jwq2ghe072vm0v/index.m3u8
 #EXTINF:0 group-title="DENDA TV" ,ZZ PRUEBA 02
 https://live.hjkai791a.site/live/_definst_/stream_1_f1484@y0or5jhz78zkqwz/index.m3u8
+#EXTINF:0 group-title="PORTLAND" ,A BEU
+https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1715357892-0-0-1bbdd0fd52c824652528347726618157
+#EXTINF:0 group-title="PORTLAND" ,A BEU SD
+https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1715357892-0-0-1bbdd0fd52c824652528347726618157
 #EXTINF:0 group-title="PORTLAND" ,AK47
 https://pull.niur.live/live/stream-9912092_lhd.m3u8?txSecret=cab8fe62c1ce7aef65e2365b55e3147e&txTime=663dd13c
 #EXTINF:0 group-title="PORTLAND" ,BACAR
@@ -320,11 +134,25 @@ https://pull.niues.live/live/stream-361284_lhd.m3u8?auth_key=1714869552-0-0-29ff
 #EXTINF:0 group-title="PORTLAND" ,BEE
 https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1714312571-0-0-13ffcf62b06fa9129fbf52d45b27d164
 #EXTINF:0 group-title="PORTLAND" ,CAPTAIN
-https://pull.niues.live/live/stream-283501_lhd.m3u8?auth_key=1714822752-0-0-81aa0a09bec233391f4bdaa092fef4b3
+https://pull.niues.live/live/stream-9912027_lhd.m3u8?auth_key=1715347272-0-0-1a162d4841588da74b0b81102ab485e4
+#EXTINF:0 group-title="PORTLAND" ,CAPTAIN SD
+https://pull.niues.live/live/stream-9912027_lsd.m3u8?auth_key=1715347272-0-0-1a162d4841588da74b0b81102ab485e4
+#EXTINF:0 group-title="PORTLAND" ,CRIS
+https://pull.niues.live/live/stream-499765_lhd.m3u8?auth_key=1715347752-0-0-ee050a63c23290455102c251f0d08db4
+#EXTINF:0 group-title="PORTLAND" ,CRIS SD
+https://pull.niues.live/live/stream-499765_lsd.m3u8?auth_key=1715347752-0-0-ee050a63c23290455102c251f0d08db4
+#EXTINF:0 group-title="PORTLAND" ,DO LA
+https://pull.niues.live/live/stream-380774_lhd.m3u8?auth_key=1715358012-0-0-539e8970bd0f7d3a03f13617a3f6dec3
+#EXTINF:0 group-title="PORTLAND" ,DO LA SD
+https://pull.niues.live/live/stream-380774_lsd.m3u8?auth_key=1715358012-0-0-539e8970bd0f7d3a03f13617a3f6dec3
 #EXTINF:0 group-title="PORTLAND" ,DOM
 https://pull.niues.live/live/stream-434982_lhd.m3u8?auth_key=1715313912-0-0-1e9a270b68c63ba67447bed269fc0828
 #EXTINF:0 group-title="PORTLAND" ,DOM SD
 https://pull.niues.live/live/stream-434982_lsd.m3u8?auth_key=1715313912-0-0-1e9a270b68c63ba67447bed269fc0828
+#EXTINF:0 group-title="PORTLAND" ,ENZO
+https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1715347152-0-0-13cb2c0db6d473f09d316689d0bac476
+#EXTINF:0 group-title="PORTLAND" ,ENZO SD
+https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1715347152-0-0-13cb2c0db6d473f09d316689d0bac476
 #EXTINF:0 group-title="PORTLAND" ,FIREMAN
 https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1714822932-0-0-11e219f43128a082ee18a80d7643f8a2
 #EXTINF:0 group-title="PORTLAND" ,GON
@@ -333,12 +161,22 @@ https://pull.niues.live/live/stream-445260_lhd.m3u8?auth_key=1714869252-0-0-834c
 https://pull.niues.live/live/stream-9912043_lhd.m3u8?auth_key=1714822692-0-0-31ce5b7b949659bf6be2345491c113a5
 #EXTINF:0 group-title="PORTLAND" ,KAKA
 https://pull.niues.live/live/stream-9912025_lhd.m3u8?auth_key=1714869492-0-0-ca6d0dc736b100e2a6f3f3ccc8dbbbdd
+#EXTINF:0 group-title="PORTLAND" ,KAKA SD
+https://pull.niues.live/live/stream-9912025_lsd.m3u8?auth_key=1714869492-0-0-ca6d0dc736b100e2a6f3f3ccc8dbbbdd
 #EXTINF:0 group-title="PORTLAND" ,KAN
+https://pull.niues.live/live/stream-283501_lhd.m3u8?auth_key=1714822812-0-0-32295fca84f8bda644d5e14b21d35042
+#EXTINF:0 group-title="PORTLAND" ,KAN SD
 https://pull.niues.live/live/stream-283501_lhd.m3u8?auth_key=1714822812-0-0-32295fca84f8bda644d5e14b21d35042
 #EXTINF:0 group-title="PORTLAND" ,KEVILL
 https://pull.niues.live/live/stream-477560_lhd.m3u8?auth_key=1714822452-0-0-d41a5e866d24aca350b91fe7a93a7a9a
+#EXTINF:0 group-title="PORTLAND" ,KEVILL SD
+https://pull.niues.live/live/stream-477560_lsd.m3u8?auth_key=1714822452-0-0-d41a5e866d24aca350b91fe7a93a7a9a
 #EXTINF:0 group-title="PORTLAND" ,KHONG NGU
 https://pull.niur.live/live/stream-9912042_lhd.m3u8?txSecret=f2a7ca2375a87d3c69c6eae1092a5e7c&txTime=66366528
+#EXTINF:0 group-title="PORTLAND" ,KUDO
+https://pull.niues.live/live/stream-334434_lhd.m3u8?auth_key=1715347992-0-0-4f38d58c558ac3587293be34b9713e31
+#EXTINF:0 group-title="PORTLAND" ,KUDO SD
+https://pull.niues.live/live/stream-334434_lsd.m3u8?auth_key=1715347992-0-0-4f38d58c558ac3587293be34b9713e31
 #EXTINF:0 group-title="PORTLAND" ,LOGAN
 https://pull.niur.live/live/stream-9911977_lhd.m3u8?txSecret=ca7965e61bf26a185f2b8eb58b9c3fcd&txTime=66366348
 #EXTINF:0 group-title="PORTLAND" ,LONG
@@ -364,11 +202,17 @@ https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1714869312-0-0-502f
 #EXTINF:0 group-title="PORTLAND" ,ODIN
 https://pull.niur.live/live/stream-101657_lhd.m3u8?txSecret=ba2559ca5d988682b15423c5d3232a70&txTime=66371b08
 #EXTINF:0 group-title="PORTLAND" ,PELE
-https://pull.niur.live/live/stream-9912042_lhd.m3u8?txSecret=db4c55c0a0fbec592591d35c5491a23e&txTime=663664ec
-#EXTINF:0 group-title="PORTLAND" ,PELE
 https://pull.niur.live/live/stream-9912003_lhd.m3u8?txSecret=bd58aa0e4970feca7ecb24a87fd54963&txTime=66371acc
+#EXTINF:0 group-title="PORTLAND" ,PELE
+https://pull.niur.live/live/stream-9912042_lhd.m3u8?txSecret=db4c55c0a0fbec592591d35c5491a23e&txTime=663664ec
 #EXTINF:0 group-title="PORTLAND" ,PEWPEW
 https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1714869852-0-0-fc9f7b882298760f088a2577b161160c
+#EXTINF:0 group-title="PORTLAND" ,PEWPEW SD
+https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1714869852-0-0-fc9f7b882298760f088a2577b161160c
+#EXTINF:0 group-title="PORTLAND" ,PHI HANH
+https://pull.niues.live/live/stream-9911957_lhd.m3u8?auth_key=1715354652-0-0-a115b7bc2c74abc74bbdf5ee830512d1
+#EXTINF:0 group-title="PORTLAND" ,PHI HANH SD
+https://pull.niues.live/live/stream-9911957_lsd.m3u8?auth_key=1715354652-0-0-a115b7bc2c74abc74bbdf5ee830512d1
 #EXTINF:0 group-title="PORTLAND" ,PICASSO
 https://pull.niur.live/live/stream-427856_lhd.m3u8?txSecret=267f7badf2659b74320a55e1b24e832d&txTime=663665dc
 #EXTINF:0 group-title="PORTLAND" ,PIRLO
@@ -397,8 +241,20 @@ https://pull.niues.live/live/stream-9912016_lhd.m3u8?auth_key=1714822572-0-0-4ff
 https://pull.niues.live/live/stream-9912095_lhd.m3u8?auth_key=1715321652-0-0-208abb81872e8ad0f8e5050f70f5f664
 #EXTINF:0 group-title="PORTLAND" ,TA BIEN GIOI SD
 https://pull.niues.live/live/stream-9912095_lsd.m3u8?auth_key=1715321652-0-0-208abb81872e8ad0f8e5050f70f5f664
+#EXTINF:0 group-title="PORTLAND" ,TAM MAO
+https://pull.niues.live/live/stream-9912047_lhd.m3u8?auth_key=1715357652-0-0-fc73bac247e0df9344ccf5b88a5c8e77
+#EXTINF:0 group-title="PORTLAND" ,TAM MAO SD
+https://pull.niues.live/live/stream-9912047_lsd.m3u8?auth_key=1715357652-0-0-fc73bac247e0df9344ccf5b88a5c8e77
+#EXTINF:0 group-title="PORTLAND" ,TAO
+https://pull.niues.live/live/stream-479849_lhd.m3u8?auth_key=1697827723-0-0-95c8d6e69202f1f1d063380f84825553
+#EXTINF:0 group-title="PORTLAND" ,TAO SD
+https://pull.niues.live/live/stream-479849_lsd.m3u8?auth_key=1697827723-0-0-95c8d6e69202f1f1d063380f84825553
 #EXTINF:0 group-title="PORTLAND" ,TAP
 https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=ba43bf0fe4932f6db51b47c0f2d86049&txTime=66366564
+#EXTINF:0 group-title="PORTLAND" ,THACH CHU
+https://pull.niues.live/live/stream-344370_lhd.m3u8?auth_key=1715348052-0-0-6636349612ddc025ef8494585f6d30ed
+#EXTINF:0 group-title="PORTLAND" ,THACH CHU SD
+https://pull.niues.live/live/stream-344370_lsd.m3u8?auth_key=1715348052-0-0-6636349612ddc025ef8494585f6d30ed
 #EXTINF:0 group-title="PORTLAND" ,TOMIA
 https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1714823052-0-0-ef31efadb0c0ea8ea38baa48db600039
 #EXTINF:0 group-title="PORTLAND" ,TOMIA SD
@@ -417,6 +273,14 @@ https://pull.niues.live/live/stream-9912009_lsd.m3u8?auth_key=1714823052-0-0-3de
 https://pull.niues.live/live/stream-421637_lhd.m3u8?auth_key=1715313972-0-0-59b663f8fc6859dbe6be8f2d63e21b4e
 #EXTINF:0 group-title="PORTLAND" ,VI TIEU BAO SD
 https://pull.niues.live/live/stream-421637_lsd.m3u8?auth_key=1715313972-0-0-59b663f8fc6859dbe6be8f2d63e21b4e
+#EXTINF:0 group-title="PORTLAND" ,VITAMIN
+https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1715357832-0-0-4c6d970fdbc976d19c4da5ff8a55b7a9
+#EXTINF:0 group-title="PORTLAND" ,VITAMIN SD
+https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1715357832-0-0-4c6d970fdbc976d19c4da5ff8a55b7a9
+#EXTINF:0 group-title="PORTLAND" ,ZORO
+https://pull.niues.live/live/stream-299144_lhd.m3u8?auth_key=1715357112-0-0-8e2b412c13b37927ecba47b48159ddc7
+#EXTINF:0 group-title="PORTLAND" ,ZORO SD
+https://pull.niues.live/live/stream-299144_lsd.m3u8?auth_key=1715357112-0-0-8e2b412c13b37927ecba47b48159ddc7
 #EXTINF:0 group-title="PORTLAND" ,ZZ01 HD
 https://pull.niues.live/live/stream-477560_lhd.m3u8?auth_key=1697570023-0-0-70ebea5b22883726dc6a9e0f05f7b616
 #EXTINF:0 group-title="PORTLAND" ,ZZ01 SD
@@ -435,8 +299,6 @@ https://pull.niues.live/live/stream-9912045_lsd.m3u8?auth_key=1697896183-0-0-c47
 https://pull.niues.live/live/stream-479684_lhd.m3u8?auth_key=1697886403-0-0-69e8b56bea08947123f6ea4f2c9cd175
 #EXTINF:0 group-title="PORTLAND" ,ZZ05 SD
 https://pull.niues.live/live/stream-479684_lsd.m3u8?auth_key=1697886403-0-0-69e8b56bea08947123f6ea4f2c9cd175
-#EXTINF:0 group-title="PORTLAND" ,ZZ06 SD
-https://pull.niues.live/live/stream-479849_lsd.m3u8?auth_key=1697827723-0-0-95c8d6e69202f1f1d063380f84825553
 #EXTINF:0 group-title="PORTLAND" ,ZZ07 SD
 https://pull.niues.live/live/stream-237299_lsd.m3u8?auth_key=1697570023-0-0-7f8a72d460e4586ff10ba3d5c9cb883d
 #EXTINF:0 group-title="PORTLAND" ,ZZ08 HD
