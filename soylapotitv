@@ -11,7 +11,7 @@ https://acdn.p2pcdn.xyz/xoilac/channel4.m3u8?auth_key=3000001682141159-0-0-0d3e7
 https://acdn.p2pcdn.xyz/xoilac/channel5.m3u8?auth_key=3000001682141126-0-0-04fd101532e4ff9814a48ef7aaf68e70
 #EXTINF:0 group-title="01 VEBO TV" ,CANAL 06
 https://acdn.p2pcdn.xyz/xoilac/channel6.m3u8?auth_key=3000001682141166-0-0-768f7b6c3646393e265da0a11478ecda
-#EXTINF:0 group-title="01 VEBO TV" ,CANAL 07
+#EXTINF:0 group-title="01 VEBO TV" ,CANAL 07 LEE
 https://acdn.p2pcdn.xyz/xoilac/channel7.m3u8?auth_key=3000001682141135-0-0-4a850fb10b5c33c1bfea7bbeef905468
 #EXTINF:0 group-title="01 VEBO TV" ,CANAL 08 JAY
 https://acdn.p2pcdn.xyz/xoilac/channel8.m3u8?auth_key=3000001682141130-0-0-22aa0108c17bb2f769a2b45d4bf68d03
@@ -41,6 +41,8 @@ https://acdn.p2pcdn.xyz/xoilac/channel19.m3u8?auth_key=3000001715196495-0-0-bbc8
 https://acdn.p2pcdn.xyz/xoilac/channel21.m3u8?auth_key=3000001685286957-0-0-9c8552ee28847a19ee6ff64b2f12b1ed
 #EXTINF:0 group-title="01 VEBO TV" ,CANAL 22 HELLO
 https://acdn.p2pcdn.xyz/xoilac/channel22.m3u8?auth_key=3000001715127501-0-0-b8b7ff157fe4f7df9c3a8d8b16a9682b
+#EXTINF:0 group-title="01 VEBO TV" ,CANAL 23 MON
+https://acdn.p2pcdn.xyz/xoilac/channel23.m3u8?auth_key=3000001715393246-0-0-241276aae1790aaa54ef10de21890c24
 #EXTINF:0 group-title="01 VEBO TV" ,CANAL 24
 https://acdn.p2pcdn.xyz/xoilac/channel24.m3u8?auth_key=3000001714786147-0-0-4d8c7a8d34cbc362ae37dcb8df5fe2f8
 #EXTINF:0 group-title="01 VEBO TV" ,CANAL 25 ALAN
@@ -53,6 +55,8 @@ https://acdn.p2pcdn.xyz/xoilac/channel27.m3u8?auth_key=3000001714786965-0-0-df0b
 https://acdn.p2pcdn.xyz/xoilac/channel29.m3u8?auth_key=3000001714787208-0-0-587cce145fbfabfee7bdf4577f9a5912
 #EXTINF:0 group-title="01 VEBO TV" ,CANAL 30
 https://acdn.p2pcdn.xyz/xoilac/channel30.m3u8?auth_key=3000001714789141-0-0-81d12054b2d58f0d1cc1941eef26365f
+#EXTINF:0 group-title="01 VEBO TV" ,CANAL 31
+https://acdn.p2pcdn.xyz/xoilac/channel31.m3u8?auth_key=3000001715393681-0-0-da293cd6b7c25c5378c6e6c91d441876
 #EXTINF:0 group-title="01 VEBO TV" ,CANAL 32
 https://acdn.p2pcdn.xyz/xoilac/channel32.m3u8?auth_key=3000001714787317-0-0-e1b3085619ccb90dbbc6fd98a96535ef
 #EXTINF:0 group-title="01 VEBO TV" ,CANAL 34
@@ -61,6 +65,8 @@ https://acdn.p2pcdn.xyz/xoilac/channel34.m3u8?auth_key=3000001714786997-0-0-0cd7
 https://acdn.p2pcdn.xyz/xoilac/channel35.m3u8?auth_key=3000001714786054-0-0-fd34609c99eba169672f22492ec106a6
 #EXTINF:0 group-title="01 VEBO TV" ,CANAL 36
 https://acdn.p2pcdn.xyz/xoilac/channel36.m3u8?auth_key=3000001714786715-0-0-df4b18bca78db4ace0e3da1e1dcc19d0
+#EXTINF:0 group-title="01 VEBO TV" ,CANAL 38
+https://acdn.p2pcdn.xyz/xoilac/channel38.m3u8?auth_key=3000001715393917-0-0-5c2476b627a14d9cb2fda927c17188c1
 #EXTINF:0 group-title="01 VEBO TV" ,CANAL 40 ZARA
 https://acdn.p2pcdn.xyz/xoilac/channel40.m3u8?auth_key=3000001714797746-0-0-e6373bf7035f9667a989b5e6e8d43e38
 #EXTINF:0 group-title="01 VEBO TV" ,CANAL 41
@@ -487,3 +493,5 @@ https://zbpull3.zyjymall.com/live/91332999609196336318.m3u8
 https://zbpull3.zyjymall.com/live/91332704039349978303.m3u8
 #EXTINF:0 group-title="ZZEVENTOS" ,07 VIEJO
 https://play1nm.hnyongshun.cn/live/sd-1-3984711.m3u8|referer=https://player.huminbird.cn/
+#EXTINF:-1 group-title="ZZ PRUEBAS" ,ALAN,#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
+https://live.vbfast.xyz/63cc074158faab7584e53b62f7bbd6bc/1715437525703/ypcycco/ypcycco@720p.m3u8
