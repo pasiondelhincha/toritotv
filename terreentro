@@ -885,6 +885,14 @@ https://linear-490.frequency.stream/mt/studio/490/hls/master/playlist.m3u8
 https://linear-506.frequency.stream/mt/studio/506/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="FUTBOL VIX" ,FUTBOL ESPAÑOL
 https://linear-507.frequency.stream/mt/studio/507/hls/master/playlist.m3u8
+#EXTINF:0 group-title="FUTBOL YOUTUBE" ,CAMIONEROS OFICIAL
+https://ythls.armelin.one/channel/UC1HNagX13x-w8NidhfzujCg.m3u8
+#EXTINF:0 group-title="FUTBOL YOUTUBE" ,CLAYPOLE OFICIAL
+https://ythls.armelin.one/channel/UCruEbhWppjJhI-u40Zn5DxQ.m3u8
+#EXTINF:0 group-title="FUTBOL YOUTUBE" ,EL PORVENIR - MUNDO PORVENIR
+https://ythls.armelin.one/channel/UCgaAvVllH5OhmL_ETNczB7g.m3u8
+#EXTINF:0 group-title="FUTBOL YOUTUBE" ,EL PORVENIR - PORVE TV
+https://ythls.armelin.one/channel/UCdbowDDTQXU-gHwAqU7AMCg.m3u8
 #EXTINF:0 group-title="GREAT STAR" ,DAZN F1 ESPAÑOL
 http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:c8:af:f1&stream=317783&extension=ts&play_token=WnbiU3BwDy
 #EXTINF:0 group-title="GREAT STAR" ,SKY SPORTS ACTION
@@ -1771,7 +1779,5 @@ https://obevcimanyd179249207.thapcam.link/live/cunFHD/chunklist.m3u8
 https://vb90xltcvg.nsnd.live/live/_definst_/stream_1_1bda7@cunSD/chunklist.m3u8
 #EXTINF:-1 group-title="Ve Bo TV" ,CUN,#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
 https://live-eu-ay5eg6kw5uliv.thapcam.link/live/cunHD/chunklist.m3u8
-
-
 #EXTINF:0 group-title="WEBCAMS Y PAISAJES" ,LOVE NATURE 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
