@@ -7383,6 +7383,72 @@ http://181.78.105.146:2000/play/a08j/index.m3u8
 http://181.78.105.146:2000/play/a095/index.m3u8
 #EXTINF:-1 group-title="MEXICO-UFINET" ,UNICABLE
 http://181.78.105.146:2000/play/a08f/index.m3u8
+#EXTINF:0 group-title="MYLIFEISGOOD" ,BRIDGE 24HS
+http://195.191.208.88/hlsjwt/5abc857e644d3ae86990b47dafaa0ac5af8d634b-69-0-24h4152851-5-3585548458-1715488432--xIYmBQcNEkv1vdDV8r87c1NcgjFc9ftkD83DrEpgDKE/index.m3u8
+#EXTINF:0 group-title="MYLIFEISGOOD" ,BRIDGE CLASSIC
+http://195.191.208.225/hlsjwt/e51fe9a9bb7998f7ca59944ae2878d700d726231-389-0-24h4152851-5-3585548458-1715488550--Tvy3euqJi2UOVkUvjM9mkU8YGl2t8GEYDGeZOph_4ls/index.m3u8
+#EXTINF:0 group-title="MYLIFEISGOOD" ,BRIDGE DE LUXE TV
+http://195.191.208.206/hlsjwt/46e6c196cc27a69b3b6ee4078f2f38bed7537a66-154-0-24h4152851-5-3585548458-1715488632--_gRx6bzT_TaX78g7W0GMrdJhVX1CxDfHXlDC2tUxhUI/index.m3u8
+#EXTINF:0 group-title="MYLIFEISGOOD" ,BRIDGE HITS
+http://195.191.208.15/hlsjwt/0d138977ca60fe90972c8de6f5114b0faa74172d-7352-0-24h4152851-5-3585548458-1715487774--nCN0wtLx7OquLETTnNiMq2txyRtsQ3oIst8yYnm7dJw/index.m3u8
+#EXTINF:0 group-title="MYLIFEISGOOD" ,BRIDGE ROCK
+https://strm.yandex.ru/kal/bridge_tv_fresh/ysign1=2075de43d9a7b4294ec315f172b31625161b908078bc5607d7f7ca3176f9a696,atrack=audio1_rus,pfx,sfx,ts=664dd1de,unsafe=1,vtrack=169_240p/index-v1-a1.m3u8?vsid=m0j6j879ffa8me1
+#EXTINF:0 group-title="MYLIFEISGOOD" ,BRIDGE RUSSIAN HITS
+http://195.191.208.206/hlsjwt/c1b290109842a618c46bfdd9d75fe90e86df803f-158-0-24h4152851-5-3585548458-1715488692--GfjBIlyH6wdQ6HAna76SV43DoNn3O0Lb1DAE2hrtTyo/index.m3u8
+#EXTINF:0 group-title="MYLIFEISGOOD" ,BRIDGE SHLYAGER
+http://195.191.208.206/hlsjwt/661dea24f7b3b8e628d61d44e8987b5d9e750f2a-5014-0-24h4152851-5-3585548458-1715488739--q4E7y9lgPvwUmbpL7SRVCxF4X3pr_xcslTd6FWXNaZA/index.m3u8
+#EXTINF:0 group-title="MYLIFEISGOOD" ,МАТЧ!
+https://live-s-205.uma.media/LIVE/LIVE:133529/HLS/1715502122/M2DvY4IYUnaVWvbC1Zcdtg/live/133529_4/chunklist.m3u8
+#EXTINF:0 group-title="MYLIFEISGOOD" ,МАТЧ! СТРАНА
+https://live-s-105.uma.media/LIVE/LIVE:291661/HLS/1715502164/WLWGrr334bjpOJFRFmsh1w/live/291661_3/chunklist.m3u8
+#EXTINF:0 group-title="MYLIFEISGOOD" ,Наш спорт 01
+https://stream-msk-11.ott.tricolor.tv/dtv/id794_MSKSG-PVR-1--Nash_khokkey1/03/plst.m3u8
+#EXTINF:0 group-title="MYLIFEISGOOD" ,Наш спорт 02
+https://stream-msk-10.ott.tricolor.tv/dtv/id732_MSKSG-PVR-1--Nash_khokkey2/03/plst.m3u8
+#EXTINF:0 group-title="MYLIFEISGOOD" ,Наш спорт 03
+https://stream-msk-08.ott.tricolor.tv/dtv/id728_MSKSG-PVR-1--Nash_khokkey3/03/plst.m3u8
+#EXTINF:0 group-title="MYLIFEISGOOD" ,Наш спорт 04
+https://stream-msk-10.ott.tricolor.tv/dtv/id834_MSKSG-PVR-1--Nash_khokkey4/03/plst.m3u8
+#EXTINF:0 group-title="MYLIFEISGOOD" ,Наш спорт 05
+https://stream-msk-01.ott.tricolor.tv/dtv/id730_MSKSG-PVR-1--Nash_khokkey5/03/plst.m3u8
+#EXTINF:0 group-title="MYLIFEISGOOD" ,Наш спорт 06
+https://stream-msk-01.ott.tricolor.tv/dtv/id740_MSKSG-PVR-1--Nash_khokkey6/03/plst.m3u8
+#EXTINF:0 group-title="MYLIFEISGOOD" ,Наш спорт 07
+https://stream-msk-09.ott.tricolor.tv/dtv/id741_MSKSG-PVR-1--Nash_khokkey7/03/plst.m3u8
+#EXTINF:0 group-title="MYLIFEISGOOD" ,Наш спорт 08
+https://stream-msk-01.ott.tricolor.tv/dtv/id747_MSKSG-PVR-1--Nash_khokkey8/03/plst.m3u8
+#EXTINF:0 group-title="MYLIFEISGOOD" ,Наш спорт 09
+https://stream-msk-10.ott.tricolor.tv/dtv/id749_MSKSG-PVR-1--Nash_khokkey9/03/plst.m3u8
+#EXTINF:0 group-title="MYLIFEISGOOD" ,Наш спорт 10
+https://stream-msk-04.ott.tricolor.tv/dtv/id797_MSKSG-PVR-1--Nash_sport10/03/plst.m3u8
+#EXTINF:0 group-title="MYLIFEISGOOD" ,Наш спорт 11
+https://stream-msk-10.ott.tricolor.tv/dtv/id798_MSKSG-PVR-1--Nash_sport11/03/plst.m3u8
+#EXTINF:0 group-title="MYLIFEISGOOD" ,Наш спорт 12
+https://stream-msk-03.ott.tricolor.tv/dtv/id799_MSKSG-PVR-1--Nash_sport12/03/plst.m3u8
+#EXTINF:0 group-title="MYLIFEISGOOD" ,Наш спорт 13
+https://stream-msk-13.ott.tricolor.tv/dtv/id800_MSKSG-PVR-1--Nash_sport13/03/plst.m3u8
+#EXTINF:0 group-title="MYLIFEISGOOD" ,Наш спорт 14
+https://stream-msk-04.ott.tricolor.tv/dtv/id817_MSKSG-PVR-1--Nash_sport14/03/plst.m3u8
+#EXTINF:0 group-title="MYLIFEISGOOD" ,Наш спорт 15
+https://stream-msk-10.ott.tricolor.tv/dtv/id804_MSKSG-PVR-1--Nash_sport15/03/plst.m3u8
+#EXTINF:0 group-title="MYLIFEISGOOD" ,Наш спорт 16
+https://stream-msk-13.ott.tricolor.tv/dtv/id806_MSKSG-PVR-1--Nash_sport16/03/plst.m3u8
+#EXTINF:0 group-title="MYLIFEISGOOD" ,Наш спорт 17
+https://stream-msk-06.ott.tricolor.tv/dtv/id807_MSKSG-PVR-1--Nash_sport17/03/plst.m3u8
+#EXTINF:0 group-title="MYLIFEISGOOD" ,Наш спорт 18
+https://stream-msk-02.ott.tricolor.tv/dtv/id808_MSKSG-PVR-1--Nash_sport18/03/plst.m3u8
+#EXTINF:0 group-title="MYLIFEISGOOD" ,Наш спорт 19
+https://stream-msk-13.ott.tricolor.tv/dtv/id809_MSKSG-PVR-1--Nash_sport19/03/plst.m3u8
+#EXTINF:0 group-title="MYLIFEISGOOD" ,Наш спорт 20
+https://stream-msk-09.ott.tricolor.tv/dtv/id810_MSKSG-PVR-1--Nash_sport20/03/plst.m3u8
+#EXTINF:0 group-title="MYLIFEISGOOD" ,Наш спорт 21
+https://stream-msk-06.ott.tricolor.tv/dtv/id814_MSKSG-PVR-1--Nash_sport21/03/plst.m3u8
+#EXTINF:0 group-title="MYLIFEISGOOD" ,Наш спорт 22
+https://stream-msk-13.ott.tricolor.tv/dtv/id900_MSKSG-PVR-1--Nash_sport22/03/plst.m3u8
+#EXTINF:0 group-title="MYLIFEISGOOD" ,Наш спорт 23
+https://stream-msk-11.ott.tricolor.tv/dtv/id812_MSKSG-PVR-1--Nash_sport23/03/plst.m3u8
+#EXTINF:0 group-title="MYLIFEISGOOD" ,Наш спорт 24
+https://stream-msk-01.ott.tricolor.tv/dtv/id813_MSKSG-PVR-1--Nash_sport24/03/plst.m3u8
 #EXTINF:-1 group-title="PLEX" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/Toon-Goggles-en-Espanol_logo_dark.png" ,BR | TOON GOGGLES EN ESPAÑOL
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=533&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=SYmqRsd_3zFsz7JJX_qb&content_series=6041643175c115002dc51259&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=SYmqRsd_3zFsz7JJX_qb&custom_7=6041643175c115002dc51259
 #EXTINF:-1 group-title="PLEX" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/Toon-Goggles-en-Espanol_logo_dark.png" ,BR | TOON GOGGLES EN ESPAÑOL
@@ -11452,56 +11518,4 @@ http://206.212.246.25:8080/gZpw5weynu/C6gJj6DfxV/25803?token=GRMJWEQNEFgXBVQEBwA
 #EXTINF:0 group-title="ZZPRUEBAS TOKEN EPG" ,PREMIER SPORTS 2
 http://206.212.246.25:8080/gZpw5weynu/C6gJj6DfxV/25804?token=GRMJWEQNEFgXBVQEBwAFUVYHUFVUU1cEA1dbVAYAAldSAQIPAF1UUwRBT0NEQ0QGUV0+CwZGXgMBXlJRGBIRRgdDPlBTRwhABFJSVBUbFBdZXQRAWFVTAABVVFAEBFYZQEEIXRVfEFYHUlFDGxVTG0RVEwwDCDtVURALBlESXlsXXQ0VFQpcPVEGDgBZUxRZEgFDTkANF0EWXAwQWFxIFwBYFUtWEVdAD0FbVgIGFE8SUw4XDBAWSBZcQCRmEkgXB0kVXFkWWw1bQVlDQ0QUTxJZEj0QARdFRgMDCFFCRg9AAUMVFQhTGmoADA9ZUlUXWV8PEUBeRgAEVlJHGBIJWgxYFVZFOkILUUFZQwICB1MSTQ==
 #EXTINF:0 group-title="ZZPRUEBAS TOKEN EPG" tvg-name="http://198.244.135.44/play/IBtBC5GtDR_mh16kyJ9fjNMqXqUdYgsq9n8cW9e03jjznM0ROXbLixsxxZx7KccCFMKWibJOoeSQjM9apDbJkE66jBvVn15P_sA01AX3N8OB68wD0qX4Wthn7SDZLLTLb2HjupAl0XEVKuXeeQki4KrpZXkLyxCTEcAe5YC3meUCEPnb2UtzkYg0acMnNyD_/stream.ts" ,SKY SPORT LIVE 1
-http://198.244.135.44/play/Fyt8Qn1kYQzaxjOLu54S9uA6j3DZczvMse8_slJKaVAGNqbLqaxNpsomT1_msRTm1c2ZoWdefIPz2tZvpWM0H8_4KpPx4tDy8Ub_KcvJ6Xm58kuGcSuJoCnSaJKpoGuykxkTCoqaS_P5d4hkuEcp7.thy_W8Nen1eJSkvbfpq9VF0RIHNlNLl30NNHyY6_R6/stream.ts
-#EXTINF:0 group-title="ZZPRUEBAS TOKEN EPG" ,SKY SPORT LIVE 2
-http://198.244.135.44/play/tfhKM0xtS_g7PEKjiobzqj4nTr1c10AZuHAKqhys7gWyBVWEyZMvLxSJtzmhiinl2mBRB6H_5YvfT82eu37_odWPwc7PlSWYg_hHgGU_3rRHsDAM3AqdiM.8DS.sGXugQpniq9GSrvsKt1f25YnP9K5YpSHpXw6zSX3.BoolexUW9HZVXh5DSMpfJEL35nwf/stream.ts
-#EXTINF:0 group-title="ZZPRUEBAS TOKEN EPG" ,SKY SPORT LIVE 3
-http://198.244.135.44/play/tXfnUSClDshSYkN79Zhb4QdOns6f2bg_b6ltMIJ9xC.lKeFc2m8nF7A5vQqypQISwid.ge8ySWKvrh8EaM4wkaZUy9a0QE451lBo7YDNmqQAn08Ahur6KawdEABfKP3v3pl6ldiQTpaunFf5OZ8EWXWw7SRg7mwOmkQABHec9VJgRL2ZU2CKQVi8VPWSSNbl/stream.ts
-#EXTINF:0 group-title="ZZPRUEBAS TOKEN EPG" ,SKY SPORT LIVE 4
-http://198.244.135.44/play/93.GeNgxIOqnM6ldlFWgg6m7Z5FFgwLkV7k9.4gGgvkeHf.zOcTXVTPWqqATT64DLcfeQRGI_N2YxyOc54WiB3Ex.86ySrxy19Y5ThMmXFzxzcHe1D.YXSznPUolb2ajUVSvnCORJP5BtERuMUao1aPrQczYV6uDUefnmvsKMTF59wXvuRo.o7r7vkJb.goX/stream.ts
-#EXTINF:-1 group-title="ZZPRUEBAS TOKEN EPG" ,Sky Sports Action
-https://7pal.short.gy/ssportsat
-#EXTINF:-1 group-title="ZZPRUEBAS TOKEN EPG" ,Sky Sports F1
-https://7pal.short.gy/ssportsf1
-#EXTINF:-1 group-title="ZZPRUEBAS TOKEN EPG" ,Sky Sports Football
-https://7pal.short.gy/ssportsfb
-#EXTINF:-1 group-title="ZZPRUEBAS TOKEN EPG" ,Sky Sports Golf
-https://7pal.short.gy/ssportsgf
-#EXTINF:-1 group-title="ZZPRUEBAS TOKEN EPG" ,Sky Sports Main Event
-https://7pal.short.gy/skspmaine
-#EXTINF:-1 group-title="ZZPRUEBAS TOKEN EPG" ,Sky Sports News
-https://7pal.short.gy/ssportsnw
-#EXTINF:-1 group-title="ZZPRUEBAS TOKEN EPG" ,Sky Sports Premier League
-https://7pal.short.gy/ssportspl
-#EXTINF:0 group-title="ZZPRUEBAS TOKEN EPG" ,SPORTS TV TR
-https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
-#EXTINF:0 group-title="ZZPRUEBAS TOKEN EPG" ,SUDAN SPORT
-http://51.195.119.84:8080/zid.maher/hh5N0WzoCLjo7vJCrAPr/48897?token=QhpaWRdZGg1DUlMCUl0CBQdaBVUGBgQBAVdbVlJaUglfWgMKVwkADgAWGhUXEUZUUlRpWVURCQFcXFpSHxsRS1xKbVEAEwIVVAYFFUhHQFheXBQKAAQCAVZTUlYADUgaSVFWGl4TCgFQAw8BU0cYE1ZBQlVDXVJZOwAGE1paARoDVkdUCB0aWA9rUlIJBFpVEQMUARMfEVwXFEFfXUwIVBUaUFEQQ1lDBBYMFVVRAgQRFRRTXkZdQRYdQV8ReDYaFRpXQBBUVkQIW1gVXkdAQhEVFFlCbEFQFxARAFJUAUobAhAJRh0aWgBMaVQLC1pUUE1fX19AEQ9GVVZVERVGVVZWW0wLQ2dHCFAUDUZXDQgCDAUBE04=
-#EXTINF:0 group-title="ZZPRUEBAS TOKEN EPG" ,TLC TOKEN 2
-http://23.227.140.58:25461/carlosbermudez/oZLRHZHL0z/65?token=QhpYUUZRFQ0SVwNTBAcFAwwCBQkBVVdTBVRQVwcEAwwICwQHAgoODgEUGxBDQhQEVQxuWFQTCQQASRdER1BBalBcEgoXCAEFBhQbEERfCwQWWwAGAQUBAQJRBAAYF0NcXRoKEgQOBgcIFBsQVU4SBEYPUF1vVVZEXAZQEw5bRllVFBJfW2ZTUl1XWVYSDERQFk0TWENBEQhbEFldGBdRXE1KUURQGw0VAgUHAxIaRAJbFF9FQkgRCBckZxMYF1ZNTV1eQ1xWWRUKFENBEhpECEc+Q1RDRUFXVAhQQxYPEQUbFBJdVEFoVF9YWVdTQg8OWhITCxIEER4XCFpfXUFcR2ZIWVQXAxUPBwYHEE0=
-#EXTINF:0 group-title="ZZPRUEBAS TOKEN EPG" ,TNT SPORTS 1
-https://7pal.short.gy/tntspts1
-#EXTINF:0 group-title="ZZPRUEBAS TOKEN EPG" ,TNT SPORTS 2
-https://7pal.short.gy/tntspts2
-#EXTINF:0 group-title="ZZPRUEBAS TOKEN EPG" ,TNT SPORTS 2 UK
-http://206.212.246.25:8080/gZpw5weynu/C6gJj6DfxV/20820?token=GRMJWEQNEFgXBwUEVg5UBgECA1sBUlcABVBVVQcFUAEBAlMPA1xXBFFBT0NEQ0QGUV0+CwZGXgMEXlBVGBIRRgdDPlBTRwhABFJSVBUbFBdZXQRAWFVTAABVVFAABlAZQEEIXRVfEFUAVlVDGxVTG0RVEwwDCDtVURALBlESXlsXXQ0VFQpcPVEGDgBZUxRZEgFDTkANF0EWXAwQWFxIFwBYFUtWEVdAD0FbWQcCFE8SUw4XDBAWSBZcQCRmEkgXB0kVXFkWWw1bQVlDQ0QUTxJZEj0QARdFRgMDCFFCRg9AAUMVFQhTGmoADA9ZUlUXWV8PEUBeRgAEVlJHGBIJWgxYFVZFOkILUUFZQwQHAFYFEhw=
-#EXTINF:0 group-title="ZZPRUEBAS TOKEN EPG" ,TNT SPORTS 3
-https://7pal.short.gy/tntspts3
-#EXTINF:0 group-title="ZZPRUEBAS TOKEN EPG" ,TNT SPORTS 4
-https://7pal.short.gy/tntspts4
-#EXTINF:0 group-title="ZZPRUEBAS TOKEN EPG" ,TNT SPORTS 4 UK
-http://206.212.246.25:8080/gZpw5weynu/C6gJj6DfxV/24304?token=GRMJWEQNEFgXBVUEUwIBBlECWVcGAgUEUVFWUFEAV1FUUgBbU1YABFdBT0NEQ0QGUV0+CwZGXgMAVVJRGBIRRgdDPlBTRwhABFJSVBUbFBdZXQRAWFVTAABVVFACCVUZQEEIXRVfEFAGVVtQFRsUBkhEBBAMBQhuUAMUDFdVRg8MRA1VG0ddDGoHBgxWWVJBChJQQE5GDUJERFgLQVwIGUBTCE1FBEYHF1lBWAQPAkEcEgINFwoQQ01EWEd1YkYZQFQZTVILQQtaDUFbFUNFQRwSCBE9FgFCQBQHBFlVFhdYE1EbG0dfA008AA5ZWVMARFkODBFGXhMFVlJVFhxGWA1fCE1YF20SXAdBWxUGAlcAA0Mf
-#EXTINF:0 group-title="ZZPRUEBAS TOKEN EPG" ,TNT SPORTS L3D
-http://208.82.61.118:8080/JOSECERON/JVfc5p5rEF/2140800?token=GUNfBEdbQApAUwQBXwAIUwMPVgEHAFRQBFcHB1BVV1dSUVNWAQQGVgESGkcVTENVB1U8WwcUDQcCAVIIUgcdExcSUhdrWgYSWBIHVlQOBwFEFEFGCltSFwkEVQFWAwEDV1gDSRZDC1RAChRXVgoDBkQUQVcbQlJHXVQObwZSR1gBBBVfWkYOXE4SWQs5XFRdB1YHEFkUBxcfFwtDEhULEzYEWwBXVgxEEF8WNkh5HxJKGgFbF0RWQVYXWBJQDwAEQE0VBltGDEQQSRRfRHljEkoaBkoXU1lGWloMElgVRUJATRUMR2wQVRFERAAHVVRCRAJBAkEaFVhSTT1TDVlfVAEVXgpaQEAKQAMUSURVXl4PTAxAPEZeUREPQAFbAAMFQBw=
-#EXTINF:0 group-title="ZZPRUEBAS TOKEN EPG" ,VSPORT
-http://23232.top/play/live.php?mac=00:1A:79:C6:37:1B&stream=1387334&extension=ts
-#EXTINF:0 group-title="ZZPRUEBAS TOKEN EPG" ,VSPORT
-http://23232.top/play/live.php?mac=00:1A:79:C6:37:1B&stream=1387341&extension=ts
-#EXTINF:0 group-title="ZZPRUEBAS TOKEN EPG" ,VSPORT GOLF
-http://23232.top/play/live.php?mac=00:1A:79:C6:37:1B&stream=1387347&extension=ts
-#EXTINF:0 group-title="ZZPRUEBAS TOKEN EPG" ,VSPORT LIVE 1
-http://23232.top/play/live.php?mac=00:1A:79:C6:37:1B&stream=1387344&extension=ts
-#EXTINF:0 group-title="ZZPRUEBAS TOKEN EPG" ,VSPORT LIVE 2
-http://23232.top/play/live.php?mac=00:1A:79:C6:37:1B&stream=1387345&extension=ts
-#EXTINF:0 group-title="ZZPRUEBAS TOKEN EPG" ,VSPORT LIVE 3
-http://23232.top/play/live.php?mac=00:1A:79:C6:37:1B&stream=1387346&extension=ts
+http://198.244.135.44/play/Fyt8Qn1kYQzaxjOLu54S9uA6j3DZczvMse8_slJKaVAGNqbLqaxNpsomT1_msRTm1c2ZoWde
