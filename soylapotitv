@@ -3,7 +3,7 @@
 https://acdn.p2pcdn.xyz/xoilac/channel1.m3u8?auth_key=3000001703690291-0-0-16ba4a9c68d1d01419fd75a2ed103b1b
 #EXTINF:0 group-title="01 VEBO TV" ,CANAL 02 ALEX
 https://acdn.p2pcdn.xyz/xoilac/channel2.m3u8?auth_key=3000001692978140-0-0-9d44300772fc22b62a68e18567d80ce4
-#EXTINF:0 group-title="01 VEBO TV" ,CANAL 03
+#EXTINF:0 group-title="01 VEBO TV" ,CANAL 03 TUTA
 https://acdn.p2pcdn.xyz/xoilac/channel3.m3u8?auth_key=3000001682141163-0-0-19a1ad2d6dbfd4bb16553e38d8aee5a2
 #EXTINF:0 group-title="01 VEBO TV" ,CANAL 04 HENRY
 https://acdn.p2pcdn.xyz/xoilac/channel4.m3u8?auth_key=3000001682141159-0-0-0d3e72a4cde9be11f1d29d85ac9d82d1
@@ -51,6 +51,8 @@ https://acdn.p2pcdn.xyz/xoilac/channel25.m3u8?auth_key=3000001714798420-0-0-6ec4
 https://acdn.p2pcdn.xyz/xoilac/channel26.m3u8?auth_key=3000001714786207-0-0-02f7cd734a0dd08d4e4a9f355d3c75ca
 #EXTINF:0 group-title="01 VEBO TV" ,CANAL 27
 https://acdn.p2pcdn.xyz/xoilac/channel27.m3u8?auth_key=3000001714786965-0-0-df0bd4689413799a2e519aff329a3fb6
+#EXTINF:0 group-title="01 VEBO TV" ,CANAL 28
+https://acdn.p2pcdn.xyz/xoilac/channel28.m3u8?auth_key=3000001715437376-0-0-ecbbccd70c408ead1fc5476c2654b308
 #EXTINF:0 group-title="01 VEBO TV" ,CANAL 29
 https://acdn.p2pcdn.xyz/xoilac/channel29.m3u8?auth_key=3000001714787208-0-0-587cce145fbfabfee7bdf4577f9a5912
 #EXTINF:0 group-title="01 VEBO TV" ,CANAL 30
@@ -67,7 +69,9 @@ https://acdn.p2pcdn.xyz/xoilac/channel35.m3u8?auth_key=3000001714786054-0-0-fd34
 https://acdn.p2pcdn.xyz/xoilac/channel36.m3u8?auth_key=3000001714786715-0-0-df4b18bca78db4ace0e3da1e1dcc19d0
 #EXTINF:0 group-title="01 VEBO TV" ,CANAL 38
 https://acdn.p2pcdn.xyz/xoilac/channel38.m3u8?auth_key=3000001715393917-0-0-5c2476b627a14d9cb2fda927c17188c1
-#EXTINF:0 group-title="01 VEBO TV" ,CANAL 40 ZARA
+#EXTINF:0 group-title="01 VEBO TV" ,CANAL 39
+https://acdn.p2pcdn.xyz/xoilac/channel39.m3u8?auth_key=3000001715436529-0-0-a1c4c32c7b8b770be05d5ea049b007ca
+#EXTINF:0 group-title="01 VEBO TV" ,CANAL 40
 https://acdn.p2pcdn.xyz/xoilac/channel40.m3u8?auth_key=3000001714797746-0-0-e6373bf7035f9667a989b5e6e8d43e38
 #EXTINF:0 group-title="01 VEBO TV" ,CANAL 41
 https://acdn.p2pcdn.xyz/xoilac/channel41.m3u8?auth_key=3000001714797304-0-0-df33c21cba528be1503a544f1cee86ea
@@ -93,12 +97,24 @@ https://acdn.p2pcdn.xyz/xoilac/channel51.m3u8?auth_key=3000001714785629-0-0-bd40
 https://acdn.p2pcdn.xyz/xoilac/channel52.m3u8?auth_key=3000001714786673-0-0-418c389a84ba50042bf469bf84ad0a49
 #EXTINF:0 group-title="01 VEBO TV" ,CANAL 53
 https://acdn.p2pcdn.xyz/xoilac/channel53.m3u8?auth_key=3000001714786802-0-0-33ef44fa6ad9ea74eaf45c360d89048a
+#EXTINF:0 group-title="01 VEBO TV" ,CANAL 55
+https://acdn.p2pcdn.xyz/xoilac/channel55.m3u8?auth_key=3000001715395168-0-0-ef12ac97912787620bc1e530b5904539
+#EXTINF:0 group-title="01 VEBO TV" ,CANAL 56
+https://acdn.p2pcdn.xyz/xoilac/channel56.m3u8?auth_key=3000001715395012-0-0-4be4546970175205fb50f1d16cb53e0b
+#EXTINF:0 group-title="01 VEBO TV" ,CANAL 58
+https://acdn.p2pcdn.xyz/xoilac/channel58.m3u8?auth_key=3000001715394751-0-0-6c787956891d9bdb6437951d81b5416e
 #EXTINF:0 group-title="01 VEBO TV" ,CANAL 59
 https://acdn.p2pcdn.xyz/xoilac/channel59.m3u8?auth_key=3000001714992482-0-0-4bf4ccd6fc1dc4d65bd214afd5d8070d
 #EXTINF:0 group-title="01 VEBO TV" ,CANAL 60
 https://acdn.p2pcdn.xyz/xoilac/channel60.m3u8?auth_key=3000001715131495-0-0-88e6995e443d789ad38185715ae7eed2
 #EXTINF:0 group-title="01 VEBO TV" ,CANAL STEP
 https://live.vbfast.xyz/73d84ba5ce430d160a459f70fc59170d/1715171104115/mpsrxzq/mpsrxzq@720p.m3u8
+#EXTINF:0 group-title="24 LIVE" ,HO LUN
+https://pull.niues.live/live/stream-308080_lsd.m3u8?auth_key=1715452152-0-0-a9118e41d65912bf35740a384ba815c3
+#EXTINF:0 group-title="24 LIVE" ,KAN
+https://pull.niues.live/live/stream-283501_lsd.m3u8?auth_key=1715451972-0-0-da7e1d87d9cb51d9c67dc9461d8ea98d
+#EXTINF:0 group-title="24 LIVE" ,VTV
+https://play1nm.hnyongshun.cn/live/sd-6Mr7h39CX2S5AKR3ux.m3u8
 #EXTINF:-1 group-title="BEAR SPORT [Ra Khơi]" tvg-logo="https://i.ibb.co/TghyRDY/BEARTV-rakhoitv.png" ,RA KHOI 01 FHD [50fps]
 https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@luluhd1.flv
 #EXTINF:-1 group-title="BEAR SPORT [Ra Khơi]" tvg-logo="https://i.ibb.co/TghyRDY/BEARTV-rakhoitv.png" ,RA KHOI 02 FHD [50fps]
@@ -465,6 +481,8 @@ https://apisportvb90xltcbk.nsnd.live/live/sd-6wXsXz4bVsEKFaGPcX/playlist.m3u8
 https://obevcimanyd179249207.thapcam.link/live/cunFHD/chunklist.m3u8
 #EXTINF:-1 group-title="ZZ PRUEBAS" ,#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
 https://vb90xltcvg.nsnd.live/live/_definst_/stream_1_1bda7@cunSD/chunklist.m3u8
+#EXTINF:-1 group-title="ZZ PRUEBAS" ,ALAN,#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
+https://live.vbfast.xyz/63cc074158faab7584e53b62f7bbd6bc/1715437525703/ypcycco/ypcycco@720p.m3u8
 #EXTINF:-1 group-title="ZZ PRUEBAS" ,CA FHD,#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
 https://obevcimanyd179249207.thapcam.link/live/caFHD/chunklist.m3u8
 #EXTINF:-1 group-title="ZZ PRUEBAS" ,CA SD,#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
@@ -493,5 +511,5 @@ https://zbpull3.zyjymall.com/live/91332999609196336318.m3u8
 https://zbpull3.zyjymall.com/live/91332704039349978303.m3u8
 #EXTINF:0 group-title="ZZEVENTOS" ,07 VIEJO
 https://play1nm.hnyongshun.cn/live/sd-1-3984711.m3u8|referer=https://player.huminbird.cn/
-#EXTINF:-1 group-title="ZZ PRUEBAS" ,ALAN,#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
-https://live.vbfast.xyz/63cc074158faab7584e53b62f7bbd6bc/1715437525703/ypcycco/ypcycco@720p.m3u8
+#EXTINF:0 group-title="ZZEVENTOS" ,08
+https://play1nm.hnyongshun.cn/live/sd-6MsF9vEAv9JmqGNvPY.m3u8
