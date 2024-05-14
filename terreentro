@@ -1,4 +1,54 @@
 #EXTM3U
+#EXTINF:0 group-title="00 LOCAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/A24_%282019-1%29.png" ,A24
+https://ythls.armelin.one/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
+#EXTINF:0 group-title="00 LOCAL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/Am%C3%A9rica_2016-2018_2018-presente_logo_mosca.png/revision/latest?cb=20200123155022&path-prefix=es" ,AMERICA TV
+http://45.5.151.151:8000/play/a0c7/index.m3u8
+#EXTINF:0 group-title="00 LOCAL" tvg-logo="https://i.imgur.com/xFgJawa.png" ,ARGENTINISIMA
+https://stream1.sersat.com/hls/argentinisima.m3u8?
+#EXTINF:0 group-title="00 LOCAL" tvg-logo="https://scontent.fepa11-1.fna.fbcdn.net/v/t39.30808-6/244740069_4605539916173791_1774696253942537240_n.png?_nc_cat=100&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=37qZnI5R6eMAX9yGW0t&_nc_ht=scontent.fepa11-1.fna&oh=00_AfBCHwdlW7FN2UkYYHaXHsNLLkoT01PxO3bpw8laQV_1cQ&oe=64718768" ,ATV ARGENTINA
+http://streaming.arcast.com.ar:1935/atbargentina/atbargentina/chunklist.m3u8
+#EXTINF:0 group-title="00 LOCAL" tvg-id="http://190.11.130.46/mnp/c5n/output.mpd" tvg-name="http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0067" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/C5N_logo.svg/1200px-C5N_logo.svg.png" ,C5N
+https://ythls.armelin.one/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
+#EXTINF:0 group-title="00 LOCAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/800px-Canal_26_logo_%282022%29.svg.png" ,CANAL 26
+https://stream-gtlc.telecentro.net.ar/hls/canal26hls/0/playlist.m3u8
+#EXTINF:0 group-title="00 LOCAL" tvg-logo="https://mediakit.perfil.com/img/canal-e-logo.png" ,CANAL E - PERFIL TV
+https://unlimited1-buenosaires.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
+#EXTINF:0 group-title="00 LOCAL" tvg-name="http://190.11.130.46/mnp/cronica/output.mpd" tvg-logo="https://4.bp.blogspot.com/-RjXsOFCUJa0/WbWZpQWlwZI/AAAAAAAABnA/vAeBWck6LNw4HpNBxdg5unnmIbpYXo1GgCLcBGAs/s1600/cronica-hd.png" ,CRONICA
+https://ythls.armelin.one/channel/UCT7KFGv6s2a-rh2Jq8ZdM1g.m3u8
+#EXTINF:0 group-title="00 LOCAL" tvg-logo="http://www.radiosargentina.com.ar/png/VIELDEST.png" ,El Destape - 24.6TV - CABA TV TDA - CD Cd Aut Bs As
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0070
+#EXTINF:0 group-title="00 LOCAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Canal_9_ba_logo.png" ,EL NUEVE
+https://delivery.cdn.rcs.net.ar/mnp/elnueve/output.mpd
+#EXTINF:0 group-title="00 LOCAL" tvg-name="http://45.5.151.151:8000/play/a0cp/index.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Logo_Canal_13_200_8.png" ,EL TRECE
+https://livetrx01.vodgc.net/eltrecetv/tracks-v3a1/mono.m3u8
+#EXTINF:0 group-title="00 LOCAL" tvg-id="http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0055" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Canal_encuentro_2020.png/480px-Canal_encuentro_2020.png" ,ENCUENTRO
+https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/.m3u8
+#EXTINF:0 group-title="00 LOCAL" tvg-logo="http://www.radiosargentina.com.ar/png/VI-EXTRA.png" ,Extra! TV - 107.5 TV - CABA FM - CD Cd Aut Bs As
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0019
+#EXTINF:0 group-title="00 LOCAL" tvg-logo="http://www.radiosargentina.com.ar/png/VI-GENTV.png" ,GenTV - 17.3TV - CABA TV TDA - CD Cd Aut Bs As
+https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
+#EXTINF:0 group-title="00 LOCAL" tvg-name="https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=4499968.m3u8?" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_10/large.1027530100_IP2.png.09507349c734309f8ec316ccd9633b41.png" ,IP INFORMACION PERIODISTICA
+https://usher.ttvnw.net/api/channel/hls/ip_noticias.m3u8?acmb=e30%3D&allow_source=true&browser_family=chrome&browser_version=123.0&cdm=wv&fast_bread=true&os_name=Windows&os_version=NT%2010.0&p=777486&parent_domains=twitchplayer&platform=web&play_session_id=d9be91ffb494d9781d05f4d7b28cee5c&player_backend=mediaplayer&player_version=1.27.0-rc.2.3&playlist_include_framerate=true&reassignments_supported=true&sig=7156ff77eb4e59f96e1a2ea6c5857e425ab39ec9&supported_codecs=av1,h265,h264&token=%7B%22adblock%22:false%2C%22authorization%22:%7B%22forbidden%22:false%2C%22reason%22:%22%22%7D%2C%22blackout_enabled%22:false%2C%22channel%22:%22ip_noticias%22%2C%22channel_id%22:625134483%2C%22chansub%22:%7B%22restricted_bitrates%22:%5B%5D%2C%22view_until%22:1924905600%7D%2C%22ci_gb%22:false%2C%22geoblock_reason%22:%22%22%2C%22device_id%22:%22Gb3NTwCdYT1SWiEU0YPxVIJfqQOCUF6o%22%2C%22expires%22:1713069294%2C%22extended_history_allowed%22:false%2C%22game%22:%22%22%2C%22hide_ads%22:false%2C%22https_required%22:true%2C%22mature%22:false%2C%22partner%22:false%2C%22platform%22:%22web%22%2C%22player_type%22:%22embed%22%2C%22private%22:%7B%22allowed_to_view%22:true%7D%2C%22privileged%22:false%2C%22role%22:%22%22%2C%22server_ads%22:true%2C%22show_ads%22:true%2C%22subscriber%22:false%2C%22turbo%22:false%2C%22user_id%22:null%2C%22user_ip%22:%22186.19.2.40%22%2C%22version%22:2%7D&transcode_mode=cbr_v1
+#EXTINF:0 group-title="00 LOCAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/La-Nacion-Mas-Logo.svg/1024px-La-Nacion-Mas-Logo.svg.png" ,LA NACION +
+https://ythls.armelin.one/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
+#EXTINF:0 group-title="00 LOCAL" tvg-logo="https://radiotvlapoderosa.com.ar/imagenes/logo.png" ,LA PODEROSA TV
+https://videostream.shockmedia.com.ar:19360/fmlapoderosaavellaneda01/fmlapoderosaavellaneda01.m3u8
+#EXTINF:0 group-title="00 LOCAL" tvg-logo="https://i.imgur.com/Xtu85tb.png" ,NEO TV DIGITAL
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+#EXTINF:0 group-title="00 LOCAL" tvg-logo="https://vecinosfamosos.com/wp-content/uploads/2019/05/Net-TV.png" ,NET TV
+https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
+#EXTINF:0 group-title="00 LOCAL" tvg-logo="https://i.imgur.com/NgIBbPX.png" ,RURAL
+http://offshore.lat:8080/play/MWeogaSmpVBuh-TFCnuNr6O_2rAGhXlchnBbk1IrQ3Hhjj75RbU5Jl91tqcxEBDF
+#EXTINF:0 group-title="00 LOCAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" ,TELEFE
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
+#EXTINF:0 group-title="00 LOCAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/TLMX.png/220px-TLMX.png" ,TELEMAX
+https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/0/playlist.m3u8
+#EXTINF:0 group-title="00 LOCAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/LogoTelevida.png" ,TELEVIDA
+https://unlimited1-buenosaires.dps.live/televidaar/televidaar.smil/playlist.m3u8
+#EXTINF:0 group-title="00 LOCAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/2560px-TN_todo_noticias_logo.svg.png" ,TN
+https://ythls.armelin.one/channel/UCj6PcyLvpnIRT_2W_mwa9Aw.m3u8
+#EXTINF:0 group-title="00 LOCAL" tvg-logo="https://1.bp.blogspot.com/-Z3CkwxY4fwY/YAJypg5UiPI/AAAAAAAA7vA/pzgUVEWEm6w7d-vCJEtQSU5MG8O-ixbkQCLcBGAsYHQ/s802/tvp-2020.png" ,TVP PUBLICA
+https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
 #EXTINF:0 group-title="24/7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZiJ0kHwplBmP69PQIiJci2jtaEylTj0RTBy4CWZKzoh4DMLHiotZf75RWTDIvZPqjLMw&usqp=CAU" ,ALF
 http://offshore.lat:8080/armando86/dPCeWVgyHN9j/236535
 #EXTINF:0 group-title="24/7" parent-code="https://6362ca6f1fc28.streamlock.net/elchavoplus/elchavoplus/chunklist_w251850427.m3u8" tvg-logo="https://4.bp.blogspot.com/-qcGsoFyaUWg/W6lmslccpbI/AAAAAAAAAEU/AITGCqKS030alHxSpIwZT17-KneOZCBEwCPcBGAYYCw/s1600/chavotv.png" ,EL CHAVO
@@ -137,6 +187,8 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e67d41b93312100076
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5efb8c19b2678b000780d032/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b8904033-58e7-4560-aaa9-57dc6911f64b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6890d1bc-9854-11eb-a8b4-0242ac110002&userId=&serverSideAds=true
 #EXTINF:0 group-title="ENTRETENIMIENTO E INTERES GENERAL" ,CANAL COCINA
 http://xpz.com.mx:8080/Koko8164/8164koko/2100591
+#EXTINF:0 group-title="ENTRETENIMIENTO E INTERES GENERAL" tvg-logo="http://www.radiosargentina.com.ar/png/VI-CARAS.png" ,Caras TV - 21.1TV - CABA TV TDA - CD Cd Aut Bs As
+https://unlimited1-buenosaires.dps.live/carastv/carastv.smil/carastv/livestream0/chunks.m3u8?nimblesessionid=158740313
 #EXTINF:0 group-title="ENTRETENIMIENTO E INTERES GENERAL" tvg-logo="https://i.imgur.com/V1xZV72.png" ,CIUDAD MAGAZINE
 http://45.5.151.151:8000/play/a020/index.m3u8
 #EXTINF:0 group-title="ENTRETENIMIENTO E INTERES GENERAL" tvg-name="https://delivery.cdn.rcs.net.ar/mnp/comedy/output.mpd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/512px-Comedy_Central_2018.svg.png" ,COMEDY CENTRAL
@@ -231,6 +283,8 @@ https://linear-46.frequency.stream/dist/00 LOCALnow/46/hls/master/playlist.m3u8
 https://linear-343.frequency.stream/dist/00 LOCALnow/343/hls/master/playlist.m3u8
 #EXTINF:0 group-title="ENTRETENIMIENTO E INTERES GENERAL" tvg-logo="https://wowelsalvador.com/imagen/logo2.png" ,WOW TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
+#EXTINF:0 group-title="FUTBOL ARGENTINO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/Logo_DeporTV.png" ,DEPORTV
+https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/chunklist_w1447088679.m3u8
 #EXTINF:0 group-title="FUTBOL ARGENTINO" tvg-logo="https://i.postimg.cc/0QNF1F8J/DSPORTS.png" ,DSPORTS
 http://185.224.217.235:25461/corredorjuan1/gYUDJ6CnMQ/352477?token=GkMOV0pdG18SVgNSAAUHAlcBDVcBBVYGBQQAV1NWBgVXVVFTCAwOUlIXGUNHFxRXAllmXVYVDgVRAlJSBklBFBIEFGlQURtfEgMEUgRWVxBPFk1dX1IWDFUHV1EDV1ZSWFhKFElcXUcKFwZZBVdTEE8WXExGUkZYBVw5AVQTCgIEQ1xYTFlVSRJaWz5QBgtTDVAbDhAHFhpGWRUVE18NFA0NShRbXE0XUUFQQw5BVApVAhsYEFRbQwpEFBwTX0EgM0NKFFxNTQBeRlwOWkFcEBdHGxgQXkdpFlUVEUMAAgwEE0QMGwUbSRJYVBlrAAlcDVFaQFtYWkVGCkRWE0lBDA4PD0JWR2YVWVEXWxZbVQNXFkQ=
 #EXTINF:0 group-title="FUTBOL ARGENTINO" tvg-logo="https://i.postimg.cc/0QNF1F8J/DSPORTS.png" ,DSPORTS +
@@ -309,78 +363,34 @@ https://ythls.armelin.one/channel/UCruEbhWppjJhI-u40Zn5DxQ.m3u8
 https://ythls.armelin.one/channel/UCgaAvVllH5OhmL_ETNczB7g.m3u8
 #EXTINF:0 group-title="FUTBOL YOUTUBE" ,EL PORVENIR - PORVE TV
 https://ythls.armelin.one/channel/UCdbowDDTQXU-gHwAqU7AMCg.m3u8
+#EXTINF:0 group-title="INFANTILES" tvg-logo="http://www.radiosargentina.com.ar/png/VIBSHARK.png" ,BABY SHARK
+https://newidco-babysharktv-2-mx.lg.wurl.tv/playlist.m3u8
 #EXTINF:0 group-title="INFANTILES" tvg-logo="https://i.postimg.cc/52gfdMxp/BABY-TV.jpg" ,BABY TV
-http://168.197.196.98:9981/stream/channelid/82729369?profile=pass
+http://offshore.lat:8080/armando86/dPCeWVgyHN9j/265009
 #EXTINF:0 group-title="INFANTILES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/800px-Cartoon_Network_2010_logo.svg.png" ,CARTOON NETWORK
-http://168.197.196.98:9981/stream/channelid/251492543?profile=pass
+http://offshore.lat:8080/armando86/dPCeWVgyHN9j/263286
 #EXTINF:0 group-title="INFANTILES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/512px-Cartoonito_-_Logo_2021.svg.png" ,CARTOONITO
-http://200.24.206.132:8000/play/a0dz/index.m3u8
+http://offshore.lat:8080/armando86/dPCeWVgyHN9j/301437
 #EXTINF:0 group-title="INFANTILES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Tve_clan.png" ,CLAN
-http://45.181.121.227:801/play/a03g
+http://340895199810341250.of1030ok.xyz:80/play/julianonce/gVewnG3Nf3/341250.ts
 #EXTINF:0 group-title="INFANTILES" tvg-name="https://delivery.cdn.rcs.net.ar/anevia/live/00 LOCALdisk/Discovery_Kids/SA_HLS/Discovery_Kids.m3u8" tvg-logo="https://i.postimg.cc/MTMwQM1r/Discovery-kids-logo.png" ,DISCOVERY KIDS
 http://168.197.196.98:9981/stream/channelid/622277313?profile=pass
-#EXTINF:0 group-title="INFANTILES" parent-code="https://delivery.cdn.rcs.net.ar/mnp/disney/output.mpd" tvg-logo="https://www.rk-ware.net/iptv/logos/disney_channel.png" ,DISNEY CHANNEL
-http://168.197.196.98:9981/stream/channelid/692170780?profile=pass
-#EXTINF:0 group-title="INFANTILES" parent-code="https://delivery.cdn.rcs.net.ar/mnp/disneyjr/output.mpd" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/DISNEY%20JUNIOR.png" ,DISNEY JUNIOR
-http://168.197.196.98:9981/stream/channelid/1963710925?profile=pass
+#EXTINF:0 group-title="INFANTILES" tvg-logo="https://www.rk-ware.net/iptv/logos/disney_channel.png" ,DISNEY CHANNEL
+http://offshore.lat:8080/armando86/dPCeWVgyHN9j/263301
+#EXTINF:0 group-title="INFANTILES" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/DISNEY%20JUNIOR.png" ,DISNEY JUNIOR
+http://offshore.lat:8080/armando86/dPCeWVgyHN9j/244268
 #EXTINF:0 group-title="INFANTILES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/DreamWorks_Channel_Logo.svg/800px-DreamWorks_Channel_Logo.svg.png" ,DREAMWORKS
-http://181.119.66.30:8000/play/82/index.m3u8
-#EXTINF:0 group-title="INFANTILES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Nick-logo.png" ,NICK
-http://38.56.118.88:4000/play/a00v/index.m3u8
-#EXTINF:0 group-title="INFANTILES" tvg-name="https://delivery.cdn.rcs.net.ar/mnp/nickjr/output.mpd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/1200px-Nick_Jr._logo_2009.svg.png" ,NICK JUNIOR
-http://168.197.196.98:9981/stream/channelid/182990556?profile=pass
+http://161.132.108.74:50001/play/a03x/index.m3u8
+#EXTINF:0 group-title="INFANTILES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/1200px-Nick_Jr._logo_2009.svg.png" ,NICK JUNIOR
+http://offshore.lat:8080/armando86/dPCeWVgyHN9j/263292
+#EXTINF:0 group-title="INFANTILES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Nick-logo.png" ,NICKELODEON
+http://offshore.lat:8080/armando86/dPCeWVgyHN9j/244271
 #EXTINF:0 group-title="INFANTILES" tvg-id="https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/chunklist_w1073447281.m3u8" tvg-logo="https://i.imgur.com/GJbRWwH.png" ,PAKA PAKA
-http://168.197.196.98:9981/stream/channelid/1403729783?profile=pass
-#EXTINF:0 group-title="INFANTILES" tvg-logo="https://play-lh.googleusercontent.com/P2PKZYn8iiwBGXW8n4UrrMAtJpVjUho4ukp0WwMy8Do1d9EEG1vI_h_ECDgM2K0Yuagm" ,PANDA
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2543/index.m3u8
+http://offshore.lat:8080/armando86/dPCeWVgyHN9j/520
 #EXTINF:0 group-title="INFANTILES" tvg-logo="https://i.postimg.cc/Xvv4nDqW/tooncast-1.png" ,TOONCAST
-http://181.119.66.30:8000/play/84/index.m3u8
+http://offshore.lat:8080/armando86/dPCeWVgyHN9j/244272
 #EXTINF:0 group-title="INFANTILES" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/gallery/category_2/large.gallery_5692_2_8434.png.c3a931295c834686564ceac220f08a37.png" ,ZOOMOO
 http://38.253.74.18:15084/play/a04c/index.m3u8
-#EXTINF:0 group-title="00 LOCAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/A24_%282019-1%29.png" ,A24
-https://ythls.armelin.one/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
-#EXTINF:0 group-title="00 LOCAL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/Am%C3%A9rica_2016-2018_2018-presente_logo_mosca.png/revision/latest?cb=20200123155022&path-prefix=es" ,AMERICA TV
-http://45.5.151.151:8000/play/a0c7/index.m3u8
-#EXTINF:0 group-title="00 LOCAL" tvg-logo="https://i.imgur.com/xFgJawa.png" ,ARGENTINISIMA
-https://stream1.sersat.com/hls/argentinisima.m3u8?
-#EXTINF:0 group-title="00 LOCAL" tvg-logo="https://scontent.fepa11-1.fna.fbcdn.net/v/t39.30808-6/244740069_4605539916173791_1774696253942537240_n.png?_nc_cat=100&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=37qZnI5R6eMAX9yGW0t&_nc_ht=scontent.fepa11-1.fna&oh=00_AfBCHwdlW7FN2UkYYHaXHsNLLkoT01PxO3bpw8laQV_1cQ&oe=64718768" ,ATV ARGENTINA
-http://streaming.arcast.com.ar:1935/atbargentina/atbargentina/chunklist.m3u8
-#EXTINF:0 group-title="00 LOCAL" tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/bayres-tv.png" ,BAYRES TV
-https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
-#EXTINF:0 group-title="00 LOCAL" tvg-id="http://190.11.130.46/mnp/c5n/output.mpd" tvg-name="http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0067" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/C5N_logo.svg/1200px-C5N_logo.svg.png" ,C5N
-https://ythls.armelin.one/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
-#EXTINF:0 group-title="00 LOCAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/800px-Canal_26_logo_%282022%29.svg.png" ,CANAL 26
-https://stream-gtlc.telecentro.net.ar/hls/canal26hls/0/playlist.m3u8
-#EXTINF:0 group-title="00 LOCAL" tvg-name="http://190.11.130.46/mnp/cronica/output.mpd" tvg-logo="https://4.bp.blogspot.com/-RjXsOFCUJa0/WbWZpQWlwZI/AAAAAAAABnA/vAeBWck6LNw4HpNBxdg5unnmIbpYXo1GgCLcBGAs/s1600/cronica-hd.png" ,CRONICA
-https://ythls.armelin.one/channel/UCT7KFGv6s2a-rh2Jq8ZdM1g.m3u8
-#EXTINF:0 group-title="00 LOCAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Canal_9_ba_logo.png" ,EL NUEVE
-https://delivery.cdn.rcs.net.ar/mnp/elnueve/output.mpd
-#EXTINF:0 group-title="00 LOCAL" tvg-name="http://45.5.151.151:8000/play/a0cp/index.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Logo_Canal_13_200_8.png" ,EL TRECE
-https://livetrx01.vodgc.net/eltrecetv/tracks-v3a1/mono.m3u8
-#EXTINF:0 group-title="00 LOCAL" tvg-id="http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0055" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Canal_encuentro_2020.png/480px-Canal_encuentro_2020.png" ,ENCUENTRO
-https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/.m3u8
-#EXTINF:0 group-title="00 LOCAL" tvg-name="https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=4499968.m3u8?" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_10/large.1027530100_IP2.png.09507349c734309f8ec316ccd9633b41.png" ,IP INFORMACION PERIODISTICA
-https://usher.ttvnw.net/api/channel/hls/ip_noticias.m3u8?acmb=e30%3D&allow_source=true&browser_family=chrome&browser_version=123.0&cdm=wv&fast_bread=true&os_name=Windows&os_version=NT%2010.0&p=777486&parent_domains=twitchplayer&platform=web&play_session_id=d9be91ffb494d9781d05f4d7b28cee5c&player_backend=mediaplayer&player_version=1.27.0-rc.2.3&playlist_include_framerate=true&reassignments_supported=true&sig=7156ff77eb4e59f96e1a2ea6c5857e425ab39ec9&supported_codecs=av1,h265,h264&token=%7B%22adblock%22:false%2C%22authorization%22:%7B%22forbidden%22:false%2C%22reason%22:%22%22%7D%2C%22blackout_enabled%22:false%2C%22channel%22:%22ip_noticias%22%2C%22channel_id%22:625134483%2C%22chansub%22:%7B%22restricted_bitrates%22:%5B%5D%2C%22view_until%22:1924905600%7D%2C%22ci_gb%22:false%2C%22geoblock_reason%22:%22%22%2C%22device_id%22:%22Gb3NTwCdYT1SWiEU0YPxVIJfqQOCUF6o%22%2C%22expires%22:1713069294%2C%22extended_history_allowed%22:false%2C%22game%22:%22%22%2C%22hide_ads%22:false%2C%22https_required%22:true%2C%22mature%22:false%2C%22partner%22:false%2C%22platform%22:%22web%22%2C%22player_type%22:%22embed%22%2C%22private%22:%7B%22allowed_to_view%22:true%7D%2C%22privileged%22:false%2C%22role%22:%22%22%2C%22server_ads%22:true%2C%22show_ads%22:true%2C%22subscriber%22:false%2C%22turbo%22:false%2C%22user_id%22:null%2C%22user_ip%22:%22186.19.2.40%22%2C%22version%22:2%7D&transcode_mode=cbr_v1
-#EXTINF:0 group-title="00 LOCAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/La-Nacion-Mas-Logo.svg/1024px-La-Nacion-Mas-Logo.svg.png" ,LA NACION +
-https://ythls.armelin.one/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
-#EXTINF:0 group-title="00 LOCAL" tvg-logo="https://radiotvlapoderosa.com.ar/imagenes/logo.png" ,LA PODEROSA TV
-https://videostream.shockmedia.com.ar:19360/fmlapoderosaavellaneda01/fmlapoderosaavellaneda01.m3u8
-#EXTINF:0 group-title="00 LOCAL" tvg-logo="https://i.imgur.com/D4nRp62.png" ,METRO
-http://168.197.196.98:9981/stream/channelid/2121692531?profile=pass
-#EXTINF:0 group-title="00 LOCAL" tvg-logo="https://i.imgur.com/Xtu85tb.png" ,NEO TV DIGITAL
-https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
-#EXTINF:0 group-title="00 LOCAL" tvg-logo="https://vecinosfamosos.com/wp-content/uploads/2019/05/Net-TV.png" ,NET TV
-https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
-#EXTINF:0 group-title="00 LOCAL" tvg-logo="https://i.imgur.com/NgIBbPX.png" ,RURAL
-http://offshore.lat:8080/play/MWeogaSmpVBuh-TFCnuNr6O_2rAGhXlchnBbk1IrQ3Hhjj75RbU5Jl91tqcxEBDF
-#EXTINF:0 group-title="00 LOCAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" ,TELEFE
-https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
-#EXTINF:0 group-title="00 LOCAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/TLMX.png/220px-TLMX.png" ,TELEMAX
-https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/0/playlist.m3u8
-#EXTINF:0 group-title="00 LOCAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/2560px-TN_todo_noticias_logo.svg.png" ,TN
-https://ythls.armelin.one/channel/UCj6PcyLvpnIRT_2W_mwa9Aw.m3u8
-#EXTINF:0 group-title="00 LOCAL" tvg-logo="https://1.bp.blogspot.com/-Z3CkwxY4fwY/YAJypg5UiPI/AAAAAAAA7vA/pzgUVEWEm6w7d-vCJEtQSU5MG8O-ixbkQCLcBGAsYHQ/s802/tvp-2020.png" ,TVP PUBLICA
-https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
 #EXTINF:-1 group-title="MOVISTAR" tvg-logo="http://epg.it999.ru/img/3382.png" ,Movistar Accion ES
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/7065/index.m3u8
 #EXTINF:-1 group-title="MOVISTAR" tvg-logo="http://epg.it999.ru/img/3100.png" ,Movistar Cine Doc & Roll HD ES
