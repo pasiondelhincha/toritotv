@@ -435,6 +435,8 @@ http://168.205.87.198:8555/live/1431/123456/237.ts
 http://190.60.37.126:8001/play/a05e/index.m3u8
 #EXTINF:0 group-title="MUSICA" ,ITALOPOWER
 https://stream.deevaradio.net:10443/italopower
+#EXTINF:0 group-title="MUSICA" ,KISS KISS
+https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/chunklist_w761942341_b1628000_slita.m3u8?FLID=1
 #EXTINF:0 group-title="MUSICA" tvg-logo="https://www.latina101.com.ar/images/logo.png" ,LATINA
 https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/0/playlist.m3u8
 #EXTINF:0 group-title="MUSICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/512px-MTV-2021.svg.png" ,MTV
