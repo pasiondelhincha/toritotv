@@ -79,6 +79,36 @@ http://home-playtv.com:8080/CR62845553/NMYGF/177124
 http://xpz.com.mx:8080/Koko8164/8164koko/2090900
 #EXTINF:0 group-title="24/7" tvg-logo="https://images.pluto.tv/channels/609ae5cd48d3200007b0a98e/colorLogoSVG.svg?auto=&fit=crop&fill=blur&ixlib=react-9.1.5&w=150&h=96&dpr=3&q=35" ,SOUTH PARK
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae5cd48d3200007b0a98e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
+#EXTINF:-1 group-title="CHILE-SIN DELAY" ,DIRECTV SPORTS
+http://190.119.178.46:8000/play/a03o/index.m3u8
+#EXTINF:-1 group-title="CHILE-SIN DELAY" ,ESPN 1 HD
+http://190.119.178.46:8000/play/a02j/index.m3u8
+#EXTINF:-1 group-title="CHILE-SIN DELAY" ,ESPN 2 HD
+http://190.119.178.46:8000/play/a007/index.m3u8
+#EXTINF:-1 group-title="CHILE-SIN DELAY" ,ESPN 3 HD
+http://190.119.178.46:8000/play/a00j/index.m3u8
+#EXTINF:-1 group-title="CHILE-SIN DELAY" ,ESPN 4 HD
+http://190.119.178.46:8000/play/a03e/index.m3u8
+#EXTINF:-1 group-title="CHILE-SIN DELAY" ,ESPN 5 HD
+http://190.119.178.46:8000/play/a02o/index.m3u8
+#EXTINF:-1 group-title="CHILE-SIN DELAY" ,ESPN 6 HD
+http://190.119.178.46:8000/play/a02m/index.m3u8
+#EXTINF:-1 group-title="CHILE-SIN DELAY" ,ESPN 7 HD
+http://190.119.178.46:8000/play/a02k/index.m3u8
+#EXTINF:-1 group-title="CHILE-SIN DELAY" ,ESPN Extra
+http://190.119.178.46:8000/play/a036/index.m3u8
+#EXTINF:-1 group-title="CHILE-SIN DELAY" ,ESPN Premium HD
+http://190.119.178.46:8000/play/a02l/index.m3u8
+#EXTINF:-1 group-title="CHILE-SIN DELAY" ,GOLPERU HD
+http://190.119.178.46:8000/play/a02p/index.m3u8
+#EXTINF:-1 group-title="CHILE-SIN DELAY" ,LIGA 1 MAX
+http://190.119.178.46:8000/play/a00c/index.m3u8
+#EXTINF:-1 group-title="CHILE-SIN DELAY" ,TIGO SPORTS
+http://190.119.178.46:8000/play/a01z/index.m3u8
+#EXTINF:-1 group-title="CHILE-SIN DELAY" ,TNT SPORTS HD
+http://190.119.178.46:8000/play/a006/index.m3u8
+#EXTINF:-1 group-title="CHILE-SIN DELAY" ,TyC Sports HD
+http://190.119.178.46:8000/play/a018/index.m3u8
 #EXTINF:0 group-title="CINE Y SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/512px-A%26E_Network_logo.svg.png" ,A&E
 http://offshore.lat:8080/armando86/dPCeWVgyHN9j/289425
 #EXTINF:0 group-title="CINE Y SERIES" tvg-logo="https://fotografias.atresseries.com/clipping/cmsimages02/2018/02/22/20C2BFA8-ACA3-47DA-AAFB-188D456AB2A9/27.jpg" ,A3SERIES
@@ -355,14 +385,16 @@ https://dhmxbo9piuo21.cloudfront.net/out/v1/84ee2b0cce384a30abd70b05562ddd91/ind
 https://d107yb993altze.cloudfront.net/out/v1/772e0b0193134726ad84693b7baca6c6/index.m3u8
 #EXTINF:0 group-title="FUTBOL ARGENTINO" tvg-logo="https://www.totalmedios.com/img/noticias/2014/11/54785c051f4c7__838x390.jpg" ,TYC SPORTS PLAY 14
 https://dj8bzwveg7go9.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/index_16.m3u8
-#EXTINF:0 group-title="FUTBOL YOUTUBE" ,CAMIONEROS OFICIAL
+#EXTINF:0 group-title="FUTBOL YOUTUBE" tvg-logo="https://i.postimg.cc/tTgYyfcg/CAMIONEROS.png" ,CAMIONEROS OFICIAL
 https://ythls.armelin.one/channel/UC1HNagX13x-w8NidhfzujCg.m3u8
-#EXTINF:0 group-title="FUTBOL YOUTUBE" ,CLAYPOLE OFICIAL
+#EXTINF:0 group-title="FUTBOL YOUTUBE" tvg-logo="https://i.postimg.cc/85krcs7N/CLAYPOLE.png" ,CLAYPOLE OFICIAL
 https://ythls.armelin.one/channel/UCruEbhWppjJhI-u40Zn5DxQ.m3u8
-#EXTINF:0 group-title="FUTBOL YOUTUBE" ,EL PORVENIR - MUNDO PORVENIR
+#EXTINF:0 group-title="FUTBOL YOUTUBE" tvg-logo="https://i.postimg.cc/KvjrQpvx/EL-PORVENIR.png" ,EL PORVENIR - MUNDO PORVENIR
 https://ythls.armelin.one/channel/UCgaAvVllH5OhmL_ETNczB7g.m3u8
-#EXTINF:0 group-title="FUTBOL YOUTUBE" ,EL PORVENIR - PORVE TV
+#EXTINF:0 group-title="FUTBOL YOUTUBE" tvg-logo="https://i.postimg.cc/KvjrQpvx/EL-PORVENIR.png" ,EL PORVENIR - PORVE TV
 https://ythls.armelin.one/channel/UCdbowDDTQXU-gHwAqU7AMCg.m3u8
+#EXTINF:0 group-title="FUTBOL YOUTUBE" tvg-logo="https://i.postimg.cc/RZXW84PY/FERRO-GENERAL-PICO.png" ,FERRO GENERAL PICO - TELEVISION PUBLICA PAMPEANA
+https://ythls.armelin.one/channel/UCP5ZhULKeQ6vLcCgyOqOR4Q.m3u8
 #EXTINF:0 group-title="INFANTILES" tvg-logo="http://www.radiosargentina.com.ar/png/VIBSHARK.png" ,BABY SHARK
 https://newidco-babysharktv-2-mx.lg.wurl.tv/playlist.m3u8
 #EXTINF:0 group-title="INFANTILES" tvg-logo="https://i.postimg.cc/52gfdMxp/BABY-TV.jpg" ,BABY TV
@@ -390,7 +422,7 @@ http://offshore.lat:8080/armando86/dPCeWVgyHN9j/520
 #EXTINF:0 group-title="INFANTILES" tvg-logo="https://i.postimg.cc/Xvv4nDqW/tooncast-1.png" ,TOONCAST
 http://offshore.lat:8080/armando86/dPCeWVgyHN9j/244272
 #EXTINF:0 group-title="INFANTILES" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/gallery/category_2/large.gallery_5692_2_8434.png.c3a931295c834686564ceac220f08a37.png" ,ZOOMOO
-http://38.253.74.18:15084/play/a04c/index.m3u8
+http://190.119.178.46:8000/play/a01x/index.m3u8
 #EXTINF:-1 group-title="MOVISTAR" tvg-logo="http://epg.it999.ru/img/3382.png" ,Movistar Accion ES
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/7065/index.m3u8
 #EXTINF:-1 group-title="MOVISTAR" tvg-logo="http://epg.it999.ru/img/3100.png" ,Movistar Cine Doc & Roll HD ES
