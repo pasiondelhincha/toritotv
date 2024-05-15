@@ -385,6 +385,8 @@ https://dhmxbo9piuo21.cloudfront.net/out/v1/84ee2b0cce384a30abd70b05562ddd91/ind
 https://d107yb993altze.cloudfront.net/out/v1/772e0b0193134726ad84693b7baca6c6/index.m3u8
 #EXTINF:0 group-title="FUTBOL ARGENTINO" tvg-logo="https://www.totalmedios.com/img/noticias/2014/11/54785c051f4c7__838x390.jpg" ,TYC SPORTS PLAY 14
 https://dj8bzwveg7go9.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/index_16.m3u8
+#EXTINF:0 group-title="FUTBOL YOUTUBE" tvg-logo="https://i.postimg.cc/sXqtqtWS/BOCA-UNIDOS-CORRIENTES.png" ,BOCA UNIDOS - REPUBLICA AURIRROJA
+https://ythls.armelin.one/channel/UCuZ38uFOzplblt9kP4TMwAg.m3u8
 #EXTINF:0 group-title="FUTBOL YOUTUBE" tvg-logo="https://i.postimg.cc/tTgYyfcg/CAMIONEROS.png" ,CAMIONEROS OFICIAL
 https://ythls.armelin.one/channel/UC1HNagX13x-w8NidhfzujCg.m3u8
 #EXTINF:0 group-title="FUTBOL YOUTUBE" tvg-logo="https://i.postimg.cc/85krcs7N/CLAYPOLE.png" ,CLAYPOLE OFICIAL
@@ -395,6 +397,16 @@ https://ythls.armelin.one/channel/UCgaAvVllH5OhmL_ETNczB7g.m3u8
 https://ythls.armelin.one/channel/UCdbowDDTQXU-gHwAqU7AMCg.m3u8
 #EXTINF:0 group-title="FUTBOL YOUTUBE" tvg-logo="https://i.postimg.cc/RZXW84PY/FERRO-GENERAL-PICO.png" ,FERRO GENERAL PICO - TELEVISION PUBLICA PAMPEANA
 https://ythls.armelin.one/channel/UCP5ZhULKeQ6vLcCgyOqOR4Q.m3u8
+#EXTINF:0 group-title="FUTBOL YOUTUBE" tvg-logo="https://i.postimg.cc/W11Xm5FP/GERMINAL-DE-RAWSON.png" ,GERMINAL RAWSON - CANAL 12
+https://ythls.armelin.one/channel/UCrFJofNf3PrQ_5GH26cng1A.m3u8
+#EXTINF:0 group-title="FUTBOL YOUTUBE" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mjNCt7Z0oWDCsxP8mVJdYQ4X0Bc6WHjoy5uYoPz07N6Q=s900-c-k-c0x00ffffff-no-rj" ,LA GLORIA O DEVOTO
+https://ythls.armelin.one/channel/UCqiZRiF6K-FXEYtuhtw2NnA.m3u8
+#EXTINF:0 group-title="FUTBOL YOUTUBE" tvg-logo="https://i.postimg.cc/CKm0PPJH/LUJAN.png" ,LUJAN - PARES TV
+https://ythls.armelin.one/channel/UCVcv5g4bMSldUXzpWoQfS_g.m3u8
+#EXTINF:0 group-title="FUTBOL YOUTUBE" tvg-logo="https://i.postimg.cc/zXKVtNhC/OLIMPO-BAHIA-BLANCA.png" ,OLIMPO BAHIA BLANCA - OLIMPO DE PRIMERA
+https://ythls.armelin.one/channel/UCeToYvtYRhRtdqG80diZBzw.m3u8
+#EXTINF:0 group-title="FUTBOL YOUTUBE" tvg-logo="https://i.postimg.cc/zXKVtNhC/OLIMPO-BAHIA-BLANCA.png" ,OLIMPO BAHIA BLANCA - VOCES AURINEGRAS
+https://ythls.armelin.one/channel/UCEVflmEPKFvkyav6g_tLWjw.m3u8
 #EXTINF:0 group-title="INFANTILES" tvg-logo="http://www.radiosargentina.com.ar/png/VIBSHARK.png" ,BABY SHARK
 https://newidco-babysharktv-2-mx.lg.wurl.tv/playlist.m3u8
 #EXTINF:0 group-title="INFANTILES" tvg-logo="https://i.postimg.cc/52gfdMxp/BABY-TV.jpg" ,BABY TV
