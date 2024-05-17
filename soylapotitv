@@ -45,7 +45,7 @@ https://acdn.p2pcdn.xyz/xoilac/channel22.m3u8?auth_key=3000001715127501-0-0-b8b7
 https://acdn.p2pcdn.xyz/xoilac/channel23.m3u8?auth_key=3000001715393246-0-0-241276aae1790aaa54ef10de21890c24
 #EXTINF:0 group-title="01 VEBO TV" ,CANAL 24
 https://acdn.p2pcdn.xyz/xoilac/channel24.m3u8?auth_key=3000001714786147-0-0-4d8c7a8d34cbc362ae37dcb8df5fe2f8
-#EXTINF:0 group-title="01 VEBO TV" ,CANAL 25 ALAN
+#EXTINF:0 group-title="01 VEBO TV" ,CANAL 25
 https://acdn.p2pcdn.xyz/xoilac/channel25.m3u8?auth_key=3000001714798420-0-0-6ec445489d50c22c061f8b1943a5aae8
 #EXTINF:0 group-title="01 VEBO TV" ,CANAL 26
 https://acdn.p2pcdn.xyz/xoilac/channel26.m3u8?auth_key=3000001714786207-0-0-02f7cd734a0dd08d4e4a9f355d3c75ca
@@ -61,6 +61,8 @@ https://acdn.p2pcdn.xyz/xoilac/channel30.m3u8?auth_key=3000001714789141-0-0-81d1
 https://acdn.p2pcdn.xyz/xoilac/channel31.m3u8?auth_key=3000001715393681-0-0-da293cd6b7c25c5378c6e6c91d441876
 #EXTINF:0 group-title="01 VEBO TV" ,CANAL 32
 https://acdn.p2pcdn.xyz/xoilac/channel32.m3u8?auth_key=3000001714787317-0-0-e1b3085619ccb90dbbc6fd98a96535ef
+#EXTINF:0 group-title="01 VEBO TV" ,CANAL 33
+https://acdn.p2pcdn.xyz/xoilac/channel33.m3u8?auth_key=3000001715905299-0-0-a4103efacb212047d07cde95a32b44e3
 #EXTINF:0 group-title="01 VEBO TV" ,CANAL 34
 https://acdn.p2pcdn.xyz/xoilac/channel34.m3u8?auth_key=3000001714786997-0-0-0cd76d285187f0b5ea57a697537f30c1
 #EXTINF:0 group-title="01 VEBO TV" ,CANAL 35
@@ -101,6 +103,8 @@ https://acdn.p2pcdn.xyz/xoilac/channel53.m3u8?auth_key=3000001714786802-0-0-33ef
 https://acdn.p2pcdn.xyz/xoilac/channel55.m3u8?auth_key=3000001715395168-0-0-ef12ac97912787620bc1e530b5904539
 #EXTINF:0 group-title="01 VEBO TV" ,CANAL 56
 https://acdn.p2pcdn.xyz/xoilac/channel56.m3u8?auth_key=3000001715395012-0-0-4be4546970175205fb50f1d16cb53e0b
+#EXTINF:0 group-title="01 VEBO TV" ,CANAL 57
+https://acdn.p2pcdn.xyz/xoilac/channel57.m3u8?auth_key=3000001715906455-0-0-bb7319f8a0d46580bd0326309dc656fb
 #EXTINF:0 group-title="01 VEBO TV" ,CANAL 58
 https://acdn.p2pcdn.xyz/xoilac/channel58.m3u8?auth_key=3000001715394751-0-0-6c787956891d9bdb6437951d81b5416e
 #EXTINF:0 group-title="01 VEBO TV" ,CANAL 59
@@ -109,6 +113,8 @@ https://acdn.p2pcdn.xyz/xoilac/channel59.m3u8?auth_key=3000001714992482-0-0-4bf4
 https://acdn.p2pcdn.xyz/xoilac/channel60.m3u8?auth_key=3000001715131495-0-0-88e6995e443d789ad38185715ae7eed2
 #EXTINF:0 group-title="01 VEBO TV" ,CANAL STEP
 https://live.vbfast.xyz/73d84ba5ce430d160a459f70fc59170d/1715171104115/mpsrxzq/mpsrxzq@720p.m3u8
+#EXTINF:0 group-title="24 LIVE" ,BALLBAR
+https://play1nm.hnyongshun.cn/live/ballbar_24160.m3u8
 #EXTINF:0 group-title="24 LIVE" ,HO LUN
 https://pull.niues.live/live/stream-308080_lsd.m3u8?auth_key=1715452152-0-0-a9118e41d65912bf35740a384ba815c3
 #EXTINF:0 group-title="24 LIVE" ,KAN
@@ -513,3 +519,5 @@ https://zbpull3.zyjymall.com/live/91332704039349978303.m3u8
 https://play1nm.hnyongshun.cn/live/sd-1-3984711.m3u8|referer=https://player.huminbird.cn/
 #EXTINF:0 group-title="ZZEVENTOS" ,08
 https://play1nm.hnyongshun.cn/live/sd-6MsF9vEAv9JmqGNvPY.m3u8
+#EXTINF:0 group-title="24 LIVE" ,ARENA
+https://5918tuan.com/m3u8.php?url=https://play1nm.hnyongshun.cn/live/sd-1-3747217.m3u8
