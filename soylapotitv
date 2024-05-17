@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0 group-title="01 VEBO TV" ,00 CRIS
+https://pull.niues.live/live/stream-499765_lhd.m3u8?auth_key=1715968933-0-0-e968366f94b7147db5b8562685bfa38c
 #EXTINF:0 group-title="01 VEBO TV" ,CANAL 01 ROY
 https://acdn.p2pcdn.xyz/xoilac/channel1.m3u8?auth_key=3000001703690291-0-0-16ba4a9c68d1d01419fd75a2ed103b1b
 #EXTINF:0 group-title="01 VEBO TV" ,CANAL 02 ALEX
@@ -113,12 +115,20 @@ https://acdn.p2pcdn.xyz/xoilac/channel59.m3u8?auth_key=3000001714992482-0-0-4bf4
 https://acdn.p2pcdn.xyz/xoilac/channel60.m3u8?auth_key=3000001715131495-0-0-88e6995e443d789ad38185715ae7eed2
 #EXTINF:0 group-title="01 VEBO TV" ,CANAL STEP
 https://live.vbfast.xyz/73d84ba5ce430d160a459f70fc59170d/1715171104115/mpsrxzq/mpsrxzq@720p.m3u8
+#EXTINF:0 group-title="24 LIVE" ,ARENA
+https://5918tuan.com/m3u8.php?url=https://play1nm.hnyongshun.cn/live/sd-1-3747217.m3u8
 #EXTINF:0 group-title="24 LIVE" ,BALLBAR
 https://play1nm.hnyongshun.cn/live/ballbar_24160.m3u8
+#EXTINF:0 group-title="24 LIVE" ,DONGKI
+https://ynzbpull2.nbxhth.cn/live/91944885919778631543.m3u8
+#EXTINF:0 group-title="24 LIVE" ,GA TA
+https://ynzbpull2.nbxhth.cn/live/91944124344643114168.m3u8
 #EXTINF:0 group-title="24 LIVE" ,HO LUN
 https://pull.niues.live/live/stream-308080_lsd.m3u8?auth_key=1715452152-0-0-a9118e41d65912bf35740a384ba815c3
 #EXTINF:0 group-title="24 LIVE" ,KAN
 https://pull.niues.live/live/stream-283501_lsd.m3u8?auth_key=1715451972-0-0-da7e1d87d9cb51d9c67dc9461d8ea98d
+#EXTINF:0 group-title="24 LIVE" ,LIAM
+https://ynzbpull2.nbxhth.cn/live/91955425660289103507.m3u8
 #EXTINF:0 group-title="24 LIVE" ,VTV
 https://play1nm.hnyongshun.cn/live/sd-6Mr7h39CX2S5AKR3ux.m3u8
 #EXTINF:-1 group-title="BEAR SPORT [Ra Khơi]" tvg-logo="https://i.ibb.co/TghyRDY/BEARTV-rakhoitv.png" ,RA KHOI 01 FHD [50fps]
@@ -179,6 +189,10 @@ https://pull.niues.live/live/stream-380774_lsd.m3u8?auth_key=1715358012-0-0-539e
 https://pull.niues.live/live/stream-434982_lhd.m3u8?auth_key=1715313912-0-0-1e9a270b68c63ba67447bed269fc0828
 #EXTINF:0 group-title="PORTLAND" ,DOM SD
 https://pull.niues.live/live/stream-434982_lsd.m3u8?auth_key=1715313912-0-0-1e9a270b68c63ba67447bed269fc0828
+#EXTINF:0 group-title="PORTLAND" ,DUBAI PULL06
+https://pull06.scstream.net/live/stream-364855_lhd.flv?auth_key=1715967253-0-0-e44807bfa2bba5cd615ffa01ea7a794c
+#EXTINF:0 group-title="PORTLAND" ,EDWARD PULL06
+https://pull06.scstream.net/live/stream-921508_lhd.flv?auth_key=1715967133-0-0-7a7ae471ac068e123342f394f2d98418
 #EXTINF:0 group-title="PORTLAND" ,ENZO
 https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1715347152-0-0-13cb2c0db6d473f09d316689d0bac476
 #EXTINF:0 group-title="PORTLAND" ,ENZO SD
@@ -261,6 +275,8 @@ https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=be32d4e468b090e13b27
 https://pull.niues.live/live/stream-9912007_lhd.m3u8?auth_key=1714870032-0-0-fc9317d0671b0a3b721a2b86fa55a926
 #EXTINF:0 group-title="PORTLAND" ,SHOGUN SD
 https://pull.niues.live/live/stream-9912007_lsd.m3u8?auth_key=1714870032-0-0-fc9317d0671b0a3b721a2b86fa55a926
+#EXTINF:0 group-title="PORTLAND" ,SINGER NIUR
+https://pull.niur.live/live/stream-9912089_lhd.flv?txSecret=065eb9e92509d5559acda9ef1f355ccf&txTime=6647dc55
 #EXTINF:0 group-title="PORTLAND" ,SOI
 https://pull.niues.live/live/stream-427562_lhd.m3u8?auth_key=1714822692-0-0-69992d862f78bfcd8f3710a0c222db6a
 #EXTINF:0 group-title="PORTLAND" ,SOI SD
@@ -519,5 +535,3 @@ https://zbpull3.zyjymall.com/live/91332704039349978303.m3u8
 https://play1nm.hnyongshun.cn/live/sd-1-3984711.m3u8|referer=https://player.huminbird.cn/
 #EXTINF:0 group-title="ZZEVENTOS" ,08
 https://play1nm.hnyongshun.cn/live/sd-6MsF9vEAv9JmqGNvPY.m3u8
-#EXTINF:0 group-title="24 LIVE" ,ARENA
-https://5918tuan.com/m3u8.php?url=https://play1nm.hnyongshun.cn/live/sd-1-3747217.m3u8
