@@ -321,8 +321,8 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
 #EXTINF:0 group-title="FUTBOL ARGENTINO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/Logo_DeporTV.png" ,DEPORTV
 https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/chunklist_w1447088679.m3u8
-#EXTINF:0 group-title="FUTBOL ARGENTINO" tvg-logo="https://i.postimg.cc/0QNF1F8J/DSPORTS.png" ,DSPORTS
-http://185.224.217.235:25461/corredorjuan1/gYUDJ6CnMQ/352477?token=GkMOV0pdG18SVgNSAAUHAlcBDVcBBVYGBQQAV1NWBgVXVVFTCAwOUlIXGUNHFxRXAllmXVYVDgVRAlJSBklBFBIEFGlQURtfEgMEUgRWVxBPFk1dX1IWDFUHV1EDV1ZSWFhKFElcXUcKFwZZBVdTEE8WXExGUkZYBVw5AVQTCgIEQ1xYTFlVSRJaWz5QBgtTDVAbDhAHFhpGWRUVE18NFA0NShRbXE0XUUFQQw5BVApVAhsYEFRbQwpEFBwTX0EgM0NKFFxNTQBeRlwOWkFcEBdHGxgQXkdpFlUVEUMAAgwEE0QMGwUbSRJYVBlrAAlcDVFaQFtYWkVGCkRWE0lBDA4PD0JWR2YVWVEXWxZbVQNXFkQ=
+#EXTINF:0 group-title="FUTBOL ARGENTINO" tvg-id="TOKENIZADA PROBAR  http://23.152.40.82/auth/W3_lRv_ZbatEyDmG1RP9g5yAi83SJ7G9fDX6511qjx4R6UQh17tK1NN2JYhSAXWF8LN1e9tXGXkB0viEfKrdkoCM2Wx3UBrMp9rRbxwm3iGmJHTPO_HV7j10TrrpL9vb2PervdB_CRFxpWFqqY4RbF-Kgpkob_vobSMKpcO9-FEk-424Na-KIVlw138QpTmEZThQxt8mSAUMGnyobVYNV2iFvFGw8s3VxT_mdlEFgvc5LigZZS0WerbL4VIRm_LWk0HepQuANhddrsG4L0GxhpyS_qRFHgFea7L7Ib6SJ0RF1Ma5pAW-By3oHpb6NCNAnygj7aUuuF5-t7YLOUrHSLZyr1c1Cj2JgEKk69tgqfIJ_FSoPfZjKdJbTdAUHrRgeqT37HGS2tms0RMyx7abVU8CKbuUA2zdVHcHpWUA3yuzdVirS9tyDPJCJXnglokqt_5eGOfIEIaIZ2VRh3mhtP6h571cW3YFJp4A6JsQfGvKGOBS1Q1JhLglTg-gch0cmGSGRa0Q4eNmpGcLGy6l3U2ntc01q2olvKAYx5bVEMkxmaJrIGNCkjuV6kCg7Jci66Yd-cGV3lrzduO-HuPxfUT2WiKDSP2ya2pAaTO_FbWXqUsnk01VJLcVTWlzvh5n7vCsX8IWN-wLTVCYsQV-n8xTDCwmTiOitfa3ecRAkhI" tvg-logo="https://i.postimg.cc/0QNF1F8J/DSPORTS.png" ,DSPORTS
+http://l3d.us:8080/JOSECERON/JVfc5p5rEF/202157
 #EXTINF:0 group-title="FUTBOL ARGENTINO" tvg-logo="https://i.postimg.cc/0QNF1F8J/DSPORTS.png" ,DSPORTS +
 http://offshore.lat:8080/play/MWeogaSmpVBuh-TFCnuNr6O_2rAGhXlchnBbk1IrQ3FOBdk__YXu7xKK8p4IFrQd
 #EXTINF:0 group-title="FUTBOL ARGENTINO" ,DSPORTS 1
@@ -665,7 +665,4 @@ http://168.197.196.98:9981/stream/channelid/954274493?profile=pass
 http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/master.m3u8?fluxustv.m3u8
 #EXTINF:0 group-title="NOTICIAS INTERNACIONALES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fd/TVN_Emergencia_en_Chile_2017_%281%29.png/revision/latest/scale-to-width-down/250?cb=20200112153342&path-prefix=es" ,TVN CHILE
 http://38.56.118.88:4000/play/a010/index.m3u8
-#EXTINF:0 group-title="NOTICIAS INTERNACIONALES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/TVRI_World_Old_Logo.png/revision/latest?cb=20220222084819" ,TVRI WORLD
-https://s7.mbahnunungonline.net/live/m3u8/id/3f58825fe229a8i.m3u8
-#EXTINF:0 group-title="WEBCAMS Y PAISAJES" ,LOVE NATURE 4K
-https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
+#EXTINF:0 group-tit
