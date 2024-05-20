@@ -1,30 +1,250 @@
 #EXTM3U
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,AD Sport 1 HD
+http://176.65.146.200:8026/play/a069
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,AD Sport 2 HD
+http://176.65.146.200:8026/play/a06a
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,Alkass four HD
+http://176.65.146.200:8031/play/a0er
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,Alkass one HD
+http://176.65.146.200:8031/play/a0eo
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,AlKass three HD
+http://176.65.146.200:8031/play/a0eq
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,Alkass two HD
+http://176.65.146.200:8031/play/a0ep
 #EXTINF:-1 group-title="00DEPORTES MASTER" ,BEIN SPORTS EXTRA
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,BELARUS 5
+https://edge59.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,Bellator MMA HD
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=730&deviceId=5ebc8688f3697d00072f7cf8&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,Billiard tv
+https://pubads.g.doubleclick.net/ssai/event/rzUfbID8QZC1iWIgk0ThuA/master.m3u8
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,Billiard TV HD
+https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE_Max.m3u8
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,BNTHD
+http://185.163.244.10:2012/play/BNTHD/index.m3u8
 #EXTINF:0 group-title="00DEPORTES MASTER" ,BOKS TV
 http://stream01.vnet.am/BoksTv/mono.m3u8
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,Canal 11 HD
+http://176.65.146.200:8022/play/a061
 #EXTINF:-1 group-title="00DEPORTES MASTER" ,CANAL 5 TUDN
 https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
 #EXTINF:0 group-title="00DEPORTES MASTER" ,CCTV 5+
 https://node3.olelive.com:6443/live/CCTV5PHD/hls.m3u8
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,COMBATE 1
+https://brflu.walk-tv.com/5865/index.m3u8
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,COMBATE 2
+http://209.222.97.92:16493
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,DUBAI SPORTS 1 HD
+http://176.65.146.200:8029/play/a033
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,DUBAI SPORTS 2 HD
+http://176.65.146.200:8029/play/a034
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,Eleven 1 HD
+http://176.65.146.200:8022/play/a057
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,Eleven 4 HD
+http://176.65.146.200:8022/play/a058
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,Eleven 5 HD
+http://176.65.146.200:8022/play/a059
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,Eleven 6 HD
+http://176.65.146.200:8022/play/a05d
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,ESPN
+http://181.78.105.146:2000/play/a064/index.m3u8
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,ESPN 2
+http://181.78.105.146:2000/play/a063/index.m3u8
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,ESPN 3
+http://181.78.105.146:2000/play/a03n/index.m3u8
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,ESPN BRASIL
+https://cirion-aju.ittv.com.br/ESPN_BRASIL/index.m3u8
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,ESPN BRASIL (ALTER)
+http://64.31.40.14:16497
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,ESPN BRASIL 2
+https://cdn-3.nxplay.com.br/ESPN_2/index.m3u8
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,ESPN BRASIL 3
+https://cdn-3.nxplay.com.br/ESPN_3/index.m3u8
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,ESPN BRASIL 4
+https://cirion-aju.ittv.com.br/ESPN_4/index.m3u8
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,ESPN BRASIL 5
+https://cirion-aju.ittv.com.br/FOX_SPORTS_2/index.m3u8
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,ESPN EXTRA
+https://cirion-aju.ittv.com.br/ESPN_EXTRA/index.m3u8
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,Eurosport 1 FHD
+http://stream01.vnet.am/Eurosport/tracks-v1a2/mono.m3u8
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,Eurosport 2 HD
+http://ip1.orgip.net/201/video.m3u8?token=M4f082ab4c
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,Eurosport HD
+http://iptv-hls.idc.md:8200/hls/260/live1.m3u8
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,FightBox HD
+https://stream01.vnet.am/Fightbox/mono.m3u8
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,FITE
+https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,FOX Sports HD
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=705&deviceId=5a74b8e1e22a61737979c6bf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 group-title="00DEPORTES MASTER" ,FUTV
 https://cdn02.teletica.com/StreamFutv/Streamfutv04122023/playlist.m3u8
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,GLORY KICKBOXING
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=736&deviceId=5417a212ff9fba68282fbf5e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,Jordan Sport HD
+http://176.65.146.200:8031/play/a0es
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,K Sport 2 HD
+http://185.222.138.163:9000/play/a0tt
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,KSA SPORT1 HD
+http://176.65.146.200:8037/play/a032
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,KSA SPORT2 HD
+http://176.65.146.200:8037/play/a033
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,KSA SPORTS 3 HD
+http://176.65.146.200:8037/play/a034
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,LIVE SPORTS
+http://103.121.60.170:8027/play/a002/index.m3u8
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,MAXSPORT1
+http://109.105.201.198/MAXSPORT1HR/video.m3u8?token=test
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,NOSSO FUTEBOL
+https://cirion-aju.ittv.com.br/NOSSO_FUTEBOL/index.m3u8
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,Nova Sport Bul
+http://78.130.250.2:8023/play/a009/index.m3u8?%7CUser-agent=Lavf53.32.100
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,OLSIB IMPACT! WRESTLING HD
+https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,ONTIME SPORTS HD
+http://176.65.146.200:8030/play/a0f9
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,ONTIME SPORTS2 HD
+http://176.65.146.200:8030/play/a0f8
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,Premier Sports 3 HD
+http://202.21.104.6:88/sps-world/index.m3u8
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,Premier sports 5 HD
+http://202.21.104.6:88/sps-plus/index.m3u8
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,PREMIERE 2
+https://brflu.walk-tv.com/5914/index.m3u8
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,PREMIERE 3
+https://brflu.walk-tv.com/5915/index.m3u8
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,PREMIERE 4
+https://brflu.walk-tv.com/5916/index.m3u8
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,PREMIERE 5
+https://brflu.walk-tv.com/5918/index.m3u8
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,PREMIERE 6
+https://brflu.walk-tv.com/5920/index.m3u8
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,PREMIERE 7
+https://brflu.walk-tv.com/5921/index.m3u8
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,PREMIERE 9
+http://64.31.40.14:16460
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,PREMIERE CLUBES
+https://brflu.walk-tv.com/5922/index.m3u8
 #EXTINF:0 group-title="00DEPORTES MASTER" ,Q LEAGUE
 https://bkm.beetv.kz/btv/live/hls/000006969.m3u8
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,QSPORT  HD
+http://88.135.128.20:7272/bFlmfsIl2ohurGj
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,Setanta Qazaqstan
+https://bkm.beetv.kz/btv/live/hls/000004619.m3u8
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,Setanta Qazaqstan HD
+http://de.kineskop.club/site2/1636/1009756_8a84ac70b0751482_0_0_fs2.m3u8
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,Setanta Sports + Ukraine FHD
+http://de.kineskop.club/site2/885/1009756_e612aeddb686d9d9_0_0_fs2.m3u8
 #EXTINF:0 group-title="00DEPORTES MASTER" ,SETANTA SPORTS 1
 https://bkm.beetv.kz/btv/live/hls/000004498.m3u8
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,Setanta Sports 1
+http://de.kineskop.club/site2/1114/1009756_a1754045789b3a24_0_0_fs2.m3u8
 #EXTINF:0 group-title="00DEPORTES MASTER" ,SETANTA SPORTS 2
 https://bkm.beetv.kz/btv/live/hls/000004499.m3u8
 #EXTINF:0 group-title="00DEPORTES MASTER" ,SETANTA SPORTS 2
 https://bkm.beetv.kz/btv/live/hls/000006899.m3u8
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,Setanta Sports 2
+http://de.kineskop.club/site2/1115/1009756_d5e65ee8891239c7_0_0_fs2.m3u8
 #EXTINF:0 group-title="00DEPORTES MASTER" ,SETANTA SPORTS KZ
 https://bkm.beetv.kz/btv/live/hls/000004619.m3u8
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,Sky Sports HD
+http://181.78.105.146:2000/play/a08m/index.m3u8
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,SPORTDIGITAL FUSSBALL HD
+http://176.65.146.200:8027/play/a06v
 #EXTINF:0 group-title="00DEPORTES MASTER" ,SPORTSMAX
 https://is.gd/8Xi5qy
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,SPORTSNEWS
+https://frk-newsnet-snhtv.akamaized.net/hls/live/2099455/FRK_NEWSNET_SNHTV2/0/streamPlaylist.m3u8
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,SPORTV 2 BRASIL
+https://brflu.walk-tv.com/5931/mono.m3u8
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,SPORTV BRASIL
+https://brflu.walk-tv.com/5932/mono.m3u8
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,SSC Extra 1
+http://176.65.146.200:8037/play/a02w
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,SSC1
+http://176.65.146.200:8037/play/a02u
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,SSC5
+http://176.65.146.200:8037/play/a02v
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,STARSPORTS1
+http://41.205.93.154/STARSPORTS1/index.m3u8
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,Suspilne sport HD
+http://rr3.8v8i8p.com/~109e1a3c05fcad5b22d13b9453dc0db5122/52093/hls/pl.m3u8
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,Triton Fight
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b0f2237a6ff45d16c3f9/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=726&deviceId=5812b0f2237a6ff45d16c3f9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,true sport 2 HD
+http://ip168.homeip.net:8086/2.m3u8
 #EXTINF:0 group-title="00DEPORTES MASTER" ,UDAR
 https://bkm.beetv.kz/btv/live/hls/000007802.m3u8
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,Viasat Sport FHD
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:CA:1F:FD&stream=1148896&extension=ts&play_token=yXBpwPXWsr
 #EXTINF:0 group-title="00DEPORTES MASTER" ,VIJU+SPORT
 https://bkm.beetv.kz/btv/live/hls/000000135.m3u8
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,Xsport
+http://de.kineskop.club/site2/371/1009756_4d769fafe4ae9f48_0_0_fs.m3u8
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,XSport+ HD
+http://de.kineskop.club/site2/1418/1009756_5b94478c60d3be67_0_0_fs2.m3u8
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,YAS Sports HD
+http://176.65.146.200:8026/play/a06b
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,Беларусь 5
+https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5/playlist.m3u8
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,Бокс ТВ HD
+http://45.11.139.43:8081/stream/boks_tv/hls/playlist.m3u8
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,Бокс ТВ HD
+http://stream01.vnet.am/BoksTv/mono.m3u8
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,КХЛ
+http://87.120.142.8:18000/khl
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,МАТЧ! FHD
+http://tv.streams.baikal-telecom.net/MatchHD/index.m3u8
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,МАТЧ! HD
+http://194.143.148.28:8080/MatchHD/mpegts
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,МАТЧ! Арена
+http://194.143.148.28:8080/MatchArena/mpegts
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,МАТЧ! Арена HD
+http://tv.streams.baikal-telecom.net:8080/MatchArena/mpegts
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,МАТЧ! Премьер FHD
+http://92.242.110.52:9835/udp/238.1.2.3:1234
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,МАТЧ! Ультра 4K
+http://158.101.194.132:8080/channel/5235fe46/index.m3u8?q=5656d7c7c902657d3491c0330b58ec0e
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,МАТЧ! Футбол 1 HD
+http://31.148.48.15/Match_Futbol_1_HD/index.m3u8
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,МАТЧ! Футбол 1 HD 50
+http://194.143.148.28:8080/MatchFutbol1/mpegts
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,МАТЧ! Футбол 2 HD 50
+http://31.148.48.15/Match_Futbol_2_HD/index.m3u8
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,МАТЧ! Футбол 3
+http://185.57.68.33/110/mpegts
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,МАТЧ! Футбол 3 HD 50
+http://31.148.48.15/Match_Futbol_3_HD/index.m3u8
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,Матч! Арена
+http://78.62.135.122:8082/Matcharena/index.m3u8
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,Матч! Арена
+http://87.120.142.11:18000/Match!Arena
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,Матч! Боец
+http://87.120.142.11:18000/Match!
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,Матч! Игра
+http://87.120.142.11:18000/Match!Igra
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,Мир Баскетбола
+http://de.kineskop.club/site2/739/1009756_f9209d38604d2ccb_0_0_fs2.m3u8
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,Мир Баскетбола
+http://92.242.110.52:9835/udp/238.1.1.17:1234
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,Спорт
+https://brflu.walk-tv.com/5907/mono.m3u8
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,Спорт 3 HD
+http://ott.watch/stream/DSTD43DQYR/393.m3u8
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,Спорт 4
+http://88.135.128.20:7272/Wetd63YgcVe23Jk
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,Спортивный
+http://de.kineskop.club/site2/1215/1009756_dfc90acb082128e4_0_0_fs2.m3u8
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,Старт HD
+https://strm.yandex.ru/kal/start/start0.m3u8
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,Удар
+https://strm.yandex.ru/kal/udar/udar0.m3u8
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,Удар HD
+http://de.kineskop.club/site2/827/1009756_91b1227b0fa8eb02_0_0_fs2.m3u8
 #EXTINF:-1 group-title="01LOCAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" ,05-TELEFE
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 #EXTINF:-1 group-title="01LOCAL" tvg-logo="https://www.seekpng.com/png/detail/822-8227011_telefe-internacional.png" ,06-TELEFE INTERNACIONAL
@@ -12552,4 +12772,18 @@ https://7pal.short.gy/tntspts3
 #EXTINF:0 group-title="ZZPRUEBAS TOKEN EPG" ,TNT SPORTS 4
 https://7pal.short.gy/tntspts4
 #EXTINF:0 group-title="ZZPRUEBAS TOKEN EPG" ,TNT SPORTS 4 UK
-http://206.212.246.25:8080/gZpw5weynu/C6gJj6DfxV/24304?token=GRMJWEQNEFgXBVUEUwIBBlECWVcGAgUEUVFWUFEAV1FUUgBbU1YABFdBT0NEQ0QGUV0+CwZGXgMAVVJRGBIRRgdDPlBTRwhABFJSVBUbFBdZXQRAWFVTAABVVFACCVUZQEEIXRVfEFAGVVtQFRsUBkhEBBAMBQhuUAMUDFdVRg8MRA1VG0ddDGoH
+http://206.212.246.25:8080/gZpw5weynu/C6gJj6DfxV/24304?token=GRMJWEQNEFgXBVUEUwIBBlECWVcGAgUEUVFWUFEAV1FUUgBbU1YABFdBT0NEQ0QGUV0+CwZGXgMAVVJRGBIRRgdDPlBTRwhABFJSVBUbFBdZXQRAWFVTAABVVFACCVUZQEEIXRVfEFAGVVtQFRsUBkhEBBAMBQhuUAMUDFdVRg8MRA1VG0ddDGoHBgxWWVJBChJQQE5GDUJERFgLQVwIGUBTCE1FBEYHF1lBWAQPAkEcEgINFwoQQ01EWEd1YkYZQFQZTVILQQtaDUFbFUNFQRwSCBE9FgFCQBQHBFlVFhdYE1EbG0dfA008AA5ZWVMARFkODBFGXhMFVlJVFhxGWA1fCE1YF20SXAdBWxUGAlcAA0Mf
+#EXTINF:0 group-title="ZZPRUEBAS TOKEN EPG" ,TNT SPORTS L3D
+http://208.82.61.118:8080/JOSECERON/JVfc5p5rEF/2140800?token=GUNfBEdbQApAUwQBXwAIUwMPVgEHAFRQBFcHB1BVV1dSUVNWAQQGVgESGkcVTENVB1U8WwcUDQcCAVIIUgcdExcSUhdrWgYSWBIHVlQOBwFEFEFGCltSFwkEVQFWAwEDV1gDSRZDC1RAChRXVgoDBkQUQVcbQlJHXVQObwZSR1gBBBVfWkYOXE4SWQs5XFRdB1YHEFkUBxcfFwtDEhULEzYEWwBXVgxEEF8WNkh5HxJKGgFbF0RWQVYXWBJQDwAEQE0VBltGDEQQSRRfRHljEkoaBkoXU1lGWloMElgVRUJATRUMR2wQVRFERAAHVVRCRAJBAkEaFVhSTT1TDVlfVAEVXgpaQEAKQAMUSURVXl4PTAxAPEZeUREPQAFbAAMFQBw=
+#EXTINF:0 group-title="ZZPRUEBAS TOKEN EPG" ,VSPORT
+http://23232.top/play/live.php?mac=00:1A:79:C6:37:1B&stream=1387334&extension=ts
+#EXTINF:0 group-title="ZZPRUEBAS TOKEN EPG" ,VSPORT
+http://23232.top/play/live.php?mac=00:1A:79:C6:37:1B&stream=1387341&extension=ts
+#EXTINF:0 group-title="ZZPRUEBAS TOKEN EPG" ,VSPORT GOLF
+http://23232.top/play/live.php?mac=00:1A:79:C6:37:1B&stream=1387347&extension=ts
+#EXTINF:0 group-title="ZZPRUEBAS TOKEN EPG" ,VSPORT LIVE 1
+http://23232.top/play/live.php?mac=00:1A:79:C6:37:1B&stream=1387344&extension=ts
+#EXTINF:0 group-title="ZZPRUEBAS TOKEN EPG" ,VSPORT LIVE 2
+http://23232.top/play/live.php?mac=00:1A:79:C6:37:1B&stream=1387345&extension=ts
+#EXTINF:0 group-title="ZZPRUEBAS TOKEN EPG" ,VSPORT LIVE 3
+http://23232.top/play/live.php?mac=00:1A:79:C6:37:1B&stream=1387346&extension=ts
