@@ -67,8 +67,12 @@ https://cirion-aju.ittv.com.br/ESPN_4/index.m3u8
 https://cirion-aju.ittv.com.br/FOX_SPORTS_2/index.m3u8
 #EXTINF:-1 group-title="00DEPORTES MASTER" ,ESPN EXTRA
 https://cirion-aju.ittv.com.br/ESPN_EXTRA/index.m3u8
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,Eurosport 1
+http://176.113.48.221:8986/63
 #EXTINF:-1 group-title="00DEPORTES MASTER" ,Eurosport 1 FHD
 http://stream01.vnet.am/Eurosport/tracks-v1a2/mono.m3u8
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,Eurosport 2
+http://193.201.98.10:5000/c154
 #EXTINF:-1 group-title="00DEPORTES MASTER" ,Eurosport 2 HD
 http://ip1.orgip.net/201/video.m3u8?token=M4f082ab4c
 #EXTINF:-1 group-title="00DEPORTES MASTER" ,Eurosport HD
@@ -87,6 +91,10 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5417a212ff9fba68282
 http://176.65.146.200:8031/play/a0es
 #EXTINF:-1 group-title="00DEPORTES MASTER" ,K Sport 2 HD
 http://185.222.138.163:9000/play/a0tt
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,KHL
+https://strm.yandex.ru/kal/khl_belarus/khl_belarus0.m3u8
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,KHL Prime
+https://strm.yandex.ru/kal/khl_prime_belarus/khl_prime_belarus0.m3u8
 #EXTINF:-1 group-title="00DEPORTES MASTER" ,KSA SPORT1 HD
 http://176.65.146.200:8037/play/a032
 #EXTINF:-1 group-title="00DEPORTES MASTER" ,KSA SPORT2 HD
@@ -131,6 +139,8 @@ https://brflu.walk-tv.com/5922/index.m3u8
 https://bkm.beetv.kz/btv/live/hls/000006969.m3u8
 #EXTINF:-1 group-title="00DEPORTES MASTER" ,QSPORT  HD
 http://88.135.128.20:7272/bFlmfsIl2ohurGj
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,QSport Казахстан
+http://88.135.128.20:7272/ipKJnd6cVw1Nu7a
 #EXTINF:-1 group-title="00DEPORTES MASTER" ,Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="00DEPORTES MASTER" ,Setanta Qazaqstan
@@ -153,8 +163,20 @@ http://de.kineskop.club/site2/1115/1009756_d5e65ee8891239c7_0_0_fs2.m3u8
 https://bkm.beetv.kz/btv/live/hls/000004619.m3u8
 #EXTINF:-1 group-title="00DEPORTES MASTER" ,Sky Sports HD
 http://181.78.105.146:2000/play/a08m/index.m3u8
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,Sport
+https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,Sport 2U
+https://stream9.xdevel.com/video0s976916-1685/stream/chunks_dvr.m3u8
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,Sport Italia
+https://di-j16ei4yq.vo.lswcdn.net/sportitalia/sihd/chunklist.m3u8
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,Sport Italia Live 24
+https://di-j16ei4yq.vo.lswcdn.net/sportitalia/silive24/chunklist.m3u8
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,Sport Italia Solocalcio
+https://di-j16ei4yq.vo.lswcdn.net/sportitalia/sisolocalcio/chunklist.m3u8
 #EXTINF:-1 group-title="00DEPORTES MASTER" ,SPORTDIGITAL FUSSBALL HD
 http://176.65.146.200:8027/play/a06v
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,Sports TV Turk
+https://live.sportstv.com.tr/hls/low/sportstv.m3u8
 #EXTINF:0 group-title="00DEPORTES MASTER" ,SPORTSMAX
 https://is.gd/8Xi5qy
 #EXTINF:-1 group-title="00DEPORTES MASTER" ,SPORTSNEWS
@@ -179,6 +201,8 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b0f2237a6ff45d1
 http://ip168.homeip.net:8086/2.m3u8
 #EXTINF:0 group-title="00DEPORTES MASTER" ,UDAR
 https://bkm.beetv.kz/btv/live/hls/000007802.m3u8
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,Viasat Sport
+https://bkm.beetv.kz/btv/live/hls/000000135.m3u8
 #EXTINF:-1 group-title="00DEPORTES MASTER" ,Viasat Sport FHD
 http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:CA:1F:FD&stream=1148896&extension=ts&play_token=yXBpwPXWsr
 #EXTINF:0 group-title="00DEPORTES MASTER" ,VIJU+SPORT
@@ -191,6 +215,8 @@ http://de.kineskop.club/site2/1418/1009756_5b94478c60d3be67_0_0_fs2.m3u8
 http://176.65.146.200:8026/play/a06b
 #EXTINF:-1 group-title="00DEPORTES MASTER" ,Беларусь 5
 https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5/playlist.m3u8
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,Беларусь 5
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1 group-title="00DEPORTES MASTER" ,Бокс ТВ HD
 http://45.11.139.43:8081/stream/boks_tv/hls/playlist.m3u8
 #EXTINF:-1 group-title="00DEPORTES MASTER" ,Бокс ТВ HD
@@ -219,17 +245,47 @@ http://31.148.48.15/Match_Futbol_2_HD/index.m3u8
 http://185.57.68.33/110/mpegts
 #EXTINF:-1 group-title="00DEPORTES MASTER" ,МАТЧ! Футбол 3 HD 50
 http://31.148.48.15/Match_Futbol_3_HD/index.m3u8
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,Матч ТВ HD
+http://194.143.148.28:8080/MatchHD/mpegts
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,Матч!
+http://91.142.158.107:8092/play/33/index.m3u
 #EXTINF:-1 group-title="00DEPORTES MASTER" ,Матч! Арена
 http://78.62.135.122:8082/Matcharena/index.m3u8
 #EXTINF:-1 group-title="00DEPORTES MASTER" ,Матч! Арена
 http://87.120.142.11:18000/Match!Arena
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,Матч! Арена
+http://tv.streams.baikal-telecom.net:8080/MatchArena/mpegts
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,Матч! Арена
+http://194.143.148.28:8080/MatchArena/mpegts
 #EXTINF:-1 group-title="00DEPORTES MASTER" ,Матч! Боец
 http://87.120.142.11:18000/Match!
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,Матч! Боец
+http://flu.ttk.mx:9090/Boets/index.m3u8?token=orh6o
 #EXTINF:-1 group-title="00DEPORTES MASTER" ,Матч! Игра
 http://87.120.142.11:18000/Match!Igra
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,Матч! Игра
+http://193.201.98.10:5000/c104
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,Матч! Планета
+https://strm.yandex.ru/kal/match_planeta_belarus/match_planeta_belarus0.m3u8
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,Матч! Премьер
+http://91.207.114.209:5000/c105
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,Матч! Страна
+http://193.201.98.10:5000/c106
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,Матч! Страна
+http://flu.ttk.mx:9090/Strana/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,Матч! ТВ
+http://flu.ttk.mx:9090/MatchTV/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,Матч! Футбол 1 HD
+http://194.143.148.28:8080/MatchFutbol1/mpegts
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,Матч! Футбол 2 HD
+http://91.207.114.209:5000/c115
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,Матч! Футбол 3 HD
+http://185.57.68.33/110/mpegts
 #EXTINF:-1 group-title="00DEPORTES MASTER" ,Мир Баскетбола
 http://de.kineskop.club/site2/739/1009756_f9209d38604d2ccb_0_0_fs2.m3u8
 #EXTINF:-1 group-title="00DEPORTES MASTER" ,Мир Баскетбола
+http://92.242.110.52:9835/udp/238.1.1.17:1234
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,Мир баскетбола
 http://92.242.110.52:9835/udp/238.1.1.17:1234
 #EXTINF:-1 group-title="00DEPORTES MASTER" ,Спорт
 https://brflu.walk-tv.com/5907/mono.m3u8
@@ -239,8 +295,12 @@ http://ott.watch/stream/DSTD43DQYR/393.m3u8
 http://88.135.128.20:7272/Wetd63YgcVe23Jk
 #EXTINF:-1 group-title="00DEPORTES MASTER" ,Спортивный
 http://de.kineskop.club/site2/1215/1009756_dfc90acb082128e4_0_0_fs2.m3u8
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,Старт
+http://188.113.190.15/127/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="00DEPORTES MASTER" ,Старт HD
 https://strm.yandex.ru/kal/start/start0.m3u8
+#EXTINF:-1 group-title="00DEPORTES MASTER" ,Телеканал Футбол
+http://flu.ttk.mx:9090/Futbol/index.m3u8?token=orh6o
 #EXTINF:-1 group-title="00DEPORTES MASTER" ,Удар
 https://strm.yandex.ru/kal/udar/udar0.m3u8
 #EXTINF:-1 group-title="00DEPORTES MASTER" ,Удар HD
@@ -6679,6 +6739,90 @@ http://127.0.0.1:6878/content/626c5326f29984bbedceee04c9694a0447ba0a9a/0.8035004
 http://127.0.0.1:6878/content/fded295edff9d57adb77cf02a08c5f2fcb9e608b/0.551679544986
 #EXTINF:0 group-title="ACESTREAM" ,Матч! Премьер HD
 http://127.0.0.1:6878/content/88c482d9e57b1a031c032344f9c00cf7b36da8d9/0.195524663101
+#EXTINF:-1 group-title="ALBANIA TRING" ,#EXTVLCOPT:network-caching=1000
+http://185.85.152.220:8999/play/a02t/index.m3u8
+#EXTINF:-1 group-title="ALBANIA TRING" ,#EXTVLCOPT:network-caching=1000
+http://185.85.152.220:8999/play/a02z/index.m3u8
+#EXTINF:-1 group-title="ALBANIA TRING" ,#EXTVLCOPT:network-caching=1000
+http://185.85.152.220:8999/play/a04a/index.m3u8
+#EXTINF:-1 group-title="ALBANIA TRING" ,#EXTVLCOPT:network-caching=1000
+http://185.85.152.220:8999/play/a03a/index.m3u8
+#EXTINF:-1 group-title="ALBANIA TRING" ,#EXTVLCOPT:network-caching=1000
+http://185.85.152.220:8999/play/a042/index.m3u8
+#EXTINF:-1 group-title="ALBANIA TRING" ,#EXTVLCOPT:network-caching=1000
+http://185.85.152.220:8999/play/a032/index.m3u8
+#EXTINF:-1 group-title="ALBANIA TRING" ,#EXTVLCOPT:network-caching=1000
+http://185.85.152.220:8999/play/a03g/index.m3u8
+#EXTINF:-1 group-title="ALBANIA TRING" ,#EXTVLCOPT:network-caching=1000
+http://185.85.152.220:8999/play/a03b/index.m3u8
+#EXTINF:-1 group-title="ALBANIA TRING" ,#EXTVLCOPT:network-caching=1000
+http://185.85.152.220:8999/play/a03e/index.m3u8
+#EXTINF:-1 group-title="ALBANIA TRING" ,#EXTVLCOPT:network-caching=1000
+http://185.85.152.220:8999/play/a02o/index.m3u8
+#EXTINF:-1 group-title="ALBANIA TRING" ,#EXTVLCOPT:network-caching=1000
+http://185.85.152.220:8999/play/a036/index.m3u8
+#EXTINF:-1 group-title="ALBANIA TRING" ,#EXTVLCOPT:network-caching=1000
+http://185.85.152.220:8999/play/a02r/index.m3u8
+#EXTINF:-1 group-title="ALBANIA TRING" ,#EXTVLCOPT:network-caching=1000
+http://185.85.152.220:8999/play/a034/index.m3u8
+#EXTINF:-1 group-title="ALBANIA TRING" ,#EXTVLCOPT:network-caching=1000
+http://185.85.152.220:8999/play/a029/index.m3u8
+#EXTINF:-1 group-title="ALBANIA TRING" ,#EXTVLCOPT:network-caching=1000
+http://185.85.152.220:8999/play/a030/index.m3u8
+#EXTINF:-1 group-title="ALBANIA TRING" ,#EXTVLCOPT:network-caching=1000
+http://185.85.152.220:8999/play/a033/index.m3u8
+#EXTINF:-1 group-title="ALBANIA TRING" ,#EXTVLCOPT:network-caching=1000
+http://185.85.152.220:8999/play/a02b/index.m3u8
+#EXTINF:-1 group-title="ALBANIA TRING" ,#EXTVLCOPT:network-caching=1000
+http://185.85.152.220:8999/play/a049/index.m3u8
+#EXTINF:-1 group-title="ALBANIA TRING" ,#EXTVLCOPT:network-caching=1000
+http://185.85.152.220:8999/play/a027/index.m3u8
+#EXTINF:-1 group-title="ALBANIA TRING" ,#EXTVLCOPT:network-caching=1000
+http://185.85.152.220:8999/play/a02n/index.m3u8
+#EXTINF:-1 group-title="ALBANIA TRING" ,#EXTVLCOPT:network-caching=1000
+http://185.85.152.220:8999/play/a02w/index.m3u8
+#EXTINF:-1 group-title="ALBANIA TRING" ,#EXTVLCOPT:network-caching=1000
+http://185.85.152.220:8999/play/a039/index.m3u8
+#EXTINF:-1 group-title="ALBANIA TRING" ,#EXTVLCOPT:network-caching=1000
+http://185.85.152.220:8999/play/a043/index.m3u8
+#EXTINF:-1 group-title="ALBANIA TRING" ,#EXTVLCOPT:network-caching=1000
+http://185.85.152.220:8999/play/a02g/index.m3u8
+#EXTINF:-1 group-title="ALBANIA TRING" ,#EXTVLCOPT:network-caching=1000
+http://185.85.152.220:8999/play/a02y/index.m3u8
+#EXTINF:-1 group-title="ALBANIA TRING" ,#EXTVLCOPT:network-caching=1000
+http://185.85.152.220:8999/play/a03h/index.m3u8
+#EXTINF:-1 group-title="ALBANIA TRING" ,#EXTVLCOPT:network-caching=1000
+http://185.85.152.220:8999/play/a03s/index.m3u8
+#EXTINF:-1 group-title="ALBANIA TRING" ,#EXTVLCOPT:network-caching=1000
+http://185.85.152.220:8999/play/a035/index.m3u8
+#EXTINF:-1 group-title="ALBANIA TRING" ,#EXTVLCOPT:network-caching=1000
+http://185.85.152.220:8999/play/a02q/index.m3u8
+#EXTINF:-1 group-title="ALBANIA TRING" ,#EXTVLCOPT:network-caching=1000
+http://185.85.152.220:8999/play/a03c/index.m3u8
+#EXTINF:-1 group-title="ALBANIA TRING" ,#EXTVLCOPT:network-caching=1000
+http://185.85.152.220:8999/play/a02x/index.m3u8
+#EXTINF:-1 group-title="ALBANIA TRING" ,#EXTVLCOPT:network-caching=1000
+http://185.85.152.220:8999/play/a03m/index.m3u8
+#EXTINF:-1 group-title="ALBANIA TRING" ,#EXTVLCOPT:network-caching=1000
+http://185.85.152.220:8999/play/a045/index.m3u8
+#EXTINF:-1 group-title="ALBANIA TRING" ,#EXTVLCOPT:network-caching=1000
+http://185.85.152.220:8999/play/a02i/index.m3u8
+#EXTINF:-1 group-title="ALBANIA TRING" ,#EXTVLCOPT:network-caching=1000
+http://185.85.152.220:8999/play/a031/index.m3u8
+#EXTINF:-1 group-title="ALBANIA TRING" ,#EXTVLCOPT:network-caching=1000
+http://185.85.152.220:8999/play/a02v/index.m3u8
+#EXTINF:-1 group-title="ALBANIA TRING" ,#EXTVLCOPT:network-caching=1000
+http://185.85.152.220:8999/play/a02u/index.m3u8
+#EXTINF:-1 group-title="ALBANIA TRING" ,#EXTVLCOPT:network-caching=1000
+http://185.85.152.220:8999/play/a02h/index.m3u8
+#EXTINF:-1 group-title="ALBANIA TRING" ,#EXTVLCOPT:network-caching=1000
+http://185.85.152.220:8999/play/a02p/index.m3u8
+#EXTINF:-1 group-title="ALBANIA TRING" ,#EXTVLCOPT:network-caching=1000
+http://185.85.152.220:8999/play/a02l/index.m3u8
+#EXTINF:-1 group-title="ALBANIA TRING" ,#EXTVLCOPT:network-caching=1000
+http://185.85.152.220:8999/play/a02j/index.m3u8
+#EXTINF:-1 group-title="ALBANIA TRING" ,#EXTVLCOPT:network-caching=1000
+http://185.85.152.220:8999/play/a048/index.m3u8
 #EXTINF:-1 group-title="ARENA SPORT" ,ARENA SPORT 1
 http://80.252.37.194:5000/udp/233.233.233.3:12000
 #EXTINF:-1 group-title="ARENA SPORT" ,ARENA SPORT 2
