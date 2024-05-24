@@ -53,6 +53,8 @@ https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_so
 http://offshore.lat:8080/armando86/dPCeWVgyHN9j/236535
 #EXTINF:0 group-title="24/7" parent-code="https://6362ca6f1fc28.streamlock.net/elchavoplus/elchavoplus/chunklist_w251850427.m3u8" tvg-logo="https://4.bp.blogspot.com/-qcGsoFyaUWg/W6lmslccpbI/AAAAAAAAAEU/AITGCqKS030alHxSpIwZT17-KneOZCBEwCPcBGAYYCw/s1600/chavotv.png" ,EL CHAVO
 http://offshore.lat:8080/armando86/dPCeWVgyHN9j/11527
+#EXTINF:0 group-title="24/7" tvg-logo="https://yt3.ggpht.com/YVjTknCJ4TGNGg2VH5GQD9EL38XcvVzKniM3xQNxH6sj13wVUVTJ8J3_R_XjTKTfuHxJtFCw=s176-c-k-c0x00ffffff-no-rj-mo" ,ENCHUFE TV
+https://www.youtube.com/embed/p4JsRgi3qSM&ab_channel
 #EXTINF:0 group-title="24/7" tvg-logo="https://img.hidra.app/247/futurama.png" ,FUTURAMA
 http://offshore.lat:8080/armando86/dPCeWVgyHN9j/346235
 #EXTINF:0 group-title="24/7" tvg-logo="https://w7.pngwing.com/pngs/325/31/png-transparent-cosmo-timmy-turner-wanda-character-mandark-others-thumbnail.png" ,LOS PADRINOS MAGICOS
@@ -663,6 +665,4 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 http://168.197.196.98:9981/stream/channelid/954274493?profile=pass
 #EXTINF:0 group-title="NOTICIAS INTERNACIONALES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/Tvge.png" ,TVGE GUINEA ECUATORIAL
 http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/master.m3u8?fluxustv.m3u8
-#EXTINF:0 group-title="NOTICIAS INTERNACIONALES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fd/TVN_Emergencia_en_Chile_2017_%281%29.png/revision/latest/scale-to-width-down/250?cb=20200112153342&path-prefix=es" ,TVN CHILE
-http://38.56.118.88:4000/play/a010/index.m3u8
-#EXTINF:0 group-tit
+#EXTINF:0 group-title="NOTICIAS INTERNACIONALES" tvg-logo="https://static.wi
