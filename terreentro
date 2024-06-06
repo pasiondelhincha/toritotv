@@ -207,6 +207,8 @@ http://181.209.114.13:8000/play/a021/index.m3u8
 http://offshore.lat:8080/armando86/dPCeWVgyHN9j/263282
 #EXTINF:0 group-title="DEPORTE EN ESPAÑOL" ,CANAL 5 TUDN EVENTOS MX
 https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
+#EXTINF:0 group-title="DEPORTE EN ESPAÑOL" ,EVENTOS
+https://imgarena-prod-v2-eu.akamaized.net/hls/live/2094749/444228-387720/hdntl=exp=1717722080~acl=%2f*~id=27545d46-4e67-48f0-bd99-e38fb23228ce~data=hdntl~hmac=0e910ea1522f060a8cd9cb8e2a4432a5ef415830b73a6552b126259148956a14/playlist_288p25.m3u8
 #EXTINF:0 group-title="DEPORTE EN ESPAÑOL" ,FUTV COSTA RICA
 https://cdn02.teletica.com/StreamFutv/Streamfutv04122023/playlist.m3u8
 #EXTINF:0 group-title="ENTRETENIMIENTO E INTERES GENERAL" tvg-logo="https://www.atresseries.com/public/img/atreseries/apple-touch-icon-180x180.png" ,A3Series HD
@@ -665,4 +667,9 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 http://168.197.196.98:9981/stream/channelid/954274493?profile=pass
 #EXTINF:0 group-title="NOTICIAS INTERNACIONALES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/Tvge.png" ,TVGE GUINEA ECUATORIAL
 http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/master.m3u8?fluxustv.m3u8
-#EXTINF:0 group-title="NOTICIAS INTERNACIONALES" tvg-logo="https://static.wi
+#EXTINF:0 group-title="NOTICIAS INTERNACIONALES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fd/TVN_Emergencia_en_Chile_2017_%281%29.png/revision/latest/scale-to-width-down/250?cb=20200112153342&path-prefix=es" ,TVN CHILE
+http://38.56.118.88:4000/play/a010/index.m3u8
+#EXTINF:0 group-title="NOTICIAS INTERNACIONALES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/TVRI_World_Old_Logo.png/revision/latest?cb=20220222084819" ,TVRI WORLD
+https://s7.mbahnunungonline.net/live/m3u8/id/3f58825fe229a8i.m3u8
+#EXTINF:0 group-title="WEBCAMS Y PAISAJES" ,LOVE NATURE 4K
+https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
