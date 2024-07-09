@@ -81,36 +81,6 @@ http://home-playtv.com:8080/CR62845553/NMYGF/177124
 http://xpz.com.mx:8080/Koko8164/8164koko/2090900
 #EXTINF:0 group-title="24/7" tvg-logo="https://images.pluto.tv/channels/609ae5cd48d3200007b0a98e/colorLogoSVG.svg?auto=&fit=crop&fill=blur&ixlib=react-9.1.5&w=150&h=96&dpr=3&q=35" ,SOUTH PARK
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae5cd48d3200007b0a98e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
-#EXTINF:-1 group-title="CHILE-SIN DELAY" ,DIRECTV SPORTS
-http://190.119.178.46:8000/play/a03o/index.m3u8
-#EXTINF:-1 group-title="CHILE-SIN DELAY" ,ESPN 1 HD
-http://190.119.178.46:8000/play/a02j/index.m3u8
-#EXTINF:-1 group-title="CHILE-SIN DELAY" ,ESPN 2 HD
-http://190.119.178.46:8000/play/a007/index.m3u8
-#EXTINF:-1 group-title="CHILE-SIN DELAY" ,ESPN 3 HD
-http://190.119.178.46:8000/play/a00j/index.m3u8
-#EXTINF:-1 group-title="CHILE-SIN DELAY" ,ESPN 4 HD
-http://190.119.178.46:8000/play/a03e/index.m3u8
-#EXTINF:-1 group-title="CHILE-SIN DELAY" ,ESPN 5 HD
-http://190.119.178.46:8000/play/a02o/index.m3u8
-#EXTINF:-1 group-title="CHILE-SIN DELAY" ,ESPN 6 HD
-http://190.119.178.46:8000/play/a02m/index.m3u8
-#EXTINF:-1 group-title="CHILE-SIN DELAY" ,ESPN 7 HD
-http://190.119.178.46:8000/play/a02k/index.m3u8
-#EXTINF:-1 group-title="CHILE-SIN DELAY" ,ESPN Extra
-http://190.119.178.46:8000/play/a036/index.m3u8
-#EXTINF:-1 group-title="CHILE-SIN DELAY" ,ESPN Premium HD
-http://190.119.178.46:8000/play/a02l/index.m3u8
-#EXTINF:-1 group-title="CHILE-SIN DELAY" ,GOLPERU HD
-http://190.119.178.46:8000/play/a02p/index.m3u8
-#EXTINF:-1 group-title="CHILE-SIN DELAY" ,LIGA 1 MAX
-http://190.119.178.46:8000/play/a00c/index.m3u8
-#EXTINF:-1 group-title="CHILE-SIN DELAY" ,TIGO SPORTS
-http://190.119.178.46:8000/play/a01z/index.m3u8
-#EXTINF:-1 group-title="CHILE-SIN DELAY" ,TNT SPORTS HD
-http://190.119.178.46:8000/play/a006/index.m3u8
-#EXTINF:-1 group-title="CHILE-SIN DELAY" ,TyC Sports HD
-http://190.119.178.46:8000/play/a018/index.m3u8
 #EXTINF:0 group-title="CINE Y SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/512px-A%26E_Network_logo.svg.png" ,A&E
 http://offshore.lat:8080/armando86/dPCeWVgyHN9j/289425
 #EXTINF:0 group-title="CINE Y SERIES" tvg-logo="https://fotografias.atresseries.com/clipping/cmsimages02/2018/02/22/20C2BFA8-ACA3-47DA-AAFB-188D456AB2A9/27.jpg" ,A3SERIES
@@ -336,19 +306,19 @@ http://vplay.club:80/arturo12345/arturo12345/589321
 #EXTINF:0 group-title="FUTBOL ARGENTINO" tvg-logo="https://i.postimg.cc/13pLGDC4/DSPORTS.png" ,DSPORTS URU
 http://vplay.club:80/arturo12345/arturo12345/589329
 #EXTINF:0 group-title="FUTBOL ARGENTINO" tvg-name="http://181.209.114.13:8000/play/a05a/index.m3u8" tvg-logo="https://w7.pngwing.com/pngs/318/371/png-transparent-espn-television-espn-extra-high-definition-video-lam-radio-hd-television-text-logo.png" ,ESPN 1
-http://190.11.130.46/mnp/espn/output.mpd
+http://45.5.151.151:8000/play/a0o0/index.m3u8
 #EXTINF:0 group-title="FUTBOL ARGENTINO" tvg-name="http://181.209.114.13:8000/play/a059/index.m3u8" tvg-logo="https://i.postimg.cc/Y9Y5pgzt/ESPN-2-en-vivo.png" ,ESPN 2
-http://190.11.130.46/mnp/espn2/output.mpd
+http://45.5.151.151:8000/play/a0nv/index.m3u8
 #EXTINF:0 group-title="FUTBOL ARGENTINO" tvg-name="http://181.209.114.13:8000/play/a05b/index.m3u8" tvg-logo="https://i.postimg.cc/7P1Fd3LV/ESPN3-Logo.png" ,ESPN 3
-http://190.11.130.46/mnp/espn3/output.mpd
+http://45.5.151.151:8000/play/a0hx/index.m3u8
 #EXTINF:0 group-title="FUTBOL ARGENTINO" tvg-name="http://181.209.114.13:8000/play/a076/index.m3u8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR24xugoiwQgKe8SuNNRELEWfRlNnbT098NZ2aD_Iu9&s" ,ESPN 4
-http://190.11.130.46/mnp/espn_extra/output.mpd
+http://45.5.151.151:8000/play/a0lp/index.m3u8
 #EXTINF:0 group-title="FUTBOL ARGENTINO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/2560px-ESPN_5_logo.svg.png" ,ESPN 5
-http://190.60.39.17:7777/play/a0h5/index.m3u8
+http://181.78.8.90:16123/play/ch19
 #EXTINF:0 group-title="FUTBOL ARGENTINO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/2560px-ESPN_6_logo.svg.png" ,ESPN 6
-http://190.60.39.17:7777/play/a0gx/index.m3u8
+http://181.78.8.90:16123/play/ch20
 #EXTINF:0 group-title="FUTBOL ARGENTINO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/2560px-ESPN_7_logo.svg.png" ,ESPN 7
-http://190.60.39.17:7777/play/a0gw/index.m3u8
+http://181.78.8.90:16123/play/ch21
 #EXTINF:0 group-title="FUTBOL ARGENTINO" audio-track="http://181.209.114.13:8000/play/a078/index.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1200px-ESPN_Premium_logo.svg.png" ,ESPN PREMIUM
 http://45.5.151.151:8000/play/a0fe/index.m3u8
 #EXTINF:0 group-title="FUTBOL ARGENTINO" tvg-name="http://181.209.114.13:8000/play/a07j/index.m3u8" tvg-logo="https://i.postimg.cc/W4MZq5wy/FOX-SPORT-1.png" ,FOX SPORT
@@ -361,8 +331,8 @@ http://190.11.130.46/mnp/fox_sport3/output.mpd
 http://45.5.151.151:8000/play/a002/index.m3u8
 #EXTINF:0 group-title="FUTBOL ARGENTINO" tvg-logo="https://1.bp.blogspot.com/-Z3CkwxY4fwY/YAJypg5UiPI/AAAAAAAA7vA/pzgUVEWEm6w7d-vCJEtQSU5MG8O-ixbkQCLcBGAsYHQ/s802/tvp-2020.png" ,TVP PUBLICA 2
 http://104.243.34.212/auth/499.ts?token=FYPb206crCmHB8WZAeRuBDcugdfluZsPkphDkbwnqu-V0D5lCAGhtFTM-DvRxETMZfJdNbPJ9EwaaY7g3P7ONP7dku7MOYleVg2l8Wprys48yAbwnJep02CQx06VznRINByge7tczrnF7eI3uXz1sI2wBq0D41HHV2A20eILksil0tC6OyrH4w-f2qwaQNGdJufhck8_Lh12mA8JHHq0AX-a__PxiQQ3w4wn7hVzi1OGvkTdeYnIS3stDULnUYfH4K1NskrwU_c-uROhZgAwMU0fn4dpGMRvVFGjMk6UmkEENhLZg2c8VWGZKT9CFKIVUt5m1dURF4ZwQ9-bEtFlwAvLAK-YIghZT5aOyBUgEVyzN5vF8xk6iPEKtHoLOpu0tO3_bJ2gtwbSdLkve73hLoAtQwxnx_uqEZscgv2NHC9FbDI007UxXpYsLfMWWCiYPvmmaJLwEqvNujq46GRiaXShZnNWV6i8mDXYcpV25xVvyXgfj3T-R6RxerGo_qHylwlYW3dzL5_Yv72aQyV_aYb6WrmGlG7tgLVI0-YgJcSIWpBabJZzIXY-ZUfUihOKAGu-lpAVGGZGgs0J5QdKCE7LG5hmN2DDTkhAcFwcovlc0U_uyTk8dE1Kj1tguyRECziPirJj7fX3erZBJpZWUM4InJYymTw8gbqRkLS4uZs
-#EXTINF:0 group-title="FUTBOL ARGENTINO" tvg-name="https://delivery.cdn.rcs.net.ar/mnp/tyc/output.mpd" tvg-logo="https://i.postimg.cc/HkNRX3Sp/TYC-SPORTS.png" ,TYC SPORTS
-https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_4.m3u8
+#EXTINF:0 group-title="FUTBOL ARGENTINO" tvg-name="https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_4.m3u8" tvg-logo="https://i.postimg.cc/HkNRX3Sp/TYC-SPORTS.png" ,TYC SPORTS
+https://live-04-11-tyc24.vodgc.net/tyc24/tracks-v4a1/mono.m3u8?__token__=exp%3D1720485271%7Eacl%3D%2F%2A%7Ehmac%3D985379360504cf4ef2c58da4d92be81db8e20c976480052886852ff06623a8dd
 #EXTINF:0 group-title="FUTBOL ARGENTINO" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgusCblUkZgbEe0QzEyqhic7yB5B0CpYkR80juX5pmjTMf_7TgBN0DU7el6uSHfeNmkjgu3uwIiibqo1Jc_qXaQeRFVKSyG-Fvn6XB1C9JxkdZ6poMOjHgi4jeRugapH5Kb9zXQNIPkSQAu_reJzAgX8q6OmxbMKARNm4uxGSC_wE92fyLW_dJyWEla/s512/tycsports2.png" ,TYC SPORTS 2
 https://dbdspnsi7bxk.cloudfront.net/out/v1/543996f2ca9149a5a984db778af87c7f/index_10.m3u8
 #EXTINF:0 group-title="FUTBOL ARGENTINO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/512px-TyC_Sports_logo.svg.png" ,TYC SPORTS INTERNACIONAL
