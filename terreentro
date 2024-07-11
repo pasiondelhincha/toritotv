@@ -291,6 +291,16 @@ https://linear-46.frequency.stream/dist/00 LOCALnow/46/hls/master/playlist.m3u8
 https://linear-343.frequency.stream/dist/00 LOCALnow/343/hls/master/playlist.m3u8
 #EXTINF:0 group-title="ENTRETENIMIENTO E INTERES GENERAL" tvg-logo="https://wowelsalvador.com/imagen/logo2.png" ,WOW TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
+#EXTINF:0 group-title="FL" ,ESPN
+https://server.betzta.com/lb/espnpe/index.m3u8?token=cd49df12f4ce8b4363275a19f4a26d55fb293414-afcb36d81c2efaea59f5cd191d4f146a-1720733359-1720722559&remote=186.19.2.40
+#EXTINF:0 group-title="FL" ,ESPN PERU
+https://server.betzta.com/lb/espnpe/index.m3u8?token=98e906604a3e8a9d8eb4526319dfa22a3f4caae9-429250aa8fbc71ba4302c3a4b16a8581-1720733411-1720722611&remote=186.19.2.40
+#EXTINF:0 group-title="FL" ,GOL PERU
+https://server3.betzta.com/golperu/index.m3u8?token=fe3aed09a0820149c51cdc078be2701af0ef8ebc-39108f6c8bb7c9e6d64330ff10d8bada-1720733117-1720722317&remote=186.19.2.40
+#EXTINF:0 group-title="FL" ,L1MAX
+https://server.betzta.com/lb/l1max/index.m3u8?token=445183b2077b7f3dfa73ae46a88e898054014c01-99100c9f06d203678049bdc3f03560a4-1720733180-1720722380&remote=186.19.2.40
+#EXTINF:0 group-title="FL" ,MOVISTAR DEPORTES
+https://server.betzta.com/lb/movistar/index.m3u8?token=6eee11fc5640c338725fddd99b4943553f7cc1f7-b5b1b2576c5de2eca2e5b20a8f7efc21-1720733244-1720722444&remote=186.19.2.40
 #EXTINF:0 group-title="FUTBOL ARGENTINO" ,BEIN SPORTS XTRA ESPAÑOL
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
 #EXTINF:0 group-title="FUTBOL ARGENTINO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/Logo_DeporTV.png" ,DEPORTV
@@ -303,6 +313,8 @@ http://offshore.lat:8080/play/MWeogaSmpVBuh-TFCnuNr6O_2rAGhXlchnBbk1IrQ3FOBdk__Y
 http://offshore.lat:8080/play/MWeogaSmpVBuh-TFCnuNr6O_2rAGhXlchnBbk1IrQ3G-8hbCqFsZLGrB-1xAXhJI
 #EXTINF:0 group-title="FUTBOL ARGENTINO" tvg-logo="https://i.postimg.cc/0QNF1F8J/DSPORTS.png" ,DSPORTS 2
 http://vplay.club:80/arturo12345/arturo12345/589321
+#EXTINF:0 group-title="FUTBOL ARGENTINO" ,DSPORTS FL M3U8
+https://server4.betzta.com/ds/tracks-v1a1/mono.m3u8?remote=186.19.2.40&token=fb1084833ccff9ee99055989eb45306c69367c66-496f7baf7cfb476dc0bd99ea550c60be-1720729182-1720718382
 #EXTINF:0 group-title="FUTBOL ARGENTINO" tvg-logo="https://i.postimg.cc/13pLGDC4/DSPORTS.png" ,DSPORTS URU
 http://vplay.club:80/arturo12345/arturo12345/589329
 #EXTINF:0 group-title="FUTBOL ARGENTINO" tvg-name="http://181.209.114.13:8000/play/a05a/index.m3u8" tvg-logo="https://w7.pngwing.com/pngs/318/371/png-transparent-espn-television-espn-extra-high-definition-video-lam-radio-hd-television-text-logo.png" ,ESPN 1
