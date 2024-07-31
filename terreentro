@@ -49,6 +49,8 @@ https://unlimited1-buenosaires.dps.live/televidaar/televidaar.smil/playlist.m3u8
 https://ythls.armelin.one/channel/UCj6PcyLvpnIRT_2W_mwa9Aw.m3u8
 #EXTINF:0 group-title="00 LOCAL" tvg-logo="https://1.bp.blogspot.com/-Z3CkwxY4fwY/YAJypg5UiPI/AAAAAAAA7vA/pzgUVEWEm6w7d-vCJEtQSU5MG8O-ixbkQCLcBGAsYHQ/s802/tvp-2020.png" ,TVP PUBLICA
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
+#EXTINF:0 group-title="24/7" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/yKZYX4D30R7ywy6f5yQDuXagSCr.jpg" ,1000 MANERAS DE MORIR
+http://xdplayer.tv:8080/play/3IHHkQHq4euHdgB7WuK4VND5OBQXft1n5Nt9PDjPWFjoSh_-e4mAcUbejj4rTRgc/ts
 #EXTINF:0 group-title="24/7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZiJ0kHwplBmP69PQIiJci2jtaEylTj0RTBy4CWZKzoh4DMLHiotZf75RWTDIvZPqjLMw&usqp=CAU" ,ALF
 http://offshore.lat:8080/armando86/dPCeWVgyHN9j/236535
 #EXTINF:0 group-title="24/7" parent-code="https://6362ca6f1fc28.streamlock.net/elchavoplus/elchavoplus/chunklist_w251850427.m3u8" tvg-logo="https://4.bp.blogspot.com/-qcGsoFyaUWg/W6lmslccpbI/AAAAAAAAAEU/AITGCqKS030alHxSpIwZT17-KneOZCBEwCPcBGAYYCw/s1600/chavotv.png" ,EL CHAVO
@@ -78,7 +80,7 @@ https://stmv1.srvif.com/retrotv/retrotv/playlist-720p.m3u8
 #EXTINF:0 group-title="24/7" tvg-logo="https://img.tvcl.xyz/247/247.png" ,SAILOR MOON
 http://home-playtv.com:8080/CR62845553/NMYGF/177124
 #EXTINF:0 group-title="24/7" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/c/c6/SMCrystal.jpg/revision/latest?cb=20180504190435&path-prefix=es" ,SAILOR MOON CRYSTAL
-http://xpz.com.mx:8080/Koko8164/8164koko/2090900
+http://xdplayer.tv:8080/play/3IHHkQHq4euHdgB7WuK4VND5OBQXft1n5Nt9PDjPWFiDLfSEy_Zp5OaI7Rbhix2H/ts
 #EXTINF:0 group-title="24/7" tvg-logo="https://images.pluto.tv/channels/609ae5cd48d3200007b0a98e/colorLogoSVG.svg?auto=&fit=crop&fill=blur&ixlib=react-9.1.5&w=150&h=96&dpr=3&q=35" ,SOUTH PARK
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae5cd48d3200007b0a98e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 #EXTINF:0 group-title="CINE Y SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/512px-A%26E_Network_logo.svg.png" ,A&E
@@ -291,16 +293,6 @@ https://linear-46.frequency.stream/dist/00 LOCALnow/46/hls/master/playlist.m3u8
 https://linear-343.frequency.stream/dist/00 LOCALnow/343/hls/master/playlist.m3u8
 #EXTINF:0 group-title="ENTRETENIMIENTO E INTERES GENERAL" tvg-logo="https://wowelsalvador.com/imagen/logo2.png" ,WOW TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
-#EXTINF:0 group-title="FL" ,ESPN
-https://server.betzta.com/lb/espnpe/index.m3u8?token=cd49df12f4ce8b4363275a19f4a26d55fb293414-afcb36d81c2efaea59f5cd191d4f146a-1720733359-1720722559&remote=186.19.2.40
-#EXTINF:0 group-title="FL" ,ESPN PERU
-https://server.betzta.com/lb/espnpe/index.m3u8?token=98e906604a3e8a9d8eb4526319dfa22a3f4caae9-429250aa8fbc71ba4302c3a4b16a8581-1720733411-1720722611&remote=186.19.2.40
-#EXTINF:0 group-title="FL" ,GOL PERU
-https://server3.betzta.com/golperu/index.m3u8?token=fe3aed09a0820149c51cdc078be2701af0ef8ebc-39108f6c8bb7c9e6d64330ff10d8bada-1720733117-1720722317&remote=186.19.2.40
-#EXTINF:0 group-title="FL" ,L1MAX
-https://server.betzta.com/lb/l1max/index.m3u8?token=445183b2077b7f3dfa73ae46a88e898054014c01-99100c9f06d203678049bdc3f03560a4-1720733180-1720722380&remote=186.19.2.40
-#EXTINF:0 group-title="FL" ,MOVISTAR DEPORTES
-https://server.betzta.com/lb/movistar/index.m3u8?token=6eee11fc5640c338725fddd99b4943553f7cc1f7-b5b1b2576c5de2eca2e5b20a8f7efc21-1720733244-1720722444&remote=186.19.2.40
 #EXTINF:0 group-title="FUTBOL ARGENTINO" ,BEIN SPORTS XTRA ESPAÑOL
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
 #EXTINF:0 group-title="FUTBOL ARGENTINO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/Logo_DeporTV.png" ,DEPORTV
@@ -313,8 +305,6 @@ http://offshore.lat:8080/play/MWeogaSmpVBuh-TFCnuNr6O_2rAGhXlchnBbk1IrQ3FOBdk__Y
 http://offshore.lat:8080/play/MWeogaSmpVBuh-TFCnuNr6O_2rAGhXlchnBbk1IrQ3G-8hbCqFsZLGrB-1xAXhJI
 #EXTINF:0 group-title="FUTBOL ARGENTINO" tvg-logo="https://i.postimg.cc/0QNF1F8J/DSPORTS.png" ,DSPORTS 2
 http://vplay.club:80/arturo12345/arturo12345/589321
-#EXTINF:0 group-title="FUTBOL ARGENTINO" ,DSPORTS FL M3U8
-https://server4.betzta.com/ds/tracks-v1a1/mono.m3u8?remote=186.19.2.40&token=fb1084833ccff9ee99055989eb45306c69367c66-496f7baf7cfb476dc0bd99ea550c60be-1720729182-1720718382
 #EXTINF:0 group-title="FUTBOL ARGENTINO" tvg-logo="https://i.postimg.cc/13pLGDC4/DSPORTS.png" ,DSPORTS URU
 http://vplay.club:80/arturo12345/arturo12345/589329
 #EXTINF:0 group-title="FUTBOL ARGENTINO" tvg-name="http://181.209.114.13:8000/play/a05a/index.m3u8" tvg-logo="https://w7.pngwing.com/pngs/318/371/png-transparent-espn-television-espn-extra-high-definition-video-lam-radio-hd-television-text-logo.png" ,ESPN 1
