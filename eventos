@@ -1,57 +1,33 @@
 #EXTM3U
-#EXTINF:0 group-title="Eventos en Vivo" ,00Eventos-02
-https://744133.akamaized.net/hls/live/716244/ch24/txa73fmw0ijm13ean707jc48g.m3u8?hdnea=ip=186.19.2.40~st=1750464543~exp=1750464603~acl=/*/716244*~id=6d9833f4350046f881a657e85869547b~hmac=bc8138825ba29e7237c0d5531120181374e3bdd907fe63b60d154f48f62ad4be&reportingKey=eventId-2441255_partnerId-10&unique_id=6d9833f4350046f881a657e85869547b
 #EXTINF:-1 group-title="Eventos en Vivo" ,BEIN SPORTS XTRA ESPAÑOL
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
 #EXTINF:-1 group-title="Eventos en Vivo" ,DSPORTS
 http://179.63.6.17:9000/play/a08e
 #EXTINF:-1 group-title="Eventos en Vivo" ,ESPN 2 HD
-http://143.0.67.77:8000/play/a059/index.m3u8
+http://200.112.174.230/mtcast_espn2hd/mpegts
 #EXTINF:-1 group-title="Eventos en Vivo" ,ESPN 3 HD
-http://143.0.67.77:8000/play/a05b/index.m3u8
+http://200.112.174.230/mtcast_espn3hd/mpegts
 #EXTINF:-1 group-title="Eventos en Vivo" ,ESPN 4 HD
 http://143.0.67.77:8000/play/a076/index.m3u8
 #EXTINF:-1 group-title="Eventos en Vivo" ,ESPN HD
-http://143.0.67.77:8000/play/a05a/index.m3u8
+http://200.112.174.230/mtcast_espnhd/mpegts
 #EXTINF:-1 group-title="Eventos en Vivo" ,ESPN Premium HD
-http://143.0.67.77:8000/play/a078/index.m3u8
+http://200.112.174.230/mtcast_espnpremiumhd/mpegts
+#EXTINF:0 group-title="Eventos en Vivo" ,ESPN PREMIUM HD 02
+http://46.225.94.157/hls/espn/index.m3u8
 #EXTINF:-1 group-title="Eventos en Vivo" ,EVENTOS 01
 http://143.0.67.77:8000/play/a0af/index.m3u8
 #EXTINF:-1 group-title="Eventos en Vivo" ,FOX SPORTS
-http://143.0.67.77:8000/play/a07j/index.m3u8
+http://200.112.174.230/mtcast_foxsporsthd/mpegts
 #EXTINF:-1 group-title="Eventos en Vivo" ,FOX SPORTS 2
 http://143.0.67.77:8000/play/a05c/index.m3u8
 #EXTINF:-1 group-title="Eventos en Vivo" ,FOX SPORTS 3
 http://143.0.67.77:8000/play/a02t/index.m3u8
 #EXTINF:-1 group-title="Eventos en Vivo" ,TNT SPORTS
-http://143.0.67.77:8000/play/a0bc/index.m3u8
+http://200.112.174.230/mtcast_tntsportshd/mpegts
+#EXTINF:0 group-title="Eventos en Vivo" ,TNT SPORTS 02
+http://46.225.94.157/hls/espn/index.m3u8
 #EXTINF:-1 group-title="Eventos en Vivo" ,TYC SPORTS
-https://ch04-04-11-tyc.vodgc.net/out/v1/366fc52554ae42c58465ea4b278eac0c/index.m3u8
-#EXTINF:-1 group-title="Eventos en Vivo" ,TYC SPORTS 00
-http://143.0.67.77:8000/play/a02s/index.m3u8
+http://200.112.174.230/mtcast_tychd/mpegts
 #EXTINF:-1 group-title="Eventos en Vivo" ,VTV Uruguay
 http://200.60.124.19:29000/play/a0lj/index.m3u8
-#EXTINF:-1 group-title="TYC SPORTS PLAY" tvg-logo="https://www.totalmedios.com/img/noticias/2014/11/54785c051f4c7__838x390.jpg" ,TYC SPORTS PLAY 01
-https://ch01-04-11-tyc.vodgc.net/out/v1/84ee2b0cce384a30abd70b05562ddd91/index.m3u8
-#EXTINF:-1 group-title="TYC SPORTS PLAY" tvg-logo="https://www.totalmedios.com/img/noticias/2014/11/54785c051f4c7__838x390.jpg" ,TYC SPORTS PLAY 02
-https://ch02-04-11-tyc.vodgc.net/out/v1/c43ac17254584daa9781eaaeea1a085d/index.m3u8
-#EXTINF:-1 group-title="TYC SPORTS PLAY" tvg-logo="https://www.totalmedios.com/img/noticias/2014/11/54785c051f4c7__838x390.jpg" ,TYC SPORTS PLAY 03
-https://ch03-04-11-tyc.vodgc.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index.m3u8
-#EXTINF:-1 group-title="TYC SPORTS PLAY" tvg-logo="https://www.totalmedios.com/img/noticias/2014/11/54785c051f4c7__838x390.jpg" ,TYC SPORTS PLAY 04
-https://ch04-04-11-tyc.vodgc.net/out/v1/366fc52554ae42c58465ea4b278eac0c/index.m3u8
-#EXTINF:-1 group-title="TYC SPORTS PLAY" tvg-logo="https://www.totalmedios.com/img/noticias/2014/11/54785c051f4c7__838x390.jpg" ,TYC SPORTS PLAY 05
-https://ch05-04-11-tyc.vodgc.net/out/v1/a2f25f61e9d44701aa4e813ac5efc4a4/index.m3u8
-#EXTINF:-1 group-title="TYC SPORTS PLAY" tvg-logo="https://www.totalmedios.com/img/noticias/2014/11/54785c051f4c7__838x390.jpg" ,TYC SPORTS PLAY 06
-https://ch06-04-11-tyc.vodgc.net/out/v1/bccdd4d97f434c63ab2f675e5145758f/index.m3u8
-#EXTINF:-1 group-title="TYC SPORTS PLAY" tvg-logo="https://www.totalmedios.com/img/noticias/2014/11/54785c051f4c7__838x390.jpg" ,TYC SPORTS PLAY 07
-https://ch07-04-11-tyc.vodgc.net/out/v1/19321d887c274b58a4f62fe0f6e2151b/index.m3u8
-#EXTINF:-1 group-title="TYC SPORTS PLAY" tvg-logo="https://www.totalmedios.com/img/noticias/2014/11/54785c051f4c7__838x390.jpg" ,TYC SPORTS PLAY 08
-https://ch08-04-11-tyc.vodgc.net/out/v1/4c8dc641a91448439388e41118924965/index.m3u8
-#EXTINF:-1 group-title="TYC SPORTS PLAY" tvg-logo="https://www.totalmedios.com/img/noticias/2014/11/54785c051f4c7__838x390.jpg" ,TYC SPORTS PLAY 09
-https://ch09-04-11-tyc.vodgc.net/out/v1/772e0b0193134726ad84693b7baca6c6/index.m3u8
-#EXTINF:-1 group-title="TYC SPORTS PLAY" tvg-logo="https://www.totalmedios.com/img/noticias/2014/11/54785c051f4c7__838x390.jpg" ,TYC SPORTS PLAY 10
-https://ch10-04-11-tyc.vodgc.net/out/v1/09e35529553d472b8f14e437af642e2f/index.m3u8
-#EXTINF:-1 group-title="TYC SPORTS PLAY" tvg-logo="https://www.totalmedios.com/img/noticias/2014/11/54785c051f4c7__838x390.jpg" ,TYC SPORTS PLAY 11
-https://ch11-04-11-tyc.vodgc.net/out/v1/1bcd1ee954894463b1793597891a25b6/index.m3u8
-#EXTINF:-1 group-title="TYC SPORTS PLAY" tvg-logo="https://www.totalmedios.com/img/noticias/2014/11/54785c051f4c7__838x390.jpg" ,TYC SPORTS PLAY 12
-https://ch12-04-11-tyc.vodgc.net/out/v1/543996f2ca9149a5a984db778af87c7f/index.m3u8
