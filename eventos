@@ -1,207 +1,53 @@
 #EXTM3U
-#EXTINF:-1 group-title="Eventos en Vivo" ,BEIN SPORTS XTRA ESPAÑOL
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
 #EXTINF:-1 group-title="Eventos en Vivo" ,DSPORTS
-http://179.63.6.17:9000/play/a08e
+http://167.17.67.240:8888/DSPORTS/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Eventos en Vivo" ,DSPORTS +
+http://domestipo1.online:80/Luisd7788$/v7kKThHW7d/592039.ts
+#EXTINF:0 group-title="Eventos en Vivo" ,DSPORTS 2
+http://domestipo1.online:80/Luisd7788$/v7kKThHW7d/592038.ts
+#EXTINF:0 group-title="Eventos en Vivo" ,DSPORTS URU
+http://br1.urutelam.com:8073/VTV%20HD%20URUGUAY?u=GONZALOVERON:p=9577263913:server_ip_port=br1.urutelam.com:8073
+#EXTINF:0 group-title="Eventos en Vivo" ,DSPORTS URU 2
+http://br1.urutelam.com:8073/VTV%20URUGUAY?u=GONZALOVERON:p=9577263913:server_ip_port=br1.urutelam.com:8073
+#EXTINF:-1 group-title="Eventos en Vivo" ,ESPN 1 HD
+http://200.112.174.230/mtcast_espnhd/mpegts
 #EXTINF:-1 group-title="Eventos en Vivo" ,ESPN 2 HD
 http://200.112.174.230/mtcast_espn2hd/mpegts
 #EXTINF:-1 group-title="Eventos en Vivo" ,ESPN 3 HD
 http://200.112.174.230/mtcast_espn3hd/mpegts
 #EXTINF:-1 group-title="Eventos en Vivo" ,ESPN 4 HD
-http://143.0.67.77:8000/play/a076/index.m3u8
-#EXTINF:-1 group-title="Eventos en Vivo" ,ESPN HD
-http://200.112.174.230/mtcast_espnhd/mpegts
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-95.playlist.m3u8
+#EXTINF:0 group-title="Eventos en Vivo" ,ESPN 5 HD
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-104.playlist.m3u8
+#EXTINF:0 group-title="Eventos en Vivo" ,ESPN 6 HD
+http://181.78.82.6:46090/play/a00w/index.m3u8
+#EXTINF:0 group-title="Eventos en Vivo" ,ESPN 7 HD
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-106.playlist.m3u8
 #EXTINF:-1 group-title="Eventos en Vivo" ,ESPN Premium HD
 http://200.112.174.230/mtcast_espnpremiumhd/mpegts
 #EXTINF:0 group-title="Eventos en Vivo" ,ESPN PREMIUM HD 02
 http://46.225.94.157/hls/espn/index.m3u8
 #EXTINF:-1 group-title="Eventos en Vivo" ,EVENTOS 01
-http://143.0.67.77:8000/play/a0af/index.m3u8
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-01.playlist.m3u8
+#EXTINF:0 group-title="Eventos en Vivo" ,EVENTOS 02
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-02.playlist.m3u8
+#EXTINF:0 group-title="Eventos en Vivo" ,EVENTOS 03
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-03.playlist.m3u8
+#EXTINF:0 group-title="Eventos en Vivo" ,EVENTOS 04
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-04.playlist.m3u8
+#EXTINF:0 group-title="Eventos en Vivo" ,EVENTOS 05
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-05.playlist.m3u8
+#EXTINF:0 group-title="Eventos en Vivo" ,EVENTOS 06
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-06.playlist.m3u8
 #EXTINF:-1 group-title="Eventos en Vivo" ,FOX SPORTS
-https://edge-live12-sl.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc_2A/FoxSports.mpd
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-91.playlist.m3u8
 #EXTINF:-1 group-title="Eventos en Vivo" ,FOX SPORTS 2
-http://143.0.67.77:8000/play/a05c/index.m3u8
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-93.playlist.m3u8
 #EXTINF:-1 group-title="Eventos en Vivo" ,FOX SPORTS 3
-https://chevy.soyspace.cyou/proxy/nfs/premium789/mono.css
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-92.playlist.m3u8
 #EXTINF:-1 group-title="Eventos en Vivo" ,TNT SPORTS
 http://200.112.174.230/mtcast_tntsportshd/mpegts
 #EXTINF:0 group-title="Eventos en Vivo" ,TNT SPORTS 02
 http://46.225.94.157/hls/tnt/index.m3u8
 #EXTINF:-1 group-title="Eventos en Vivo" ,TYC SPORTS
 http://200.112.174.230/mtcast_tychd/mpegts
-#EXTINF:-1 group-title="Eventos en Vivo" ,VTV Uruguay
-http://200.60.124.19:29000/play/a0lj/index.m3u8
-
-#EXTM3U
-#EXTINF:-1 tvg-id="110" tvg-name="" tvg-logo="https://i.postimg.cc/vB28q8xt/Canal13-Santa-Fe-285.png" group-title="premium",Canal 110
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-10.playlist.m3u8
-#EXTINF:-1 tvg-id="111" tvg-name="" tvg-logo="https://i.postimg.cc/65cKYps2/tvpublica-285.png" group-title="premium",Canal 111
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-11.playlist.m3u8
-#EXTINF:-1 tvg-id="112" tvg-name="" tvg-logo="https://i.postimg.cc/Gpqbt3Kn/Somos-Santa-Fe-285.png" group-title="premium",Canal 112
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-12.playlist.m3u8
-#EXTINF:-1 tvg-id="113" tvg-name="" tvg-logo="https://i.postimg.cc/CK3pzZ8t/Santa-Fe-Canal-285.png" group-title="premium",Canal 113
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-13.playlist.m3u8
-#EXTINF:-1 tvg-id="114" tvg-name="" tvg-logo="https://i.postimg.cc/d1GPdqm0/e-285.png" group-title="premium",Canal 114
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-14.playlist.m3u8
-#EXTINF:-1 tvg-id="115" tvg-name="" tvg-logo="https://i.postimg.cc/3NZsSnq5/Canal-a-285.png" group-title="premium",Canal 115
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-15.playlist.m3u8
-#EXTINF:-1 tvg-id="116" tvg-name="" tvg-logo="https://i.postimg.cc/ZK2Hkrz1/canal9-285.png" group-title="premium",Canal 116
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-16.playlist.m3u8
-#EXTINF:-1 tvg-id="117" tvg-name="" tvg-logo="https://i.postimg.cc/25fxyr6G/america-285.png" group-title="premium",Canal 117
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-17.playlist.m3u8
-#EXTINF:-1 tvg-id="118" tvg-name="" tvg-logo="https://i.postimg.cc/25fxyr6G/america-285.png" group-title="premium",Canal 118
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-18.playlist.m3u8
-#EXTINF:-1 tvg-id="119" tvg-name="" tvg-logo="https://i.postimg.cc/7hg2pT1y/encuentro-285.png" group-title="premium",Canal 119
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-19.playlist.m3u8
-#EXTINF:-1 tvg-id="120" tvg-name="" tvg-logo="https://i.postimg.cc/W1pkHzhQ/cinear-285.png" group-title="premium",Canal 120
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-20.playlist.m3u8
-#EXTINF:-1 tvg-id="121" tvg-name="" tvg-logo="https://i.postimg.cc/VNdbzh9g/IPNoticias-285.png" group-title="premium",Canal 121
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-21.playlist.m3u8
-#EXTINF:-1 tvg-id="122" tvg-name="" tvg-logo="https://i.postimg.cc/50zYCFRF/Rai-Italia-285.png" group-title="premium",Canal 122
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-22.playlist.m3u8
-#EXTINF:-1 tvg-id="123" tvg-name="" tvg-logo="https://i.postimg.cc/tCpZsJtY/RT-285.png" group-title="premium",Canal 123
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-98.playlist.m3u8
-#EXTINF:-1 tvg-id="124" tvg-name="" tvg-logo="https://i.postimg.cc/JhDtfkmd/TVE-285.png" group-title="premium",Canal 124
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-23.playlist.m3u8
-#EXTINF:-1 tvg-id="125" tvg-name="" tvg-logo="https://i.postimg.cc/fLYyLQVc/Garage-TV-285.png" group-title="premium",Canal 125
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-24.playlist.m3u8
-#EXTINF:-1 tvg-id="126" tvg-name="" tvg-logo="https://i.postimg.cc/kMFDP939/elgourmet-285.png" group-title="premium",Canal 126
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-25.playlist.m3u8
-#EXTINF:-1 tvg-id="127" tvg-name="" tvg-logo="https://i.postimg.cc/NfqZh9qC/Lifetime-285.png" group-title="premium",Canal 127
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/Lifetime.playlist.m3u8
-#EXTINF:-1 tvg-id="128" tvg-name="" tvg-logo="https://i.postimg.cc/tCBqwkPr/lasestrellas.png" group-title="premium",Canal 128
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/lasestrellas.playlist.m3u8
-#EXTINF:-1 tvg-id="129" tvg-name="" tvg-logo="https://i.postimg.cc/xT6fh5HB/telemundointernacional.png" group-title="premium",Canal 129
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-26.playlist.m3u8
-#EXTINF:-1 tvg-id="130" tvg-name="" tvg-logo="https://i.postimg.cc/dVWW0DpY/Cartoonito-285.png" group-title="premium",Canal 130
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-30.playlist.m3u8
-#EXTINF:-1 tvg-id="131" tvg-name="" tvg-logo="https://i.postimg.cc/jdxqMmWZ/cartoonnetwork.png" group-title="premium",Canal 131
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-31.playlist.m3u8
-#EXTINF:-1 tvg-id="132" tvg-name="" tvg-logo="https://i.postimg.cc/BQSZmk8B/disneychannel.png" group-title="premium",Canal 132
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-32.playlist.m3u8
-#EXTINF:-1 tvg-id="133" tvg-name="" tvg-logo="https://i.postimg.cc/bJnLLgJy/Nickelodeon-285.png" group-title="premium",Canal 133
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-33.playlist.m3u8
-#EXTINF:-1 tvg-id="134" tvg-name="" tvg-logo="https://i.postimg.cc/D0K6NGJq/Discovery-Kids-285.png" group-title="premium",Canal 134
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-34.playlist.m3u8
-#EXTINF:-1 tvg-id="135" tvg-name="" tvg-logo="https://i.postimg.cc/mg6wsJ1Z/Disney-Junior-285.png" group-title="premium",Canal 135
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-35.playlist.m3u8
-#EXTINF:-1 tvg-id="136" tvg-name="" tvg-logo="https://i.postimg.cc/nLj1c2q4/pakapaka-285.png" group-title="premium",Canal 136
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-36.playlist.m3u8
-#EXTINF:-1 tvg-id="137" tvg-name="" tvg-logo="https://i.postimg.cc/BQSZmk81/history.png" group-title="premium",Canal 137
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-40.playlist.m3u8
-#EXTINF:-1 tvg-id="138" tvg-name="" tvg-logo="https://i.postimg.cc/xTfj6hkN/history2.png" group-title="premium",Canal 138
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-41.playlist.m3u8
-#EXTINF:-1 tvg-id="139" tvg-name="" tvg-logo="https://i.postimg.cc/pXWVs49K/idinvestigation.png" group-title="premium",Canal 139
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-42.playlist.m3u8
-#EXTINF:-1 tvg-id="140" tvg-name="" tvg-logo="https://i.postimg.cc/DyvfxHWG/discoveryhyh.png" group-title="premium",Canal 140
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-43.playlist.m3u8
-#EXTINF:-1 tvg-id="141" tvg-name="" tvg-logo="https://i.postimg.cc/TYd2tFyg/discoverychannel.png" group-title="premium",Canal 141
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-44.playlist.m3u8
-#EXTINF:-1 tvg-id="142" tvg-name="" tvg-logo="https://i.postimg.cc/Lspsn61x/Discovery-Turbo-285.png" group-title="premium",Canal 142
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-99.playlist.m3u8
-#EXTINF:-1 tvg-id="143" tvg-name="" tvg-logo="https://i.postimg.cc/8PpkZ9F7/animalplanet.png" group-title="premium",Canal 143
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-45.playlist.m3u8
-#EXTINF:-1 tvg-id="144" tvg-name="" tvg-logo="https://i.postimg.cc/65W6Mg7y/natgeo.png" group-title="premium",Canal 144
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-46.playlist.m3u8
-#EXTINF:-1 tvg-id="145" tvg-name="" tvg-logo="https://i.postimg.cc/dQxtG9Ck/mtvhd-285.png" group-title="premium",Canal 145
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-50.playlist.m3u8
-#EXTINF:-1 tvg-id="146" tvg-name="" tvg-logo="https://i.postimg.cc/W1n4qcwj/qmusica-285.png" group-title="premium",Canal 146
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-51.playlist.m3u8
-#EXTINF:-1 tvg-id="147" tvg-name="" tvg-logo="https://i.postimg.cc/3wxxgftG/Stingray-Concerts-285.png" group-title="premium",Canal 147
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-111.playlist.m3u8
-#EXTINF:-1 tvg-id="148" tvg-name="" tvg-logo="https://i.postimg.cc/TYjdBvSm/KZO-285.png" group-title="premium",Canal 148
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-52.playlist.m3u8
-#EXTINF:-1 tvg-id="149" tvg-name="" tvg-logo="https://i.postimg.cc/Jn97CrM3/metro-285.png" group-title="premium",Canal 149
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-53.playlist.m3u8
-#EXTINF:-1 tvg-id="150" tvg-name="" tvg-logo="https://i.postimg.cc/vZQYsSFK/comedycentral-285.png" group-title="premium",Canal 150
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-60.playlist.m3u8
-#EXTINF:-1 tvg-id="151" tvg-name="" tvg-logo="https://i.postimg.cc/NG7f7B09/cinemax.png" group-title="premium",Canal 151
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-61.playlist.m3u8
-#EXTINF:-1 tvg-id="152" tvg-name="" tvg-logo="https://i.postimg.cc/wTFKhqZW/cinecanal-285.png" group-title="premium",Canal 152
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-62.playlist.m3u8
-#EXTINF:-1 tvg-id="153" tvg-name="" tvg-logo="https://i.postimg.cc/FFgsgNKf/tntseries.png" group-title="premium",Canal 153
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-64.playlist.m3u8
-#EXTINF:-1 tvg-id="154" tvg-name="" tvg-logo="https://i.postimg.cc/ncFV3gs1/tntnovelas.png" group-title="premium",Canal 154
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-65.playlist.m3u8
-#EXTINF:-1 tvg-id="155" tvg-name="" tvg-logo="https://i.postimg.cc/tRtCtpg6/tnt.png" group-title="premium",Canal 155
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-66.playlist.m3u8
-#EXTINF:-1 tvg-id="156" tvg-name="" tvg-logo="https://i.postimg.cc/fWjTjDbN/studiouniversal.png" group-title="premium",Canal 156
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-67.playlist.m3u8
-#EXTINF:-1 tvg-id="157" tvg-name="" tvg-logo="https://i.postimg.cc/fWjTjDbL/star.png" group-title="premium",Canal 157
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-68.playlist.m3u8
-#EXTINF:-1 tvg-id="158" tvg-name="" tvg-logo="https://i.postimg.cc/BZcQc4vv/space.png" group-title="premium",Canal 158
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-69.playlist.m3u8
-#EXTINF:-1 tvg-id="159" tvg-name="" tvg-logo="https://i.postimg.cc/8cHp1BY4/canalsony.png" group-title="premium",Canal 159
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-70.playlist.m3u8
-#EXTINF:-1 tvg-id="160" tvg-name="" tvg-logo="https://i.postimg.cc/tgBzXgSx/AyE-285.png" group-title="premium",Canal 160
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-71.playlist.m3u8
-#EXTINF:-1 tvg-id="161" tvg-name="" tvg-logo="https://i.postimg.cc/pL28pHnY/Paramount-285.png" group-title="premium",Canal 161
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-72.playlist.m3u8
-#EXTINF:-1 tvg-id="162" tvg-name="" tvg-logo="https://i.postimg.cc/3rv2q9Tp/Filmy-Arts-285.png" group-title="premium",Canal 162
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-FilmyArt.playlist.m3u8
-#EXTINF:-1 tvg-id="163" tvg-name="" tvg-logo="https://i.postimg.cc/DyQLvZmw/TLC-285.png" group-title="premium",Canal 163
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/tlc.playlist.m3u8
-#EXTINF:-1 tvg-id="164" tvg-name="" tvg-logo="https://i.postimg.cc/vmK6qx23/warner-285.png" group-title="premium",Canal 164
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-73.playlist.m3u8
-#EXTINF:-1 tvg-id="165" tvg-name="" tvg-logo="https://i.postimg.cc/m2S1x56c/volver-285.png" group-title="premium",Canal 165
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-74.playlist.m3u8
-#EXTINF:-1 tvg-id="166" tvg-name="" tvg-logo="https://i.postimg.cc/vZHgGtp0/Universal-Channel-285.png" group-title="premium",Canal 166
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-75.playlist.m3u8
-#EXTINF:-1 tvg-id="167" tvg-name="" tvg-logo="https://i.postimg.cc/kg1VGtCq/amc-285.png" group-title="premium",Canal 167
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-76.playlist.m3u8
-#EXTINF:-1 tvg-id="168" tvg-name="" tvg-logo="https://i.postimg.cc/zf4VSZ3Q/axn-285.png" group-title="premium",Canal 168
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-77.playlist.m3u8
-#EXTINF:-1 tvg-id="169" tvg-name="" tvg-logo="https://i.postimg.cc/J0L0vNNc/FX-285.png" group-title="premium",Canal 169
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-78.playlist.m3u8
-#EXTINF:-1 tvg-id="170" tvg-name="" tvg-logo="https://i.postimg.cc/HWwV5NmS/tcm-285.png" group-title="premium",Canal 170
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-79.playlist.m3u8
-#EXTINF:-1 tvg-id="171" tvg-name="" tvg-logo="https://i.postimg.cc/jdv23JLP/Bravo-285.png" group-title="premium",Canal 171
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-80.playlist.m3u8
-#EXTINF:-1 tvg-id="172" tvg-name="" tvg-logo="https://i.postimg.cc/dQGSjNML/pluss.webp" group-title="premium",Canal 172
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-109.playlist.m3u8
-#EXTINF:-1 tvg-id="173" tvg-name="" tvg-logo="https://loghi-famosi.com/wp-content/uploads/2020/09/HBO-Simbolo-650x366.jpg" group-title="premium",Canal 173
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-102.playlist.m3u8
-#EXTINF:-1 tvg-id="174" tvg-name="" tvg-logo="https://www.nicepng.com/png/detail/233-2333069_hbo-signature-logo-png.png" group-title="premium",Canal 174
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-107.playlist.m3u8
-#EXTINF:-1 tvg-id="175" tvg-name="" tvg-logo="https://logodix.com/logo/789117.jpg" group-title="premium",Canal 175
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-101.playlist.m3u8
-#EXTINF:-1 tvg-id="176" tvg-name="" tvg-logo="https://focalizando.com.br/sites/default/files/inline-images/Hbomundi.webp" group-title="premium",Canal 176
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-110.playlist.m3u8
-#EXTINF:-1 tvg-id="177" tvg-name="" tvg-logo="https://i.postimg.cc/63tB52n0/pop.png" group-title="premium",Canal 177
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-108.playlist.m3u8
-#EXTINF:-1 tvg-id="178" tvg-name="" tvg-logo="https://focalizando.com.br/sites/default/files/inline-images/hbo-xtreme.webp" group-title="premium",Canal 178
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-103.playlist.m3u8
-#EXTINF:-1 tvg-id="179" tvg-name="" tvg-logo="https://png.pngitem.com/pimgs/s/653-6538228_hbo-2-hd-logo-png-transparent-png.png" group-title="premium",Canal 179
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-105.playlist.m3u8
-#EXTINF:-1 tvg-id="180" tvg-name="Evento 1" tvg-logo="https://i.postimg.cc/BQqDVChS/Black_and_Green_Simple_Business_Youtube_Thumbnail.png" group-title="deportes",Evento 1
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-01.playlist.m3u8
-#EXTINF:-1 tvg-id="181" tvg-name="Evento 2" tvg-logo="https://i.postimg.cc/BQqDVChS/Black_and_Green_Simple_Business_Youtube_Thumbnail.png" group-title="deportes",Evento 2
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-02.playlist.m3u8
-#EXTINF:-1 tvg-id="182" tvg-name="Evento 3" tvg-logo="https://i.postimg.cc/BQqDVChS/Black_and_Green_Simple_Business_Youtube_Thumbnail.png" group-title="deportes",Evento 3
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-03.playlist.m3u8
-#EXTINF:-1 tvg-id="183" tvg-name="Evento 4" tvg-logo="https://i.postimg.cc/BQqDVChS/Black_and_Green_Simple_Business_Youtube_Thumbnail.png" group-title="deportes",Evento 4
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-04.playlist.m3u8
-#EXTINF:-1 tvg-id="184" tvg-name="Evento 5" tvg-logo="https://i.postimg.cc/BQqDVChS/Black_and_Green_Simple_Business_Youtube_Thumbnail.png" group-title="deportes",Evento 5
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-05.playlist.m3u8
-#EXTINF:-1 tvg-id="185" tvg-name="Evento 6" tvg-logo="https://i.postimg.cc/BQqDVChS/Black_and_Green_Simple_Business_Youtube_Thumbnail.png" group-title="deportes",Evento 6
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-06.playlist.m3u8
-#EXTINF:-1 tvg-id="186" tvg-name="" tvg-logo="https://i.postimg.cc/YCjrHFz1/tycsports.png" group-title="deportes",Canal 186
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-90.playlist.m3u8
-#EXTINF:-1 tvg-id="187" tvg-name="" tvg-logo="https://i.postimg.cc/g2rzWhH9/foxsports.png" group-title="deportes",Canal 187
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-91.playlist.m3u8
-#EXTINF:-1 tvg-id="188" tvg-name="" tvg-logo="https://i.postimg.cc/GhXLVKGh/foxsports3.png" group-title="deportes",Canal 188
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-92.playlist.m3u8
-#EXTINF:-1 tvg-id="189" tvg-name="" tvg-logo="https://i.postimg.cc/sg1jrW9k/foxsports2.png" group-title="deportes",Canal 189
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-93.playlist.m3u8
-#EXTINF:-1 tvg-id="190" tvg-name="" tvg-logo="https://i.postimg.cc/6pTWXZf3/espn.png" group-title="deportes",Canal 190
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-94.playlist.m3u8
-#EXTINF:-1 tvg-id="191" tvg-name="" tvg-logo="https://i.postimg.cc/kgDJmSvX/espn4.png" group-title="deportes",Canal 191
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-95.playlist.m3u8
-#EXTINF:-1 tvg-id="192" tvg-name="" tvg-logo="https://i.postimg.cc/3xW8TGFx/espn3.png" group-title="deportes",Canal 192
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-96.playlist.m3u8
-#EXTINF:-1 tvg-id="193" tvg-name="" tvg-logo="https://i.postimg.cc/sg1jrW42/espn2.png" group-title="deportes",Canal 193
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-97.playlist.m3u8
-#EXTINF:-1 tvg-id="194" tvg-name="" tvg-logo="https://i.postimg.cc/134mQFrm/espn5.png" group-title="deportes",Canal 194
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-104.playlist.m3u8
-#EXTINF:-1 tvg-id="195" tvg-name="" tvg-logo="https://i.postimg.cc/bwdyhn9q/espn7.png" group-title="deportes",canal 195
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-106.playlist.m3u8
