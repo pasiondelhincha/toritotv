@@ -52,20 +52,36 @@ http://46.225.94.157/hls/tnt/index.m3u8
 #EXTINF:-1 group-title="Eventos en Vivo" ,TUDN
 http://201.216.147.90:8729/play/a00u
 #EXTINF:-1 group-title="Eventos en Vivo" ,TYC SPORTS
+#EXTM3U
+#EXTINF:0 group-title="COLA TV" ,BI DAO
+https://live05.msdht.app/live/97312754.m3u8
+#EXTINF:0 group-title="COLA TV" ,C2
+https://live05.msdht.app/live/08552895.m3u8
+#EXTINF:0 group-title="COLA TV" ,COCA
+https://live05.msdht.app/live/24561735.m3u8
+#EXTINF:0 group-title="COLA TV" ,COZY
+https://live05.msdht.app/live/87379114.m3u8
+#EXTINF:0 group-title="COLA TV" ,GIA LANG
+https://live05.msdht.app/live/14830711.m3u8
+#EXTINF:0 group-title="COLA TV" ,KHONG DO
+https://live05.msdht.app/live/41943555.m3u8
+#EXTINF:0 group-title="COLA TV" ,MOUNTAIN DEW
+https://live05.msdht.app/live/87547578.m3u8
+#EXTINF:0 group-title="COLA TV" ,OLONG
+https://live05.msdht.app/live/97312754.m3u8
+#EXTINF:0 group-title="COLA TV" ,PEPSI
+https://live05.msdht.app/live/43612277.m3u8
+#EXTINF:0 group-title="COLA TV" ,POCARI
+https://live05.msdht.app/live/19919577.m3u8
+#EXTINF:0 group-title="COLA TV" ,RED BULL
+https://live05.msdht.app/live/68848594.m3u8
+#EXTINF:0 group-title="COLA TV" ,REVIVE
+https://live05.msdht.app/live/33982309.m3u8
+#EXTINF:0 group-title="COLA TV" ,SODA
+https://live05.msdht.app/live/02456966.m3u8
+#EXTINF:0 group-title="COLA TV" ,SPRITE
+https://live05.msdht.app/live/90725470.m3u8
+#EXTINF:0 group-title="COLA TV" ,STING
+https://live05.msdht.app/live/14707124.m3u8
 http://200.112.174.230/mtcast_tychd/mpegts
-group,COLA TV
-ext,BI DAO,https://live05.msdht.app/live/97312754.m3u8
-ext,C2,https://live05.msdht.app/live/08552895.m3u8
-ext,COCA,https://live05.msdht.app/live/24561735.m3u8
-ext,COZY,https://live05.msdht.app/live/87379114.m3u8
-ext,GIA LANG,https://live05.msdht.app/live/14830711.m3u8
-ext,KHONG DO,https://live05.msdht.app/live/41943555.m3u8
-ext,MOUNTAIN DEW,https://live05.msdht.app/live/87547578.m3u8
-ext,OLONG,https://live05.msdht.app/live/97312754.m3u8
-ext,PEPSI,https://live05.msdht.app/live/43612277.m3u8
-ext,POCARI,https://live05.msdht.app/live/19919577.m3u8
-ext,RED BULL,https://live05.msdht.app/live/68848594.m3u8
-ext,REVIVE,https://live05.msdht.app/live/33982309.m3u8
-ext,SODA,https://live05.msdht.app/live/02456966.m3u8
-ext,SPRITE,https://live05.msdht.app/live/90725470.m3u8
-ext,STING,https://live05.msdht.app/live/14707124.m3u8
+
