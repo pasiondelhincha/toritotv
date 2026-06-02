@@ -28,7 +28,7 @@ http://200.112.174.230/mtcast_espnpremiumhd/mpegts
 #EXTINF:0 group-title="Eventos en Vivo" ,ESPN PREMIUM HD 02
 http://46.225.94.157/hls/espn/index.m3u8
 #EXTINF:-1 group-title="Eventos en Vivo" ,EVENTOS 01
-https://live05.msdht.app/live/90725470.m3u8
+https://live05.msdht.app/live/14830711.m3u8
 #EXTINF:0 group-title="Eventos en Vivo" ,EVENTOS 02
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-02.playlist.m3u8
 #EXTINF:0 group-title="Eventos en Vivo" ,EVENTOS 03
