@@ -2,13 +2,15 @@
 #EXTINF:-1 group-title="Eventos en Vivo" ,DSPORTS
 https://tk0hz.envivoslatam.org/dsports/tracks-v1a1/mono.m3u8?ip=186.19.2.40&token=cda29ca9557dbe0faa229c14c28de4480ae2d9f5-0a-1780881701-1780827701
 #EXTINF:0 group-title="Eventos en Vivo" ,DSPORTS +
-http://domestipo1.online:80/Luisd7788$/v7kKThHW7d/592039.ts
+http://181.66.249.25:8000/play/a0d2/index.m3u8
 #EXTINF:0 group-title="Eventos en Vivo" ,DSPORTS 2
 http://domestipo1.online:80/Luisd7788$/v7kKThHW7d/592038.ts
 #EXTINF:0 group-title="Eventos en Vivo" ,DSPORTS URU
 http://br1.urutelam.com:8073/VTV%20HD%20URUGUAY?u=GONZALOVERON:p=9577263913:server_ip_port=br1.urutelam.com:8073
 #EXTINF:0 group-title="Eventos en Vivo" ,DSPORTS URU 2
 http://br1.urutelam.com:8073/VTV%20URUGUAY?u=GONZALOVERON:p=9577263913:server_ip_port=br1.urutelam.com:8073
+#EXTINF:0 group-title="Eventos en Vivo" ,EL CANAL DEL FUTBOL
+http://elpapanatas.space:8080/Oliver123/Oliver123/166234
 #EXTINF:-1 group-title="Eventos en Vivo" ,ESPN 1 HD
 http://200.112.174.230/mtcast_espnhd/mpegts
 #EXTINF:-1 group-title="Eventos en Vivo" ,ESPN 2 HD
