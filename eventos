@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="Eventos en Vivo" ,DSPORTS
-https://tk0hz.envivoslatam.org/dsports/tracks-v1a1/mono.m3u8?ip=186.19.2.40&token=cda29ca9557dbe0faa229c14c28de4480ae2d9f5-0a-1780881701-1780827701
+https://a2vlca.fubo18.com/dsports/mono.m3u8?token=ea490c184ba6a06db5659e9b2d75faada28d3567-76-1782017403-1781999403
 #EXTINF:0 group-title="Eventos en Vivo" ,DSPORTS +
 http://181.66.249.25:8000/play/a0d2/index.m3u8
 #EXTINF:0 group-title="Eventos en Vivo" ,DSPORTS 2
