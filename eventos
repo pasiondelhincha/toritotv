@@ -99,6 +99,8 @@ https://live05.msdht.app/live/02456966.m3u8
 https://live05.msdht.app/live/90725470.m3u8
 #EXTINF:0 group-title="COLA TV" ,STING
 https://live05.msdht.app/live/14707124.m3u8
+#EXTINF:-1 group-title="CANALES",ARENA SPORT 1 BH
+https://nl1.nghk.ai/ArenaSport1BH/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="CANALES",F1 EXCLUSIVO
 http://br1.urutelam.com:8073/F1%20EXCLUSIVO?u=GONZALOVERON:p=9577263913:server_ip_port=br1.urutelam.com:8073
 #EXTINF:-1 group-title="CANALES",Eventos
