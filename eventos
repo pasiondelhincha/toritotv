@@ -181,6 +181,459 @@ http://br1.urutelam.com:8073/ESPN%204%20HD%2E?u=GONZALOVERON:p=9577263913:server
 http://br1.urutelam.com:8073/ESPN%206%20HD?u=GONZALOVERON:p=9577263913:server_ip_port=br1.urutelam.com:8073
 #EXTINF:-1 group-title="CANALES",ESPN 5 HD
 http://br1.urutelam.com:8073/ESPN%205%20HD?u=GONZALOVERON:p=9577263913:server_ip_port=br1.urutelam.com:8073
+#EXTM3U
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/yOgmmCy.png",ESPN FHD
+http://play.1list.vip/live/listatvs/controliptv/38413.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/oPzq9zc.png",ESPN FHD H265
+http://play.1list.vip/live/listatvs/controliptv/59096.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/yOgmmCy.png",ESPN  [4K]
+http://play.1list.vip/live/listatvs/controliptv/215398.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/yOgmmCy.png",ESPN 2 FHD
+http://play.1list.vip/live/listatvs/controliptv/38401.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/yOgmmCy.png",ESPN 2 FHD H265
+http://play.1list.vip/live/listatvs/controliptv/59097.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/yOgmmCy.png",ESPN 2  [4K]
+http://play.1list.vip/live/listatvs/controliptv/215399.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/yOgmmCy.png",ESPN 3 FHD
+http://play.1list.vip/live/listatvs/controliptv/41477.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/yOgmmCy.png",ESPN 3 H265
+http://play.1list.vip/live/listatvs/controliptv/62817.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/yOgmmCy.png",ESPN 3 [4K]
+http://play.1list.vip/live/listatvs/controliptv/215400.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/oPzq9zc.png",ESPN 4 H265
+http://play.1list.vip/live/listatvs/controliptv/62859.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/yOgmmCy.png",ESPN 4 FHD
+http://play.1list.vip/live/listatvs/controliptv/63306.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/yOgmmCy.png",ESPN 4 FHD
+http://play.1list.vip/live/listatvs/controliptv/85337.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/yOgmmCy.png",ESPN 4 [4K]
+http://play.1list.vip/live/listatvs/controliptv/215401.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/yOgmmCy.png",ESPN 5 FHD
+http://play.1list.vip/live/listatvs/controliptv/38398.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/oPzq9zc.png",ESPN 5 H265
+http://play.1list.vip/live/listatvs/controliptv/62862.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/yOgmmCy.png",ESPN 6 FHD
+http://play.1list.vip/live/listatvs/controliptv/129624.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/G9nCuZT.png",SporTV
+http://play.1list.vip/live/listatvs/controliptv/37256.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/oPzq9zc.png",SporTV - H265
+http://play.1list.vip/live/listatvs/controliptv/51270.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/wINVzUp.png",SporTV 2
+http://play.1list.vip/live/listatvs/controliptv/37044.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/oPzq9zc.png",SporTV 2 - H265
+http://play.1list.vip/live/listatvs/controliptv/51268.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/wINVzUp.png",SporTV 2 FHD
+http://play.1list.vip/live/listatvs/controliptv/38395.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/oPzq9zc.png",SporTV 2 H265
+http://play.1list.vip/live/listatvs/controliptv/62914.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/wINVzUp.png",SporTV 2 HD
+http://play.1list.vip/live/listatvs/controliptv/36943.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/wINVzUp.png",SporTV 2 [4K]
+http://play.1list.vip/live/listatvs/controliptv/215402.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/Srf3e8w.png",SporTV 3
+http://play.1list.vip/live/listatvs/controliptv/37006.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/Srf3e8w.png",SporTV 3 FHD
+http://play.1list.vip/live/listatvs/controliptv/38394.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/oPzq9zc.png",SporTV 3 H265
+http://play.1list.vip/live/listatvs/controliptv/62916.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/Srf3e8w.png",SporTV 3 HD
+http://play.1list.vip/live/listatvs/controliptv/36942.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/Srf3e8w.png",SporTV 3 [4K]
+http://play.1list.vip/live/listatvs/controliptv/215403.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/SMrn7Gf.png",SporTV 4 HD
+http://play.1list.vip/live/listatvs/controliptv/127664.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/G9nCuZT.png",SporTV FHD
+http://play.1list.vip/live/listatvs/controliptv/38419.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/oPzq9zc.png",SporTV H265
+http://play.1list.vip/live/listatvs/controliptv/62918.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/G9nCuZT.png",SporTV HD
+http://play.1list.vip/live/listatvs/controliptv/37255.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/G9nCuZT.png",SporTV [4K]
+http://play.1list.vip/live/listatvs/controliptv/40785.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/0hDut9Q.png",Mosaico Premiere FHD
+http://play.1list.vip/live/listatvs/controliptv/74668.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/0hDut9Q.png",Mosaico Premiere HD
+http://play.1list.vip/live/listatvs/controliptv/74669.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/0hDut9Q.png",Premiere 2
+http://play.1list.vip/live/listatvs/controliptv/37060.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/0hDut9Q.png",Premiere 2 FHD
+http://play.1list.vip/live/listatvs/controliptv/38410.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/0hDut9Q.png",Premiere 2 H265
+http://play.1list.vip/live/listatvs/controliptv/51259.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/oPzq9zc.png",Premiere 2 H265
+http://play.1list.vip/live/listatvs/controliptv/62895.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/0hDut9Q.png",Premiere 2 HD
+http://play.1list.vip/live/listatvs/controliptv/36952.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/0hDut9Q.png",Premiere 2 [4K]
+http://play.1list.vip/live/listatvs/controliptv/215405.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/0hDut9Q.png",Premiere 3
+http://play.1list.vip/live/listatvs/controliptv/37059.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/0hDut9Q.png",Premiere 3 FHD
+http://play.1list.vip/live/listatvs/controliptv/38409.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/0hDut9Q.png",Premiere 3 H265
+http://play.1list.vip/live/listatvs/controliptv/51260.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/0hDut9Q.png",Premiere 3 HD
+http://play.1list.vip/live/listatvs/controliptv/36951.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/0hDut9Q.png",Premiere 4
+http://play.1list.vip/live/listatvs/controliptv/37058.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/0hDut9Q.png",Premiere 4 FHD
+http://play.1list.vip/live/listatvs/controliptv/38408.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/oPzq9zc.png",Premiere 4 H265
+http://play.1list.vip/live/listatvs/controliptv/51261.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/0hDut9Q.png",Premiere 4 HD
+http://play.1list.vip/live/listatvs/controliptv/36950.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/0hDut9Q.png",Premiere 5
+http://play.1list.vip/live/listatvs/controliptv/37057.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/0hDut9Q.png",Premiere 5 FHD
+http://play.1list.vip/live/listatvs/controliptv/38407.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/oPzq9zc.png",Premiere 5 H265
+http://play.1list.vip/live/listatvs/controliptv/51262.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/0hDut9Q.png",Premiere 5 HD
+http://play.1list.vip/live/listatvs/controliptv/36949.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/0hDut9Q.png",Premiere 6
+http://play.1list.vip/live/listatvs/controliptv/37056.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/0hDut9Q.png",Premiere 6 FHD
+http://play.1list.vip/live/listatvs/controliptv/38406.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/oPzq9zc.png",Premiere 6 H265
+http://play.1list.vip/live/listatvs/controliptv/51263.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/0hDut9Q.png",Premiere 6 HD
+http://play.1list.vip/live/listatvs/controliptv/36906.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/0hDut9Q.png",Premiere 7
+http://play.1list.vip/live/listatvs/controliptv/37017.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/0hDut9Q.png",Premiere 7 FHD
+http://play.1list.vip/live/listatvs/controliptv/38405.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/oPzq9zc.png",Premiere 7 FHD H265
+http://play.1list.vip/live/listatvs/controliptv/91502.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/oPzq9zc.png",Premiere 7 H265
+http://play.1list.vip/live/listatvs/controliptv/62841.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/0hDut9Q.png",Premiere 7 HD
+http://play.1list.vip/live/listatvs/controliptv/36905.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/0hDut9Q.png",Premiere 8
+http://play.1list.vip/live/listatvs/controliptv/54120.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/0hDut9Q.png",Premiere 8 HD
+http://play.1list.vip/live/listatvs/controliptv/64657.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/0hDut9Q.png",Premiere Clubes
+http://play.1list.vip/live/listatvs/controliptv/37016.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/0hDut9Q.png",Premiere Clubes FHD
+http://play.1list.vip/live/listatvs/controliptv/38411.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/oPzq9zc.png",Premiere Clubes H265
+http://play.1list.vip/live/listatvs/controliptv/51265.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/oPzq9zc.png",Premiere Clubes H265
+http://play.1list.vip/live/listatvs/controliptv/62900.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/0hDut9Q.png",Premiere Clubes HD
+http://play.1list.vip/live/listatvs/controliptv/36948.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/0hDut9Q.png",Premiere Clubes [4K]
+http://play.1list.vip/live/listatvs/controliptv/40783.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/UA5Txbm.png",Copa do Brasil Prime Video 1 (A)
+http://play.1list.vip/live/listatvs/controliptv/107423.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/UA5Txbm.png",Copa do Brasil Prime Video 1 (B)
+http://play.1list.vip/live/listatvs/controliptv/86455.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/UA5Txbm.png",Copa do Brasil Prime Video 2 (A)
+http://play.1list.vip/live/listatvs/controliptv/107424.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/UA5Txbm.png",Copa do Brasil Prime Video 2 (B)
+http://play.1list.vip/live/listatvs/controliptv/86456.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/UA5Txbm.png",Copa do Brasil Prime Video 3 (A)
+http://play.1list.vip/live/listatvs/controliptv/112425.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/UA5Txbm.png",Copa do Brasil Prime Video 3 (B)
+http://play.1list.vip/live/listatvs/controliptv/87777.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/UA5Txbm.png",Copa do Brasil Prime Video 4 (A)
+http://play.1list.vip/live/listatvs/controliptv/112426.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/UA5Txbm.png",Copa do Brasil Prime Video 5 (A)
+http://play.1list.vip/live/listatvs/controliptv/112427.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/8mInTOX.png",Disney+ 1 HD (B)
+http://play.1list.vip/live/listatvs/controliptv/176744.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/8mInTOX.png",Disney+ 2 HD (B)
+http://play.1list.vip/live/listatvs/controliptv/176743.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/8mInTOX.png",Disney+ 3 (B)
+http://play.1list.vip/live/listatvs/controliptv/176742.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/8mInTOX.png",Disney+ 4 (B)
+http://play.1list.vip/live/listatvs/controliptv/176741.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/8mInTOX.png",Disney+ 5 (B)
+http://play.1list.vip/live/listatvs/controliptv/176740.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/8mInTOX.png",Disney+ HD (A)
+http://play.1list.vip/live/listatvs/controliptv/82245.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/8mInTOX.png",Disney+ HD 2 (A)
+http://play.1list.vip/live/listatvs/controliptv/82510.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/8mInTOX.png",Disney+ HD 3 (A)
+http://play.1list.vip/live/listatvs/controliptv/82512.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/8mInTOX.png",Disney+ HD 4 (A)
+http://play.1list.vip/live/listatvs/controliptv/85329.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/8mInTOX.png",Disney+ HD 5 (A)
+http://play.1list.vip/live/listatvs/controliptv/85330.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/8mInTOX.png",Disney+ HD 6 (A)
+http://play.1list.vip/live/listatvs/controliptv/89548.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/Mf5rO6u.png",Apple TV+ 01 (B)
+http://play.1list.vip/live/listatvs/controliptv/131927.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/Mf5rO6u.png",Apple TV+ 02 (B)
+http://play.1list.vip/live/listatvs/controliptv/131928.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/mtypMWf.png",BJJ STARS
+http://play.1list.vip/live/listatvs/controliptv/91708.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/G9l0GKU.png",BRTVMAX
+http://play.1list.vip/live/listatvs/controliptv/80922.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/G9l0GKU.png",BRTVMAX 01
+http://play.1list.vip/live/listatvs/controliptv/63401.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/G9l0GKU.png",BRTVMAX 02
+http://play.1list.vip/live/listatvs/controliptv/80919.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/vg28cUy.png",BandPlay (01)
+http://play.1list.vip/live/listatvs/controliptv/183078.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/vg28cUy.png",BandPlay (02)
+http://play.1list.vip/live/listatvs/controliptv/183079.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/EjpU9TY.png",BandSports
+http://play.1list.vip/live/listatvs/controliptv/37125.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/EjpU9TY.png",BandSports FHD
+http://play.1list.vip/live/listatvs/controliptv/42900.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/oPzq9zc.png",BandSports H265
+http://play.1list.vip/live/listatvs/controliptv/62798.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/EjpU9TY.png",BandSports HD
+http://play.1list.vip/live/listatvs/controliptv/36989.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/EjpU9TY.png",BandSports [4K]
+http://play.1list.vip/live/listatvs/controliptv/215407.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/QUX3tNU.png",Campeonato Alemão 1 (B)
+http://play.1list.vip/live/listatvs/controliptv/87603.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/QUX3tNU.png",Campeonato Alemão 2 (B)
+http://play.1list.vip/live/listatvs/controliptv/87604.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/QUX3tNU.png",Campeonato Alemão 3 (B)
+http://play.1list.vip/live/listatvs/controliptv/87605.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/QUX3tNU.png",Campeonato Alemão 4 (B)
+http://play.1list.vip/live/listatvs/controliptv/87606.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/QUX3tNU.png",Campeonato Alemão 5 (B)
+http://play.1list.vip/live/listatvs/controliptv/87607.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/w0ck7rj.png",Canal Goat 01 (A)
+http://play.1list.vip/live/listatvs/controliptv/133438.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/w0ck7rj.png",Canal Goat 01 (B)
+http://play.1list.vip/live/listatvs/controliptv/133396.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/w0ck7rj.png",Canal Goat 01 (C)
+http://play.1list.vip/live/listatvs/controliptv/168817.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/w0ck7rj.png",Canal Goat 02 (A)
+http://play.1list.vip/live/listatvs/controliptv/169669.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/w0ck7rj.png",Canal Goat 02 (B)
+http://play.1list.vip/live/listatvs/controliptv/176674.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/w0ck7rj.png",Canal Goat 02 (C)
+http://play.1list.vip/live/listatvs/controliptv/176676.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/w0ck7rj.png",Canal Goat 03 (A)
+http://play.1list.vip/live/listatvs/controliptv/169670.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/w0ck7rj.png",Canal Goat 03 (B)
+http://play.1list.vip/live/listatvs/controliptv/176675.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/w0ck7rj.png",Canal Goat 04 (A)
+http://play.1list.vip/live/listatvs/controliptv/169671.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/e6rjfCG.png",Canal de Carros (Eventos)
+http://play.1list.vip/live/listatvs/controliptv/168142.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/hFRSGBR.png",Canal de Lutas (Eventos)
+http://play.1list.vip/live/listatvs/controliptv/115356.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/LAvZQIr.png",Canal de Rodeios e Vaquejadas (Eventos)
+http://play.1list.vip/live/listatvs/controliptv/133435.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/MtDBDSW.png",Canal do Poker
+http://play.1list.vip/live/listatvs/controliptv/111284.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/gjwZQZa.png",Canal do Surf (Eventos)
+http://play.1list.vip/live/listatvs/controliptv/121562.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/4M3ZSeN.png",Canal do Volei (Eventos)
+http://play.1list.vip/live/listatvs/controliptv/168143.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/ufHPO6R.png",CazéTV 01 (A)
+http://play.1list.vip/live/listatvs/controliptv/131929.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/ufHPO6R.png",CazéTV 01 (B)
+http://play.1list.vip/live/listatvs/controliptv/100769.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/ufHPO6R.png",CazéTV 02 (A)
+http://play.1list.vip/live/listatvs/controliptv/176670.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/ufHPO6R.png",CazéTV 02 (B)
+http://play.1list.vip/live/listatvs/controliptv/176668.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/ufHPO6R.png",CazéTV 03 (A)
+http://play.1list.vip/live/listatvs/controliptv/176671.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/ufHPO6R.png",CazéTV 03 (B)
+http://play.1list.vip/live/listatvs/controliptv/176669.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/ufHPO6R.png",CazéTV 04 (B)
+http://play.1list.vip/live/listatvs/controliptv/168818.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/ufHPO6R.png",CazéTV 05 (B)
+http://play.1list.vip/live/listatvs/controliptv/176673.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/ufHPO6R.png",CazéTV 06 (B)
+http://play.1list.vip/live/listatvs/controliptv/176672.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/ufHPO6R.png",CazéTV 07 (B)
+http://play.1list.vip/live/listatvs/controliptv/216785.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/ufHPO6R.png",CazéTV 08 (B)
+http://play.1list.vip/live/listatvs/controliptv/216786.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/ufHPO6R.png",CazéTV 09 (B)
+http://play.1list.vip/live/listatvs/controliptv/216787.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/ufHPO6R.png",CazéTV 10 (B)
+http://play.1list.vip/live/listatvs/controliptv/216788.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/YTCL5so.png",Combate
+http://play.1list.vip/live/listatvs/controliptv/37119.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/YTCL5so.png",Combate FHD
+http://play.1list.vip/live/listatvs/controliptv/38428.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/YTCL5so.png",Combate H265
+http://play.1list.vip/live/listatvs/controliptv/50536.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/YTCL5so.png",Combate HD
+http://play.1list.vip/live/listatvs/controliptv/36986.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/oPzq9zc.png",ESPN 5 - H265
+http://play.1list.vip/live/listatvs/controliptv/50545.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/RBZYQfH.png",Eleven Sports Channel 1 (A)
+http://play.1list.vip/live/listatvs/controliptv/81007.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/RBZYQfH.png",Eleven Sports Channel 10 (A)
+http://play.1list.vip/live/listatvs/controliptv/81016.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/RBZYQfH.png",Eleven Sports Channel 2 (A)
+http://play.1list.vip/live/listatvs/controliptv/81008.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/RBZYQfH.png",Eleven Sports Channel 5 (A)
+http://play.1list.vip/live/listatvs/controliptv/81011.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/RBZYQfH.png",Eleven Sports Channel 6 (A)
+http://play.1list.vip/live/listatvs/controliptv/81012.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/RBZYQfH.png",Eleven Sports Channel 7 (A)
+http://play.1list.vip/live/listatvs/controliptv/81013.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/RBZYQfH.png",Eleven Sports Channel 8 (A)
+http://play.1list.vip/live/listatvs/controliptv/81014.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/RBZYQfH.png",Eleven Sports Channel 9 (A)
+http://play.1list.vip/live/listatvs/controliptv/81015.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/7RZoyMq.png",Esporte Interativo HD
+http://play.1list.vip/live/listatvs/controliptv/61879.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/BAfXB86.png",FIFA+ 01  (B)
+http://play.1list.vip/live/listatvs/controliptv/121569.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/BAfXB86.png",FIFA+ 01 (A)
+http://play.1list.vip/live/listatvs/controliptv/216773.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/BAfXB86.png",FIFA+ 02  (B)
+http://play.1list.vip/live/listatvs/controliptv/121568.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/BAfXB86.png",FIFA+ 02 (A)
+http://play.1list.vip/live/listatvs/controliptv/216774.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/BAfXB86.png",FIFA+ 03  (B)
+http://play.1list.vip/live/listatvs/controliptv/121567.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/BXdXYED.png",FITE+ Lutas
+http://play.1list.vip/live/listatvs/controliptv/162989.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/zuh9hml.png",Festa do Peão de Barretos
+http://play.1list.vip/live/listatvs/controliptv/81847.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/W8GoVrw.png",Fight Box HD
+http://play.1list.vip/live/listatvs/controliptv/89971.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/ovFL7wa.png",Fish TV
+http://play.1list.vip/live/listatvs/controliptv/37103.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/ovFL7wa.png",Fish TV FHD
+http://play.1list.vip/live/listatvs/controliptv/41478.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/ovFL7wa.png",Fish TV HD
+http://play.1list.vip/live/listatvs/controliptv/42911.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/vNeHjWF.png",FlaTV
+http://play.1list.vip/live/listatvs/controliptv/78160.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/Bx0rL4y.png",Flograppling (Jiu-Jitsu)
+http://play.1list.vip/live/listatvs/controliptv/112050.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/Bx0rL4y.png",Flograppling 1 (B)
+http://play.1list.vip/live/listatvs/controliptv/91491.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/Bx0rL4y.png",Flograppling 2 (B)
+http://play.1list.vip/live/listatvs/controliptv/121566.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/Bx0rL4y.png",Flograppling 3 (B)
+http://play.1list.vip/live/listatvs/controliptv/121570.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/i05eE2n.png",Fox App
+http://play.1list.vip/live/listatvs/controliptv/70381.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/mluoXeO.png",Furacão TV (A)
+http://play.1list.vip/live/listatvs/controliptv/87413.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/mluoXeO.png",Furacão TV (B)
+http://play.1list.vip/live/listatvs/controliptv/87415.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-2-2.png",Fórmula 1 TV
+http://play.1list.vip/live/listatvs/controliptv/78760.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/AOIG30M.png",GE Fast
+http://play.1list.vip/live/listatvs/controliptv/100712.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/nPeSKBr.png",Kingpyn Boxing - Luta Whindersson Nunes 1
+http://play.1list.vip/live/listatvs/controliptv/115355.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/wTLFv06.png",MLS Soccer League
+http://play.1list.vip/live/listatvs/controliptv/131762.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/KmXbAnO.png",MMA TV
+http://play.1list.vip/live/listatvs/controliptv/132016.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/8rSV3N5.png",OneFootball 1 (A)
+http://play.1list.vip/live/listatvs/controliptv/100716.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/8rSV3N5.png",OneFootball 1 (B)
+http://play.1list.vip/live/listatvs/controliptv/133502.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/8rSV3N5.png",OneFootball 1 (C)
+http://play.1list.vip/live/listatvs/controliptv/168807.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/8rSV3N5.png",OneFootball 10 (B)
+http://play.1list.vip/live/listatvs/controliptv/176682.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/8rSV3N5.png",OneFootball 10 (C)
+http://play.1list.vip/live/listatvs/controliptv/168816.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/8rSV3N5.png",OneFootball 2 (A)
+http://play.1list.vip/live/listatvs/controliptv/110741.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/8rSV3N5.png",OneFootball 2 (B)
+http://play.1list.vip/live/listatvs/controliptv/133503.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/8rSV3N5.png",OneFootball 2 (C)
+http://play.1list.vip/live/listatvs/controliptv/168808.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/8rSV3N5.png",OneFootball 3 (A)
+http://play.1list.vip/live/listatvs/controliptv/110742.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/8rSV3N5.png",OneFootball 3 (B)
+http://play.1list.vip/live/listatvs/controliptv/133504.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/8rSV3N5.png",OneFootball 3 (C)
+http://play.1list.vip/live/listatvs/controliptv/168809.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/8rSV3N5.png",OneFootball 4 (A)
+http://play.1list.vip/live/listatvs/controliptv/110743.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/8rSV3N5.png",OneFootball 4 (B)
+http://play.1list.vip/live/listatvs/controliptv/133505.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/8rSV3N5.png",OneFootball 4 (C)
+http://play.1list.vip/live/listatvs/controliptv/168810.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/8rSV3N5.png",OneFootball 5 (B)
+http://play.1list.vip/live/listatvs/controliptv/176677.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/8rSV3N5.png",OneFootball 5 (C)
+http://play.1list.vip/live/listatvs/controliptv/168811.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/8rSV3N5.png",OneFootball 6 (B)
+http://play.1list.vip/live/listatvs/controliptv/176678.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/8rSV3N5.png",OneFootball 6 (C)
+http://play.1list.vip/live/listatvs/controliptv/168812.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/8rSV3N5.png",OneFootball 7 (B)
+http://play.1list.vip/live/listatvs/controliptv/176679.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/8rSV3N5.png",OneFootball 7 (C)
+http://play.1list.vip/live/listatvs/controliptv/168813.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/8rSV3N5.png",OneFootball 8 (B)
+http://play.1list.vip/live/listatvs/controliptv/176680.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/8rSV3N5.png",OneFootball 8 (C)
+http://play.1list.vip/live/listatvs/controliptv/168814.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/8rSV3N5.png",OneFootball 9 (B)
+http://play.1list.vip/live/listatvs/controliptv/176681.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/8rSV3N5.png",OneFootball 9 (C)
+http://play.1list.vip/live/listatvs/controliptv/168815.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/tsJFtlb.png",Power Slap
+http://play.1list.vip/live/listatvs/controliptv/121564.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/ImVSrJh.png",Rai 01
+http://play.1list.vip/live/listatvs/controliptv/71888.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/QX4n82z.png",SK Fight
+http://play.1list.vip/live/listatvs/controliptv/92273.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://logodownload.org/wp-content/uploads/2017/02/coritiba-logo-escudo.png",TV Coxa HD
+http://play.1list.vip/live/listatvs/controliptv/80215.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/voSakBr.png",TV NSPORTS 1 (A)
+http://play.1list.vip/live/listatvs/controliptv/81004.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/voSakBr.png",TV NSPORTS 2 (A)
+http://play.1list.vip/live/listatvs/controliptv/81005.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/voSakBr.png",TV NSPORTS 3 (A)
+http://play.1list.vip/live/listatvs/controliptv/81006.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/GVyCH7T.png",UFC Fight Pass (A)
+http://play.1list.vip/live/listatvs/controliptv/100815.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/GVyCH7T.png",UFC Fight Pass 1 (C)
+http://play.1list.vip/live/listatvs/controliptv/177137.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/GVyCH7T.png",UFC Fight Pass 1 FHD (B)
+http://play.1list.vip/live/listatvs/controliptv/216547.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/GVyCH7T.png",UFC Fight Pass 1 HD (B)
+http://play.1list.vip/live/listatvs/controliptv/94688.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/GVyCH7T.png",UFC Fight Pass 1 HD (B)
+http://play.1list.vip/live/listatvs/controliptv/216546.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/GVyCH7T.png",UFC Fight Pass 1 SD (B)
+http://play.1list.vip/live/listatvs/controliptv/216545.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/GVyCH7T.png",UFC Fight Pass 2 (C)
+http://play.1list.vip/live/listatvs/controliptv/177138.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/GVyCH7T.png",UFC Fight Pass 2 FHD (B)
+http://play.1list.vip/live/listatvs/controliptv/216550.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/GVyCH7T.png",UFC Fight Pass 2 HD (B)
+http://play.1list.vip/live/listatvs/controliptv/116870.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/GVyCH7T.png",UFC Fight Pass 2 HD (B)
+http://play.1list.vip/live/listatvs/controliptv/216549.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/GVyCH7T.png",UFC Fight Pass 2 SD (B)
+http://play.1list.vip/live/listatvs/controliptv/216548.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/GVyCH7T.png",UFC Fight Pass 3 (C)
+http://play.1list.vip/live/listatvs/controliptv/177139.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/GVyCH7T.png",UFC Fight Pass 3 HD (B)
+http://play.1list.vip/live/listatvs/controliptv/92272.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/GVyCH7T.png",UFC Fight Pass FHD (B)
+http://play.1list.vip/live/listatvs/controliptv/177136.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/GVyCH7T.png",UFC Fight Pass HD (B)
+http://play.1list.vip/live/listatvs/controliptv/177135.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/GVyCH7T.png",UFC Fight Pass SD (B)
+http://play.1list.vip/live/listatvs/controliptv/177134.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/5FmSlAU.png",Urban Sports HD
+http://play.1list.vip/live/listatvs/controliptv/121557.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/zFSvvdV.png",Vôlei Brasil
+http://play.1list.vip/live/listatvs/controliptv/91906.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/6C087m6.png",Woohoo Esportes FHD
+http://play.1list.vip/live/listatvs/controliptv/139185.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/6C087m6.png",Woohoo Esportes HD
+http://play.1list.vip/live/listatvs/controliptv/139184.ts
+#EXTINF:-1 group-title="CONTROL IPTV" tvg-logo="https://i.imgur.com/CoOokWM.png",Zapping Sports HD
+http://play.1list.vip/live/listatvs/controliptv/36999.ts
 #EXTINF:-1 group-title="CANALES",VTV PLUS
 http://br1.urutelam.com:8073/VTV%20PLUS?u=GONZALOVERON:p=9577263913:server_ip_port=br1.urutelam.com:8073
 
