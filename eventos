@@ -99,5 +99,70 @@ https://live05.msdht.app/live/02456966.m3u8
 https://live05.msdht.app/live/90725470.m3u8
 #EXTINF:0 group-title="COLA TV" ,STING
 https://live05.msdht.app/live/14707124.m3u8
+#EXTM3U
+#EXTINF:-1 group-title="CANALES",F1 EXCLUSIVO
+http://br1.urutelam.com:8073/F1%20EXCLUSIVO?u=GONZALOVERON:p=9577263913:server_ip_port=br1.urutelam.com:8073
+#EXTINF:-1 group-title="CANALES",Eventos
+http://br1.urutelam.com:8073/Eventos%20?u=GONZALOVERON:p=9577263913:server_ip_port=br1.urutelam.com:8073
+#EXTINF:-1 group-title="CANALES",Eventos 2
+http://br1.urutelam.com:8073/Eventos%202?u=GONZALOVERON:p=9577263913:server_ip_port=br1.urutelam.com:8073
+#EXTINF:-1 group-title="CANALES",Espn Premium HD.
+http://br1.urutelam.com:8073/Espn%20Premium%20HD%2E?u=GONZALOVERON:p=9577263913:server_ip_port=br1.urutelam.com:8073
+#EXTINF:-1 group-title="CANALES",TNT Sports HD.
+http://br1.urutelam.com:8073/TNT%20Sports%20HD%2E?u=GONZALOVERON:p=9577263913:server_ip_port=br1.urutelam.com:8073
+#EXTINF:-1 group-title="CANALES",TyC Sports HD.
+http://br1.urutelam.com:8073/TyC%20Sports%20HD%2E?u=GONZALOVERON:p=9577263913:server_ip_port=br1.urutelam.com:8073
+#EXTINF:-1 group-title="CANALES",Fox Sports 2 HD.
+http://br1.urutelam.com:8073/Fox%20Sports%202%20HD%2E?u=GONZALOVERON:p=9577263913:server_ip_port=br1.urutelam.com:8073
+#EXTINF:-1 group-title="CANALES",Fox Sports 3 HD.
+http://br1.urutelam.com:8073/Fox%20Sports%203%20HD%2E?u=GONZALOVERON:p=9577263913:server_ip_port=br1.urutelam.com:8073
+#EXTINF:-1 group-title="CANALES",Fox Sports HD.
+http://br1.urutelam.com:8073/Fox%20Sports%20HD%2E?u=GONZALOVERON:p=9577263913:server_ip_port=br1.urutelam.com:8073
+#EXTINF:-1 group-title="CANALES",ESPN  HD.
+http://br1.urutelam.com:8073/ESPN%20%20HD%2E?u=GONZALOVERON:p=9577263913:server_ip_port=br1.urutelam.com:8073
+#EXTINF:-1 group-title="CANALES",ESPN + HD
+http://br1.urutelam.com:8073/ESPN%20%2B%20HD?u=GONZALOVERON:p=9577263913:server_ip_port=br1.urutelam.com:8073
+#EXTINF:-1 group-title="CANALES",ESPN 2
+http://br1.urutelam.com:8073/ESPN%202?u=GONZALOVERON:p=9577263913:server_ip_port=br1.urutelam.com:8073
+#EXTINF:-1 group-title="CANALES",ESPN 2 HD.
+http://br1.urutelam.com:8073/ESPN%202%20HD%2E?u=GONZALOVERON:p=9577263913:server_ip_port=br1.urutelam.com:8073
+#EXTINF:-1 group-title="CANALES",ESPN 3 HD.
+http://br1.urutelam.com:8073/ESPN%203%20HD%2E?u=GONZALOVERON:p=9577263913:server_ip_port=br1.urutelam.com:8073
+#EXTINF:-1 group-title="CANALES",America Sport
+http://br1.urutelam.com:8073/America%20Sport?u=GONZALOVERON:p=9577263913:server_ip_port=br1.urutelam.com:8073
+#EXTINF:-1 group-title="CANALES",Deportv sd
+http://br1.urutelam.com:8073/Deportv%20sd?u=GONZALOVERON:p=9577263913:server_ip_port=br1.urutelam.com:8073
+#EXTINF:-1 group-title="CANALES",Golf Channel.
+http://br1.urutelam.com:8073/Golf%20Channel%2E?u=GONZALOVERON:p=9577263913:server_ip_port=br1.urutelam.com:8073
+#EXTINF:-1 group-title="CANALES",Tigo Sports HD
+http://br1.urutelam.com:8073/Tigo%20Sports%20HD?u=GONZALOVERON:p=9577263913:server_ip_port=br1.urutelam.com:8073
+#EXTINF:-1 group-title="CANALES",FUTV
+http://br1.urutelam.com:8073/FUTV?u=GONZALOVERON:p=9577263913:server_ip_port=br1.urutelam.com:8073
+#EXTINF:-1 group-title="CANALES",Latin America Sport
+http://br1.urutelam.com:8073/Latin%20America%20Sport?u=GONZALOVERON:p=9577263913:server_ip_port=br1.urutelam.com:8073
+#EXTINF:-1 group-title="CANALES",Home Garden Latino
+http://br1.urutelam.com:8073/Home%20Garden%20Latino?u=GONZALOVERON:p=9577263913:server_ip_port=br1.urutelam.com:8073
+#EXTINF:-1 group-title="CANALES",PXTV
+http://br1.urutelam.com:8073/PXTV?u=GONZALOVERON:p=9577263913:server_ip_port=br1.urutelam.com:8073
+#EXTINF:-1 group-title="CANALES",F.Sport3 Centro America
+http://br1.urutelam.com:8073/F%2ESport3%20Centro%20America?u=GONZALOVERON:p=9577263913:server_ip_port=br1.urutelam.com:8073
+#EXTINF:-1 group-title="CANALES",ESPN CENTRO AMERICA
+http://br1.urutelam.com:8073/ESPN%20CENTRO%20AMERICA?u=GONZALOVERON:p=9577263913:server_ip_port=br1.urutelam.com:8073
+#EXTINF:-1 group-title="CANALES",ESPN 2 CENTRO AMERICA
+http://br1.urutelam.com:8073/ESPN%202%20CENTRO%20AMERICA?u=GONZALOVERON:p=9577263913:server_ip_port=br1.urutelam.com:8073
+#EXTINF:-1 group-title="CANALES",ESPN 3 CENTRO AMERICA
+http://br1.urutelam.com:8073/ESPN%203%20CENTRO%20AMERICA?u=GONZALOVERON:p=9577263913:server_ip_port=br1.urutelam.com:8073
+#EXTINF:-1 group-title="CANALES",Claro Spors 1
+http://br1.urutelam.com:8073/Claro%20Spors%201?u=GONZALOVERON:p=9577263913:server_ip_port=br1.urutelam.com:8073
+#EXTINF:-1 group-title="CANALES",Claro Sports 2
+http://br1.urutelam.com:8073/Claro%20Sports%202?u=GONZALOVERON:p=9577263913:server_ip_port=br1.urutelam.com:8073
+#EXTINF:-1 group-title="CANALES",ESPN 4 HD.
+http://br1.urutelam.com:8073/ESPN%204%20HD%2E?u=GONZALOVERON:p=9577263913:server_ip_port=br1.urutelam.com:8073
+#EXTINF:-1 group-title="CANALES",ESPN 6
+http://br1.urutelam.com:8073/ESPN%206%20HD?u=GONZALOVERON:p=9577263913:server_ip_port=br1.urutelam.com:8073
+#EXTINF:-1 group-title="CANALES",ESPN 5 HD
+http://br1.urutelam.com:8073/ESPN%205%20HD?u=GONZALOVERON:p=9577263913:server_ip_port=br1.urutelam.com:8073
+#EXTINF:-1 group-title="CANALES",VTV PLUS
+http://br1.urutelam.com:8073/VTV%20PLUS?u=GONZALOVERON:p=9577263913:server_ip_port=br1.urutelam.com:8073
 
 
