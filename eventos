@@ -109,6 +109,12 @@ https://nl1.nghk.ai/ArenaSport3BH/tracks-v1a1/mono.ts.m3u8
 https://nl1.nghk.ai/ArenaSport4BH/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="CANALES",ARENA SPORT 5 BH
 https://nl1.nghk.ai/ArenaSport5BH/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="CANALES",ARENA PREMIUMT 1 BH
+https://nl1.nghk.ai/ArenaPremium1BH/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="CANALES",ARENA PREMIUMT 2 BH
+https://nl1.nghk.ai/ArenaPremium2BH/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="CANALES",ARENA PREMIUMT 3 BH
+https://nl1.nghk.ai/ArenaPremium3BH/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="CANALES",F1 EXCLUSIVO
 http://br1.urutelam.com:8073/F1%20EXCLUSIVO?u=GONZALOVERON:p=9577263913:server_ip_port=br1.urutelam.com:8073
 #EXTINF:-1 group-title="CANALES",Eventos
