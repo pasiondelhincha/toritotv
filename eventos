@@ -6652,4 +6652,35 @@ http://158.101.222.193:88/georgia_play.php?id=viasatsport
 http://158.101.222.193:88/georgia_play.php?id=matchplaneta
 #EXTINF:-1 group-title="Oracle Corporation",Бокс ТВ
 http://158.101.222.193:88/georgia_play.php?id=boxtv
+#EXTINF:-1 group-title="CUTSIFFA",DAZN 1
+https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Elev1.m3u8
+#EXTINF:-1 group-title="CUTSIFFA",DAZN 2
+https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Elev2.m3u8
+#EXTINF:-1 group-title="CUTSIFFA",DAZN 3
+https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Elev3.m3u8
+#EXTINF:-1 group-title="CUTSIFFA",DAZN 4
+https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Elev4.m3u8
+#EXTINF:-1 group-title="CUTSIFFA",DAZN 5
+https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Elev5.m3u8
+#EXTINF:-1 group-title="CUTSIFFA",SPORT TV 1
+https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Sprttv1.m3u8
+#EXTINF:-1 group-title="CUTSIFFA",SPORT TV 2
+https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Sprttv2.m3u8
+#EXTINF:-1 group-title="CUTSIFFA",SPORT TV 3
+https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Sprttv3.m3u8
+#EXTINF:-1 group-title="CUTSIFFA",SPORT TV 4
+https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Sprttv4.m3u8
+#EXTINF:-1 group-title="CUTSIFFA",SPORT TV 5
+https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Sprttv5.m3u8
+#EXTINF:-1 group-title="CUTSIFFA",Sport TV 6
+https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Sprttv6.m3u8
+#EXTINF:-1 group-title="CUTSIFFA",Sport TV 6
+https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Sprttv7.m3u8
+#EXTINF:-1 group-title="CUTSIFFA",SONY 1
+https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Splus2/Sonyt.m3u8
+#EXTINF:-1 group-title="CUTSIFFA",SONY 2
+https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Splus2/Sonyt2.m3u8
+#EXTINF:-1 group-title="CUTSIFFA",SONY 3
+https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Splus2/Sonyt3.m3u8
+
 
