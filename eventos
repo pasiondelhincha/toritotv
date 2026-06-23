@@ -135,6 +135,14 @@ http://br1.urutelam.com:8073/Eventos%202?u=GONZALOVERON:p=9577263913:server_ip_p
 http://br1.urutelam.com:8073/Espn%20Premium%20HD%2E?u=GONZALOVERON:p=9577263913:server_ip_port=br1.urutelam.com:8073
 #EXTINF:-1 group-title="CANALES",M4 Sport HD
 http://46.149.191.217:9001/play/a02h
+#EXTINF:-1 group-title="CANALES",MAX SPORT 1 🇧🇬
+http://77.46.130.252:99/maxsport1
+#EXTINF:-1 group-title="CANALES",MAX SPORT 2 🇧🇬
+http://77.46.130.252:99/maxsport2
+#EXTINF:-1 group-title="CANALES",MAX SPORT 3 🇧🇬
+http://77.46.130.252:99/maxsport3
+#EXTINF:-1 group-title="CANALES",MAX SPORT 4 🇧🇬
+http://77.46.130.252:99/maxsport4
 #EXTINF:-1 group-title="CANALES",TNT Sports HD.
 http://br1.urutelam.com:8073/TNT%20Sports%20HD%2E?u=GONZALOVERON:p=9577263913:server_ip_port=br1.urutelam.com:8073
 #EXTINF:-1 group-title="CANALES",TyC Sports HD.
