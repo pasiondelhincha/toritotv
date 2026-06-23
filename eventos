@@ -133,6 +133,8 @@ http://br1.urutelam.com:8073/Eventos%20?u=GONZALOVERON:p=9577263913:server_ip_po
 http://br1.urutelam.com:8073/Eventos%202?u=GONZALOVERON:p=9577263913:server_ip_port=br1.urutelam.com:8073
 #EXTINF:-1 group-title="CANALES",Espn Premium HD.
 http://br1.urutelam.com:8073/Espn%20Premium%20HD%2E?u=GONZALOVERON:p=9577263913:server_ip_port=br1.urutelam.com:8073
+#EXTINF:-1 group-title="CANALES",M4 Sport HD
+http://46.149.191.217:9001/play/a02h
 #EXTINF:-1 group-title="CANALES",TNT Sports HD.
 http://br1.urutelam.com:8073/TNT%20Sports%20HD%2E?u=GONZALOVERON:p=9577263913:server_ip_port=br1.urutelam.com:8073
 #EXTINF:-1 group-title="CANALES",TyC Sports HD.
