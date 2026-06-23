@@ -6662,7 +6662,33 @@ https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Elev3.m3u8
 https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Elev4.m3u8
 #EXTINF:-1 group-title="CUTSIFFA",DAZN 5
 https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Elev5.m3u8
-
-https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Splus2/Sonyt3.m3u8
-
-
+#EXTINF:-1 group-title="ARENA SPORT",ARENA SPORT PREMIUM 1
+http://178.253.194.79:10001
+#EXTINF:-1 group-title="ARENA SPORT",ARENA SPORT PREMIUM 2
+http://178.253.194.79:10004
+#EXTINF:-1 group-title="ARENA SPORT",ARENA SPORT PREMIUM 3
+http://178.253.194.79:10005
+#EXTINF:-1 group-title="ARENA SPORT",ARENA SPORT PREMIUM 4
+http://178.253.194.79:10016
+#EXTINF:-1 group-title="ARENA SPORT",ARENA SPORT PREMIUM 5
+http://178.253.194.79:10017
+#EXTINF:-1 group-title="ARENA SPORT",ARENA SPORT 1
+http://178.253.194.79:10006
+#EXTINF:-1 group-title="ARENA SPORT",ARENA SPORT 2
+http://178.253.194.79:10007
+#EXTINF:-1 group-title="ARENA SPORT",ARENA SPORT 3
+http://178.253.194.79:10008
+#EXTINF:-1 group-title="ARENA SPORT",ARENA SPORT 4
+http://178.253.194.79:10009
+#EXTINF:-1 group-title="ARENA SPORT",ARENA SPORT 5
+http://178.253.194.79:10010
+#EXTINF:-1 group-title="ARENA SPORT",ARENA SPORT 6
+http://178.253.194.79:10011
+#EXTINF:-1 group-title="ARENA SPORT",ARENA SPORT 7
+http://178.253.194.79:10012
+#EXTINF:-1 group-title="ARENA SPORT",ARENA SPORT 8
+http://178.253.194.79:10013
+#EXTINF:-1 group-title="ARENA SPORT",ADRENALYN
+http://178.253.194.79:10018
+#EXTINF:-1 group-title="ARENA SPORT",ARENA TENIS
+http://178.253.194.79:10019
