@@ -6704,6 +6704,52 @@ http://178.253.194.79:10011
 http://178.253.194.79:10012
 #EXTINF:-1 group-title="ARENA SPORT",ARENA SPORT 8
 http://178.253.194.79:10013
+#EXTINF:-1 group-title="POLONIA",Canal+ Sport HD
+http://bocian.io:8880/NL753811/552284900/105520
+#EXTINF:-1 group-title="POLONIA",Canal+ Sport 2 HD
+http://bocian.io:8880/NL753811/552284900/105521
+#EXTINF:-1 group-title="POLONIA",Canal+ Sport 3 HD
+http://bocian.io:8880/NL753811/552284900/105522
+#EXTINF:-1 group-title="POLONIA",Canal+ Sport 4 HD
+http://bocian.io:8880/NL753811/552284900/105523
+#EXTINF:-1 group-title="POLONIA",Canal+ Sport 5 HD
+http://bocian.io:8880/NL753811/552284900/153306
+#EXTINF:-1 group-title="POLONIA",Eleven Sports 2 HD
+http://bocian.io:8880/NL753811/552284900/105526
+#EXTINF:-1 group-title="POLONIA",Eleven Sports 3 HD
+http://bocian.io:8880/NL753811/552284900/105527
+#EXTINF:-1 group-title="POLONIA",Eleven Sports 4 HD
+http://bocian.io:8880/NL753811/552284900/105528
+#EXTINF:-1 group-title="POLONIA",Polsat Sport 1 HD
+http://bocian.io:8880/NL753811/552284900/105530
+#EXTINF:-1 group-title="POLONIA",Polsat Sport 3 HD
+http://bocian.io:8880/NL753811/552284900/105531
+#EXTINF:-1 group-title="POLONIA",Polsat Sport Fight HD
+http://bocian.io:8880/NL753811/552284900/105532
+#EXTINF:-1 group-title="POLONIA",Polsat Sport 2 HD
+http://bocian.io:8880/NL753811/552284900/105533
+#EXTINF:-1 group-title="POLONIA",Polsat Sport Premium 1 HD
+http://bocian.io:8880/NL753811/552284900/105535
+#EXTINF:-1 group-title="POLONIA",Polsat Sport Premium 2 HD
+http://bocian.io:8880/NL753811/552284900/105536
+#EXTINF:-1 group-title="POLONIA",Polsat Sport Extra 3 HD
+http://bocian.io:8880/NL753811/552284900/105537
+#EXTINF:-1 group-title="POLONIA",Polsat Sport Extra 4 HD
+http://bocian.io:8880/NL753811/552284900/105538
+#EXTINF:-1 group-title="POLONIA",Polsat Sport Extra 1 HD
+http://bocian.io:8880/NL753811/552284900/105539
+#EXTINF:-1 group-title="POLONIA",Polsat Sport Extra 2 HD
+http://bocian.io:8880/NL753811/552284900/105540
+#EXTINF:-1 group-title="POLONIA",Extreme Sports Channel HD
+http://bocian.io:8880/NL753811/552284900/105542
+#EXTINF:-1 group-title="POLONIA",Sportklub HD
+http://bocian.io:8880/NL753811/552284900/105543
+#EXTINF:-1 group-title="POLONIA",Eurosport 1 HD
+http://bocian.io:8880/NL753811/552284900/105544
+#EXTINF:-1 group-title="POLONIA",Eurosport 2 HD
+http://bocian.io:8880/NL753811/552284900/105545
+#EXTINF:-1 group-title="POLONIA",TVP Sport HD
+http://bocian.io:8880/NL753811/552284900/105548
 #EXTINF:-1 group-title="ARENA SPORT",ADRENALYN
 http://178.253.194.79:10018
 #EXTINF:-1 group-title="ARENA SPORT",ARENA TENIS
