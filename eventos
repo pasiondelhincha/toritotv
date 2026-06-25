@@ -140,19 +140,21 @@ https://nl1.nghk.ai/ArenaPremium2BH/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="CANALES",ARENA PREMIUM 3 BH
 https://nl1.nghk.ai/ArenaPremium3BH/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="CANALES",DSPORTS COLOMBIA
-http://108.181.20.255:27347/livehttpplay?channel_id=23537
+http://108.181.20.255:40003
 #EXTINF:-1 group-title="CANALES",DSPORTS 2 COLOMBIA
-http://108.181.20.255:27347/livehttpplay?channel_id=23538
+http://108.181.20.255:37737
 #EXTINF:-1 group-title="CANALES",DSPORTS + COLOMBIA
-http://108.181.20.255:27347/livehttpplay?channel_id=23539
+http://108.181.20.255:45149
 #EXTINF:-1 group-title="CANALES",TNT SPORTS CHILE
-http://108.181.20.255:27347/livehttpplay?channel_id=23540
+http://108.181.20.255:39471
 #EXTINF:-1 group-title="CANALES",WINSPORTS COLOMBIA
-http://108.181.20.255:27347/livehttpplay?channel_id=23548
+http://108.181.20.255:36513
 #EXTINF:-1 group-title="CANALES",WINSPORTS + COLOMBIA
-http://108.181.20.255:27347/livehttpplay?channel_id=23542
+http://108.181.20.255:37971
 #EXTINF:-1 group-title="CANALES",EL CANAL DEL FUTBOL ECUADOR
-http://108.181.20.255:27347/livehttpplay?channel_id=23553
+http://108.181.20.255:46519/
+#EXTINF:-1 group-title="CANALES",L1MAX
+http://108.181.20.255:35651
 #EXTINF:-1 group-title="CANALES",ELTA SPORTS 1
 https://bintangstreaming.my.id/1kds/kds_tes.php/.m3u8?id=elta-sports-1
 #EXTINF:-1 group-title="CANALES",ELTA SPORTS 2
