@@ -49,6 +49,10 @@ https://kolis.phantemlis.top/premium788/tracks-v1a1/mono.m3u8?md5=unvXqH9_3gw3JJ
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-92.playlist.m3u8
 #EXTINF:-1 group-title="Eventos en Vivo" ,SETANTA SPORTS
 http://195.211.27.151/8565/tracks-v1a1a2/mono.m3u8?cid=391&did=498294&m=1&rid=510259&token=0eea071ea67c289574570d029f79f038
+#EXTINF:-1 group-title="Eventos en Vivo" ,SETANTA SPORTS 2
+http://195.211.27.151/8676/tracks-v1a1a2/mono.m3u8?cid=777&did=498294&m=1&rid=510259&token=0eea071ea67c289574570d029f79f038
+#EXTINF:-1 group-title="Eventos en Vivo" ,SETANTA SPORTS +
+http://195.211.27.151/8329/tracks-v1a1a2/mono.m3u8?cid=261&did=498294&m=1&rid=510259&token=0eea071ea67c289574570d029f79f038
 #EXTINF:-1 group-title="Eventos en Vivo" ,TNT SPORTS
 http://200.112.174.230/mtcast_tntsportshd/mpegts
 #EXTINF:0 group-title="Eventos en Vivo" ,TNT SPORTS 02
