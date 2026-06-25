@@ -77,6 +77,8 @@ http://195.211.27.151/9024/tracks-v1a1/mono.m3u8?cid=1&did=495744&m=1&rid=507706
 http://195.211.27.151/9025/tracks-v1a1/mono.m3u8?cid=1&did=495744&m=1&rid=507706&token=fb241ed774f3c35391b284f4b9edf88c
 #EXTINF:-1 group-title="Eventos en Vivo" ,QAZSPORT KZ
 http://195.211.27.151/8541/tracks-v1a1/mono.m3u8?cid=1&did=495744&m=1&rid=507706&token=fb241ed774f3c35391b284f4b9edf88c
+#EXTINF:-1 group-title="Eventos en Vivo" ,QAZSPORT KZ
+http://195.211.27.151/8541/tracks-v1a1/mono.m3u8?cid=1&did=495744&m=1&rid=507706&token=fb241ed774f3c35391b284f4b9edf88c
 #EXTINF:-1 group-title="Eventos en Vivo" ,TNT SPORTS
 http://200.112.174.230/mtcast_tntsportshd/mpegts
 #EXTINF:0 group-title="Eventos en Vivo" ,TNT SPORTS 02
