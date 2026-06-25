@@ -235,6 +235,8 @@ http://br1.urutelam.com:8073/ESPN%206%20HD?u=GONZALOVERON:p=9577263913:server_ip
 http://br1.urutelam.com:8073/ESPN%205%20HD?u=GONZALOVERON:p=9577263913:server_ip_port=br1.urutelam.com:8073
 #EXTINF:-1 group-title="CANALES",VTV PLUS
 http://br1.urutelam.com:8073/VTV%20PLUS?u=GONZALOVERON:p=9577263913:server_ip_port=br1.urutelam.com:8073
+#EXTINF:-1 group-title="CANALES",ITV 1
+http://81.137.213.119:4201/bysid/8261
 #EXTM3U
 #EXTINF:-1 group-title="DADDY 01" ,CANAL 1
 https://daddytv-b90v.onrender.com/?ID=1
