@@ -47,8 +47,8 @@ https://pecdl1.streameasthd.net/fox1ar/tracks-v1a1/mono.m3u8?ip=186.19.2.40&toke
 https://kolis.phantemlis.top/premium788/tracks-v1a1/mono.m3u8?md5=unvXqH9_3gw3JJRdl-U_Ew&expires=1780856101
 #EXTINF:-1 group-title="Eventos en Vivo" ,FOX SPORTS 3
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-92.playlist.m3u8
-#EXTINF:-1 group-title="Eventos en Vivo" ,TIGO SPORTS
-https://cxm6.futbolonlinehd.com/even2/mono.m3u8?token=cc653feb5d7483d5b30b3471ce7494db4f60248d-d9-1782026933-1782008933
+#EXTINF:-1 group-title="Eventos en Vivo" ,SETANTA SPORTS
+http://195.211.27.151/8565/tracks-v1a1a2/mono.m3u8?cid=391&did=498294&m=1&rid=510259&token=0eea071ea67c289574570d029f79f038
 #EXTINF:-1 group-title="Eventos en Vivo" ,TNT SPORTS
 http://200.112.174.230/mtcast_tntsportshd/mpegts
 #EXTINF:0 group-title="Eventos en Vivo" ,TNT SPORTS 02
