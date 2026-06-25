@@ -139,6 +139,20 @@ https://nl1.nghk.ai/ArenaPremium1BH/tracks-v1a1/mono.ts.m3u8
 https://nl1.nghk.ai/ArenaPremium2BH/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="CANALES",ARENA PREMIUM 3 BH
 https://nl1.nghk.ai/ArenaPremium3BH/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="CANALES",DSPORTS COLOMBIA
+http://108.181.20.255:27347/livehttpplay?channel_id=23537
+#EXTINF:-1 group-title="CANALES",DSPORTS 2 COLOMBIA
+http://108.181.20.255:27347/livehttpplay?channel_id=23538
+#EXTINF:-1 group-title="CANALES",DSPORTS + COLOMBIA
+http://108.181.20.255:27347/livehttpplay?channel_id=23539
+#EXTINF:-1 group-title="CANALES",TNT SPORTS CHILE
+http://108.181.20.255:27347/livehttpplay?channel_id=23540
+#EXTINF:-1 group-title="CANALES",WINSPORTS COLOMBIA
+http://108.181.20.255:27347/livehttpplay?channel_id=23548
+#EXTINF:-1 group-title="CANALES",WINSPORTS + COLOMBIA
+http://108.181.20.255:27347/livehttpplay?channel_id=23542
+#EXTINF:-1 group-title="CANALES",EL CANAL DEL FUTBOL ECUADOR
+http://108.181.20.255:27347/livehttpplay?channel_id=23553
 #EXTINF:-1 group-title="CANALES",ELTA SPORTS 1
 https://bintangstreaming.my.id/1kds/kds_tes.php/.m3u8?id=elta-sports-1
 #EXTINF:-1 group-title="CANALES",ELTA SPORTS 2
