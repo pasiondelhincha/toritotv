@@ -86,7 +86,7 @@ rtmp://f13h.mine.nu/sat/tv741
 #EXTINF:-1 group-title="Eventos en Vivo" ,CCTV5
 http://17782331118.top:8188/rtp/235.254.198.14:1332
 #EXTINF:-1 group-title="Eventos en Vivo" ,CCTV5+
-http://120.76.248.139/live/bfgd/4200000246.m3u8
+http://192.187.98.98:82/live/cctv5pmd.m3u8?jsbt=1782414055&jsbk=04e041f7ea36879ccea2c03e54f90f77
 #EXTINF:-1 group-title="Eventos en Vivo" ,TNT SPORTS
 http://200.112.174.230/mtcast_tntsportshd/mpegts
 #EXTINF:0 group-title="Eventos en Vivo" ,TNT SPORTS 02
