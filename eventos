@@ -93,6 +93,8 @@ http://200.112.174.230/mtcast_tntsportshd/mpegts
 http://46.225.94.157/hls/tnt/index.m3u8
 #EXTINF:-1 group-title="Eventos en Vivo" ,TUDN
 https://streaming.alwaysdata.net/tudn.php
+#EXTINF:-1 group-title="Eventos en Vivo" ,TURKMENISTAN SPORT
+https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 #EXTINF:-1 group-title="Eventos en Vivo" ,TYC SPORTS
 http://200.112.174.230/mtcast_tychd/mpegts
 #EXTINF:-1 group-title="Eventos en Vivo" ,TYC SPORTS
