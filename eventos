@@ -67,6 +67,8 @@ http://195.211.27.151/8513/tracks-v1a1/mono.m3u8?cid=1&did=495744&m=1&rid=507706
 http://195.211.27.151/8420/tracks-v1a1a2/mono.m3u8?cid=261&did=498294&m=1&rid=510259&token=0eea071ea67c289574570d029f79f038
 #EXTINF:-1 group-title="Eventos en Vivo" ,SPORT ISRAEL 5 LIVE
 http://195.211.27.151/8239/tracks-v1a1/mono.m3u8?cid=1&did=495744&m=1&rid=507706&token=fb241ed774f3c35391b284f4b9edf88c
+#EXTINF:-1 group-title="Eventos en Vivo" ,GO3 SPORT 1 ESTONIA
+http://195.211.27.151/9022/tracks-v1a1/mono.m3u8?cid=1&did=495744&m=1&rid=507706&token=fb241ed774f3c35391b284f4b9edf88c
 #EXTINF:-1 group-title="Eventos en Vivo" ,TNT SPORTS
 http://200.112.174.230/mtcast_tntsportshd/mpegts
 #EXTINF:0 group-title="Eventos en Vivo" ,TNT SPORTS 02
