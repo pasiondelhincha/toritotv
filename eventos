@@ -83,6 +83,10 @@ http://195.211.27.151/8541/tracks-v1a1/mono.m3u8?cid=1&did=495744&m=1&rid=507706
 rtmp://f13h.mine.nu/sat/tv731
 #EXTINF:-1 group-title="Eventos en Vivo" ,DAZN 2 TW
 rtmp://f13h.mine.nu/sat/tv741
+#EXTINF:-1 group-title="Eventos en Vivo" ,CCTV5
+http://17782331118.top:8188/rtp/235.254.198.14:1332
+#EXTINF:-1 group-title="Eventos en Vivo" ,CCTV5+
+http://17782331118.top:8188/rtp/235.254.198.122:1764
 #EXTINF:-1 group-title="Eventos en Vivo" ,TNT SPORTS
 http://200.112.174.230/mtcast_tntsportshd/mpegts
 #EXTINF:0 group-title="Eventos en Vivo" ,TNT SPORTS 02
