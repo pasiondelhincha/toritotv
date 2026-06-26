@@ -87,6 +87,10 @@ rtmp://f13h.mine.nu/sat/tv741
 http://17782331118.top:8188/rtp/235.254.198.14:1332
 #EXTINF:-1 group-title="Eventos en Vivo" ,CCTV5+
 http://192.187.98.98:82/live/cctv5pmd.m3u8?jsbt=1782414055&jsbk=04e041f7ea36879ccea2c03e54f90f77
+#EXTINF:-1 group-title="Eventos en Vivo" ,TIGO SPORTS
+https://cxm6.futbolonlinehd.com/even1/mono.m3u8?token=9c1c3faf824ab1c2dc8e52d9ebebad4643987dea-58-1782456298-1782438298
+#EXTINF:-1 group-title="Eventos en Vivo" ,TIGO SPORTS +
+https://cxm7.futbolonlinehd.com/even1/mono.m3u8?token=b6fb339d631a3a544043c70626b002af58a608b7-38-1782456461-1782438461
 #EXTINF:-1 group-title="Eventos en Vivo" ,TNT SPORTS
 http://200.112.174.230/mtcast_tntsportshd/mpegts
 #EXTINF:0 group-title="Eventos en Vivo" ,TNT SPORTS 02
