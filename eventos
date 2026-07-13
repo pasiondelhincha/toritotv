@@ -261,6 +261,8 @@ http://br1.urutelam.com:8073/ESPN%204%20HD%2E?u=GONZALOVERON:p=9577263913:server
 http://br1.urutelam.com:8073/ESPN%206%20HD?u=GONZALOVERON:p=9577263913:server_ip_port=br1.urutelam.com:8073
 #EXTINF:-1 group-title="CANALES",ESPN 5 HD
 http://br1.urutelam.com:8073/ESPN%205%20HD?u=GONZALOVERON:p=9577263913:server_ip_port=br1.urutelam.com:8073
+#EXTINF:-1 group-title="CANALES",TUDN VIX
+http://108.181.20.255:33273/
 #EXTINF:-1 group-title="CANALES",VTV PLUS
 http://br1.urutelam.com:8073/VTV%20PLUS?u=GONZALOVERON:p=9577263913:server_ip_port=br1.urutelam.com:8073
 #EXTINF:-1 group-title="CANALES",ITV 1
