@@ -1,0 +1,645 @@
+const CACHE_NAME = 'gym-tracker-v1';
+const ASSETS = [
+  './',
+  './index.html',
+  './manifest.json',
+  './css/styles.css',
+  './js/app.js',
+  './js/exercises.js',
+  './js/workouts.js',
+  './js/history.js',
+  './js/calculator.js',
+  './js/backup.js',
+  './icons/icon.svg',
+  './icons/icon-192.png',
+  './icons/icon-512.png'
+];
+
+self.addEventListener('install', (event) => {
+  event.waitUntil(
+    caches.open(CACHE_NAME).then((cache) => {
+      return cache.addAll(ASSETS).catch(err => console.log('Cache addAll error:', err));
+    })
+  );
+  self.skipWaiting();
+});
+
+self.addEventListener('activate', (event) => {
+  event.waitUntil(
+    caches.keys().then((keys) => {
+      return Promise.all(
+        keys.map((key) => {
+          if (key !== CACHE_NAME) {
+            return caches.delete(key);
+          }
+        })
+      );
+    })
+  );
+  self.clients.claim();
+});
+
+self.addEventListener('fetch', (event) => {
+  event.respondWith(
+    caches.match(event.request).then((cachedResponse) => {
+      if (cachedResponse) {
+        return cachedResponse;
+      }
+      return fetch(event.request).then((networkResponse) => {
+        return networkResponse;
+      }).catch(() => {
+        // Fallback if offline
+        return caches.match('./index.html');
+      });
+    })
+  );
+});
+
+{
+  "appId": "com.gymtracker.cuaderno",
+  "appName": "Cuaderno Gym",
+  "webDir": ".",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  }
+}
+
+# 📱 Guía Completa: Cómo Probar, Empaquetar y Desempaquetar tu APK
+
+¡Bienvenido! Esta guía está pensada para que entiendas de manera muy sencilla y práctica qué es un APK, cómo probar tu cuaderno de gimnasio de inmediato y las distintas opciones que tienes para convertirlo en un archivo instalable en tu teléfono Android.
+
+---
+
+## 1. ¿Qué es un archivo APK y qué tiene por dentro?
+
+Un archivo **APK** (*Android Package Kit*) es el formato que utiliza el sistema operativo Android para distribuir e instalar aplicaciones, tal como un archivo `.exe` o `.msi` funciona en Windows.
+
+Por dentro, un APK es en realidad un **archivo comprimido tipo ZIP** que contiene:
+- `AndroidManifest.xml`: El "DNI" de la app (nombre, icono, permisos, versión).
+- `assets/` o carpetas web: En aplicaciones creadas con tecnologías modernas (como Capacitor), aquí vive toda la interfaz visual (el HTML, CSS, JavaScript e iconos que creamos).
+- `classes.dex`: El código ejecutable compilado para la máquina virtual de Android (Dalvik/ART).
+- `res/`: Recursos gráficos, iconos y estilos nativos.
+- `META-INF/`: La firma digital y certificados que garantizan que el archivo no fue alterado.
+
+---
+
+## 2. Cómo Probar la Aplicación Ahora Mismo (En tu PC o en tu Celular)
+
+Antes de empaquetar el APK, puedes probar y usar el cuaderno de gimnasio directamente en tu navegador o en tu teléfono sin instalar nada pesado:
+
+### Opción A: Probar en tu PC
+1. Abre una ventana de PowerShell o Terminal en la carpeta del proyecto:
+   ```powershell
+   cd "F:\MATERIAL GRAFICO\00IMAGE FX\19 PROYECTOS APK\gym-tracker"
+   ```
+2. Ejecuta un servidor local con Python (que ya lo tienes instalado):
+   ```powershell
+   python -m http.server 8080
+   ```
+3. Abre tu navegador web (Chrome, Edge o Brave) y entra a:
+   [http://localhost:8080](http://localhost:8080)
+4. ¡Listo! Verás la app lista para usar. Toca `F12` en tu teclado y activa la vista de móvil (icono de celular/tablet) para verla en formato smartphone.
+
+### Opción B: Probarla directamente en la pantalla de tu celular (Vía Wi-Fi)
+1. Con tu PC y tu celular conectados a la misma red Wi-Fi:
+2. Averigua la IP de tu PC escribiendo en la terminal `ipconfig` (ejemplo: `192.168.1.35`).
+3. En el navegador de tu celular escribe: `http://192.168.1.35:8080`.
+4. En Chrome en tu celular, pulsa en los 3 puntos de arriba a la derecha y selecciona **"Agregar a la pantalla principal"** o **"Instalar aplicación"**. Se instalará como si fuera una app nativa con su icono de mancuerna y funcionará 100% offline.
+
+---
+
+## 3. Cómo Empaquetar a APK (Las 2 mejores opciones)
+
+### Método 1: Crear el APK en la Nube con GitHub (Sin instalar Android Studio)
+Si no quieres descargar los 4 a 8 GB que pesa Android Studio y sus SDKs, el proyecto ya viene con el archivo automatizado `.github/workflows/build-apk.yml`:
+
+1. Sube esta carpeta a un repositorio tuyo en GitHub (puedes crearlo privado o público).
+2. Entra a la pestaña **Actions** en tu repositorio de GitHub.
+3. El proceso de compilación se ejecutará solo en los servidores de GitHub.
+4. Al finalizar (tarda unos 2 a 3 minutos), en la sección **Artifacts** podrás descargar el archivo `CuadernoGym-debug.apk` directamente a tu computadora o celular.
+
+---
+
+### Método 2: El Método Nativo Oficial con Capacitor + Android Studio
+Si deseas compilarlo tú mismo en tu propia computadora:
+
+#### Requisitos previos en Windows:
+1. **Node.js**: Ya lo tienes instalado en tu PC (`v26.13.0`).
+2. **Java JDK 17 o superior**: Descárgalo gratis desde [Adoptium / Eclipse Temurin JDK 17](https://adoptium.net/).
+3. **Android Studio**: Descárgalo desde [developer.android.com/studio](https://developer.android.com/studio). Durante la instalación asegúrate de marcar:
+   - Android SDK
+   - Android SDK Command-line Tools
+   - Android Virtual Device (opcional, para emulador)
+
+#### Pasos para generar el APK:
+1. Abre PowerShell en la carpeta del proyecto:
+   ```powershell
+   cd "F:\MATERIAL GRAFICO\00IMAGE FX\19 PROYECTOS APK\gym-tracker"
+   ```
+2. Instala las herramientas de Capacitor:
+   ```powershell
+   npm.cmd install
+   ```
+3. Inicializa la carpeta de Android dentro del proyecto:
+   ```powershell
+   npx.cmd cap add android
+   ```
+4. Sincroniza los archivos de la app con el proyecto de Android:
+   ```powershell
+   npx.cmd cap sync android
+   ```
+5. Abre el proyecto en Android Studio:
+   ```powershell
+   npx.cmd cap open android
+   ```
+6. En Android Studio:
+   - Espera a que termine de cargar el proceso inferior (Gradle Sync).
+   - En el menú superior haz clic en: **Build** ➔ **Build Bundle(s) / APK(s)** ➔ **Build APK(s)**.
+7. Al terminar aparecerá un mensaje en la esquina inferior derecha con un enlace azul que dice **locate**. Haz clic allí y te abrirá la carpeta con tu archivo:
+   `app-debug.apk`
+
+---
+
+## 4. Cómo Instalar el APK en tu Celular
+
+1. Pasa el archivo `app-debug.apk` a tu teléfono (por cable USB, enviándotelo por Telegram, WhatsApp o subiéndolo a Google Drive).
+2. En tu teléfono, abre el explorador de archivos y toca sobre `app-debug.apk`.
+3. Android te mostrará una advertencia de seguridad indicando que la app proviene de una fuente desconocida (esto es normal para cualquier app que no provenga de Google Play Store).
+4. Toca en **Configuración** ➔ Activa **"Permitir desde esta fuente"** ➔ Toca **Instalar**.
+5. ¡Listo! Ya tendrás tu app instalada con su propio acceso directo en tu menú de aplicaciones.
+
+---
+
+## 5. Cómo Desempaquetar un archivo APK
+
+Si en el futuro descargas cualquier archivo APK o quieres ver qué tiene por dentro tu propio APK, existen dos formas de desempaquetarlo:
+
+### A) El truco rápido (Para ver recursos, imágenes y archivos web)
+1. Haz una copia de tu archivo `app-debug.apk`.
+2. Renombra la extensión del archivo cambiando `.apk` por `.zip` (ejemplo: `app-debug.zip`).
+   *(Si Windows no te muestra las extensiones, en el Explorador de archivos ve a "Vista" ➔ Marca "Extensiones de nombre de archivo")*.
+3. Haz clic derecho y elige **"Extraer todo..."** o ábrelo con **7-Zip** o **WinRAR**.
+4. Podrás explorar carpetas como `assets/`, donde encontrarás los archivos `index.html`, imágenes, etc.
+
+### B) Descompilación avanzada (Para analizar el código y manifiesto)
+Si necesitas ver el código fuente descompilado o editar el `AndroidManifest.xml`:
+- **JADX-GUI**: Es la herramienta más popular y amigable. Descargas [JADX](https://github.com/skylot/jadx/releases), abres el ejecutable `jadx-gui.bat` y arrastras tu archivo `.apk`. Podrás leer todo el código descompilado de forma visual como si estuvieras en un editor de texto.
+- **APKTool**: Herramienta por consola (`apktool d mi-app.apk`) que decodifica los recursos a su forma original para poder modificarlos y volver a empaquetarlos (`apktool b`).
+
+---
+
+## 6. Funcionalidades integradas en tu App
+
+- **Catálogo propio desde cero**: No viene con ejercicios precargados. Tú vas creando tus ejercicios con sus grupos musculares (Pecho, Espalda, Piernas, etc.).
+- **Variantes y Salvedades**: Puedes anotar "(sin venda)", "(con venda)", "(agarre neutro)", etc. en cada ejercicio y buscarlo fácilmente más adelante.
+- **Series dinámicas**: Botón `+ Agregar Serie` para sumar una a una las series con su peso en kg y repeticiones. Al agregar una nueva serie, copia automáticamente el peso y reps de la serie previa para que no pierdas tiempo escribiendo entre descansos.
+- **Peso corporal diario**: Campo dedicado en el encabezado de cada sesión para llevar el control de tu peso corporal en kg.
+- **Buscador y Filtros**: Busca por nombre de ejercicio, por variante (ej: escribe "sin venda" para ver todos los días que entrenaste sin venda), o por grupo muscular.
+- **Calculadora 1RM (1 a 20 repeticiones)**: Calcula tu repetición máxima con fórmulas validadas (Brzycki, Epley, Lombardi, O'Conner) y te muestra la tabla completa de porcentajes (del 100% al 50%) para saber cuánto peso poner según las repeticiones que busques.
+- **Respaldo Seguro**: En la pestaña Ajustes puedes descargar una copia de seguridad en JSON para no perder nunca tus registros.
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
+  <title>Cuaderno de Gimnasio</title>
+  <meta name="theme-color" content="#10b981">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <link rel="manifest" href="manifest.json">
+  <link rel="icon" type="image/svg+xml" href="icons/icon.svg">
+  <link rel="apple-touch-icon" href="icons/icon-192.png">
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+
+  <!-- Top Bar Header -->
+  <header class="app-header">
+    <div class="header-brand">
+      <div class="brand-icon">💪</div>
+      <div>
+        <div class="brand-title">Cuaderno Gym</div>
+      </div>
+    </div>
+    <div class="header-actions">
+      <span class="brand-badge" id="appVersionBadge">APK v1.0</span>
+    </div>
+  </header>
+
+  <!-- Main View Container -->
+  <main class="views-container">
+
+    <!-- ============================================== -->
+    <!-- TAB 1: ENTRENAR (Registro de Sesión)           -->
+    <!-- ============================================== -->
+    <section id="viewTrain" class="view-section active">
+      <!-- Session Header Bar: Date & Body Weight -->
+      <div class="session-info-bar">
+        <div class="info-item">
+          <span class="info-label">Fecha</span>
+          <input type="date" id="inputWorkoutDate" class="form-control" style="padding: 6px 10px; font-size: 0.88rem; width: 145px;">
+        </div>
+        <div class="info-item" style="align-items: flex-end;">
+          <span class="info-label">Mi Peso Corporal</span>
+          <div class="info-input-wrap">
+            <input type="number" id="inputBodyWeight" step="0.1" placeholder="Ej: 80.5" class="info-input-mini" inputmode="decimal">
+            <span style="font-size: 0.85rem; font-weight: 700; color: var(--text-secondary);">kg</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- General Workout Notes -->
+      <div style="margin-bottom: 14px;">
+        <input type="text" id="inputWorkoutGeneralNotes" class="form-control" placeholder="Notas del día (ej: Día pesado, buena energía, etc.)...">
+      </div>
+
+      <!-- Exercise List In Active Workout -->
+      <div id="activeExercisesContainer">
+        <!-- Rendered dynamically -->
+      </div>
+
+      <!-- Empty workout prompt -->
+      <div id="emptyWorkoutPrompt" class="empty-state" style="display: none;">
+        <div class="empty-state-icon">📋</div>
+        <div class="empty-state-title">Comienza tu entrenamiento</div>
+        <div class="empty-state-desc">Añade tu primer ejercicio del día para comenzar a cargar tus series y variantes.</div>
+      </div>
+
+      <!-- Add Exercise to Workout Button -->
+      <button type="button" id="btnOpenSelectExerciseModal" class="btn btn-outline btn-lg" style="margin-bottom: 14px;">
+        ➕ Agregar Ejercicio al Entrenamiento
+      </button>
+
+      <!-- Save Workout Button -->
+      <button type="button" id="btnFinishWorkout" class="btn btn-primary btn-lg" style="margin-bottom: 30px;">
+        💾 Finalizar y Guardar Entrenamiento
+      </button>
+    </section>
+
+    <!-- ============================================== -->
+    <!-- TAB 2: EJERCICIOS (Catálogo Personal)          -->
+    <!-- ============================================== -->
+    <section id="viewExercises" class="view-section">
+      <div class="card-header" style="margin-bottom: 12px;">
+        <div>
+          <h2 class="card-title">Mis Ejercicios</h2>
+          <span style="font-size: 0.8rem; color: var(--text-muted);">Sin precargas: solo tus propios ejercicios</span>
+        </div>
+        <button type="button" id="btnOpenAddExerciseModal" class="btn btn-primary btn-sm">
+          ➕ Nuevo
+        </button>
+      </div>
+
+      <!-- Muscle Filter Chips -->
+      <div class="chips-scroll" id="exerciseMuscleChips">
+        <span class="chip active" data-muscle="ALL">Todos</span>
+        <!-- Muscle chips rendered dynamically -->
+      </div>
+
+      <!-- Exercises List Container -->
+      <div id="exercisesListContainer">
+        <!-- Rendered dynamically -->
+      </div>
+
+      <!-- Empty state exercises -->
+      <div id="emptyExercisesState" class="empty-state" style="display: none;">
+        <div class="empty-state-icon">🏋️‍♂️</div>
+        <div class="empty-state-title">Tu catálogo está vacío</div>
+        <div class="empty-state-desc">Como pediste, no hay ejercicios predefinidos. Presiona en <strong>"+ Nuevo"</strong> para cargar tu primer ejercicio (ej. Press Banca, Sentadilla, etc.) con su grupo muscular.</div>
+        <button type="button" class="btn btn-primary" onclick="document.getElementById('btnOpenAddExerciseModal').click()">
+          ➕ Crear Mi Primer Ejercicio
+        </button>
+      </div>
+    </section>
+
+    <!-- ============================================== -->
+    <!-- TAB 3: HISTORIAL & BUSCADOR                    -->
+    <!-- ============================================== -->
+    <section id="viewHistory" class="view-section">
+      <div class="card-header" style="margin-bottom: 8px;">
+        <h2 class="card-title">Historial y Filtros</h2>
+      </div>
+
+      <!-- Search Input -->
+      <div class="search-bar-wrap">
+        <span class="search-icon">🔍</span>
+        <input type="text" id="inputHistorySearch" class="form-control search-input" placeholder="Buscar ejercicio, variante (ej: sin venda)...">
+      </div>
+
+      <!-- Muscle Filter Chips for History -->
+      <div class="chips-scroll" id="historyMuscleChips">
+        <span class="chip active" data-muscle="ALL">Todos los grupos</span>
+        <!-- Muscle chips rendered dynamically -->
+      </div>
+
+      <!-- Workouts History List -->
+      <div id="historyListContainer">
+        <!-- Rendered dynamically -->
+      </div>
+
+      <div id="emptyHistoryState" class="empty-state" style="display: none;">
+        <div class="empty-state-icon">📅</div>
+        <div class="empty-state-title">Sin registros que coincidan</div>
+        <div class="empty-state-desc">No se encontraron entrenamientos con los filtros actuales. Guarda un entrenamiento para verlo aquí.</div>
+      </div>
+    </section>
+
+    <!-- ============================================== -->
+    <!-- TAB 4: CALCULADORA 1RM                         -->
+    <!-- ============================================== -->
+    <section id="viewCalc" class="view-section">
+      <div class="card-header" style="margin-bottom: 8px;">
+        <h2 class="card-title">Calculadora de 1 RM</h2>
+      </div>
+
+      <!-- Main Result Hero Card -->
+      <div class="calc-hero">
+        <span style="font-size: 0.85rem; text-transform: uppercase; letter-spacing: 0.05em; color: var(--text-secondary); font-weight: 700;">
+          Estimación 1 RM (Repetición Máxima)
+        </span>
+        <div class="calc-1rm-val" id="calc1RMDisplay">0.0 <span class="calc-1rm-unit">kg</span></div>
+        <span style="font-size: 0.82rem; color: var(--text-muted);" id="calcFormulaSub">
+          Promedio ponderado con base científica
+        </span>
+      </div>
+
+      <!-- Inputs for Calculator -->
+      <div class="card">
+        <div class="form-row">
+          <div class="form-group">
+            <label class="form-label">Kilos Levantados</label>
+            <div style="display: flex; align-items: center; gap: 6px;">
+              <input type="number" id="calcInputWeight" class="form-control" placeholder="100" value="80" step="0.5" inputmode="decimal" style="font-size: 1.2rem; font-weight: 800; text-align: center;">
+              <span style="font-weight: 700; color: var(--text-secondary);">kg</span>
+            </div>
+          </div>
+          <div class="form-group">
+            <label class="form-label">Repeticiones (1 a 20)</label>
+            <div style="display: flex; align-items: center; gap: 6px;">
+              <input type="number" id="calcInputReps" class="form-control" min="1" max="20" value="8" inputmode="numeric" style="font-size: 1.2rem; font-weight: 800; text-align: center;">
+              <span style="font-weight: 700; color: var(--text-secondary);">reps</span>
+            </div>
+          </div>
+        </div>
+
+        <!-- Slider and 1-20 buttons -->
+        <label class="form-label" style="margin-top: 6px;">Seleccionar Repeticiones Rápidas (1 a 20)</label>
+        <div class="calc-rep-slider-wrap">
+          <input type="range" id="calcSliderReps" min="1" max="20" value="8" class="slider-range">
+        </div>
+        <div class="rep-chips-row" id="calcRepChipsContainer">
+          <!-- Chips 1 to 20 rendered dynamically -->
+        </div>
+      </div>
+
+      <!-- Percentages Breakdown Table -->
+      <div class="card">
+        <div class="card-header">
+          <h3 class="card-title" style="font-size: 1rem;">Tabla de Porcentajes de Carga</h3>
+        </div>
+        <div style="overflow-x: auto;">
+          <table class="pct-table">
+            <thead>
+              <tr>
+                <th>% 1RM</th>
+                <th>Peso Sugerido</th>
+                <th>Reps Aprox.</th>
+                <th>Objetivo</th>
+              </tr>
+            </thead>
+            <tbody id="calcPercentagesTableBody">
+              <!-- Rendered dynamically -->
+            </tbody>
+          </table>
+        </div>
+      </div>
+
+      <!-- Formula Breakdown Accordion -->
+      <div class="card">
+        <h3 class="card-title" style="font-size: 0.95rem; margin-bottom: 10px;">Comparativa por Fórmulas</h3>
+        <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px; font-size: 0.85rem;" id="calcFormulasComparison">
+          <!-- Rendered dynamically -->
+        </div>
+      </div>
+    </section>
+
+    <!-- ============================================== -->
+    <!-- TAB 5: AJUSTES Y COPIA DE SEGURIDAD           -->
+    <!-- ============================================== -->
+    <section id="viewSettings" class="view-section">
+      <div class="card-header" style="margin-bottom: 12px;">
+        <h2 class="card-title">Copia y Ajustes</h2>
+      </div>
+
+      <!-- Summary Stats Card -->
+      <div class="card">
+        <h3 class="card-title" style="font-size: 1rem; margin-bottom: 12px;">📊 Resumen General</h3>
+        <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 12px; text-align: center;">
+          <div style="background: var(--bg-secondary); padding: 12px; border-radius: var(--radius-md);">
+            <div style="font-size: 1.6rem; font-weight: 800; color: var(--accent-emerald-light);" id="statTotalWorkouts">0</div>
+            <div style="font-size: 0.75rem; color: var(--text-muted); text-transform: uppercase;">Entrenamientos</div>
+          </div>
+          <div style="background: var(--bg-secondary); padding: 12px; border-radius: var(--radius-md);">
+            <div style="font-size: 1.6rem; font-weight: 800; color: var(--accent-cyan);" id="statTotalExercises">0</div>
+            <div style="font-size: 0.75rem; color: var(--text-muted); text-transform: uppercase;">Ejercicios Propios</div>
+          </div>
+          <div style="background: var(--bg-secondary); padding: 12px; border-radius: var(--radius-md);">
+            <div style="font-size: 1.6rem; font-weight: 800; color: var(--accent-amber);" id="statTotalSeries">0</div>
+            <div style="font-size: 0.75rem; color: var(--text-muted); text-transform: uppercase;">Series Registradas</div>
+          </div>
+          <div style="background: var(--bg-secondary); padding: 12px; border-radius: var(--radius-md);">
+            <div style="font-size: 1.6rem; font-weight: 800; color: #fff;" id="statTotalVolume">0 kg</div>
+            <div style="font-size: 0.75rem; color: var(--text-muted); text-transform: uppercase;">Volumen Total</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Backup Card -->
+      <div class="card">
+        <h3 class="card-title" style="font-size: 1rem; margin-bottom: 6px;">💾 Respaldo de Datos</h3>
+        <p style="font-size: 0.85rem; color: var(--text-secondary); margin-bottom: 14px;">
+          Descarga un archivo con todos tus ejercicios, variantes y entrenamientos para guardarlo o transferirlo a otro celular.
+        </p>
+        <div style="display: flex; flex-direction: column; gap: 10px;">
+          <button type="button" id="btnExportBackup" class="btn btn-primary btn-lg">
+            📥 Descargar Copia de Seguridad (JSON)
+          </button>
+          
+          <label class="btn btn-secondary btn-lg" style="margin: 0; cursor: pointer;">
+            📤 Restaurar Copia de Seguridad
+            <input type="file" id="inputImportBackup" accept=".json" style="display: none;">
+          </label>
+        </div>
+      </div>
+
+      <!-- APK Info & Instructions -->
+      <div class="card">
+        <h3 class="card-title" style="font-size: 1rem; margin-bottom: 6px;">📱 Información para Empaquetar APK</h3>
+        <p style="font-size: 0.85rem; color: var(--text-secondary); margin-bottom: 10px;">
+          Esta aplicación está diseñada como Progressive Web App (PWA) y es 100% compatible con <strong>Capacitor</strong> para generar el archivo APK de Android.
+        </p>
+        <p style="font-size: 0.82rem; color: var(--text-muted);">
+          Revisa la guía incluida <code>GUIA_EMPAQUETAR_APK.md</code> en la carpeta de este proyecto para el paso a paso.
+        </p>
+      </div>
+    </section>
+
+  </main>
+
+  <!-- ============================================== -->
+  <!-- MODAL: CREAR / EDITAR EJERCICIO PROPIO         -->
+  <!-- ============================================== -->
+  <div class="modal-overlay" id="modalAddExercise">
+    <div class="modal-sheet">
+      <div class="modal-header">
+        <h3 class="modal-title" id="modalAddExerciseTitle">Nuevo Ejercicio</h3>
+        <button type="button" class="btn btn-secondary btn-sm" id="btnCloseAddExerciseModal">✕</button>
+      </div>
+      <div class="modal-body">
+        <form id="formAddExercise">
+          <input type="hidden" id="editExerciseId" value="">
+          
+          <div class="form-group">
+            <label class="form-label">Nombre del Ejercicio *</label>
+            <input type="text" id="inputExerciseName" class="form-control" placeholder="Ej: Press de Banca Plano, Sentadilla libre..." required>
+          </div>
+
+          <div class="form-group">
+            <label class="form-label">Grupo Muscular *</label>
+            <select id="selectExerciseMuscle" class="form-control">
+              <!-- Filled dynamically with MUSCLE_GROUPS -->
+            </select>
+          </div>
+
+          <div class="form-group">
+            <label class="form-label">Observaciones fijas (opcional)</label>
+            <input type="text" id="inputExerciseDefaultNotes" class="form-control" placeholder="Ej: Barra olímpica de 20kg, inclinación 30°...">
+          </div>
+
+          <div style="display: flex; gap: 10px; margin-top: 16px;">
+            <button type="button" class="btn btn-secondary" style="flex: 1;" id="btnCancelAddExercise">Cancelar</button>
+            <button type="submit" class="btn btn-primary" style="flex: 2;">Guardar Ejercicio</button>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+
+  <!-- ============================================== -->
+  <!-- MODAL: SELECCIONAR EJERCICIO PARA ENTRENAR     -->
+  <!-- ============================================== -->
+  <div class="modal-overlay" id="modalSelectExercise">
+    <div class="modal-sheet">
+      <div class="modal-header">
+        <h3 class="modal-title">Añadir Ejercicio</h3>
+        <button type="button" class="btn btn-secondary btn-sm" id="btnCloseSelectExerciseModal">✕</button>
+      </div>
+      <div class="modal-body">
+        <!-- Quick search -->
+        <input type="text" id="inputQuickSearchExercise" class="form-control" placeholder="Buscar en mis ejercicios..." style="margin-bottom: 12px;">
+        
+        <div id="selectExerciseListContainer" style="max-height: 45vh; overflow-y: auto;">
+          <!-- List of selectable user exercises -->
+        </div>
+
+        <div style="margin-top: 16px; border-top: 1px solid var(--border-color); padding-top: 12px; text-align: center;">
+          <button type="button" class="btn btn-outline btn-sm" id="btnQuickCreateExerciseFromModal">
+            ➕ Crear un ejercicio nuevo
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Bottom Navigation Bar -->
+  <nav class="bottom-nav">
+    <button type="button" class="nav-item active" data-tab="viewTrain">
+      <span class="nav-icon">🏋️</span>
+      <span>Entrenar</span>
+    </button>
+    <button type="button" class="nav-item" data-tab="viewExercises">
+      <span class="nav-icon">📋</span>
+      <span>Ejercicios</span>
+    </button>
+    <button type="button" class="nav-item" data-tab="viewHistory">
+      <span class="nav-icon">🔍</span>
+      <span>Historial</span>
+    </button>
+    <button type="button" class="nav-item" data-tab="viewCalc">
+      <span class="nav-icon">🧮</span>
+      <span>1 RM</span>
+    </button>
+    <button type="button" class="nav-item" data-tab="viewSettings">
+      <span class="nav-icon">⚙️</span>
+      <span>Ajustes</span>
+    </button>
+  </nav>
+
+  <!-- Toast Container -->
+  <div class="toast-container" id="toastContainer"></div>
+
+  <!-- Main Controller Script -->
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>
+
+@echo off
+title Cuaderno de Gimnasio - Servidor Local
+echo ========================================================
+echo   Iniciando Cuaderno de Gimnasio (Servidor Local)
+echo ========================================================
+echo.
+echo Abriendo aplicacion en tu navegador...
+start http://localhost:8080
+echo.
+echo Presiona Ctrl+C en esta ventana para detener el servidor cuando termines.
+echo.
+python -m http.server 8080
+pause
+
+{
+  "short_name": "CuadernoGym",
+  "name": "Cuaderno de Gimnasio & 1RM",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "./index.html",
+  "background_color": "#0f172a",
+  "theme_color": "#10b981",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "./"
+}
+
+{
+  "name": "gym-tracker-apk",
+  "version": "1.0.0",
+  "description": "Cuaderno de seguimiento de gimnasio personal, registro de series, variantes y calculadora 1RM",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve .",
+    "cap:sync": "npx cap sync",
+    "cap:open": "npx cap open android"
+  },
+  "keywords": ["gym", "fitness", "workout", "tracker", "apk", "1rm"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@capacitor/android": "^6.0.0",
+    "@capacitor/cli": "^6.0.0",
+    "@capacitor/core": "^6.0.0"
+  }
+}
